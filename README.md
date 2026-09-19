@@ -1,8 +1,10 @@
 # Vahini Study Circle
 
-An independent English study companion using Vahini.org as its only content source.
+An independent English study companion to the Vahini series.
 
-The current collection contains all 15 Vahini works listed on the supplied downloads page, including both Ramakatha Rasavahini parts within one book entry. It includes 51 selected topic summaries, 51 study questions and answers, and a 20-question quiz for every topic (1,020 questions). These are introductory thematic selections, not exhaustive chapter-by-chapter commentary or reproduced books. Each topic links to its source; the complete original books remain at Vahini.org. Original hypothetical practice exercises are explicitly labelled and should not be mistaken for passages or incidents from the source texts.
+Bhagavatha Vahini now follows all 42 chapters of the user-supplied 175-page PDF: fuller two-paragraph summaries, 210 chapter-based questions and answers, and 210 quiz questions (exactly five per chapter). It preserves the chapter order and titles in that edition. Source links point to the appropriate page of the supplied PDF, served unchanged at `dist/assets/bhagavatha-vahini.pdf`. References use PDF page numbers, starting with the cover as page 1.
+
+The other 14 works retain their existing 45 selected topics and 900 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 87 study entries, 255 Q&A, and 1,110 quiz questions. Only Bhagavatha has been revised to complete chapter coverage in this update.
 
 ## Features
 
@@ -24,7 +26,7 @@ The site requires no build process or external JavaScript dependencies. Serve `d
 
 ## Content policy
 
-Use only the Vahini texts on Vahini.org. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
+Use only the Vahini texts and user-supplied books. Bhagavatha material must be grounded exclusively in the supplied Bhagavatha Vahini PDF; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
 ## Image sources
 

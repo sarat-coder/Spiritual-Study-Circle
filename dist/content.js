@@ -2694,1787 +2694,4428 @@ window.VAHINI_BOOKS = [
   },
   {
     "id": "bhagavata-vahini",
-    "title": "Bhagavata Vahini",
+    "title": "Bhagavatha Vahini",
     "hindiTitle": "भागवत वाहिनी",
-    "subtitle": "The Story of God and His Devotees",
-    "description": "Reflect on devotion, divine grace and purposeful living through selected teachings and stories surrounding Parikshit's spiritual inquiry.",
-    "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-    "studyNote": "Original study aids based on selected passages; not quotations or a complete chapter commentary.",
-    "coverage": "Six selected themes from the opening, middle and closing portions.",
+    "subtitle": "Stream of Divine Devotion",
+    "description": "Follow all 42 chapters of Bhagawan Sri Sathya Sai Baba’s Bhagavatha Vahini. Read a chapter summary, explore its questions and answers, and test your understanding with five questions drawn from that chapter.",
+    "sourceUrl": "assets/bhagavatha-vahini.pdf",
+    "pdfUrl": "assets/bhagavatha-vahini.pdf",
+    "studyNote": "Based solely on the supplied Bhagavatha Vahini PDF. These study summaries and questions are paraphrases; consult the linked chapter for the full text.",
+    "coverage": "All 42 chapters in the supplied edition",
     "topics": [
       {
-        "id": "devotion-through-sacred-stories",
-        "title": "Devotion through sacred stories",
-        "chapter": "Chapter 1: The Bhagavata",
-        "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-        "summary": "The opening chapter explains the connection between God, devotees and the stories that bring them together. Listening in good company can awaken interest in spiritual life. Devotion grows through attention, discipline and a sincere desire to recognize the Divine.",
+        "id": "chapter-01",
+        "title": "The Bhagavatha\r",
+        "chapter": "Chapter 1 · The Bhagavatha\r",
+        "chapterNumber": 1,
+        "pdfStartPage": 12,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+        "sourceLabel": "Chapter 1, PDF pages 12–15",
+        "summary": "The opening chapter explains Bhagavatha as the account of God, His devotees, and the relationship between them. The Formless takes form to answer the yearning of devotees and give them fulfilment; protecting righteousness and restraining evil are also benefits of His coming. The comparison with a cow's milk stresses that the calf is its primary beneficiary, although others benefit too. God's presence in different beings is compared to one electric current working through different instruments.\r\n\r\nThe chapter then describes how a taste for spiritual life develops through practice. Repetition of the divine name, meditation, and good company help redirect the senses. Listening to God's glory, especially with earnest seekers and an experienced devotee, cleanses the heart and encourages good action. As harmful tendencies depart, love becomes purer and centres on the Lord. The closing image of a shoreless ocean reminds the reader that an account of God's glory may end, but that glory itself has no limit.",
         "qa": [
           {
-            "q": "How can listening support a spiritual beginner?",
-            "a": "Accounts of devotion can awaken interest and joy, encouraging a learner to seek wholesome company and gradually explore the path toward a deeper experience of God."
+            "q": "What does the name Bhagavatha include?",
+            "a": "Accounts of God and those who experience His grace. The chapter applies Bhagavatha to the experiences of those who contact God and the godly.\r"
+          },
+          {
+            "q": "What is the primary purpose of incarnation emphasised here?",
+            "a": "Fulfilling the yearning of devotees. Protection of the righteous is included, but the chapter especially emphasises the fulfilment and joy of devotees.\r"
+          },
+          {
+            "q": "What does the electric-current comparison illustrate?",
+            "a": "One divine presence works through different beings. Different instruments perform different functions while the current remains one.\r"
+          },
+          {
+            "q": "How is a taste for spiritual disciplines developed?",
+            "a": "Through continued practice and training. The text says the initial absence of taste is no reason to give up; practice develops it.\r"
+          },
+          {
+            "q": "What is compared to a shoreless ocean?",
+            "a": "God's glory. Descriptions have a beginning and end, but divine glory does not."
           }
         ],
         "quiz": [
           {
-            "q": "Which setting supports the listening described here?",
+            "q": "What does the name Bhagavatha include?",
             "options": [
-              "Wholesome spiritual company",
-              "A contest for fame",
-              "Mockery of others",
-              "Deliberate distraction"
+              "Accounts of God and those who experience His grace",
+              "Only rules for royal government",
+              "Only accounts of battles",
+              "Only descriptions of pilgrimages"
             ],
             "correct": 0,
-            "explanation": "The chapter encourages company and conversation that nourish devotion, helping spiritual interest develop through attentive listening and practice.",
+            "explanation": "The chapter applies Bhagavatha to the experiences of those who contact God and the godly.\r",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+            "sourceLabel": "Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "A study gathering keeps drifting into gossip. What would restore its purpose?",
+            "q": "What is the primary purpose of incarnation emphasised here?",
             "options": [
-              "Return to the passage and a thoughtful question",
-              "Compete over who knows more",
-              "End every friendship in the group",
-              "Add more personal rumours"
+              "Establishing a royal dynasty",
+              "Fulfilling the yearning of devotees",
+              "Rewarding physical strength",
+              "Removing the need for devotion"
             ],
-            "correct": 0,
-            "explanation": "Returning to the passage gives the gathering a shared focus without making gossip its main activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
+            "correct": 1,
+            "explanation": "Protection of the righteous is included, but the chapter especially emphasises the fulfilment and joy of devotees.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+            "sourceLabel": "Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "A beginner enjoys a story but has many questions. What should the group offer?",
+            "q": "What does the electric-current comparison illustrate?",
             "options": [
-              "A comparison with advanced members",
-              "A test before further attendance",
-              "Patient explanation and room to ask",
-              "Advice to remain silent"
+              "Each being has an unrelated divine source",
+              "Only one outward activity is acceptable",
+              "One divine presence works through different beings",
+              "God is restricted to human bodies"
             ],
             "correct": 2,
-            "explanation": "Patient explanation allows interest to develop into understanding instead of making uncertainty an obstacle to participation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
+            "explanation": "Different instruments perform different functions while the current remains one.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+            "sourceLabel": "Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "Which listening habit best supports meaningful discussion?",
+            "q": "How is a taste for spiritual disciplines developed?",
             "options": [
-              "Checking messages during the reading",
-              "Interrupting with unrelated stories",
-              "Preparing a rebuttal throughout",
-              "Attending closely before responding"
+              "Through outward clothing alone",
+              "Through abandoning all discipline",
+              "Through worldly conversation alone",
+              "Through continued practice and training"
             ],
             "correct": 3,
-            "explanation": "Close attention makes a response relevant to what was actually shared rather than to an assumption.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
+            "explanation": "The text says the initial absence of taste is no reason to give up; practice develops it.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+            "sourceLabel": "Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "A group reads together every week. What could help the practice remain purposeful?",
+            "q": "What is compared to a shoreless ocean?",
             "options": [
-              "Choose a clear focus for each meeting",
-              "Measure only how long people sit",
-              "Avoid reflecting on the reading",
-              "Add more rules without explanation"
+              "God's glory",
+              "A king's possessions",
+              "The limits of human memory",
+              "The duration of one ceremony"
             ],
             "correct": 0,
-            "explanation": "A clear focus helps shared time support understanding rather than become a routine without attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A participant remembers a moving episode differently from another reader. What is useful?",
-            "options": [
-              "Consult the source together",
-              "Decide by popularity",
-              "Argue from memory alone",
-              "Add details to make it smoother"
-            ],
-            "correct": 0,
-            "explanation": "Returning to the source allows the group to clarify the episode without treating confident memory as proof.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A friend invites you to a discussion that encourages contempt for outsiders. What is a thoughtful response?",
-            "options": [
-              "Assume contempt deepens devotion",
-              "Repeat the insults more politely",
-              "Join in to gain acceptance",
-              "Choose discussion that supports reflection and respect"
-            ],
-            "correct": 3,
-            "explanation": "A constructive setting should deepen reflection without making contempt for other people the basis of belonging.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "Someone reads a story aloud slowly. What response supports shared learning?",
-            "options": [
-              "Compare them with a skilled performer",
-              "Finish every sentence for them",
-              "Complain about their speed",
-              "Listen patiently and allow the meaning to emerge"
-            ],
-            "correct": 3,
-            "explanation": "Patient attention makes room for meaning without reducing the reading to a performance contest.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A study circle wants newcomers to feel welcome. Which practice helps?",
-            "options": [
-              "Praise only experienced readers",
-              "Avoid all questions",
-              "Require prior mastery of every name",
-              "Explain unfamiliar terms as they arise"
-            ],
-            "correct": 3,
-            "explanation": "Explaining unfamiliar terms keeps participation accessible while respecting the subject being studied.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "You feel inspired during a reading. What could help that interest continue?",
-            "options": [
-              "Seek a more dramatic feeling immediately",
-              "Choose a small continuing reading practice",
-              "Wait for someone else to organize everything",
-              "Claim complete understanding"
-            ],
-            "correct": 1,
-            "explanation": "A manageable continuing practice gives temporary inspiration a way to develop into steady attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A discussion becomes a competition over knowledge. What question can refocus it?",
-            "options": [
-              "What can we understand together from this passage?",
-              "Who can speak longest?",
-              "Who has read the most books?",
-              "Whose answer sounds most impressive?"
-            ],
-            "correct": 0,
-            "explanation": "A shared question makes learning cooperative instead of turning participants into rivals for recognition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A member asks a sincere question that sounds simple. What should the facilitator do?",
-            "options": [
-              "Require a more scholarly question",
-              "Address it respectfully",
-              "Treat it as a distraction",
-              "Ask them to return later"
-            ],
-            "correct": 1,
-            "explanation": "A respectful response protects curiosity and may clarify something other listeners also found uncertain.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "Which setting is most conducive to attentive reading?",
-            "options": [
-              "One with agreed space for listening and questions",
-              "One where mockery earns approval",
-              "One that rewards only confident claims",
-              "One organized around constant interruption"
-            ],
-            "correct": 0,
-            "explanation": "Agreed space for listening and questions supports both attention and honest exploration of the text.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "After hearing a story, what should you distinguish before sharing it?",
-            "options": [
-              "How to make yourself central",
-              "Which names can be omitted for effect",
-              "What the source says and what you infer",
-              "Which details will sound most exciting"
-            ],
-            "correct": 2,
-            "explanation": "Distinguishing source content from inference helps others understand what is documented and what is your reflection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A reader dislikes speaking publicly but listens carefully. How can the group include them?",
-            "options": [
-              "Assume they have learned nothing",
-              "Force an immediate speech",
-              "Remove them from discussion",
-              "Offer optional ways to reflect or ask questions"
-            ],
-            "correct": 3,
-            "explanation": "Optional ways to contribute respect different participation styles while keeping opportunities for learning open.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "Which response supports a thoughtful spiritual conversation?",
-            "options": [
-              "Turning every point into an accusation",
-              "Using uncertainty to embarrass someone",
-              "Asking what the passage helps us examine",
-              "Comparing people's spiritual rank"
-            ],
-            "correct": 2,
-            "explanation": "A reflective question directs the conversation toward understanding rather than judgement of the participants.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A group has more material than it can discuss carefully. What should it do?",
-            "options": [
-              "Add another text immediately",
-              "Select a manageable passage",
-              "Skip every participant's questions",
-              "Read faster without attention"
-            ],
-            "correct": 1,
-            "explanation": "A manageable passage allows time for attention, clarification and reflection instead of merely covering more material.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "Why can good company support learning?",
-            "options": [
-              "It makes every opinion correct",
-              "It guarantees instant insight",
-              "It removes the need for personal attention",
-              "It encourages habits of listening and reflection"
-            ],
-            "correct": 3,
-            "explanation": "Supportive company can encourage useful habits while leaving each learner responsible for their own attention.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "You notice an inspiring line being used to shame another reader. What is appropriate?",
-            "options": [
-              "Use another line to shame the speaker",
-              "Redirect toward its meaning and a respectful discussion",
-              "Support the speaker's authority",
-              "Ignore the person's discomfort"
-            ],
-            "correct": 1,
-            "explanation": "A respectful redirection protects the learning purpose without turning the text into a tool of humiliation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
-          },
-          {
-            "q": "A meeting ends with enthusiasm but no clear understanding. What could improve the next one?",
-            "options": [
-              "Add more speakers",
-              "Include a short recap and genuine questions",
-              "Avoid checking comprehension",
-              "Increase the applause"
-            ],
-            "correct": 1,
-            "explanation": "A recap and questions help reveal what participants understood and what still needs explanation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter1.html",
-            "sourceLabel": "Chapter 1: The Bhagavata"
+            "explanation": "Descriptions have a beginning and end, but divine glory does not.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=12",
+            "sourceLabel": "Chapter 1, PDF pages 12–15"
           }
         ]
       },
       {
-        "id": "renunciation-and-good-guidance",
-        "title": "Renunciation and good guidance",
-        "chapter": "Chapter 8: Dhritarashtra Transformed",
-        "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-        "summary": "Dhritarashtra and Gandhari reach the forest with Vidura, who helps them find a place for spiritual discipline. Their days turn toward sacred company and contemplation. Meanwhile, Dharmaraja's concern on discovering their absence shows the affection binding the family.",
+        "id": "chapter-02",
+        "title": "The Birth of a God-loving Person\r",
+        "chapter": "Chapter 2 · The Birth of a God-loving Person\r",
+        "chapterNumber": 2,
+        "pdfStartPage": 16,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+        "sourceLabel": "Chapter 2, PDF pages 16–18",
+        "summary": "Parikshith's story begins before his birth. While he is in Uttara's womb, Aswathama's destructive arrow approaches him. A radiant divine figure carrying a wheel breaks the weapon and saves the child. The vision leaves a lasting impression: the child longs to recognise the one who protected him. His birth brings great relief to the Pandavas, whose royal line had been threatened, and the kingdom celebrates with gifts and public rejoicing.\r\n\r\nYudhishtira asks learned astrologers to examine the prince's future. Their predictions describe a virtuous, loving, and distinguished ruler who will honour his dynasty. Yet Yudhishtira also wants to know how the child's life will end. After further calculation, they say that a sage's curse will lead him to relinquish his kingdom and that a serpent will cause his death. The chapter ends with Yudhishtira's joy turning to grief, leaving the spiritual meaning of that prediction to be explained next.",
         "qa": [
           {
-            "q": "What practical help does Vidura provide?",
-            "a": "He seeks a suitable place for their austerities and offers guidance toward self-realization, supporting the change from royal surroundings to a life of spiritual attention."
+            "q": "Who is Parikshith's mother?",
+            "a": "Uttara. The chapter begins with Parikshith growing in Uttara's womb.\r"
+          },
+          {
+            "q": "Whose weapon threatens the unborn child?",
+            "a": "Aswathama's. Aswathama's arrow is described as approaching the child in the womb.\r"
+          },
+          {
+            "q": "How is the approaching weapon stopped?",
+            "a": "A radiant figure breaks it with a wheel. The divine protector destroys the weapon before it reaches the child.\r"
+          },
+          {
+            "q": "Why does Yudhishtira consult astrologers?",
+            "a": "To learn the prince's future and the dynasty's prospects. He is concerned about the future ruler and the kingdom's good name.\r"
+          },
+          {
+            "q": "What cause of death do the astrologers predict?",
+            "a": "A serpent's bite. The prediction connects a sage's curse with the prince's eventual death by snakebite."
           }
         ],
         "quiz": [
           {
-            "q": "Who accompanies and guides the elders?",
+            "q": "Who is Parikshith's mother?",
+            "options": [
+              "Gandhari",
+              "Droupadi",
+              "Iravathi",
+              "Uttara"
+            ],
+            "correct": 3,
+            "explanation": "The chapter begins with Parikshith growing in Uttara's womb.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 2, PDF pages 16–18"
+          },
+          {
+            "q": "Whose weapon threatens the unborn child?",
+            "options": [
+              "Aswathama's",
+              "Arjuna's",
+              "Bhima's",
+              "Vidura's"
+            ],
+            "correct": 0,
+            "explanation": "Aswathama's arrow is described as approaching the child in the womb.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 2, PDF pages 16–18"
+          },
+          {
+            "q": "How is the approaching weapon stopped?",
+            "options": [
+              "Uttara hides it in the palace",
+              "A radiant figure breaks it with a wheel",
+              "The astrologers withdraw it",
+              "The child shoots another arrow"
+            ],
+            "correct": 1,
+            "explanation": "The divine protector destroys the weapon before it reaches the child.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 2, PDF pages 16–18"
+          },
+          {
+            "q": "Why does Yudhishtira consult astrologers?",
+            "options": [
+              "To choose a battlefield",
+              "To locate hidden gold",
+              "To learn the prince's future and the dynasty's prospects",
+              "To select a pilgrimage route"
+            ],
+            "correct": 2,
+            "explanation": "He is concerned about the future ruler and the kingdom's good name.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 2, PDF pages 16–18"
+          },
+          {
+            "q": "What cause of death do the astrologers predict?",
+            "options": [
+              "A chariot accident",
+              "A forest fire",
+              "Drowning at sea",
+              "A serpent's bite"
+            ],
+            "correct": 3,
+            "explanation": "The prediction connects a sage's curse with the prince's eventual death by snakebite.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 2, PDF pages 16–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "Child Parikshith and the Prophecy\r",
+        "chapter": "Chapter 3 · Child Parikshith and the Prophecy\r",
+        "chapterNumber": 3,
+        "pdfStartPage": 19,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+        "sourceLabel": "Chapter 3, PDF pages 19–21",
+        "summary": "The astrologers explain that the predicted death is not a spiritual catastrophe. On learning of the curse, Parikshith will renounce royal life and turn to God on the bank of the Ganga. Suka will instruct him through the Lord's glory, and devotion will lead him to union with the Lord. Yudhishtira therefore comes to regard the apparent curse as a blessing rather than a disaster.\r\n\r\nThe narrative then returns to the child. He studies the face of everyone who approaches, as though looking for someone already known to him. This searching gives rise to the name Parikshith. At the naming ceremony, his search finds its answer in Krishna, and he seeks the Lord's lap. Vyasa explains that the baby is recognising the protector he saw in the womb. The chapter connects the child's early quest with his future listening to the divine story: both express a deep attraction to the same Lord.",
+        "qa": [
+          {
+            "q": "Who is foretold to instruct Parikshith near the end of his life?",
+            "a": "Sage Suka. The astrologers say Suka will lead him toward self-knowledge through Krishna's glory.\r"
+          },
+          {
+            "q": "Where will Parikshith spend his final days?",
+            "a": "On the bank of the Ganga. The prediction places his final spiritual preparation beside the sacred river.\r"
+          },
+          {
+            "q": "What does the child's name relate to?",
+            "a": "His searching or quest. People describe his searching examination of faces as pariksha.\r"
+          },
+          {
+            "q": "Whom does the child recognise at the ceremony?",
+            "a": "Krishna. His searching gaze settles on the Lord who protected him before birth.\r"
+          },
+          {
+            "q": "Why does Yudhishtira call the predicted curse a boon?",
+            "a": "It will lead Parikshith to liberation through devotion. The astrologers explain the spiritual fulfilment that will follow the curse."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who is foretold to instruct Parikshith near the end of his life?",
+            "options": [
+              "Duryodhana",
+              "Samika's son",
+              "Sage Suka",
+              "Emperor Maruth"
+            ],
+            "correct": 2,
+            "explanation": "The astrologers say Suka will lead him toward self-knowledge through Krishna's glory.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 3, PDF pages 19–21"
+          },
+          {
+            "q": "Where will Parikshith spend his final days?",
+            "options": [
+              "In a royal hunting lodge",
+              "In the Khandava Forest",
+              "In Dwaraka's assembly hall",
+              "On the bank of the Ganga"
+            ],
+            "correct": 3,
+            "explanation": "The prediction places his final spiritual preparation beside the sacred river.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 3, PDF pages 19–21"
+          },
+          {
+            "q": "What does the child's name relate to?",
+            "options": [
+              "His searching or quest",
+              "His skill in archery",
+              "His command of an army",
+              "His possession of wealth"
+            ],
+            "correct": 0,
+            "explanation": "People describe his searching examination of faces as pariksha.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 3, PDF pages 19–21"
+          },
+          {
+            "q": "Whom does the child recognise at the ceremony?",
+            "options": [
+              "Dhritharashtra",
+              "Krishna",
+              "Durvasa",
+              "Takshaka"
+            ],
+            "correct": 1,
+            "explanation": "His searching gaze settles on the Lord who protected him before birth.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 3, PDF pages 19–21"
+          },
+          {
+            "q": "Why does Yudhishtira call the predicted curse a boon?",
+            "options": [
+              "It will prevent him from ever growing old",
+              "It will enlarge his empire",
+              "It will lead Parikshith to liberation through devotion",
+              "It will make every royal act unnecessary"
+            ],
+            "correct": 2,
+            "explanation": "The astrologers explain the spiritual fulfilment that will follow the curse.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 3, PDF pages 19–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "The Penitential Sacrifice\r",
+        "chapter": "Chapter 4 · The Penitential Sacrifice\r",
+        "chapterNumber": 4,
+        "pdfStartPage": 22,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+        "sourceLabel": "Chapter 4, PDF pages 22–25",
+        "summary": "Although the naming ceremony is joyful, Yudhishtira remains troubled by the deaths caused in the war. Before Krishna, Vyasa, and the assembled elders, he asks how he can atone. Krishna explains the duty of a warrior defending righteousness, while Vyasa compares necessary action to a surgeon treating a diseased wound. Their replies address Yudhishtira's particular sorrow over the battle and his responsibility as a ruler.\r\n\r\nTo relieve his continuing anxiety, the discussion turns to the performance of three horse sacrifices. Their expense creates another difficulty: Yudhishtira does not wish to burden people already affected by war. Krishna tells him of gold left behind by recipients at Emperor Maruth's earlier sacrifice. Yudhishtira still asks whether taking it would violate another person's ownership. Krishna explains why this abandoned, ownerless treasure may be recovered by the ruler. The chapter presents the king's conscientiousness alongside his reliance on Krishna's guidance.",
+        "qa": [
+          {
+            "q": "What troubles Yudhishtira after the naming ceremony?",
+            "a": "The deaths caused during the war. He seeks an expiatory act because he feels responsible for the killing of relatives and others.\r"
+          },
+          {
+            "q": "What comparison does Vyasa use to explain necessary action?",
+            "a": "A surgeon treating a diseased wound. Vyasa compares the protection of dharma to surgery needed to save a patient.\r"
+          },
+          {
+            "q": "How many horse sacrifices are proposed?",
+            "a": "Three. The chapter's proposal is for three aswamedha sacrifices.\r"
+          },
+          {
+            "q": "Which earlier ruler's sacrifice is connected with the available gold?",
+            "a": "Maruth. Krishna describes gold that recipients left behind after Maruth's sacrifice.\r"
+          },
+          {
+            "q": "Why does Yudhishtira initially hesitate to use the gold?",
+            "a": "He questions whether it belongs to its original recipients. His concern is rightful ownership, which Krishna then explains."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What troubles Yudhishtira after the naming ceremony?",
+            "options": [
+              "The child's refusal to eat",
+              "The deaths caused during the war",
+              "The absence of musicians",
+              "A shortage of hunting equipment"
+            ],
+            "correct": 1,
+            "explanation": "He seeks an expiatory act because he feels responsible for the killing of relatives and others.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 4, PDF pages 22–25"
+          },
+          {
+            "q": "What comparison does Vyasa use to explain necessary action?",
+            "options": [
+              "A merchant hiding his goods",
+              "A dancer learning a new step",
+              "A surgeon treating a diseased wound",
+              "A bird abandoning its nest"
+            ],
+            "correct": 2,
+            "explanation": "Vyasa compares the protection of dharma to surgery needed to save a patient.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 4, PDF pages 22–25"
+          },
+          {
+            "q": "How many horse sacrifices are proposed?",
+            "options": [
+              "One",
+              "Five",
+              "Seven",
+              "Three"
+            ],
+            "correct": 3,
+            "explanation": "The chapter's proposal is for three aswamedha sacrifices.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 4, PDF pages 22–25"
+          },
+          {
+            "q": "Which earlier ruler's sacrifice is connected with the available gold?",
+            "options": [
+              "Maruth",
+              "Parikshith",
+              "Kamsa",
+              "Nanda"
+            ],
+            "correct": 0,
+            "explanation": "Krishna describes gold that recipients left behind after Maruth's sacrifice.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 4, PDF pages 22–25"
+          },
+          {
+            "q": "Why does Yudhishtira initially hesitate to use the gold?",
+            "options": [
+              "He believes gold cannot be transported",
+              "He questions whether it belongs to its original recipients",
+              "He wants to impose heavier taxes instead",
+              "He refuses all advice from Krishna"
+            ],
+            "correct": 1,
+            "explanation": "His concern is rightful ownership, which Krishna then explains.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 4, PDF pages 22–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Sacrifices and Penance of Elders\r",
+        "chapter": "Chapter 5 · Sacrifices and Penance of Elders\r",
+        "chapterNumber": 5,
+        "pdfStartPage": 26,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+        "sourceLabel": "Chapter 5, PDF pages 26–28",
+        "summary": "Following Krishna's advice, the Pandava brothers and their army recover the abandoned gold. Preparations for the sacrifices begin on the Ganga's bank, and rulers, scholars, priests, and sages gather. The priests decide that the effect of three sacrifices can be obtained by repeating the formulas three times and giving threefold fees. Krishna approves, and Yudhishtira accepts their arrangement. The ceremony concludes with abundant gifts and hospitality, while Krishna's presence is regarded as its greatest blessing.\r\n\r\nAfter remaining with the Pandavas for a time, Krishna returns to Dwaraka with Arjuna. News then arrives that Vidura has come near the capital in the dress of a monk. Yudhishtira joyfully prepares a royal welcome for the elder who had protected and guided the family. The brothers bow before him, and the citizens gather for his darshan. His ascetic life has visibly transformed him, making the reception an expression of reverence for spiritual attainment as well as family affection.",
+        "qa": [
+          {
+            "q": "Where are the sacrificial preparations made?",
+            "a": "On the bank of the Ganga. The ground beside the Ganga is prepared for the ceremonies.\r"
+          },
+          {
+            "q": "How do the priests arrange the three sacrifices?",
+            "a": "By repeating formulas thrice and giving threefold fees. This arrangement is discussed by the priests and approved by Krishna.\r"
+          },
+          {
+            "q": "Who accompanies Krishna back to Dwaraka?",
+            "a": "Arjuna. Krishna leaves after his stay with the Pandavas, taking Arjuna with Him.\r"
+          },
+          {
+            "q": "In what appearance does Vidura return?",
+            "a": "As a barefoot monk with matted hair. His appearance reflects the life of austerity he has undertaken.\r"
+          },
+          {
+            "q": "Why is Yudhishtira especially joyful at Vidura's arrival?",
+            "a": "Vidura had fostered, protected, and guided the Pandavas. Yudhishtira recalls the elder's care and is grateful for the chance to serve him again."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where are the sacrificial preparations made?",
+            "options": [
+              "On the bank of the Ganga",
+              "At the Kaliya pool",
+              "On Govardhana Hill",
+              "In Sandipani's school"
+            ],
+            "correct": 0,
+            "explanation": "The ground beside the Ganga is prepared for the ceremonies.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 5, PDF pages 26–28"
+          },
+          {
+            "q": "How do the priests arrange the three sacrifices?",
+            "options": [
+              "By omitting all mantras",
+              "By repeating formulas thrice and giving threefold fees",
+              "By holding one ritual each year for three years",
+              "By replacing the rites with a hunt"
+            ],
+            "correct": 1,
+            "explanation": "This arrangement is discussed by the priests and approved by Krishna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 5, PDF pages 26–28"
+          },
+          {
+            "q": "Who accompanies Krishna back to Dwaraka?",
+            "options": [
+              "Dhritharashtra",
+              "Sringi",
+              "Arjuna",
+              "Janamejaya"
+            ],
+            "correct": 2,
+            "explanation": "Krishna leaves after his stay with the Pandavas, taking Arjuna with Him.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 5, PDF pages 26–28"
+          },
+          {
+            "q": "In what appearance does Vidura return?",
+            "options": [
+              "As a mounted conqueror",
+              "As a royal charioteer",
+              "As a merchant carrying gold",
+              "As a barefoot monk with matted hair"
+            ],
+            "correct": 3,
+            "explanation": "His appearance reflects the life of austerity he has undertaken.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 5, PDF pages 26–28"
+          },
+          {
+            "q": "Why is Yudhishtira especially joyful at Vidura's arrival?",
+            "options": [
+              "Vidura had fostered, protected, and guided the Pandavas",
+              "Vidura has brought a new army",
+              "Vidura has arranged another dice game",
+              "Vidura has replaced the family priest"
+            ],
+            "correct": 0,
+            "explanation": "Yudhishtira recalls the elder's care and is grateful for the chance to serve him again.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 5, PDF pages 26–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Vidura's Renunciation\r",
+        "chapter": "Chapter 6 · Vidura's Renunciation\r",
+        "chapterNumber": 6,
+        "pdfStartPage": 29,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+        "sourceLabel": "Chapter 6, PDF pages 29–30",
+        "summary": "Kunthi welcomes Vidura with affection and recalls how often he protected her sons. Their conversation turns to suffering, destiny, and the consequences of action. Vidura describes human affairs as governed by cause and effect and by the divine will. When asked about his travels, he speaks of holy places; the family's eagerness to hear about Krishna reveals the centre of their devotion.\r\n\r\nVidura already knows from Uddhava of the end of the Yadavas and Krishna's departure. He refrains from breaking that news during this joyful reunion, knowing that Arjuna will return with it. Later, in the quarters prepared for him, he reflects on Dhritharashtra's continued attachment to comfort despite age and bereavement. He admires Yudhishtira's generosity toward the uncle who had harmed the Pandavas, but feels that his brother must now seek liberation. He therefore decides to visit Dhritharashtra privately and urge him toward renunciation.",
+        "qa": [
+          {
+            "q": "Who welcomes Vidura by recalling his protection of her children?",
+            "a": "Kunthi. Kunthi gratefully remembers his repeated help to the Pandavas.\r"
+          },
+          {
+            "q": "From whom has Vidura learned of Krishna's departure?",
+            "a": "Uddhava. He had received the news from Uddhava while travelling toward Dwaraka.\r"
+          },
+          {
+            "q": "Why does Vidura refrain from immediately telling the family the sad news?",
+            "a": "He does not want to destroy the joy of their reunion. The text describes his concern for their feelings and his expectation that Arjuna will tell them.\r"
+          },
+          {
+            "q": "What quality in Yudhishtira does Vidura admire?",
+            "a": "His generous care for Dhritharashtra. Yudhishtira continues to honour the uncle despite the harm formerly done to the Pandavas.\r"
+          },
+          {
+            "q": "What does Vidura decide to urge upon his brother?",
+            "a": "Renunciation and the pursuit of liberation. He fears that Dhritharashtra is wasting the remaining years in attachment to comfort."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who welcomes Vidura by recalling his protection of her children?",
+            "options": [
+              "Iravathi",
+              "Devaki",
+              "Yasoda",
+              "Kunthi"
+            ],
+            "correct": 3,
+            "explanation": "Kunthi gratefully remembers his repeated help to the Pandavas.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 6, PDF pages 29–30"
+          },
+          {
+            "q": "From whom has Vidura learned of Krishna's departure?",
+            "options": [
+              "Uddhava",
+              "Sringi",
+              "Janamejaya",
+              "Sandipani"
+            ],
+            "correct": 0,
+            "explanation": "He had received the news from Uddhava while travelling toward Dwaraka.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 6, PDF pages 29–30"
+          },
+          {
+            "q": "Why does Vidura refrain from immediately telling the family the sad news?",
+            "options": [
+              "He has never heard anything about Dwaraka",
+              "He does not want to destroy the joy of their reunion",
+              "He believes Krishna is still in the palace",
+              "He wants to prevent Arjuna from returning"
+            ],
+            "correct": 1,
+            "explanation": "The text describes his concern for their feelings and his expectation that Arjuna will tell them.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 6, PDF pages 29–30"
+          },
+          {
+            "q": "What quality in Yudhishtira does Vidura admire?",
+            "options": [
+              "His eagerness for further conquest",
+              "His indifference to relatives",
+              "His generous care for Dhritharashtra",
+              "His desire for palace luxury"
+            ],
+            "correct": 2,
+            "explanation": "Yudhishtira continues to honour the uncle despite the harm formerly done to the Pandavas.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 6, PDF pages 29–30"
+          },
+          {
+            "q": "What does Vidura decide to urge upon his brother?",
+            "options": [
+              "Another gambling contest",
+              "Expansion of the royal treasury",
+              "A return to military command",
+              "Renunciation and the pursuit of liberation"
+            ],
+            "correct": 3,
+            "explanation": "He fears that Dhritharashtra is wasting the remaining years in attachment to comfort.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 6, PDF pages 29–30"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Vidura the Counsellor\r",
+        "chapter": "Chapter 7 · Vidura the Counsellor\r",
+        "chapterNumber": 7,
+        "pdfStartPage": 31,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+        "sourceLabel": "Chapter 7, PDF pages 31–34",
+        "summary": "Vidura finds Dhritharashtra grieving over his sons but still attached to palace life. Gentle instruction proves insufficient, so he speaks sharply to awaken discrimination. He recalls the wrongs done to the Pandavas and questions how his brother can remain content with comfort while death approaches. The narrative explains the sternness as an attempt to lead him toward spiritual freedom, rather than as a desire to deepen his suffering.\r\n\r\nDhritharashtra gradually accepts the truth of the counsel. His remaining concerns are practical: he is blind and aged, and Gandhari has shared his blindness. Vidura offers to guide them himself. Gandhari insists on accompanying her husband, and Vidura supports her resolve. The three leave quietly, without the delay of public farewells, and make their way toward the forest. The chapter marks the movement from defending an accustomed life to actively choosing austerity and remembrance of God.",
+        "qa": [
+          {
+            "q": "Why does Vidura adopt stern language?",
+            "a": "To awaken renunciation when gentle counsel has failed. The narrator explains that his purpose is his brother's spiritual welfare.\r"
+          },
+          {
+            "q": "What does Vidura compare to a cobra waiting to strike?",
+            "a": "Time. The comparison emphasises the inevitability of death.\r"
+          },
+          {
+            "q": "What obstacle does Dhritharashtra mention about forest life?",
+            "a": "His blindness and need for a guide. He accepts the advice but asks how he and Gandhari can travel in their condition.\r"
+          },
+          {
+            "q": "Who offers to guide the couple?",
+            "a": "Vidura. Vidura personally undertakes to lead them from the palace.\r"
+          },
+          {
+            "q": "What does Gandhari ask to do?",
+            "a": "Accompany her husband. Gandhari insists on sharing the journey and its hardships."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Vidura adopt stern language?",
+            "options": [
+              "To gain possession of the throne",
+              "To persuade the king to wage war",
+              "To awaken renunciation when gentle counsel has failed",
+              "To obtain gifts from the palace"
+            ],
+            "correct": 2,
+            "explanation": "The narrator explains that his purpose is his brother's spiritual welfare.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+            "sourceLabel": "Chapter 7, PDF pages 31–34"
+          },
+          {
+            "q": "What does Vidura compare to a cobra waiting to strike?",
+            "options": [
+              "Charity",
+              "Friendship",
+              "Pilgrimage",
+              "Time"
+            ],
+            "correct": 3,
+            "explanation": "The comparison emphasises the inevitability of death.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+            "sourceLabel": "Chapter 7, PDF pages 31–34"
+          },
+          {
+            "q": "What obstacle does Dhritharashtra mention about forest life?",
+            "options": [
+              "His blindness and need for a guide",
+              "His wish to build another palace",
+              "His lack of a royal banner",
+              "His refusal to leave his army"
+            ],
+            "correct": 0,
+            "explanation": "He accepts the advice but asks how he and Gandhari can travel in their condition.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+            "sourceLabel": "Chapter 7, PDF pages 31–34"
+          },
+          {
+            "q": "Who offers to guide the couple?",
+            "options": [
+              "Bhima",
+              "Vidura",
+              "Duryodhana",
+              "Sanjaya"
+            ],
+            "correct": 1,
+            "explanation": "Vidura personally undertakes to lead them from the palace.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+            "sourceLabel": "Chapter 7, PDF pages 31–34"
+          },
+          {
+            "q": "What does Gandhari ask to do?",
+            "options": [
+              "Remain as ruler in the palace",
+              "Return to a life of luxury",
+              "Accompany her husband",
+              "Prevent Vidura from leaving"
+            ],
+            "correct": 2,
+            "explanation": "Gandhari insists on sharing the journey and its hardships.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=31",
+            "sourceLabel": "Chapter 7, PDF pages 31–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Dhritharashtra Transformed\r",
+        "chapter": "Chapter 8 · Dhritharashtra Transformed\r",
+        "chapterNumber": 8,
+        "pdfStartPage": 35,
+        "pdfEndPage": 36,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+        "sourceLabel": "Chapter 8, PDF pages 35–36",
+        "summary": "Dhritharashtra and Gandhari reach the forest with Vidura, who helps them find a place for austerity and instructs them in the pursuit of self-realisation. In the palace, Yudhishtira follows his usual morning routine and goes to honour his uncle, only to find the rooms empty and the beds unused. Vidura too is missing. Yudhishtira fears that some failure in his own service has driven the elders away.\r\n\r\nSanjaya knows nothing of their departure, and the family's distress grows. Search parties examine roads, wells, and waterways without finding them. The narrative then returns to the forest, where the couple are peacefully absorbed in divine contemplation. A forest fire consumes their bodies while they remain immersed in that state. Vidura continues to Prabhasa-kshetra, the sacred place he has chosen for his own departure. The chapter contrasts the family's anxious uncertainty with the elders' inward spiritual fulfilment.",
+        "qa": [
+          {
+            "q": "Who guides the couple's spiritual practice in the forest?",
+            "a": "Vidura. Vidura finds a suitable place and advises them about self-realisation.\r"
+          },
+          {
+            "q": "What first makes Yudhishtira suspect that the elders have left?",
+            "a": "Empty rooms and unused beds. The undisturbed rooms suggest that they did not sleep there.\r"
+          },
+          {
+            "q": "Does Sanjaya know where they have gone?",
+            "a": "No, their departure is unknown to him. Sanjaya is distressed that he was neither consulted nor informed.\r"
+          },
+          {
+            "q": "In what state are the couple when the forest fire reaches them?",
+            "a": "Absorbed in contemplation of God. Their minds are controlled and immersed in divine joy.\r"
+          },
+          {
+            "q": "Where does Vidura go before casting off his body?",
+            "a": "Prabhasa-kshetra. He continues to the holy place he has chosen for his final departure."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who guides the couple's spiritual practice in the forest?",
+            "options": [
+              "Sanjaya",
+              "Vidura",
+              "Arjuna",
+              "Sringi"
+            ],
+            "correct": 1,
+            "explanation": "Vidura finds a suitable place and advises them about self-realisation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 8, PDF pages 35–36"
+          },
+          {
+            "q": "What first makes Yudhishtira suspect that the elders have left?",
+            "options": [
+              "A message from Duryodhana",
+              "A missing royal crown",
+              "Empty rooms and unused beds",
+              "An announcement by the boatman"
+            ],
+            "correct": 2,
+            "explanation": "The undisturbed rooms suggest that they did not sleep there.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 8, PDF pages 35–36"
+          },
+          {
+            "q": "Does Sanjaya know where they have gone?",
+            "options": [
+              "Yes, he arranged their entire journey",
+              "Yes, they sent him a written itinerary",
+              "Yes, he is waiting for them at the river",
+              "No, their departure is unknown to him"
+            ],
+            "correct": 3,
+            "explanation": "Sanjaya is distressed that he was neither consulted nor informed.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 8, PDF pages 35–36"
+          },
+          {
+            "q": "In what state are the couple when the forest fire reaches them?",
+            "options": [
+              "Absorbed in contemplation of God",
+              "Preparing for a royal procession",
+              "Arguing over the kingdom",
+              "Searching for lost treasure"
+            ],
+            "correct": 0,
+            "explanation": "Their minds are controlled and immersed in divine joy.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 8, PDF pages 35–36"
+          },
+          {
+            "q": "Where does Vidura go before casting off his body?",
+            "options": [
+              "Mathura",
+              "Prabhasa-kshetra",
+              "Indraprastha",
+              "The Khandava Forest"
+            ],
+            "correct": 1,
+            "explanation": "He continues to the holy place he has chosen for his final departure.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 8, PDF pages 35–36"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "The Ascent of Krishna\r",
+        "chapter": "Chapter 9 · The Ascent of Krishna\r",
+        "chapterNumber": 9,
+        "pdfStartPage": 37,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+        "sourceLabel": "Chapter 9, PDF pages 37–39",
+        "summary": "Yudhishtira notices disturbing changes around him: falsehood, injustice, cruelty, and conduct that he regards as a decline from the kingdom's earlier order. His brothers see his increasing anxiety and ask how they can help. He describes both public wrongs and ominous events that have deepened his apprehension. Within the narrative, these observations suggest the approach of the Kali age and the loss of a sustaining divine presence.\r\n\r\nThe delay in news from Arjuna adds to his concern. His brothers try to explain that fear can give shape to troubling imaginings and urge him to wait for clearer information. Yet Yudhishtira feels that the signs point to something much greater than an ordinary difficulty. He fears that Krishna has left the world and pictures the earth as bereft of its guardian. The chapter builds toward the news Arjuna will bring, showing how profoundly the Pandavas' sense of security depends on Krishna.",
+        "qa": [
+          {
+            "q": "What change especially distresses Yudhishtira?",
+            "a": "The spread of falsehood and injustice. He describes moral disorder throughout the kingdom.\r"
+          },
+          {
+            "q": "Which age does he suspect is approaching?",
+            "a": "Kali. He connects the disturbing changes with the onset of Kali.\r"
+          },
+          {
+            "q": "Whose silence and delayed news concern him?",
+            "a": "Arjuna's. Arjuna has been away, and the lack of news increases the king's uneasiness.\r"
+          },
+          {
+            "q": "What caution do his brothers offer?",
+            "a": "Anxiety may turn imaginings into apparent facts. They urge waiting for information rather than yielding to fear.\r"
+          },
+          {
+            "q": "What great loss does Yudhishtira fear?",
+            "a": "Krishna's departure from the world. He feels that the world has lost its divine guardian."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What change especially distresses Yudhishtira?",
+            "options": [
+              "The spread of falsehood and injustice",
+              "An increase in temple worship",
+              "The return of Vidura with gifts",
+              "The completion of a sacrifice"
+            ],
+            "correct": 0,
+            "explanation": "He describes moral disorder throughout the kingdom.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 9, PDF pages 37–39"
+          },
+          {
+            "q": "Which age does he suspect is approaching?",
+            "options": [
+              "Krita",
+              "Kali",
+              "Treta",
+              "A renewed Dwapara"
+            ],
+            "correct": 1,
+            "explanation": "He connects the disturbing changes with the onset of Kali.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 9, PDF pages 37–39"
+          },
+          {
+            "q": "Whose silence and delayed news concern him?",
+            "options": [
+              "Sringi's",
+              "Sandipani's",
+              "Arjuna's",
+              "Nanda's"
+            ],
+            "correct": 2,
+            "explanation": "Arjuna has been away, and the lack of news increases the king's uneasiness.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 9, PDF pages 37–39"
+          },
+          {
+            "q": "What caution do his brothers offer?",
+            "options": [
+              "Every fear must immediately be treated as certainty",
+              "The kingdom should cease all administration",
+              "Krishna's guidance has never mattered",
+              "Anxiety may turn imaginings into apparent facts"
+            ],
+            "correct": 3,
+            "explanation": "They urge waiting for information rather than yielding to fear.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 9, PDF pages 37–39"
+          },
+          {
+            "q": "What great loss does Yudhishtira fear?",
+            "options": [
+              "Krishna's departure from the world",
+              "The loss of Maruth's gold",
+              "The destruction of a sacrificial horse",
+              "The disappearance of the royal library"
+            ],
+            "correct": 0,
+            "explanation": "He feels that the world has lost its divine guardian.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 9, PDF pages 37–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "The Krishna Mystery\r",
+        "chapter": "Chapter 10 · The Krishna Mystery\r",
+        "chapterNumber": 10,
+        "pdfStartPage": 40,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+        "sourceLabel": "Chapter 10, PDF pages 40–44",
+        "summary": "Arjuna returns in deep sorrow and falls at Yudhishtira's feet. His silence and tears confirm the family's fears before he can speak. When pressed for Krishna's message, he announces that the Lord is no longer with them in bodily form. The brothers' grief widens as the conversation turns to the destruction of the Yadavas. The chapter treats these events within the mystery of the Lord's own drama, which ordinary human judgement cannot fully measure.\r\n\r\nArjuna then reflects on the intimacy and grace the Pandavas had received. Krishna had guided even small undertakings, carried their burdens, and loved them with extraordinary tenderness. Arjuna regrets that they so often sought outward success without understanding the deeper treasure available to them. What they once called their own achievement now appears inseparable from Krishna's support. This recognition prepares the account of Arjuna's helplessness on his return journey and shifts attention from personal pride to dependence on divine grace.",
+        "qa": [
+          {
+            "q": "How does Arjuna first appear on returning?",
+            "a": "Despondent and overcome with tears. His grief is evident before he can answer his brothers.\r"
+          },
+          {
+            "q": "What news does Arjuna give about Krishna?",
+            "a": "Krishna has left His bodily presence in the world. His announcement brings the Pandavas' feared loss into words.\r"
+          },
+          {
+            "q": "Which clan's destruction is discussed?",
+            "a": "The Yadavas. Arjuna describes the catastrophe that overtook the Yadavas.\r"
+          },
+          {
+            "q": "What does Arjuna regret about their former requests to Krishna?",
+            "a": "They often sought outward victories and benefits. He contrasts temporal gains with the deeper treasure they might have sought.\r"
+          },
+          {
+            "q": "To what does Arjuna now attribute the Pandavas' achievements?",
+            "a": "Krishna's grace and sustaining love. He recognises that their strength was not a possession independent of the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How does Arjuna first appear on returning?",
+            "options": [
+              "Jubilant after a new conquest",
+              "Angry with a visiting priest",
+              "Eager to organise a festival",
+              "Despondent and overcome with tears"
+            ],
+            "correct": 3,
+            "explanation": "His grief is evident before he can answer his brothers.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "What news does Arjuna give about Krishna?",
+            "options": [
+              "Krishna has left His bodily presence in the world",
+              "Krishna is preparing a horse sacrifice",
+              "Krishna has become emperor of Hasthinapura",
+              "Krishna has gone hunting with Parikshith"
+            ],
+            "correct": 0,
+            "explanation": "His announcement brings the Pandavas' feared loss into words.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "Which clan's destruction is discussed?",
+            "options": [
+              "The Virata family alone",
+              "The Yadavas",
+              "Sandipani's students",
+              "The forest ascetics"
+            ],
+            "correct": 1,
+            "explanation": "Arjuna describes the catastrophe that overtook the Yadavas.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "What does Arjuna regret about their former requests to Krishna?",
+            "options": [
+              "They asked to hear too much spiritual teaching",
+              "They refused every kind of help",
+              "They often sought outward victories and benefits",
+              "They never met Him personally"
+            ],
+            "correct": 2,
+            "explanation": "He contrasts temporal gains with the deeper treasure they might have sought.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "To what does Arjuna now attribute the Pandavas' achievements?",
+            "options": [
+              "Wealth alone",
+              "Their independence from God",
+              "The favour of Duryodhana",
+              "Krishna's grace and sustaining love"
+            ],
+            "correct": 3,
+            "explanation": "He recognises that their strength was not a possession independent of the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "The Pandavas' Grief\r",
+        "chapter": "Chapter 11 · The Pandavas' Grief\r",
+        "chapterNumber": 11,
+        "pdfStartPage": 45,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+        "sourceLabel": "Chapter 11, PDF pages 45–47",
+        "summary": "Arjuna produces Krishna's final written instruction, delivered to him by Daruka. The letter says that Krishna's mission is complete and that Dwaraka will be submerged in seven days, except for His residence. Arjuna is charged with taking the surviving women, children, and elders to Indraprastha and protecting them. Obedience to that command gives him a task to fulfil despite his overwhelming grief.\r\n\r\nDuring the journey, a band attacks the party. Arjuna discovers that the abilities on which he had relied no longer respond: his weapon knowledge fails him, he struggles with his bow, and his arrows are exhausted. He cannot prevent the seizure of those entrusted to him. The account intensifies his recognition that his former prowess depended on Krishna. His brothers share the anguish of separation and helplessness. The chapter is a narrative of bereavement and lost confidence, continuing the previous chapter's reflection on the source of human strength.",
+        "qa": [
+          {
+            "q": "Who gives Arjuna Krishna's written message?",
+            "a": "Daruka. Krishna's charioteer delivers the Lord's final instruction.\r"
+          },
+          {
+            "q": "What does Krishna say will happen to Dwaraka?",
+            "a": "It will be submerged in seven days. The letter warns that the sea will engulf it, except for Krishna's residence.\r"
+          },
+          {
+            "q": "Where must Arjuna take the survivors?",
+            "a": "Indraprastha. The message entrusts their removal and care at Indraprastha to him.\r"
+          },
+          {
+            "q": "What fails Arjuna during the attack?",
+            "a": "His remembered weapon skills and supplies of arrows. He describes being unable to use the powers that had formerly sustained him in battle.\r"
+          },
+          {
+            "q": "Why is Arjuna doubly distressed?",
+            "a": "He grieves for Krishna and for failing to protect the entrusted people. Separation from Krishna is compounded by the failure of his assigned duty."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who gives Arjuna Krishna's written message?",
+            "options": [
+              "Samika",
+              "Nanda",
+              "Daruka",
+              "Vidura"
+            ],
+            "correct": 2,
+            "explanation": "Krishna's charioteer delivers the Lord's final instruction.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What does Krishna say will happen to Dwaraka?",
+            "options": [
+              "It will host three horse sacrifices",
+              "It will become Parikshith's capital",
+              "It will be rebuilt by Maya immediately",
+              "It will be submerged in seven days"
+            ],
+            "correct": 3,
+            "explanation": "The letter warns that the sea will engulf it, except for Krishna's residence.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "Where must Arjuna take the survivors?",
+            "options": [
+              "Indraprastha",
+              "Gandhamadana",
+              "Prabhasa-kshetra",
+              "The Kaliya pool"
+            ],
+            "correct": 0,
+            "explanation": "The message entrusts their removal and care at Indraprastha to him.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What fails Arjuna during the attack?",
+            "options": [
+              "His willingness to obey Krishna",
+              "His remembered weapon skills and supplies of arrows",
+              "His knowledge of the survivors' names",
+              "His ability to recognise his brothers"
+            ],
+            "correct": 1,
+            "explanation": "He describes being unable to use the powers that had formerly sustained him in battle.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "Why is Arjuna doubly distressed?",
+            "options": [
+              "He has lost a crown and a horse",
+              "He has missed two festivals",
+              "He grieves for Krishna and for failing to protect the entrusted people",
+              "He cannot choose between two kingdoms"
+            ],
+            "correct": 2,
+            "explanation": "Separation from Krishna is compounded by the failure of his assigned duty.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "The Kali Age Dawns\r",
+        "chapter": "Chapter 12 · The Kali Age Dawns\r",
+        "chapterNumber": 12,
+        "pdfStartPage": 48,
+        "pdfEndPage": 50,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+        "sourceLabel": "Chapter 12, PDF pages 48–50",
+        "summary": "The brothers seek to understand their loss by remembering Krishna's description of His relationship with them. He is the heart of their shared life, and without that heart their strength has no independent basis. Krishna's departure is identified with the close of Dwapara and the beginning of Kali. They begin to turn from lamentation toward considering the path that now lies before them.\r\n\r\nThey must also tell Kunthi and the women of the household. Kunthi has eagerly awaited Arjuna's return and pours out questions about Krishna and the people of Dwaraka. At first she interprets Arjuna's altered appearance as the weariness of travel. His tears make her increasingly anxious, until Yudhishtira tells her that Krishna has departed. Calling upon her beloved Lord, she immediately leaves her body. The chapter presents the depth of her attachment to Krishna and prepares the family's next decisions in the midst of profound sorrow.",
+        "qa": [
+          {
+            "q": "What image describes Krishna's place in the Pandavas' life?",
+            "a": "The heart that sustains the limbs. The remembered comparison presents Krishna as their inward source of life and action.\r"
+          },
+          {
+            "q": "Which event marks the opening of the Kali age in this chapter?",
+            "a": "Krishna's departure. The departure closes Dwapara and opens Kali in the narrative.\r"
+          },
+          {
+            "q": "Whose return has Kunthi been awaiting?",
+            "a": "Arjuna's. She wants to hear news of Krishna from Arjuna.\r"
+          },
+          {
+            "q": "How does Kunthi initially explain Arjuna's appearance?",
+            "a": "As the result of a tiring journey. She attributes his condition to the road, dust, and sun before understanding his grief.\r"
+          },
+          {
+            "q": "What happens when Kunthi hears that Krishna has departed?",
+            "a": "She calls upon Krishna and leaves her body. Her response is described as immediate and wholly centred on the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What image describes Krishna's place in the Pandavas' life?",
+            "options": [
+              "A distant spectator",
+              "The heart that sustains the limbs",
+              "An ornamental banner",
+              "A visitor with no connection to them"
+            ],
+            "correct": 1,
+            "explanation": "The remembered comparison presents Krishna as their inward source of life and action.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–50"
+          },
+          {
+            "q": "Which event marks the opening of the Kali age in this chapter?",
+            "options": [
+              "Parikshith's marriage",
+              "Vidura's birth",
+              "Krishna's departure",
+              "The first horse sacrifice"
+            ],
+            "correct": 2,
+            "explanation": "The departure closes Dwapara and opens Kali in the narrative.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–50"
+          },
+          {
+            "q": "Whose return has Kunthi been awaiting?",
+            "options": [
+              "Takshaka's",
+              "Durvasa's",
+              "Kamsa's",
+              "Arjuna's"
+            ],
+            "correct": 3,
+            "explanation": "She wants to hear news of Krishna from Arjuna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–50"
+          },
+          {
+            "q": "How does Kunthi initially explain Arjuna's appearance?",
+            "options": [
+              "As the result of a tiring journey",
+              "As a disguise for a ceremony",
+              "As the effect of a new royal office",
+              "As a sign that he has won a race"
+            ],
+            "correct": 0,
+            "explanation": "She attributes his condition to the road, dust, and sun before understanding his grief.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–50"
+          },
+          {
+            "q": "What happens when Kunthi hears that Krishna has departed?",
+            "options": [
+              "She orders another sacrifice",
+              "She calls upon Krishna and leaves her body",
+              "She sends Arjuna back to Dwaraka",
+              "She begins a journey to Mathura"
+            ],
+            "correct": 1,
+            "explanation": "Her response is described as immediate and wholly centred on the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–50"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "The Coronation of Parikshith\r",
+        "chapter": "Chapter 13 · The Coronation of Parikshith\r",
+        "chapterNumber": 13,
+        "pdfStartPage": 51,
+        "pdfEndPage": 53,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+        "sourceLabel": "Chapter 13, PDF pages 51–53",
+        "summary": "Kunthi's passing brings renewed grief to the palace and the city. Yudhishtira steadies others and attends to what must be done. When his composure surprises the ministers, he explains that he regards her departure in remembrance of Krishna as a blessed fulfilment. His outward calm therefore arises from a spiritual understanding of her end, not from lack of affection.\r\n\r\nAfter the funeral, the succession is arranged. Yudhishtira places the crown on Parikshith's head, but the ceremony takes place amid tears rather than untroubled celebration. The young prince obeys his elders while feeling the weight of the responsibility being given to him. He pleads that they should not leave him alone and asks to accompany them instead. The chapter places royal duty and personal sorrow side by side: the kingdom needs a ruler even as the family prepares to relinquish its former life.",
+        "qa": [
+          {
+            "q": "Whose passing is mourned at the start of the chapter?",
+            "a": "Kunthi's. The chapter continues directly from Kunthi's death on hearing of Krishna's departure.\r"
+          },
+          {
+            "q": "Why does Yudhishtira regard Kunthi as fortunate?",
+            "a": "She left in loving remembrance of Krishna. He interprets her immediate turning to Krishna as spiritual fulfilment.\r"
+          },
+          {
+            "q": "Who places the crown on Parikshith?",
+            "a": "Yudhishtira. Dharmaraja personally places the diadem on the young successor.\r"
+          },
+          {
+            "q": "What is the prevailing atmosphere at the coronation?",
+            "a": "Sorrow and tears. The ceremony proceeds amid the grief of the family and spectators.\r"
+          },
+          {
+            "q": "What does Parikshith plead with his elders?",
+            "a": "That they should not leave him alone. He feels unequal to the burden and wishes to remain with them."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Whose passing is mourned at the start of the chapter?",
+            "options": [
+              "Kunthi's",
+              "Iravathi's",
+              "Samika's",
+              "Sandipani's"
+            ],
+            "correct": 0,
+            "explanation": "The chapter continues directly from Kunthi's death on hearing of Krishna's departure.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 13, PDF pages 51–53"
+          },
+          {
+            "q": "Why does Yudhishtira regard Kunthi as fortunate?",
+            "options": [
+              "She acquired a larger kingdom",
+              "She left in loving remembrance of Krishna",
+              "She avoided meeting Arjuna",
+              "She completed another military campaign"
+            ],
+            "correct": 1,
+            "explanation": "He interprets her immediate turning to Krishna as spiritual fulfilment.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 13, PDF pages 51–53"
+          },
+          {
+            "q": "Who places the crown on Parikshith?",
+            "options": [
+              "Duryodhana",
+              "Suka",
+              "Yudhishtira",
+              "Vidura"
+            ],
+            "correct": 2,
+            "explanation": "Dharmaraja personally places the diadem on the young successor.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 13, PDF pages 51–53"
+          },
+          {
+            "q": "What is the prevailing atmosphere at the coronation?",
+            "options": [
+              "Unmixed festivity",
+              "Indifference",
+              "Hostility toward the prince",
+              "Sorrow and tears"
+            ],
+            "correct": 3,
+            "explanation": "The ceremony proceeds amid the grief of the family and spectators.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 13, PDF pages 51–53"
+          },
+          {
+            "q": "What does Parikshith plead with his elders?",
+            "options": [
+              "That they should not leave him alone",
+              "That they should begin another war",
+              "That they should cancel all temple worship",
+              "That they should send away the ministers"
+            ],
+            "correct": 0,
+            "explanation": "He feels unequal to the burden and wishes to remain with them.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 13, PDF pages 51–53"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "The Exit of the Pandavas\r",
+        "chapter": "Chapter 14 · The Exit of the Pandavas\r",
+        "chapterNumber": 14,
+        "pdfStartPage": 54,
+        "pdfEndPage": 56,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+        "sourceLabel": "Chapter 14, PDF pages 54–56",
+        "summary": "Parikshith continues pleading to accompany his elders rather than remain as ruler. Yudhishtira reminds him of the courage and truthfulness of his lineage and tells him to rely on the guidance of the learned elders. Arjuna consoles him by recalling that the Pandavas too lost their father and faced hardship. The divine protection that sustained them, he assures the boy, will also guide him.\r\n\r\nThe transfer of responsibility is completed, and the Pandavas set out on their final journey with Droupadi. The citizens' grief shows the affection between the rulers and their people, but cannot turn them back. The concluding account describes their solemn northward journey, with their thoughts fixed on Krishna, and their departure from earthly life. The chapter centres on the painful but deliberate separation between the younger ruler's duty to govern and the elders' resolve to surrender their remaining life to the Lord.",
+        "qa": [
+          {
+            "q": "What does Parikshith ask to do?",
+            "a": "Accompany his elders into the forest. He would rather serve his elders than remain behind with the empire.\r"
+          },
+          {
+            "q": "Whose advice is he told to follow while learning to govern?",
+            "a": "The learned elders and ministers. The elders are to guide and support him until he can resolve affairs himself.\r"
+          },
+          {
+            "q": "What experience does Arjuna recall to encourage him?",
+            "a": "The Pandavas also lost their father and overcame hardships. Arjuna uses their own early difficulties to instil courage.\r"
+          },
+          {
+            "q": "Who accompanies the Pandavas on the final journey?",
+            "a": "Droupadi. Droupadi sets out with the brothers.\r"
+          },
+          {
+            "q": "In which direction does their final journey proceed?",
+            "a": "North. The closing account specifies their continuing northward journey."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Parikshith ask to do?",
+            "options": [
+              "Lead an invasion of Dwaraka",
+              "Replace the court priests",
+              "Organise a new dice match",
+              "Accompany his elders into the forest"
+            ],
+            "correct": 3,
+            "explanation": "He would rather serve his elders than remain behind with the empire.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+            "sourceLabel": "Chapter 14, PDF pages 54–56"
+          },
+          {
+            "q": "Whose advice is he told to follow while learning to govern?",
+            "options": [
+              "The learned elders and ministers",
+              "The defeated Kaurava leaders",
+              "The hunters alone",
+              "Foreign merchants"
+            ],
+            "correct": 0,
+            "explanation": "The elders are to guide and support him until he can resolve affairs himself.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+            "sourceLabel": "Chapter 14, PDF pages 54–56"
+          },
+          {
+            "q": "What experience does Arjuna recall to encourage him?",
+            "options": [
+              "The Pandavas never experienced sorrow",
+              "The Pandavas also lost their father and overcame hardships",
+              "The Pandavas ruled without help from anyone",
+              "The Pandavas were never children"
+            ],
+            "correct": 1,
+            "explanation": "Arjuna uses their own early difficulties to instil courage.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+            "sourceLabel": "Chapter 14, PDF pages 54–56"
+          },
+          {
+            "q": "Who accompanies the Pandavas on the final journey?",
+            "options": [
+              "Iravathi",
+              "Sringi",
+              "Droupadi",
+              "Sandipani"
+            ],
+            "correct": 2,
+            "explanation": "Droupadi sets out with the brothers.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+            "sourceLabel": "Chapter 14, PDF pages 54–56"
+          },
+          {
+            "q": "In which direction does their final journey proceed?",
+            "options": [
+              "South",
+              "West toward the sea",
+              "East toward Mathura",
+              "North"
+            ],
+            "correct": 3,
+            "explanation": "The closing account specifies their continuing northward journey.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=54",
+            "sourceLabel": "Chapter 14, PDF pages 54–56"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "The Reign of Emperor Parikshith\r",
+        "chapter": "Chapter 15 · The Reign of Emperor Parikshith\r",
+        "chapterNumber": 15,
+        "pdfStartPage": 57,
+        "pdfEndPage": 59,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+        "sourceLabel": "Chapter 15, PDF pages 57–59",
+        "summary": "Parikshith rules with care for dharma, and the narrative describes a prosperous kingdom where timely rain, abundant crops, and public security accompany righteous administration. At the request of his ministers and spiritual guides, he marries Iravathi. She shares his concern for the people, listens to women of different social positions, consoles those in distress, and encourages good character by both instruction and example.\r\n\r\nThe birth of their son Janamejaya brings public rejoicing. The king supports worship, sacred rites, and harmony among spiritual communities. Remembering the Pandavas and Krishna remains an important part of his life. His response to Kali is preventive: he does not wish to wait until harmful tendencies have already become crimes. He believes a ruler's conduct influences the people and identifies weak leadership, loss of self-reliance, and decline in the earning of grace as conditions that allow wickedness to flourish. The chapter therefore presents his kingship as a responsibility for the moral as well as material welfare of the realm.",
+        "qa": [
+          {
+            "q": "Whom does Parikshith marry?",
+            "a": "Iravathi. The marriage is arranged with Iravathi of the Virata family.\r"
+          },
+          {
+            "q": "How does Iravathi respond to people in distress?",
+            "a": "With sympathy, encouragement, and consolation. Her compassion and accessibility are prominent features of the account.\r"
+          },
+          {
+            "q": "What does Parikshith promote in temples and homes?",
+            "a": "Worship of God under many names and forms. The text describes his encouragement of faith in God and love of people.\r"
+          },
+          {
+            "q": "Does Parikshith wish to wait for wickedness to become crime?",
+            "a": "No, he favours preventive vigilance. He disagrees with waiting and seeks to give the people a good lead.\r"
+          },
+          {
+            "q": "What does the proverb about ruler and ruled emphasise?",
+            "a": "The ruler's example influences the people. Parikshith cites the proverb when explaining his responsibility to oppose Kali."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Whom does Parikshith marry?",
+            "options": [
+              "Devaki",
+              "Droupadi",
+              "Iravathi",
+              "Satha-rupa"
+            ],
+            "correct": 2,
+            "explanation": "The marriage is arranged with Iravathi of the Virata family.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+            "sourceLabel": "Chapter 15, PDF pages 57–59"
+          },
+          {
+            "q": "How does Iravathi respond to people in distress?",
+            "options": [
+              "By refusing them access",
+              "By leaving all concern to soldiers",
+              "By demanding ceremonial gifts",
+              "With sympathy, encouragement, and consolation"
+            ],
+            "correct": 3,
+            "explanation": "Her compassion and accessibility are prominent features of the account.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+            "sourceLabel": "Chapter 15, PDF pages 57–59"
+          },
+          {
+            "q": "What does Parikshith promote in temples and homes?",
+            "options": [
+              "Worship of God under many names and forms",
+              "The ending of all religious observance",
+              "Worship of himself alone",
+              "Competition between neighbouring families"
+            ],
+            "correct": 0,
+            "explanation": "The text describes his encouragement of faith in God and love of people.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+            "sourceLabel": "Chapter 15, PDF pages 57–59"
+          },
+          {
+            "q": "Does Parikshith wish to wait for wickedness to become crime?",
+            "options": [
+              "Yes, he rejects every precaution",
+              "No, he favours preventive vigilance",
+              "Yes, he considers it outside a ruler's duty",
+              "No, because he believes Kali has already vanished forever"
+            ],
+            "correct": 1,
+            "explanation": "He disagrees with waiting and seeks to give the people a good lead.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+            "sourceLabel": "Chapter 15, PDF pages 57–59"
+          },
+          {
+            "q": "What does the proverb about ruler and ruled emphasise?",
+            "options": [
+              "A ruler has no effect on public life",
+              "People must possess identical occupations",
+              "The ruler's example influences the people",
+              "Royal wealth alone ensures virtue"
+            ],
+            "correct": 2,
+            "explanation": "Parikshith cites the proverb when explaining his responsibility to oppose Kali.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=57",
+            "sourceLabel": "Chapter 15, PDF pages 57–59"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Reverence for Krishna\r",
+        "chapter": "Chapter 16 · Reverence for Krishna\r",
+        "chapterNumber": 16,
+        "pdfStartPage": 60,
+        "pdfEndPage": 61,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+        "sourceLabel": "Chapter 16, PDF pages 60–61",
+        "summary": "As Parikshith tours his realm, subordinate rulers offer their service. He asks them to care for their people's happiness, protect the vulnerable groups named in the text, and foster worship. Performers discover his deep love for accounts of the Pandavas and Krishna. Songs and plays about the Lord's grace move him to tears, and he checks their truth with elders rather than treating them merely as entertainment.\r\n\r\nAn aged brahmin then recalls serving as a chief priest at Yudhishtira's horse sacrifice. Krishna had personally welcomed the priests, washed and dried their feet, and later granted them a vision of His divine form. Parikshith is deeply moved by the humility and grace of the Lord. He bows at the old man's feet because they had been honoured by Krishna, gives him gifts, and arranges his journey home. Reverence for Krishna thus extends to grateful honour for those who experienced His presence.",
+        "qa": [
+          {
+            "q": "What does Parikshith ask of the rulers who offer him service?",
+            "a": "Promote their people's happiness and welfare. His requests concern responsible rule and the fostering of devotion.\r"
+          },
+          {
+            "q": "Which performances especially move the king?",
+            "a": "Stories of the Pandavas and Krishna's grace. The king listens to these family and divine narratives with devotion.\r"
+          },
+          {
+            "q": "What role had the aged brahmin held at the sacrifice?",
+            "a": "Chief priest. He recalls officiating at the ceremony in Krishna's presence.\r"
+          },
+          {
+            "q": "What service had Krishna personally performed for the priests?",
+            "a": "Washing and drying their feet. The old brahmin describes this act of humility with tears.\r"
+          },
+          {
+            "q": "Why does Parikshith bow at the brahmin's feet?",
+            "a": "Krishna had honoured those very feet. Parikshith sees the encounter as a precious connection with the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Parikshith ask of the rulers who offer him service?",
+            "options": [
+              "Send all their people to his capital",
+              "Promote their people's happiness and welfare",
+              "Stop all public worship",
+              "Replace their ministers with actors"
+            ],
+            "correct": 1,
+            "explanation": "His requests concern responsible rule and the fostering of devotion.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–61"
+          },
+          {
+            "q": "Which performances especially move the king?",
+            "options": [
+              "Accounts of unrelated royal hunts",
+              "Demonstrations of trade",
+              "Stories of the Pandavas and Krishna's grace",
+              "Songs praising Kamsa's conquests"
+            ],
+            "correct": 2,
+            "explanation": "The king listens to these family and divine narratives with devotion.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–61"
+          },
+          {
+            "q": "What role had the aged brahmin held at the sacrifice?",
+            "options": [
+              "Charioteer",
+              "Gatekeeper",
+              "Royal huntsman",
+              "Chief priest"
+            ],
+            "correct": 3,
+            "explanation": "He recalls officiating at the ceremony in Krishna's presence.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–61"
+          },
+          {
+            "q": "What service had Krishna personally performed for the priests?",
+            "options": [
+              "Washing and drying their feet",
+              "Building their chariots",
+              "Training their horses for battle",
+              "Selecting their royal crowns"
+            ],
+            "correct": 0,
+            "explanation": "The old brahmin describes this act of humility with tears.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–61"
+          },
+          {
+            "q": "Why does Parikshith bow at the brahmin's feet?",
+            "options": [
+              "The brahmin has become emperor",
+              "Krishna had honoured those very feet",
+              "He is asking the brahmin for military help",
+              "The brahmin demands a public apology"
+            ],
+            "correct": 1,
+            "explanation": "Parikshith sees the encounter as a precious connection with the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–61"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Recalling the Bygone Days\r",
+        "chapter": "Chapter 17 · Recalling the Bygone Days\r",
+        "chapterNumber": 17,
+        "pdfStartPage": 62,
+        "pdfEndPage": 66,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+        "sourceLabel": "Chapter 17, PDF pages 62–66",
+        "summary": "Parikshith continues seeking accounts of his grandparents' life with Krishna. When Vyasa visits, the king begs him to remain and satisfy this hunger. Vyasa corrects his feeling that he missed all divine good fortune: Krishna protected him, played with him as a child, and gave him his name. The sage recalls how the baby's eyes followed Krishna and searched for Him even when He hid behind pillars.\r\n\r\nThe chapter broadens into recollections of Arjuna and Krishna, including the events surrounding Arjuna's winning of Droupadi. Its closing emphasis is their extraordinary intimacy. Krishna could be a playful companion, a trusted counsellor, or the sovereign Lord, while Arjuna shared his thoughts freely with Him. Vyasa compares their closeness to body and breath and identifies them as Nara and Narayana. The narrative makes remembrance itself a source of nourishment for Parikshith, who eagerly asks for more particular episodes.",
+        "qa": [
+          {
+            "q": "Which sage visits Parikshith during his recollections?",
+            "a": "Vyasa. Vyasa's visit gives the king an opportunity to hear more about his forefathers.\r"
+          },
+          {
+            "q": "Why does Parikshith ask the sage to stay?",
+            "a": "He longs to hear more about Krishna and the Pandavas. He compares the interrupted account to food withdrawn from a hungry person.\r"
+          },
+          {
+            "q": "Who gave Parikshith his name?",
+            "a": "Krishna. Vyasa recalls the naming ceremony and the child's unwavering attention to Krishna.\r"
+          },
+          {
+            "q": "What did the baby's eyes do when Krishna hid?",
+            "a": "Searched for Krishna. His searching gaze expressed the quest associated with his name.\r"
+          },
+          {
+            "q": "What comparison describes Krishna and Arjuna's closeness?",
+            "a": "Body and breath. Vyasa uses this comparison while speaking of Nara and Narayana."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which sage visits Parikshith during his recollections?",
+            "options": [
+              "Vyasa",
+              "Durvasa",
+              "Samika",
+              "Garga"
+            ],
+            "correct": 0,
+            "explanation": "Vyasa's visit gives the king an opportunity to hear more about his forefathers.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+            "sourceLabel": "Chapter 17, PDF pages 62–66"
+          },
+          {
+            "q": "Why does Parikshith ask the sage to stay?",
+            "options": [
+              "He needs a new military commander",
+              "He longs to hear more about Krishna and the Pandavas",
+              "He wants to postpone his marriage",
+              "He wishes to recover hidden gold"
+            ],
+            "correct": 1,
+            "explanation": "He compares the interrupted account to food withdrawn from a hungry person.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+            "sourceLabel": "Chapter 17, PDF pages 62–66"
+          },
+          {
+            "q": "Who gave Parikshith his name?",
+            "options": [
+              "Kamsa",
+              "Sringi",
+              "Krishna",
+              "Takshaka"
+            ],
+            "correct": 2,
+            "explanation": "Vyasa recalls the naming ceremony and the child's unwavering attention to Krishna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+            "sourceLabel": "Chapter 17, PDF pages 62–66"
+          },
+          {
+            "q": "What did the baby's eyes do when Krishna hid?",
+            "options": [
+              "Remained fixed only on gifts",
+              "Followed the royal elephant",
+              "Closed until the ceremony ended",
+              "Searched for Krishna"
+            ],
+            "correct": 3,
+            "explanation": "His searching gaze expressed the quest associated with his name.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+            "sourceLabel": "Chapter 17, PDF pages 62–66"
+          },
+          {
+            "q": "What comparison describes Krishna and Arjuna's closeness?",
+            "options": [
+              "Body and breath",
+              "Merchant and customer",
+              "King and distant stranger",
+              "Hunter and prey"
+            ],
+            "correct": 0,
+            "explanation": "Vyasa uses this comparison while speaking of Nara and Narayana.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=62",
+            "sourceLabel": "Chapter 17, PDF pages 62–66"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "The Escape of Takshaka\r",
+        "chapter": "Chapter 18 · The Escape of Takshaka\r",
+        "chapterNumber": 18,
+        "pdfStartPage": 67,
+        "pdfEndPage": 69,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+        "sourceLabel": "Chapter 18, PDF pages 67–69",
+        "summary": "Parikshith asks why Arjuna burned the Khandava Forest and how Krishna helped him. Vyasa recounts the visit of an apparently aged brahmin to Krishna and Arjuna beside the Yamuna. The visitor reveals himself as Agni and asks to consume the forest as a remedy for his condition. His difficulty is Indra's protection of Takshaka and the forest: rain would extinguish the fire before his purpose could be fulfilled.\r\n\r\nKrishna agrees to help, and Arjuna is asked to prevent the rain from reaching the forest by a covering of arrows. Takshaka flees with Maya, who seeks Arjuna's protection for them both. Arjuna grants it, and the grateful Maya offers his service. Arjuna asks him to build an extraordinary assembly hall for Yudhishtira. Its splendour later provokes the Kauravas' envy. Vyasa emphasises Krishna's watchful care for His devotees, while Parikshith's next question turns toward Droupadi's humiliation and the Pandavas' response.",
+        "qa": [
+          {
+            "q": "Which forest is the subject of Parikshith's question?",
+            "a": "Khandava. He asks why his grandfather destroyed the Khandava Forest by fire.\r"
+          },
+          {
+            "q": "Who appears in the guise of an aged brahmin?",
+            "a": "Agni. The visitor identifies himself as the fire principle.\r"
+          },
+          {
+            "q": "Why does Agni seek to consume the forest?",
+            "a": "To remedy his indigestion. Agni explains that consuming its vegetation will restore him.\r"
+          },
+          {
+            "q": "Why does Agni expect Indra to interfere?",
+            "a": "Indra has promised protection to Takshaka and the forest. Their friendship explains the expected showers of rain.\r"
+          },
+          {
+            "q": "What help is requested from Arjuna?",
+            "a": "A covering of arrows to keep out the rain. Preventing the rain will allow Agni to consume the forest."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which forest is the subject of Parikshith's question?",
+            "options": [
+              "Dandaka",
+              "Brindavan alone",
+              "The forest near Samika's hermitage",
+              "Khandava"
+            ],
+            "correct": 3,
+            "explanation": "He asks why his grandfather destroyed the Khandava Forest by fire.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+            "sourceLabel": "Chapter 18, PDF pages 67–69"
+          },
+          {
+            "q": "Who appears in the guise of an aged brahmin?",
+            "options": [
+              "Agni",
+              "Suka",
+              "Kamsa",
+              "Janamejaya"
+            ],
+            "correct": 0,
+            "explanation": "The visitor identifies himself as the fire principle.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+            "sourceLabel": "Chapter 18, PDF pages 67–69"
+          },
+          {
+            "q": "Why does Agni seek to consume the forest?",
+            "options": [
+              "To obtain a royal crown",
+              "To remedy his indigestion",
+              "To punish Parikshith",
+              "To construct a prison"
+            ],
+            "correct": 1,
+            "explanation": "Agni explains that consuming its vegetation will restore him.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+            "sourceLabel": "Chapter 18, PDF pages 67–69"
+          },
+          {
+            "q": "Why does Agni expect Indra to interfere?",
+            "options": [
+              "Indra owns the royal treasure there",
+              "Indra is seeking a new teacher",
+              "Indra has promised protection to Takshaka and the forest",
+              "Indra has forbidden every sacrifice"
+            ],
+            "correct": 2,
+            "explanation": "Their friendship explains the expected showers of rain.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+            "sourceLabel": "Chapter 18, PDF pages 67–69"
+          },
+          {
+            "q": "What help is requested from Arjuna?",
+            "options": [
+              "A boat to cross the Ganga",
+              "A palace for the priests",
+              "A message to Sandipani",
+              "A covering of arrows to keep out the rain"
+            ],
+            "correct": 3,
+            "explanation": "Preventing the rain will allow Agni to consume the forest.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=67",
+            "sourceLabel": "Chapter 18, PDF pages 67–69"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Pandavas—An Example for the Kali Age\r",
+        "chapter": "Chapter 19 · Pandavas—An Example for the Kali Age\r",
+        "chapterNumber": 19,
+        "pdfStartPage": 70,
+        "pdfEndPage": 72,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+        "sourceLabel": "Chapter 19, PDF pages 70–72",
+        "summary": "Vyasa explains the background to the dice game. Envy of the Pandavas' splendour leads the Kauravas to disguise a hostile plan as a friendly family gathering. Yudhishtira accepts without suspecting their deceit, and the stakes eventually include Droupadi. Parikshith is anguished that such humiliation could occur before elders and rulers charged with upholding justice.\r\n\r\nThe sage describes the distress of the elders and the Pandavas' adherence to the authority of their eldest brother. When Droupadi turns wholly to Krishna, her honour is protected and the attempt to shame her fails. Vyasa draws attention to the power of surrender and the Lord's protection. He presents the Pandavas' trials as an example for the coming Kali age: devotion does not mean that a person encounters no suffering, but that faith can remain firm through it. The chapter's interpretation rests on the relationship between the devotees and Krishna throughout the narrative.",
+        "qa": [
+          {
+            "q": "What motivates the Kauravas' plan for the dice game?",
+            "a": "Envy of the Pandavas' prosperity. Vyasa traces the plan to jealousy and revenge.\r"
+          },
+          {
+            "q": "How is the invitation presented?",
+            "a": "As a friendly family occasion. Affectionate language conceals the hostile intention.\r"
+          },
+          {
+            "q": "Why are the younger Pandavas restrained?",
+            "a": "They defer to Yudhishtira and their pledged obligations. Vyasa explains their conduct through their commitment to their elder and their understanding of duty.\r"
+          },
+          {
+            "q": "To whom does Droupadi surrender for protection?",
+            "a": "Krishna. Her appeal to the Lord is central to the protection of her honour.\r"
+          },
+          {
+            "q": "For which age are the Pandavas presented as an example?",
+            "a": "Kali. Vyasa explicitly connects their steadfast devotion with the Kali age to come."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What motivates the Kauravas' plan for the dice game?",
+            "options": [
+              "A wish to restore the Pandavas' lands freely",
+              "A request from Suka",
+              "Envy of the Pandavas' prosperity",
+              "A desire to honour Droupadi"
+            ],
+            "correct": 2,
+            "explanation": "Vyasa traces the plan to jealousy and revenge.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+            "sourceLabel": "Chapter 19, PDF pages 70–72"
+          },
+          {
+            "q": "How is the invitation presented?",
+            "options": [
+              "As an open declaration of war",
+              "As a pilgrimage to the Ganga",
+              "As a lesson from Sandipani",
+              "As a friendly family occasion"
+            ],
+            "correct": 3,
+            "explanation": "Affectionate language conceals the hostile intention.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+            "sourceLabel": "Chapter 19, PDF pages 70–72"
+          },
+          {
+            "q": "Why are the younger Pandavas restrained?",
+            "options": [
+              "They defer to Yudhishtira and their pledged obligations",
+              "They have never learned to fight",
+              "They approve of Droupadi's humiliation",
+              "They are absent from the assembly"
+            ],
+            "correct": 0,
+            "explanation": "Vyasa explains their conduct through their commitment to their elder and their understanding of duty.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+            "sourceLabel": "Chapter 19, PDF pages 70–72"
+          },
+          {
+            "q": "To whom does Droupadi surrender for protection?",
+            "options": [
+              "Kamsa",
+              "Krishna",
+              "Takshaka",
+              "Maruth"
+            ],
+            "correct": 1,
+            "explanation": "Her appeal to the Lord is central to the protection of her honour.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+            "sourceLabel": "Chapter 19, PDF pages 70–72"
+          },
+          {
+            "q": "For which age are the Pandavas presented as an example?",
+            "options": [
+              "Only the age before creation",
+              "Only Treta",
+              "Kali",
+              "No particular age"
+            ],
+            "correct": 2,
+            "explanation": "Vyasa explicitly connects their steadfast devotion with the Kali age to come.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=70",
+            "sourceLabel": "Chapter 19, PDF pages 70–72"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "Krishna Graces Droupadi\r",
+        "chapter": "Chapter 20 · Krishna Graces Droupadi\r",
+        "chapterNumber": 20,
+        "pdfStartPage": 73,
+        "pdfEndPage": 75,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+        "sourceLabel": "Chapter 20, PDF pages 73–75",
+        "summary": "Droupadi responds to Krishna's protection with intense gratitude, but the outrage committed against her remains grave. Krishna reassures her and asks her to await what will unfold. She declares that she will not bind her loosened hair again until the wrong has been avenged. Krishna affirms the truthfulness of her words. Vyasa connects the later vindication of the Pandavas with their adherence to truth and dharma.\r\n\r\nThe narrative then introduces another hostile design. Duryodhana carefully serves the formidable sage Durvasa and obtains the offer of a boon. Under the appearance of wishing his cousins the same blessing of hospitality, he asks the sage to visit the Pandavas with his disciples after Droupadi has eaten. This timing is deliberate and is explained in the next chapter. The contrast between the outward show of courtesy and the intention to harm continues the account's examination of the Kauravas' repeated plots.",
+        "qa": [
+          {
+            "q": "What has Krishna just protected?",
+            "a": "Droupadi's honour. The chapter continues the account of the unending cloth granted to Droupadi.\r"
+          },
+          {
+            "q": "What does Droupadi resolve about her hair?",
+            "a": "Not to bind it again until the wrong is avenged. Her vow responds to the violent insult she has suffered.\r"
+          },
+          {
+            "q": "Which qualities does Vyasa connect with the Pandavas' grace?",
+            "a": "Truth and adherence to dharma. Vyasa explicitly praises their allegiance to truth and right conduct.\r"
+          },
+          {
+            "q": "Which sage does Duryodhana serve in order to obtain a boon?",
+            "a": "Durvasa. The second part of the chapter introduces the Durvasa plot.\r"
+          },
+          {
+            "q": "When does Duryodhana ask the sage to visit the Pandavas?",
+            "a": "After Droupadi has eaten. The chosen timing is essential to his hostile plan."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What has Krishna just protected?",
+            "options": [
+              "Kamsa's throne",
+              "Droupadi's honour",
+              "Takshaka's treasure",
+              "Maruth's army"
+            ],
+            "correct": 1,
+            "explanation": "The chapter continues the account of the unending cloth granted to Droupadi.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 20, PDF pages 73–75"
+          },
+          {
+            "q": "What does Droupadi resolve about her hair?",
+            "options": [
+              "To cut it as a gift to the court",
+              "To cover it with the king's crown",
+              "Not to bind it again until the wrong is avenged",
+              "To change it before leaving the hall immediately"
+            ],
+            "correct": 2,
+            "explanation": "Her vow responds to the violent insult she has suffered.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 20, PDF pages 73–75"
+          },
+          {
+            "q": "Which qualities does Vyasa connect with the Pandavas' grace?",
+            "options": [
+              "Wealth and public display",
+              "Suspicion and rivalry",
+              "Royal birth alone",
+              "Truth and adherence to dharma"
+            ],
+            "correct": 3,
+            "explanation": "Vyasa explicitly praises their allegiance to truth and right conduct.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 20, PDF pages 73–75"
+          },
+          {
+            "q": "Which sage does Duryodhana serve in order to obtain a boon?",
             "options": [
               "Durvasa",
+              "Suka",
+              "Garga",
+              "Sandipani"
+            ],
+            "correct": 0,
+            "explanation": "The second part of the chapter introduces the Durvasa plot.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 20, PDF pages 73–75"
+          },
+          {
+            "q": "When does Duryodhana ask the sage to visit the Pandavas?",
+            "options": [
+              "Before sunrise on their wedding day",
+              "After Droupadi has eaten",
+              "During Parikshith's coronation",
+              "After Krishna returns to Dwaraka permanently"
+            ],
+            "correct": 1,
+            "explanation": "The chosen timing is essential to his hostile plan.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 20, PDF pages 73–75"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "The Durvasa Episode\r",
+        "chapter": "Chapter 21 · The Durvasa Episode\r",
+        "chapterNumber": 21,
+        "pdfStartPage": 76,
+        "pdfEndPage": 79,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+        "sourceLabel": "Chapter 21, PDF pages 76–79",
+        "summary": "The Sun has given the Pandavas a vessel that supplies food until Droupadi has eaten and cleaned it for the day. Duryodhana exploits this limitation by sending Durvasa and ten thousand disciples after her meal. Yudhishtira welcomes them respectfully, but their request for food creates a crisis. While the visitors bathe, Droupadi and the brothers pray to Krishna as their only refuge.\r\n\r\nKrishna comes to their aid. He finds a fraction of a cooked leaf in the vessel. His acceptance of this small remnant brings about the satisfaction of the visitors' hunger. Bhima is sent to invite them to the meal, but they are already so full that they cannot eat. Durvasa recognises the grace protecting the Pandavas, blesses them, and leaves without the destruction Duryodhana had intended. The episode illustrates the text's central contrast between a hostile scheme and the protection associated with wholehearted devotion and surrender.",
+        "qa": [
+          {
+            "q": "Who gave the Pandavas the inexhaustible food vessel?",
+            "a": "The Sun. The chapter recounts the Sun's compassionate gift.\r"
+          },
+          {
+            "q": "When did the vessel cease supplying food for the day?",
+            "a": "After Droupadi ate and cleaned it. This limitation is the reason Duryodhana chose the time of the visit.\r"
+          },
+          {
+            "q": "How many disciples accompany Durvasa?",
+            "a": "Ten thousand. The size of the company makes the lack of food especially alarming.\r"
+          },
+          {
+            "q": "Whom does Droupadi ask for help?",
+            "a": "Krishna. She turns to Krishna, and the Pandavas join her prayer.\r"
+          },
+          {
+            "q": "Why does Durvasa decline Bhima's invitation to eat?",
+            "a": "He and his disciples are already completely satisfied. Krishna's intervention has removed their hunger; Durvasa blesses the Pandavas."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who gave the Pandavas the inexhaustible food vessel?",
+            "options": [
+              "The Sun",
+              "Kamsa",
+              "Indra's charioteer",
+              "Takshaka"
+            ],
+            "correct": 0,
+            "explanation": "The chapter recounts the Sun's compassionate gift.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+            "sourceLabel": "Chapter 21, PDF pages 76–79"
+          },
+          {
+            "q": "When did the vessel cease supplying food for the day?",
+            "options": [
+              "As soon as the first guest arrived",
+              "After Droupadi ate and cleaned it",
+              "At the beginning of every meal",
+              "Whenever Bhima touched it"
+            ],
+            "correct": 1,
+            "explanation": "This limitation is the reason Duryodhana chose the time of the visit.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+            "sourceLabel": "Chapter 21, PDF pages 76–79"
+          },
+          {
+            "q": "How many disciples accompany Durvasa?",
+            "options": [
+              "Five",
+              "One hundred",
+              "Ten thousand",
+              "Eighteen"
+            ],
+            "correct": 2,
+            "explanation": "The size of the company makes the lack of food especially alarming.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+            "sourceLabel": "Chapter 21, PDF pages 76–79"
+          },
+          {
+            "q": "Whom does Droupadi ask for help?",
+            "options": [
+              "Duryodhana",
+              "Kamsa",
+              "Sringi",
+              "Krishna"
+            ],
+            "correct": 3,
+            "explanation": "She turns to Krishna, and the Pandavas join her prayer.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+            "sourceLabel": "Chapter 21, PDF pages 76–79"
+          },
+          {
+            "q": "Why does Durvasa decline Bhima's invitation to eat?",
+            "options": [
+              "He and his disciples are already completely satisfied",
+              "He has never accepted any meal",
+              "He is still waiting for Duryodhana",
+              "He cannot find the river"
+            ],
+            "correct": 0,
+            "explanation": "Krishna's intervention has removed their hunger; Durvasa blesses the Pandavas.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=76",
+            "sourceLabel": "Chapter 21, PDF pages 76–79"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Arjuna's Fight With Gods\r",
+        "chapter": "Chapter 22 · Arjuna's Fight With Gods\r",
+        "chapterNumber": 22,
+        "pdfStartPage": 80,
+        "pdfEndPage": 82,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+        "sourceLabel": "Chapter 22, PDF pages 80–82",
+        "summary": "During exile, Yudhishtira fears that the Kauravas will refuse to restore the kingdom and that a future war will bring the Pandavas against formidable warriors. Arjuna therefore seeks divine weapons through austerity. Indra appears and directs him first to obtain Siva's grace. Arjuna turns to the worship of Siva, and the narrative presents the ensuing encounter as a divine test.\r\n\r\nA fierce boar approaches, and both Arjuna and a hunter shoot at it. A dispute follows, leading to combat between them. The apparently ordinary hunter is Siva in disguise. The encounter ends in revelation and blessing rather than in the defeat of a mortal enemy: Arjuna receives the Pasupatha weapon. Vyasa praises the courage of Parikshith's grandfather and links his achievements to Krishna's grace. Parikshith is filled with gratitude for his lineage and asks next to hear how Krishna protected the Pandavas in battle.",
+        "qa": [
+          {
+            "q": "Why does Arjuna seek divine weapons?",
+            "a": "To prepare for a possible war with powerful opponents. Yudhishtira fears the strength arrayed against them if the kingdom is not restored.\r"
+          },
+          {
+            "q": "Who tells Arjuna to seek Siva's grace first?",
+            "a": "Indra. Indra responds to Arjuna's austerity with this instruction.\r"
+          },
+          {
+            "q": "What animal appears during Arjuna's penance?",
+            "a": "A wild boar. The threatening boar leads to the encounter with the hunter.\r"
+          },
+          {
+            "q": "Who is the hunter in disguise?",
+            "a": "Siva. The conflict is part of Siva's own divine play.\r"
+          },
+          {
+            "q": "Which weapon does Arjuna receive?",
+            "a": "Pasupatha-astra. Siva gives him the Pasupatha as the sign of grace."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Arjuna seek divine weapons?",
+            "options": [
+              "To win a musical contest",
+              "To become chief priest",
+              "To replace Krishna as king",
+              "To prepare for a possible war with powerful opponents"
+            ],
+            "correct": 3,
+            "explanation": "Yudhishtira fears the strength arrayed against them if the kingdom is not restored.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+            "sourceLabel": "Chapter 22, PDF pages 80–82"
+          },
+          {
+            "q": "Who tells Arjuna to seek Siva's grace first?",
+            "options": [
+              "Indra",
+              "Duryodhana",
+              "Samika",
+              "Nanda"
+            ],
+            "correct": 0,
+            "explanation": "Indra responds to Arjuna's austerity with this instruction.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+            "sourceLabel": "Chapter 22, PDF pages 80–82"
+          },
+          {
+            "q": "What animal appears during Arjuna's penance?",
+            "options": [
+              "A swan",
+              "A wild boar",
+              "A calf",
+              "A crane"
+            ],
+            "correct": 1,
+            "explanation": "The threatening boar leads to the encounter with the hunter.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+            "sourceLabel": "Chapter 22, PDF pages 80–82"
+          },
+          {
+            "q": "Who is the hunter in disguise?",
+            "options": [
+              "Kamsa",
+              "Takshaka",
+              "Siva",
+              "Janamejaya"
+            ],
+            "correct": 2,
+            "explanation": "The conflict is part of Siva's own divine play.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+            "sourceLabel": "Chapter 22, PDF pages 80–82"
+          },
+          {
+            "q": "Which weapon does Arjuna receive?",
+            "options": [
+              "A royal sceptre",
+              "Krishna's flute",
+              "A golden plough",
+              "Pasupatha-astra"
+            ],
+            "correct": 3,
+            "explanation": "Siva gives him the Pasupatha as the sign of grace.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=80",
+            "sourceLabel": "Chapter 22, PDF pages 80–82"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Guardian on the Battlefield\r",
+        "chapter": "Chapter 23 · Guardian on the Battlefield\r",
+        "chapterNumber": 23,
+        "pdfStartPage": 83,
+        "pdfEndPage": 85,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+        "sourceLabel": "Chapter 23, PDF pages 83–85",
+        "summary": "The chapter begins with the dispute after the Pandavas complete their exile and period of concealment. The Kauravas reject the claim that the agreed terms have been fulfilled, and both sides prepare for war. Krishna becomes Arjuna's charioteer. When Arjuna sees revered elders and teachers among his opponents, affection and the sense of personal relationship overwhelm him. Vyasa distinguishes this distress from simple fear of fighting.\r\n\r\nKrishna explains the principles of action and duty and restores Arjuna's resolve. The narrative then dwells on the Lord's personal service: He protects Arjuna against weapons, bears bodily wounds, handles the reins, and tends the horses. Even the foot signals used to direct the chariot trouble Arjuna because they touch the Lord's head. These details show the depth of Krishna's love for His devotees. His willingness to perform difficult and humble tasks is presented as a revelation of grace.",
+        "qa": [
+          {
+            "q": "What role does Krishna take in Arjuna's chariot?",
+            "a": "Charioteer. His guidance embraces both the chariot and the Pandavas' destiny.\r"
+          },
+          {
+            "q": "Why does Arjuna hesitate before the battle?",
+            "a": "He sees revered relatives and teachers among the opponents. Vyasa describes reverence and attachment, rather than mere cowardice.\r"
+          },
+          {
+            "q": "How many army divisions are assigned to the Pandavas in the account?",
+            "a": "Seven. The text contrasts the Pandavas' seven akshauhinis with the Kauravas' eleven.\r"
+          },
+          {
+            "q": "How are directions conveyed to the charioteer amid battle noise?",
+            "a": "By pressure from the warrior's toes. The chapter explains the convention that causes Arjuna shame when applied to Krishna.\r"
+          },
+          {
+            "q": "What care does Krishna give the horses?",
+            "a": "He bathes them and treats their wounds. His practical service is part of the chapter's portrayal of divine love."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What role does Krishna take in Arjuna's chariot?",
+            "options": [
+              "Opposing commander",
+              "Royal herald only",
+              "Charioteer",
+              "Keeper of the treasury"
+            ],
+            "correct": 2,
+            "explanation": "His guidance embraces both the chariot and the Pandavas' destiny.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+            "sourceLabel": "Chapter 23, PDF pages 83–85"
+          },
+          {
+            "q": "Why does Arjuna hesitate before the battle?",
+            "options": [
+              "He has never used a bow",
+              "He has forgotten where the armies are",
+              "He wants to join Kamsa",
+              "He sees revered relatives and teachers among the opponents"
+            ],
+            "correct": 3,
+            "explanation": "Vyasa describes reverence and attachment, rather than mere cowardice.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+            "sourceLabel": "Chapter 23, PDF pages 83–85"
+          },
+          {
+            "q": "How many army divisions are assigned to the Pandavas in the account?",
+            "options": [
+              "Seven",
+              "Eleven",
+              "Three",
+              "One"
+            ],
+            "correct": 0,
+            "explanation": "The text contrasts the Pandavas' seven akshauhinis with the Kauravas' eleven.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+            "sourceLabel": "Chapter 23, PDF pages 83–85"
+          },
+          {
+            "q": "How are directions conveyed to the charioteer amid battle noise?",
+            "options": [
+              "By written messages carried to the palace",
+              "By pressure from the warrior's toes",
+              "By temple bells",
+              "By the movement of a royal elephant"
+            ],
+            "correct": 1,
+            "explanation": "The chapter explains the convention that causes Arjuna shame when applied to Krishna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+            "sourceLabel": "Chapter 23, PDF pages 83–85"
+          },
+          {
+            "q": "What care does Krishna give the horses?",
+            "options": [
+              "He leaves them unattended",
+              "He sends them away before every battle",
+              "He bathes them and treats their wounds",
+              "He gives them only ceremonial ornaments"
+            ],
+            "correct": 2,
+            "explanation": "His practical service is part of the chapter's portrayal of divine love.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=83",
+            "sourceLabel": "Chapter 23, PDF pages 83–85"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "Parikshith is Cursed\r",
+        "chapter": "Chapter 24 · Parikshith is Cursed\r",
+        "chapterNumber": 24,
+        "pdfStartPage": 86,
+        "pdfEndPage": 88,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+        "sourceLabel": "Chapter 24, PDF pages 86–88",
+        "summary": "After a night absorbed in Vyasa's account, Parikshith finds ordinary affairs difficult to resume and goes hunting. Separated from his attendants, tired and thirsty, he reaches Samika's hermitage. The sage is deep in meditation and does not respond to his calls. Parikshith mistakes the silence for disrespect, becomes angry, and places a dead snake around the sage's neck before leaving.\r\n\r\nChildren report the insult to Samika's son, Sringi. Overcome by anger, the boy pronounces a fatal curse against the king. Samika, however, is horrified by his son's reaction. He regards the punishment as grossly disproportionate and insists that a recluse should possess patience, self-restraint, and freedom from egotism. The chapter shows two failures of self-control, while placing particular weight on the sage's refusal to justify vindictiveness in the name of spiritual power.",
+        "qa": [
+          {
+            "q": "Why does Parikshith enter the hermitage?",
+            "a": "He is exhausted and seeks relief from thirst. His hunt has left him separated from his attendants and distressed by thirst.\r"
+          },
+          {
+            "q": "Why does Samika not answer him?",
+            "a": "He is absorbed in meditation. The king wrongly treats the sage's inward absorption as an insult.\r"
+          },
+          {
+            "q": "What does Parikshith place around the sage's neck?",
+            "a": "A dead snake. This angry act triggers the events leading to the curse.\r"
+          },
+          {
+            "q": "Who pronounces the curse?",
+            "a": "Sringi. Samika's son reacts in anger after seeing the insult to his father.\r"
+          },
+          {
+            "q": "How does Samika judge his son's reaction?",
+            "a": "As an excessive act inconsistent with a recluse's patience. He sharply condemns the misuse of ascetic power and lack of forbearance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Parikshith enter the hermitage?",
+            "options": [
+              "He has come for a naming ceremony",
+              "He is exhausted and seeks relief from thirst",
+              "He is bringing the sage a crown",
+              "He is looking for Krishna's flute"
+            ],
+            "correct": 1,
+            "explanation": "His hunt has left him separated from his attendants and distressed by thirst.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+            "sourceLabel": "Chapter 24, PDF pages 86–88"
+          },
+          {
+            "q": "Why does Samika not answer him?",
+            "options": [
+              "He is planning an attack",
+              "He has left for Dwaraka",
+              "He is absorbed in meditation",
+              "He is speaking to Sringi outside"
+            ],
+            "correct": 2,
+            "explanation": "The king wrongly treats the sage's inward absorption as an insult.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+            "sourceLabel": "Chapter 24, PDF pages 86–88"
+          },
+          {
+            "q": "What does Parikshith place around the sage's neck?",
+            "options": [
+              "A garland of flowers",
+              "A golden chain",
+              "A strip of silk",
+              "A dead snake"
+            ],
+            "correct": 3,
+            "explanation": "This angry act triggers the events leading to the curse.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+            "sourceLabel": "Chapter 24, PDF pages 86–88"
+          },
+          {
+            "q": "Who pronounces the curse?",
+            "options": [
+              "Sringi",
+              "Samika",
+              "Vyasa",
+              "Suka"
+            ],
+            "correct": 0,
+            "explanation": "Samika's son reacts in anger after seeing the insult to his father.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+            "sourceLabel": "Chapter 24, PDF pages 86–88"
+          },
+          {
+            "q": "How does Samika judge his son's reaction?",
+            "options": [
+              "As the highest example of compassion",
+              "As an excessive act inconsistent with a recluse's patience",
+              "As a duty assigned by the king",
+              "As a harmless game"
+            ],
+            "correct": 1,
+            "explanation": "He sharply condemns the misuse of ascetic power and lack of forbearance.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=86",
+            "sourceLabel": "Chapter 24, PDF pages 86–88"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "The Sage's Compassion\r",
+        "chapter": "Chapter 25 · The Sage's Compassion\r",
+        "chapterNumber": 25,
+        "pdfStartPage": 89,
+        "pdfEndPage": 91,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+        "sourceLabel": "Chapter 25, PDF pages 89–91",
+        "summary": "Sringi is distressed by his father's rebuke and tries to explain his anger. Samika acknowledges that the king's conduct was wrong, but places it in the context of exhaustion, thirst, humiliation, and the pressure of the moment. A small offence does not justify such a terrible response. He prays for the king's welfare and asks the surrounding ascetics to do the same.\r\n\r\nOthers suggest that Samika's greater spiritual power could cancel his son's curse. Through inward vision, however, he understands the king's approaching death as part of a larger divine destiny and does not seek to oppose it through pride in his own power. Instead, he sends a disciple to warn Parikshith. The king is already repentant. When the messenger hints at danger, his first concern is whether the kingdom and its ascetics are safe. The chapter brings compassion, humility, and responsibility into the foreground after the previous outbursts of anger.",
+        "qa": [
+          {
+            "q": "How does Samika view the king's offence?",
+            "a": "Wrong, but insufficient to justify the terrible curse. He explains the king's circumstances without approving the act.\r"
+          },
+          {
+            "q": "For whom does Samika pray?",
+            "a": "Parikshith's welfare. He asks that the king be protected and invites others to pray as well.\r"
+          },
+          {
+            "q": "What do the other ascetics suggest Samika could do?",
+            "a": "Counteract the curse with his greater spiritual power. Their suggestion leads him to examine the matter through inner vision.\r"
+          },
+          {
+            "q": "What help does Samika finally arrange?",
+            "a": "He sends a disciple to inform the king. Warning the king gives him knowledge of what is approaching.\r"
+          },
+          {
+            "q": "What is Parikshith's first concern when danger is mentioned?",
+            "a": "The safety of his subjects and the ascetics. He says that their safety matters more to him than his own fate."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How does Samika view the king's offence?",
+            "options": [
+              "Wrong, but insufficient to justify the terrible curse",
+              "Entirely imaginary",
+              "A command from Sringi",
+              "A reason to punish the entire kingdom"
+            ],
+            "correct": 0,
+            "explanation": "He explains the king's circumstances without approving the act.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+            "sourceLabel": "Chapter 25, PDF pages 89–91"
+          },
+          {
+            "q": "For whom does Samika pray?",
+            "options": [
+              "Kamsa's military victory",
+              "Parikshith's welfare",
+              "Duryodhana's wealth",
+              "Takshaka's kingship"
+            ],
+            "correct": 1,
+            "explanation": "He asks that the king be protected and invites others to pray as well.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+            "sourceLabel": "Chapter 25, PDF pages 89–91"
+          },
+          {
+            "q": "What do the other ascetics suggest Samika could do?",
+            "options": [
+              "Appoint himself emperor",
+              "Hide the messenger",
+              "Counteract the curse with his greater spiritual power",
+              "Abandon all meditation"
+            ],
+            "correct": 2,
+            "explanation": "Their suggestion leads him to examine the matter through inner vision.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+            "sourceLabel": "Chapter 25, PDF pages 89–91"
+          },
+          {
+            "q": "What help does Samika finally arrange?",
+            "options": [
+              "He orders an army to invade the palace",
+              "He sends the king a new hunting bow",
+              "He asks Sringi to become ruler",
+              "He sends a disciple to inform the king"
+            ],
+            "correct": 3,
+            "explanation": "Warning the king gives him knowledge of what is approaching.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+            "sourceLabel": "Chapter 25, PDF pages 89–91"
+          },
+          {
+            "q": "What is Parikshith's first concern when danger is mentioned?",
+            "options": [
+              "The safety of his subjects and the ascetics",
+              "The preservation of his jewels",
+              "The number of palace musicians",
+              "The success of another hunt"
+            ],
+            "correct": 0,
+            "explanation": "He says that their safety matters more to him than his own fate.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=89",
+            "sourceLabel": "Chapter 25, PDF pages 89–91"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "Curse or Godsend\r",
+        "chapter": "Chapter 26 · Curse or Godsend\r",
+        "chapterNumber": 26,
+        "pdfStartPage": 92,
+        "pdfEndPage": 94,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+        "sourceLabel": "Chapter 26, PDF pages 92–94",
+        "summary": "The messenger tells Parikshith that Sringi has cursed him to die from Takshaka's bite seven days later. Instead of responding with anger or attempts at revenge, the king welcomes the warning as a blessing. He feels that royal affairs have distracted him from life's spiritual purpose, and that the remaining days can now be devoted entirely to God. The messenger also conveys Samika's blessings for his final attainment.\r\n\r\nParikshith entrusts the crown to his son Janamejaya and walks barefoot toward the Ganga in the clothes he is wearing. The pleas of the household and citizens do not turn him back. Before the assembled people and ascetics, he openly recounts his wrongdoing and the curse. His resolve grows from repentance and a deliberate change of priorities. The chapter explains why the coming death, outwardly a punishment, is understood by him as an opportunity for uninterrupted contemplation of the Lord.",
+        "qa": [
+          {
+            "q": "Which serpent is named in the curse?",
+            "a": "Takshaka. The messenger identifies Takshaka as the instrument of the foretold death.\r"
+          },
+          {
+            "q": "How much time remains according to the curse?",
+            "a": "Seven days. Parikshith receives a definite seven-day period for spiritual preparation.\r"
+          },
+          {
+            "q": "How does Parikshith receive the news?",
+            "a": "As an opportunity granted by divine grace. He welcomes the time to turn wholly toward the Lord.\r"
+          },
+          {
+            "q": "To whom does he give the crown?",
+            "a": "Janamejaya. His son receives the royal responsibility before he leaves.\r"
+          },
+          {
+            "q": "Where does Parikshith go after relinquishing the throne?",
+            "a": "To the bank of the Ganga. He walks there barefoot, intent on divine contemplation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which serpent is named in the curse?",
+            "options": [
+              "Kaliya",
+              "Adisesha",
+              "Vasuki",
+              "Takshaka"
+            ],
+            "correct": 3,
+            "explanation": "The messenger identifies Takshaka as the instrument of the foretold death.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+            "sourceLabel": "Chapter 26, PDF pages 92–94"
+          },
+          {
+            "q": "How much time remains according to the curse?",
+            "options": [
+              "Seven days",
+              "Seven years",
+              "One month",
+              "Twelve days"
+            ],
+            "correct": 0,
+            "explanation": "Parikshith receives a definite seven-day period for spiritual preparation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+            "sourceLabel": "Chapter 26, PDF pages 92–94"
+          },
+          {
+            "q": "How does Parikshith receive the news?",
+            "options": [
+              "As a reason to imprison Samika",
+              "As an opportunity granted by divine grace",
+              "As permission to ignore God",
+              "As proof that the messenger is an enemy"
+            ],
+            "correct": 1,
+            "explanation": "He welcomes the time to turn wholly toward the Lord.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+            "sourceLabel": "Chapter 26, PDF pages 92–94"
+          },
+          {
+            "q": "To whom does he give the crown?",
+            "options": [
+              "Sringi",
               "Vidura",
-              "Hanuman",
+              "Janamejaya",
+              "Sandipani"
+            ],
+            "correct": 2,
+            "explanation": "His son receives the royal responsibility before he leaves.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+            "sourceLabel": "Chapter 26, PDF pages 92–94"
+          },
+          {
+            "q": "Where does Parikshith go after relinquishing the throne?",
+            "options": [
+              "To a new battlefield",
+              "To Kamsa's prison",
+              "To Maruth's treasure site",
+              "To the bank of the Ganga"
+            ],
+            "correct": 3,
+            "explanation": "He walks there barefoot, intent on divine contemplation.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=92",
+            "sourceLabel": "Chapter 26, PDF pages 92–94"
+          }
+        ]
+      },
+      {
+        "id": "chapter-27",
+        "title": "Enter Sage Suka\r",
+        "chapter": "Chapter 27 · Enter Sage Suka\r",
+        "chapterNumber": 27,
+        "pdfStartPage": 95,
+        "pdfEndPage": 97,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+        "sourceLabel": "Chapter 27, PDF pages 95–97",
+        "summary": "Some ascetics question the justice and effectiveness of Sringi's curse, but Parikshith refuses to minimise his own offence. As ruler, he was responsible for honouring and protecting the sage. He continues to regard the warning as a blessing that has awakened him from worldly absorption. His central question is now what a person facing death should do.\r\n\r\nDifferent sages recommend rituals, charity, pilgrimage, knowledge, or devotion, leaving him in need of a clear direction. Suka then arrives, youthful in appearance but radiant with spiritual authority. Recognised as Vyasa's son, he is welcomed with profound gratitude. His instruction is to withdraw the mind from worldly preoccupation and listen wholeheartedly to Hari's glory. He compares the body to a boat, the divine story to its rudder, and Hari to the boatman crossing the sea of worldly existence. The question is not merely the king's private concern; it matters to everyone who must face death.",
+        "qa": [
+          {
+            "q": "Does Parikshith dismiss his insult to Samika as insignificant?",
+            "a": "No, he accepts responsibility for it. He emphasises his duty as the ruler to honour the sage.\r"
+          },
+          {
+            "q": "What question does he put to the sages?",
+            "a": "What should a person facing death do?. This becomes the organising question of Suka's instruction.\r"
+          },
+          {
+            "q": "Whose son is Suka?",
+            "a": "Vyasa's. An elder identifies the youthful sage as Vyasa's spiritually accomplished son.\r"
+          },
+          {
+            "q": "What practice does Suka especially prescribe here?",
+            "a": "Listening wholeheartedly to the Lord's glory. He directs the mind away from worldly thoughts and toward Hari.\r"
+          },
+          {
+            "q": "In Suka's boat comparison, who is the boatman?",
+            "a": "Hari. The body is the boat and the divine story its rudder, with Hari guiding the crossing."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Does Parikshith dismiss his insult to Samika as insignificant?",
+            "options": [
+              "Yes, he blames the sage entirely",
+              "Yes, he says kings cannot err",
+              "No, he accepts responsibility for it",
+              "No, because he denies having done it"
+            ],
+            "correct": 2,
+            "explanation": "He emphasises his duty as the ruler to honour the sage.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 27, PDF pages 95–97"
+          },
+          {
+            "q": "What question does he put to the sages?",
+            "options": [
+              "Where should a new palace be built?",
+              "Which army is strongest?",
+              "How can gold be hidden?",
+              "What should a person facing death do?"
+            ],
+            "correct": 3,
+            "explanation": "This becomes the organising question of Suka's instruction.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 27, PDF pages 95–97"
+          },
+          {
+            "q": "Whose son is Suka?",
+            "options": [
+              "Vyasa's",
+              "Kamsa's",
+              "Nanda's",
+              "Samika's"
+            ],
+            "correct": 0,
+            "explanation": "An elder identifies the youthful sage as Vyasa's spiritually accomplished son.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 27, PDF pages 95–97"
+          },
+          {
+            "q": "What practice does Suka especially prescribe here?",
+            "options": [
+              "Planning another conquest",
+              "Listening wholeheartedly to the Lord's glory",
+              "Seeking revenge on Sringi",
+              "Collecting royal gifts"
+            ],
+            "correct": 1,
+            "explanation": "He directs the mind away from worldly thoughts and toward Hari.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 27, PDF pages 95–97"
+          },
+          {
+            "q": "In Suka's boat comparison, who is the boatman?",
+            "options": [
+              "Sringi",
+              "Takshaka",
+              "Hari",
+              "Duryodhana"
+            ],
+            "correct": 2,
+            "explanation": "The body is the boat and the divine story its rudder, with Hari guiding the crossing.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 27, PDF pages 95–97"
+          }
+        ]
+      },
+      {
+        "id": "chapter-28",
+        "title": "The Enchanting Story: Divine Incarnations\r",
+        "chapter": "Chapter 28 · The Enchanting Story: Divine Incarnations\r",
+        "chapterNumber": 28,
+        "pdfStartPage": 98,
+        "pdfEndPage": 100,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+        "sourceLabel": "Chapter 28, PDF pages 98–100",
+        "summary": "Suka introduces the Bhagavatha through the image of a tree: Narayana is the seed, Brahman the sprout, Narada the trunk, Vyasa the branches, and Krishna's story the sweet fruit. Those who yearn for and absorb that sweetness are its true beneficiaries. Listening is linked with assimilating the teaching, so that devotion brings the seeker closer to the divine.\r\n\r\nThe chapter explains incarnation as the Formless taking name and form for the uplift and sustenance of devotees. The same divine principle creates, sustains, and dissolves through Brahma, Vishnu, and Siva; these functions do not imply unequal divinities. Suka also describes different forms and purposes of manifestation. The discussion of creation ends with Satha-rupa and Manu, the first progenitors in this account. Throughout, he cautions that divine action cannot be measured fully by the reasoning used for ordinary earthly events.",
+        "qa": [
+          {
+            "q": "In the tree comparison, who is the seed?",
+            "a": "Narayana. The Bhagavatha tree begins from the Lord, Sri Narayana.\r"
+          },
+          {
+            "q": "What is the sweet fruit of that tree?",
+            "a": "The story of Krishna. Suka presents the divine narrative as the nectar-bearing fruit.\r"
+          },
+          {
+            "q": "For whose sustenance does Suka especially say God incarnates?",
+            "a": "Faithful devotees. He again uses the cow and calf comparison to explain this purpose.\r"
+          },
+          {
+            "q": "How are Brahma, Vishnu, and Siva related here?",
+            "a": "Three functions of the one divine principle. Creation, preservation, and dissolution are assigned to one divine essence.\r"
+          },
+          {
+            "q": "Who are named as the first progenitors in this account?",
+            "a": "Satha-rupa and Manu. Their appearance concludes the chapter's discussion of the beginnings of creation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "In the tree comparison, who is the seed?",
+            "options": [
+              "Narada",
+              "Narayana",
+              "Vyasa",
+              "Manu"
+            ],
+            "correct": 1,
+            "explanation": "The Bhagavatha tree begins from the Lord, Sri Narayana.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+            "sourceLabel": "Chapter 28, PDF pages 98–100"
+          },
+          {
+            "q": "What is the sweet fruit of that tree?",
+            "options": [
+              "Royal power",
+              "A store of gold",
+              "The story of Krishna",
+              "The art of warfare"
+            ],
+            "correct": 2,
+            "explanation": "Suka presents the divine narrative as the nectar-bearing fruit.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+            "sourceLabel": "Chapter 28, PDF pages 98–100"
+          },
+          {
+            "q": "For whose sustenance does Suka especially say God incarnates?",
+            "options": [
+              "Only conquering rulers",
+              "Only those seeking wealth",
+              "Only celestial musicians",
+              "Faithful devotees"
+            ],
+            "correct": 3,
+            "explanation": "He again uses the cow and calf comparison to explain this purpose.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+            "sourceLabel": "Chapter 28, PDF pages 98–100"
+          },
+          {
+            "q": "How are Brahma, Vishnu, and Siva related here?",
+            "options": [
+              "Three functions of the one divine principle",
+              "Three unrelated powers competing for rule",
+              "Three successive human kings",
+              "Three names for the same forest"
+            ],
+            "correct": 0,
+            "explanation": "Creation, preservation, and dissolution are assigned to one divine essence.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+            "sourceLabel": "Chapter 28, PDF pages 98–100"
+          },
+          {
+            "q": "Who are named as the first progenitors in this account?",
+            "options": [
+              "Nanda and Yasoda",
+              "Satha-rupa and Manu",
+              "Devaki and Vasudeva",
+              "Parikshith and Iravathi"
+            ],
+            "correct": 1,
+            "explanation": "Their appearance concludes the chapter's discussion of the beginnings of creation.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=98",
+            "sourceLabel": "Chapter 28, PDF pages 98–100"
+          }
+        ]
+      },
+      {
+        "id": "chapter-29",
+        "title": "The Dialogue Begins\r",
+        "chapter": "Chapter 29 · The Dialogue Begins\r",
+        "chapterNumber": 29,
+        "pdfStartPage": 101,
+        "pdfEndPage": 104,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+        "sourceLabel": "Chapter 29, PDF pages 101–104",
+        "summary": "Parikshith asks to hear what will free him from attachment and the cycle of birth and death. He does not claim spiritual greatness for himself, but attributes his opportunity to the grace received by his forefathers. Suka explains that he learned the Bhagavatha from Vyasa. Although established in the attributeless Absolute, he is still drawn by the sweetness of the Lord's qualities and activities. Knowledge and loving attention to the divine story are therefore not presented as opposites.\r\n\r\nSuka asks for earnest listening, reflection, and conduct shaped by what is understood. He reassures the king that grace does not require a long remaining lifespan. Khatvanga attained the Lord with only a brief time available, so Parikshith need not despair over his seven days. The instruction stresses detachment from possessions and bodily identification, remembrance of the divine name, and wholehearted attention. The king then returns to a question about why the Formless assumes form.",
+        "qa": [
+          {
+            "q": "What does Parikshith identify as a source of grief?",
+            "a": "Infatuation and attachment. He asks how to overcome moha rather than remain absorbed in worldly accounts.\r"
+          },
+          {
+            "q": "From whom did Suka hear the Bhagavatha?",
+            "a": "Vyasa. He recalls listening to the sacred text at his father's hermitage.\r"
+          },
+          {
+            "q": "Why is Suka drawn to God's stories despite his realisation of the attributeless Absolute?",
+            "a": "Their divine sweetness captivates him. He describes the joy of hearing the Lord's qualities and sportive acts.\r"
+          },
+          {
+            "q": "Which king's brief remaining lifespan is used to reassure Parikshith?",
+            "a": "Khatvanga. Khatvanga's attainment shows that a short time need not prevent divine grace.\r"
+          },
+          {
+            "q": "What must accompany listening to the narrative?",
+            "a": "Reflection and living by its teaching. Suka distinguishes earnest assimilation from merely hearing the words."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Parikshith identify as a source of grief?",
+            "options": [
+              "Infatuation and attachment",
+              "Listening to sacred stories",
+              "The company of sages",
+              "Remembrance of Krishna"
+            ],
+            "correct": 0,
+            "explanation": "He asks how to overcome moha rather than remain absorbed in worldly accounts.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+            "sourceLabel": "Chapter 29, PDF pages 101–104"
+          },
+          {
+            "q": "From whom did Suka hear the Bhagavatha?",
+            "options": [
+              "Duryodhana",
+              "Vyasa",
+              "Kamsa",
+              "Sringi"
+            ],
+            "correct": 1,
+            "explanation": "He recalls listening to the sacred text at his father's hermitage.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+            "sourceLabel": "Chapter 29, PDF pages 101–104"
+          },
+          {
+            "q": "Why is Suka drawn to God's stories despite his realisation of the attributeless Absolute?",
+            "options": [
+              "He lacks all spiritual knowledge",
+              "He wishes to win an empire",
+              "Their divine sweetness captivates him",
+              "He has been ordered by Kamsa"
+            ],
+            "correct": 2,
+            "explanation": "He describes the joy of hearing the Lord's qualities and sportive acts.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+            "sourceLabel": "Chapter 29, PDF pages 101–104"
+          },
+          {
+            "q": "Which king's brief remaining lifespan is used to reassure Parikshith?",
+            "options": [
+              "Maruth",
+              "Ugrasena",
+              "Dhritharashtra",
+              "Khatvanga"
+            ],
+            "correct": 3,
+            "explanation": "Khatvanga's attainment shows that a short time need not prevent divine grace.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+            "sourceLabel": "Chapter 29, PDF pages 101–104"
+          },
+          {
+            "q": "What must accompany listening to the narrative?",
+            "options": [
+              "Reflection and living by its teaching",
+              "Attention only to the storyteller's clothing",
+              "A desire for greater royal wealth",
+              "Refusal to remember its meaning"
+            ],
+            "correct": 0,
+            "explanation": "Suka distinguishes earnest assimilation from merely hearing the words.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=101",
+            "sourceLabel": "Chapter 29, PDF pages 101–104"
+          }
+        ]
+      },
+      {
+        "id": "chapter-30",
+        "title": "The Bhagavatha Path\r",
+        "chapter": "Chapter 30 · The Bhagavatha Path\r",
+        "chapterNumber": 30,
+        "pdfStartPage": 105,
+        "pdfEndPage": 108,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+        "sourceLabel": "Chapter 30, PDF pages 105–108",
+        "summary": "Suka explains that the Lord assumes forms appropriate to the need of the world. The account of the boar incarnation illustrates this freedom: Earth is raised from the waters, and Hiranyaksha is overcome. The preservation of dharma unites the different incarnations even when their outward forms and actions vary. The chapter also stresses that teaching must suit the learner's capacity.\r\n\r\nIn the conversation between Brahma and Narada, creation, order, divine immanence, and the consequences of conduct are explored. The Lord is the inner reality of beings, yet attachment to outward objects conceals this truth. Attention turned toward God dispels that confusion. When Suka questions whether a naturally restless mind can remain fixed on the Lord, Parikshith answers with the image of a bee: once it tastes a flower's nectar, its roaming ceases. Similarly, the sweetness of devotion can draw the mind into steady absorption.",
+        "qa": [
+          {
+            "q": "Why does the Lord assume different forms?",
+            "a": "To meet different needs and restore dharma. Suka explains that the form is suited to the crisis and purpose.\r"
+          },
+          {
+            "q": "Which form rescues Earth in this chapter?",
+            "a": "A boar. The boar incarnation lifts Earth safely from the waters.\r"
+          },
+          {
+            "q": "Which adversary confronts the boar incarnation?",
+            "a": "Hiranyaksha. The narrative describes their combat and Hiranyaksha's defeat.\r"
+          },
+          {
+            "q": "What principle does Suka state about instruction?",
+            "a": "It should suit the learner's capacity. Teaching too far above or below the learner's level does not serve its purpose.\r"
+          },
+          {
+            "q": "What does Parikshith's bee comparison explain?",
+            "a": "The mind's absorption after tasting devotion's sweetness. The bee stops roaming when it settles into the flower's nectar."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does the Lord assume different forms?",
+            "options": [
+              "Because divine freedom is limited to one body",
+              "To obtain wealth from rulers",
+              "Because He forgets His previous forms",
+              "To meet different needs and restore dharma"
+            ],
+            "correct": 3,
+            "explanation": "Suka explains that the form is suited to the crisis and purpose.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+            "sourceLabel": "Chapter 30, PDF pages 105–108"
+          },
+          {
+            "q": "Which form rescues Earth in this chapter?",
+            "options": [
+              "A boar",
+              "A crane",
+              "A horse",
+              "A swan"
+            ],
+            "correct": 0,
+            "explanation": "The boar incarnation lifts Earth safely from the waters.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+            "sourceLabel": "Chapter 30, PDF pages 105–108"
+          },
+          {
+            "q": "Which adversary confronts the boar incarnation?",
+            "options": [
+              "Bakasura",
+              "Hiranyaksha",
+              "Kaliya",
+              "Dussasana"
+            ],
+            "correct": 1,
+            "explanation": "The narrative describes their combat and Hiranyaksha's defeat.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+            "sourceLabel": "Chapter 30, PDF pages 105–108"
+          },
+          {
+            "q": "What principle does Suka state about instruction?",
+            "options": [
+              "It should ignore the learner's understanding",
+              "It should always begin with royal genealogy",
+              "It should suit the learner's capacity",
+              "It should avoid all spiritual questions"
+            ],
+            "correct": 2,
+            "explanation": "Teaching too far above or below the learner's level does not serve its purpose.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+            "sourceLabel": "Chapter 30, PDF pages 105–108"
+          },
+          {
+            "q": "What does Parikshith's bee comparison explain?",
+            "options": [
+              "The need to collect more possessions",
+              "The origin of royal taxation",
+              "The impossibility of concentration",
+              "The mind's absorption after tasting devotion's sweetness"
+            ],
+            "correct": 3,
+            "explanation": "The bee stops roaming when it settles into the flower's nectar.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=105",
+            "sourceLabel": "Chapter 30, PDF pages 105–108"
+          }
+        ]
+      },
+      {
+        "id": "chapter-31",
+        "title": "Doubts and Questions\r",
+        "chapter": "Chapter 31 · Doubts and Questions\r",
+        "chapterNumber": 31,
+        "pdfStartPage": 109,
+        "pdfEndPage": 112,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+        "sourceLabel": "Chapter 31, PDF pages 109–112",
+        "summary": "Invited by Suka, Parikshith raises questions about individual experience, past action, creation, time, great souls, incarnations, spiritual practice, and the Vedas. He asks to be taught what is most beneficial rather than merely what satisfies his curiosity. When Suka suggests food and rest, the king describes the divine narrative itself as his nourishment, revealing the intensity of his attention in these final days.\r\n\r\nThe explanation centres on tapas as disciplined spiritual practice. Mind, intellect, and senses habitually move toward outward objects and reinforce one another's desires. Through remembrance, meditation, good works, and concentrated dedication to God, these faculties are purified and redirected. The Lord is then recognised within the purified consciousness. The discussion also addresses illusion and the mystery of creation. Suka assures the king that the continuing Bhagavatha narrative will clarify his questions, while reminding him that the Absolute's creative power is not easily confined within ordinary chains of cause and effect.",
+        "qa": [
+          {
+            "q": "What attitude does Parikshith ask Suka to take toward him?",
+            "a": "Teach him affectionately what is most beneficial. He asks to be treated like a son and guided beyond his confusion.\r"
+          },
+          {
+            "q": "What does Parikshith call his food and drink?",
+            "a": "The stories of Krishna. His answer expresses absorption in the divine narrative.\r"
+          },
+          {
+            "q": "What does tapas mean in Suka's explanation?",
+            "a": "Spiritual discipline that purifies the inner faculties. Tapas trains the mind, intellect, and senses toward realisation.\r"
+          },
+          {
+            "q": "In which direction do the untrained senses tend to move?",
+            "a": "Toward external objects. Suka describes how hearing, seeing, desire, and acquisition reinforce one another.\r"
+          },
+          {
+            "q": "What is the purpose of one-pointed practice here?",
+            "a": "To purify consciousness and recognise the Lord within. Purification of the inner instruments prepares the experience of the divine."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What attitude does Parikshith ask Suka to take toward him?",
+            "options": [
+              "Answer only questions about royal wealth",
+              "Praise his attainments without correction",
+              "Teach him affectionately what is most beneficial",
+              "Avoid any subject he finds difficult"
+            ],
+            "correct": 2,
+            "explanation": "He asks to be treated like a son and guided beyond his confusion.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+            "sourceLabel": "Chapter 31, PDF pages 109–112"
+          },
+          {
+            "q": "What does Parikshith call his food and drink?",
+            "options": [
+              "The gold of the kingdom",
+              "The praise of his ministers",
+              "The memory of battle",
+              "The stories of Krishna"
+            ],
+            "correct": 3,
+            "explanation": "His answer expresses absorption in the divine narrative.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+            "sourceLabel": "Chapter 31, PDF pages 109–112"
+          },
+          {
+            "q": "What does tapas mean in Suka's explanation?",
+            "options": [
+              "Spiritual discipline that purifies the inner faculties",
+              "Physical discomfort with no inward purpose",
+              "A title inherited by kings",
+              "The accumulation of ritual objects"
+            ],
+            "correct": 0,
+            "explanation": "Tapas trains the mind, intellect, and senses toward realisation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+            "sourceLabel": "Chapter 31, PDF pages 109–112"
+          },
+          {
+            "q": "In which direction do the untrained senses tend to move?",
+            "options": [
+              "Automatically toward uninterrupted meditation",
+              "Toward external objects",
+              "Away from every desire",
+              "Only toward scriptural study"
+            ],
+            "correct": 1,
+            "explanation": "Suka describes how hearing, seeing, desire, and acquisition reinforce one another.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+            "sourceLabel": "Chapter 31, PDF pages 109–112"
+          },
+          {
+            "q": "What is the purpose of one-pointed practice here?",
+            "options": [
+              "To make the body immortal",
+              "To acquire authority over other rulers",
+              "To purify consciousness and recognise the Lord within",
+              "To avoid all responsibility for action"
+            ],
+            "correct": 2,
+            "explanation": "Purification of the inner instruments prepares the experience of the divine.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=109",
+            "sourceLabel": "Chapter 31, PDF pages 109–112"
+          }
+        ]
+      },
+      {
+        "id": "chapter-32",
+        "title": "Puranas and Incarnations\r",
+        "chapter": "Chapter 32 · Puranas and Incarnations\r",
+        "chapterNumber": 32,
+        "pdfStartPage": 113,
+        "pdfEndPage": 118,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+        "sourceLabel": "Chapter 32, PDF pages 113–118",
+        "summary": "Suka explains that the Puranas expand and clarify truths expressed in the Vedas. Eighteen are especially well known and were collected and edited by Vyasa. Their ten characteristics include creation, the variety of beings, boundaries, protection, consequences of action, the periods of Manu, divine glory, absorption, liberation, and the ultimate support. The purpose of this range of subjects is to sustain the earnest seeker on the way to liberation.\r\n\r\nThe chapter explains these characteristics in turn. Divine grace fosters creation; actions influence the course of individual lives; and dissolution gathers manifestation back into the Lord. Asraya, the underlying support, is given special importance. The discussion then turns to divine manifestations and their work of protection, instruction, and welfare. Rama and Krishna are singled out as especially meaningful for human beings because their lives and teachings offer examples that can be contemplated and followed. Suka prepares to narrate those lives next.",
+        "qa": [
+          {
+            "q": "How do the Puranas relate to the Vedas?",
+            "a": "They elaborate and clarify Vedic truths. Suka describes them as expanded explanations that inspire and guide.\r"
+          },
+          {
+            "q": "How many Puranas are described as especially famous?",
+            "a": "Eighteen. The chapter names eighteen as outstandingly well known.\r"
+          },
+          {
+            "q": "Who collected and edited these famous Puranas?",
+            "a": "Vyasa. Suka attributes this work to his father.\r"
+          },
+          {
+            "q": "Which of the ten characteristics is called the most important?",
+            "a": "Asraya, the underlying support. All serve liberation, with the ultimate support given special emphasis.\r"
+          },
+          {
+            "q": "Which two incarnations will Suka particularly describe next?",
+            "a": "Rama and Krishna. Their humanly accessible examples are emphasised at the chapter's close."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How do the Puranas relate to the Vedas?",
+            "options": [
+              "They deal only with palace administration",
+              "They elaborate and clarify Vedic truths",
+              "They replace every spiritual aim with entertainment",
+              "They contain only lists of weapons"
+            ],
+            "correct": 1,
+            "explanation": "Suka describes them as expanded explanations that inspire and guide.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+            "sourceLabel": "Chapter 32, PDF pages 113–118"
+          },
+          {
+            "q": "How many Puranas are described as especially famous?",
+            "options": [
+              "Five",
+              "Seven",
+              "Eighteen",
+              "Sixty-four"
+            ],
+            "correct": 2,
+            "explanation": "The chapter names eighteen as outstandingly well known.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+            "sourceLabel": "Chapter 32, PDF pages 113–118"
+          },
+          {
+            "q": "Who collected and edited these famous Puranas?",
+            "options": [
+              "Kamsa",
+              "Parikshith",
+              "Duryodhana",
+              "Vyasa"
+            ],
+            "correct": 3,
+            "explanation": "Suka attributes this work to his father.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+            "sourceLabel": "Chapter 32, PDF pages 113–118"
+          },
+          {
+            "q": "Which of the ten characteristics is called the most important?",
+            "options": [
+              "Asraya, the underlying support",
+              "Sthana alone, the setting of boundaries",
+              "Manvanthara alone, the periods of Manu",
+              "Visarga alone, the proliferation of beings"
+            ],
+            "correct": 0,
+            "explanation": "All serve liberation, with the ultimate support given special emphasis.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+            "sourceLabel": "Chapter 32, PDF pages 113–118"
+          },
+          {
+            "q": "Which two incarnations will Suka particularly describe next?",
+            "options": [
+              "Only Matsya and Kurma",
+              "Rama and Krishna",
+              "Only Vamana and Varaha",
+              "Manu and Maruth"
+            ],
+            "correct": 1,
+            "explanation": "Their humanly accessible examples are emphasised at the chapter's close.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=113",
+            "sourceLabel": "Chapter 32, PDF pages 113–118"
+          }
+        ]
+      },
+      {
+        "id": "chapter-33",
+        "title": "Rama Avatar\r",
+        "chapter": "Chapter 33 · Rama Avatar\r",
+        "chapterNumber": 33,
+        "pdfStartPage": 119,
+        "pdfEndPage": 121,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+        "sourceLabel": "Chapter 33, PDF pages 119–121",
+        "summary": "Suka portrays Rama through his gentleness, restraint, truthfulness, and compassion. He accepts exile to preserve his father's word and acts consistently with what he promises. His protection extends to those who surrender to him, and his treatment of Jatayu illustrates affection beyond ordinary distinctions. By honouring the dying bird and performing its final rites, he gives concrete expression to compassion.\r\n\r\nThe chapter presents Rama as dharma embodied in daily conduct, family relationships, and kingship. His composure at the change from coronation to exile is a central example of equanimity. Sita's decision to accompany him, Lakshmana's devotion, and Bharatha's austere life deepen the account of the family's dedication. Suka closes by praising contemplation of the Avatar's life as a means of spiritual uplift. Parikshith, delighted by this account, then asks to spend his remaining time hearing about Krishna's childhood and divine play.",
+        "qa": [
+          {
+            "q": "What does saumya describe in Rama?",
+            "a": "His gentle and mild nature. Suka begins by explaining this quality of gentleness.\r"
+          },
+          {
+            "q": "Why does Rama accept fourteen years of exile?",
+            "a": "To uphold his father's pledged word. Truthfulness and the preservation of the promise are central to this account.\r"
+          },
+          {
+            "q": "How does Rama treat those who surrender to him?",
+            "a": "He grants refuge. The chapter emphasises his pledge of protection to the surrendered.\r"
+          },
+          {
+            "q": "For which bird does Rama perform final rites?",
+            "a": "Jatayu. His tender care for Jatayu illustrates his compassion.\r"
+          },
+          {
+            "q": "What quality is shown by Rama's equal composure toward coronation and exile?",
+            "a": "Equanimity. Suka highlights the steadiness of Rama's consciousness through opposite circumstances."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does saumya describe in Rama?",
+            "options": [
+              "His gentle and mild nature",
+              "His possession of weapons",
+              "His royal treasury",
+              "His lineage alone"
+            ],
+            "correct": 0,
+            "explanation": "Suka begins by explaining this quality of gentleness.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+            "sourceLabel": "Chapter 33, PDF pages 119–121"
+          },
+          {
+            "q": "Why does Rama accept fourteen years of exile?",
+            "options": [
+              "To search for Maruth's gold",
+              "To uphold his father's pledged word",
+              "To avoid all responsibility permanently",
+              "To obey Kamsa"
+            ],
+            "correct": 1,
+            "explanation": "Truthfulness and the preservation of the promise are central to this account.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+            "sourceLabel": "Chapter 33, PDF pages 119–121"
+          },
+          {
+            "q": "How does Rama treat those who surrender to him?",
+            "options": [
+              "He rejects them because of their former identity",
+              "He sends them away without hearing them",
+              "He grants refuge",
+              "He accepts only those of royal birth"
+            ],
+            "correct": 2,
+            "explanation": "The chapter emphasises his pledge of protection to the surrendered.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+            "sourceLabel": "Chapter 33, PDF pages 119–121"
+          },
+          {
+            "q": "For which bird does Rama perform final rites?",
+            "options": [
+              "Garuda",
+              "A crane called Bakasura",
+              "A swan from the Ganga",
+              "Jatayu"
+            ],
+            "correct": 3,
+            "explanation": "His tender care for Jatayu illustrates his compassion.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+            "sourceLabel": "Chapter 33, PDF pages 119–121"
+          },
+          {
+            "q": "What quality is shown by Rama's equal composure toward coronation and exile?",
+            "options": [
+              "Equanimity",
+              "Indifference to truth",
+              "Desire for revenge",
+              "Fear of public opinion alone"
+            ],
+            "correct": 0,
+            "explanation": "Suka highlights the steadiness of Rama's consciousness through opposite circumstances.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=119",
+            "sourceLabel": "Chapter 33, PDF pages 119–121"
+          }
+        ]
+      },
+      {
+        "id": "chapter-34",
+        "title": "Krishna Avatar\r",
+        "chapter": "Chapter 34 · Krishna Avatar\r",
+        "chapterNumber": 34,
+        "pdfStartPage": 122,
+        "pdfEndPage": 127,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+        "sourceLabel": "Chapter 34, PDF pages 122–127",
+        "summary": "Suka cautions that Krishna's divine play cannot be understood simply by applying ordinary motives to its outward appearance. The Avatar's actions are for the good of the world and the fulfilment of devotees, without personal need or selfish gain. Krishna's childhood pranks, speech, movements, and companionship are described as carrying an extraordinary sweetness whose source is divine love.\r\n\r\nThe chapter asks the listener to see the spiritual meaning beneath familiar-looking behaviour. Those close to Krishna are drawn to Him even through His mischievous acts, and their longing is presented as devotion rather than ordinary attachment. Suka himself becomes absorbed in bliss while recollecting the Lord. He also explains the exceptional good fortune of the cowherds and cowherd maidens as the fruit of earlier merit. Their outward simplicity does not measure their inward attainment. The narrative prepares the reader to approach their relationship with Krishna reverently.",
+        "qa": [
+          {
+            "q": "For whose benefit are the Avatar's actions described as being performed?",
+            "a": "The welfare of the world. Suka stresses the absence of selfish need in divine activity.\r"
+          },
+          {
+            "q": "What underlies the sweetness of Krishna's actions?",
+            "a": "Divine love. Prema is identified as the current beneath His words and deeds.\r"
+          },
+          {
+            "q": "Why can a merely outward judgement misunderstand the divine play?",
+            "a": "Its inner purpose is not immediately apparent. Suka distinguishes the deeper purpose from superficial appearances.\r"
+          },
+          {
+            "q": "What happens to Suka while describing Krishna's sweetness?",
+            "a": "He becomes absorbed in bliss and sheds tears. His own devotional absorption affects the assembled listeners.\r"
+          },
+          {
+            "q": "To what is the cowherds' extraordinary good fortune attributed?",
+            "a": "Merit acquired in previous lives. Their apparently simple lives conceal great spiritual good fortune."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "For whose benefit are the Avatar's actions described as being performed?",
+            "options": [
+              "Personal profit alone",
+              "The preservation of pride",
+              "The acquisition of possessions",
+              "The welfare of the world"
+            ],
+            "correct": 3,
+            "explanation": "Suka stresses the absence of selfish need in divine activity.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+            "sourceLabel": "Chapter 34, PDF pages 122–127"
+          },
+          {
+            "q": "What underlies the sweetness of Krishna's actions?",
+            "options": [
+              "Divine love",
+              "Fear of His neighbours",
+              "A desire for payment",
+              "Rivalry with His companions"
+            ],
+            "correct": 0,
+            "explanation": "Prema is identified as the current beneath His words and deeds.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+            "sourceLabel": "Chapter 34, PDF pages 122–127"
+          },
+          {
+            "q": "Why can a merely outward judgement misunderstand the divine play?",
+            "options": [
+              "The chapter says no events ever occurred",
+              "Its inner purpose is not immediately apparent",
+              "Krishna never meets any devotees",
+              "The story contains only instructions on farming"
+            ],
+            "correct": 1,
+            "explanation": "Suka distinguishes the deeper purpose from superficial appearances.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+            "sourceLabel": "Chapter 34, PDF pages 122–127"
+          },
+          {
+            "q": "What happens to Suka while describing Krishna's sweetness?",
+            "options": [
+              "He refuses to continue from boredom",
+              "He leaves to collect royal gifts",
+              "He becomes absorbed in bliss and sheds tears",
+              "He begins arguing with Kamsa"
+            ],
+            "correct": 2,
+            "explanation": "His own devotional absorption affects the assembled listeners.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+            "sourceLabel": "Chapter 34, PDF pages 122–127"
+          },
+          {
+            "q": "To what is the cowherds' extraordinary good fortune attributed?",
+            "options": [
+              "Wealth alone",
+              "Royal titles",
+              "Skill in military strategy",
+              "Merit acquired in previous lives"
+            ],
+            "correct": 3,
+            "explanation": "Their apparently simple lives conceal great spiritual good fortune.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=122",
+            "sourceLabel": "Chapter 34, PDF pages 122–127"
+          }
+        ]
+      },
+      {
+        "id": "chapter-35",
+        "title": "Gopala, Gopas, and Gopis\r",
+        "chapter": "Chapter 35 · Gopala, Gopas, and Gopis\r",
+        "chapterNumber": 35,
+        "pdfStartPage": 128,
+        "pdfEndPage": 130,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+        "sourceLabel": "Chapter 35, PDF pages 128–130",
+        "summary": "The chapter develops the meaning of the cowherds' and cowherd maidens' devotion. Suka insists that purity of heart is necessary to understand Krishna's sports. Their attention is so completely given to Him that daily life becomes filled with remembrance. Uddhava, sent by Krishna with a message to Brindavan, discovers a love deeper than he had understood through his own long proximity to the Lord.\r\n\r\nAlthough reluctant to leave Krishna, Uddhava becomes equally reluctant to leave the devotees. Their hearts are described as places where the Lord is established, so that the joy of His presence is found among them. A vivid incident concerns a maiden who sees Krishna in a lamp's flame and becomes unaware that her fingers are being burned. The account presents this as absorption in divine love. Uddhava's wonder and humility underline the chapter's central teaching about the closeness of Bhagavan and the devotee.",
+        "qa": [
+          {
+            "q": "What is necessary to understand Krishna's sports according to Suka?",
+            "a": "Purity of heart. The chapter explicitly places inward purity above superficial judgement.\r"
+          },
+          {
+            "q": "Why does Uddhava go to Brindavan?",
+            "a": "Krishna sends him with a message. His mission brings him into contact with the gopis' devotion.\r"
+          },
+          {
+            "q": "How long does Krishna initially allow for the visit?",
+            "a": "One day. Uddhava is told not to remain beyond a day.\r"
+          },
+          {
+            "q": "What does Uddhava realise through the devotees?",
+            "a": "Their presence gives the same divine joy as Krishna's. Their hearts are described as altars in which the Lord is installed.\r"
+          },
+          {
+            "q": "What does the maiden report seeing in the lamp's flame?",
+            "a": "Krishna. Her absorption in that vision explains her unawareness of her burned fingers in the narrative."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is necessary to understand Krishna's sports according to Suka?",
+            "options": [
+              "Wealth and high office",
+              "Skill in gambling",
+              "Purity of heart",
+              "Physical strength alone"
+            ],
+            "correct": 2,
+            "explanation": "The chapter explicitly places inward purity above superficial judgement.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+            "sourceLabel": "Chapter 35, PDF pages 128–130"
+          },
+          {
+            "q": "Why does Uddhava go to Brindavan?",
+            "options": [
+              "Kamsa appoints him governor",
+              "He is searching for hidden gold",
+              "He is taking the throne from Nanda",
+              "Krishna sends him with a message"
+            ],
+            "correct": 3,
+            "explanation": "His mission brings him into contact with the gopis' devotion.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+            "sourceLabel": "Chapter 35, PDF pages 128–130"
+          },
+          {
+            "q": "How long does Krishna initially allow for the visit?",
+            "options": [
+              "One day",
+              "Seven months",
+              "Fourteen years",
+              "Sixty-four days"
+            ],
+            "correct": 0,
+            "explanation": "Uddhava is told not to remain beyond a day.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+            "sourceLabel": "Chapter 35, PDF pages 128–130"
+          },
+          {
+            "q": "What does Uddhava realise through the devotees?",
+            "options": [
+              "Their devotion is merely a public performance",
+              "Their presence gives the same divine joy as Krishna's",
+              "They have no wish to hear about Krishna",
+              "They seek only royal favours"
+            ],
+            "correct": 1,
+            "explanation": "Their hearts are described as altars in which the Lord is installed.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+            "sourceLabel": "Chapter 35, PDF pages 128–130"
+          },
+          {
+            "q": "What does the maiden report seeing in the lamp's flame?",
+            "options": [
+              "A royal crown",
+              "A chariot",
+              "Krishna",
+              "A serpent"
+            ],
+            "correct": 2,
+            "explanation": "Her absorption in that vision explains her unawareness of her burned fingers in the narrative.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=128",
+            "sourceLabel": "Chapter 35, PDF pages 128–130"
+          }
+        ]
+      },
+      {
+        "id": "chapter-36",
+        "title": "Comrade and King\r",
+        "chapter": "Chapter 36 · Comrade and King\r",
+        "chapterNumber": 36,
+        "pdfStartPage": 131,
+        "pdfEndPage": 133,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+        "sourceLabel": "Chapter 36, PDF pages 131–133",
+        "summary": "Suka describes Krishna's early life among the cowherds, His affection for the cattle, and the joy of His companionship. His parents try to protect Him from the agents sent by Kamsa, yet the protector of the universe cannot be confined by their precautions. Cows and calves pause in delight at His song, and His friends share games whose apparent simplicity conceals divine power.\r\n\r\nThe chapter moves between Krishna as an intimate playmate and Krishna as the source of protection. Its Govardhana account has a distinctive interpretation: Indra's part is described as belonging to a divine play intended to reveal Krishna's nature, rather than as actual anger or revenge. Krishna shelters the community and its cattle by lifting the hill. Suka repeatedly reminds Parikshith that these events have an underlying purpose. The king's appetite for the divine narrative grows as each account deepens his joy.",
+        "qa": [
+          {
+            "q": "Who sends agents to threaten the child Krishna?",
+            "a": "Kamsa. His parents try to shield Him from Kamsa's emissaries.\r"
+          },
+          {
+            "q": "How are the cows described when they hear Krishna sing?",
+            "a": "They stop and listen in delight. The scene emphasises their attraction to His divine melody.\r"
+          },
+          {
+            "q": "What role does Krishna share with the village boys?",
+            "a": "Tending cattle. His companionship unfolds in the pastures and along the Yamuna.\r"
+          },
+          {
+            "q": "What does Krishna lift to shelter the community?",
+            "a": "Govardhana Hill. The hill protects the cowherds and cattle from the downpour.\r"
+          },
+          {
+            "q": "How does this chapter interpret Indra's part in the Govardhana episode?",
+            "a": "As a divine play revealing Krishna's nature. This edition expressly says Indra has no actual anger or intent of revenge in the episode."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who sends agents to threaten the child Krishna?",
+            "options": [
+              "Nanda",
+              "Kamsa",
+              "Sandipani",
+              "Yudhishtira"
+            ],
+            "correct": 1,
+            "explanation": "His parents try to shield Him from Kamsa's emissaries.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+            "sourceLabel": "Chapter 36, PDF pages 131–133"
+          },
+          {
+            "q": "How are the cows described when they hear Krishna sing?",
+            "options": [
+              "They immediately flee the pasture",
+              "They attack the cowherd boys",
+              "They stop and listen in delight",
+              "They refuse ever to return home"
+            ],
+            "correct": 2,
+            "explanation": "The scene emphasises their attraction to His divine melody.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+            "sourceLabel": "Chapter 36, PDF pages 131–133"
+          },
+          {
+            "q": "What role does Krishna share with the village boys?",
+            "options": [
+              "Collecting palace taxes",
+              "Guarding Kamsa's prison",
+              "Presiding over royal trials",
+              "Tending cattle"
+            ],
+            "correct": 3,
+            "explanation": "His companionship unfolds in the pastures and along the Yamuna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+            "sourceLabel": "Chapter 36, PDF pages 131–133"
+          },
+          {
+            "q": "What does Krishna lift to shelter the community?",
+            "options": [
+              "Govardhana Hill",
+              "A royal chariot",
+              "Sandipani's house",
+              "The palace gate"
+            ],
+            "correct": 0,
+            "explanation": "The hill protects the cowherds and cattle from the downpour.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+            "sourceLabel": "Chapter 36, PDF pages 131–133"
+          },
+          {
+            "q": "How does this chapter interpret Indra's part in the Govardhana episode?",
+            "options": [
+              "As revenge that permanently defeats Krishna",
+              "As a divine play revealing Krishna's nature",
+              "As an event unrelated to Krishna",
+              "As a command to abandon every form of worship"
+            ],
+            "correct": 1,
+            "explanation": "This edition expressly says Indra has no actual anger or intent of revenge in the episode.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=131",
+            "sourceLabel": "Chapter 36, PDF pages 131–133"
+          }
+        ]
+      },
+      {
+        "id": "chapter-37",
+        "title": "The Fate of Demons\r",
+        "chapter": "Chapter 37 · The Fate of Demons\r",
+        "chapterNumber": 37,
+        "pdfStartPage": 134,
+        "pdfEndPage": 136,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+        "sourceLabel": "Chapter 37, PDF pages 134–136",
+        "summary": "The chapter begins with Krishna's daily care for the cattle and His meals with the cowherd boys. He shares their food, even accepting what they have already tasted. When they hesitate over ceremonial impurity, He points to the one divine presence within all. The intimacy of the meal expresses a unity deeper than the separation they imagine between themselves and Him.\r\n\r\nSeveral dangers then appear in disguised forms. Krishna destroys an ogre concealed as a calf, defeats Bakasura in the form of a giant crane, and frees His companions from a python-like attacker. Repeated rescue strengthens the boys' confidence in His protection. Suka distinguishes the appearance of a cowherd child from His reality as protector of the world. Parikshith responds with gratitude for hearing these accounts and asks next about the humbling of Kaliya. The movement from shared food to miraculous protection joins tenderness and divine power in the same figure.",
+        "qa": [
+          {
+            "q": "Why do the boys hesitate to share food already tasted by them?",
+            "a": "They fear it is ceremonially impure. Krishna answers their concern by teaching the unity present in all.\r"
+          },
+          {
+            "q": "What truth does Krishna use to reassure them?",
+            "a": "The One resides in all of them. His answer removes the imagined separation behind their hesitation.\r"
+          },
+          {
+            "q": "What disguise does the first ogre in this account take?",
+            "a": "A calf. Krishna identifies and destroys the attacker hidden among the cattle.\r"
+          },
+          {
+            "q": "In what form does Bakasura appear?",
+            "a": "A huge crane. Krishna tears apart the crane's beak and frees the swallowed cattle.\r"
+          },
+          {
+            "q": "What does Suka say Gopala truly is?",
+            "a": "Protector of the world. The chapter contrasts His assumed cowherd form with His divine reality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why do the boys hesitate to share food already tasted by them?",
+            "options": [
+              "They fear it is ceremonially impure",
+              "They have never brought food",
+              "Krishna has forbidden eating together",
+              "They are preparing it for Kamsa"
+            ],
+            "correct": 0,
+            "explanation": "Krishna answers their concern by teaching the unity present in all.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+            "sourceLabel": "Chapter 37, PDF pages 134–136"
+          },
+          {
+            "q": "What truth does Krishna use to reassure them?",
+            "options": [
+              "Only royal food may be shared",
+              "The One resides in all of them",
+              "Friendship depends on identical possessions",
+              "Every companion must live separately"
+            ],
+            "correct": 1,
+            "explanation": "His answer removes the imagined separation behind their hesitation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+            "sourceLabel": "Chapter 37, PDF pages 134–136"
+          },
+          {
+            "q": "What disguise does the first ogre in this account take?",
+            "options": [
+              "A swan",
+              "An elephant",
+              "A calf",
+              "A horse"
+            ],
+            "correct": 2,
+            "explanation": "Krishna identifies and destroys the attacker hidden among the cattle.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+            "sourceLabel": "Chapter 37, PDF pages 134–136"
+          },
+          {
+            "q": "In what form does Bakasura appear?",
+            "options": [
+              "A tiny fish",
+              "A deer",
+              "A lion",
+              "A huge crane"
+            ],
+            "correct": 3,
+            "explanation": "Krishna tears apart the crane's beak and frees the swallowed cattle.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+            "sourceLabel": "Chapter 37, PDF pages 134–136"
+          },
+          {
+            "q": "What does Suka say Gopala truly is?",
+            "options": [
+              "Protector of the world",
+              "Only an ordinary village child",
+              "A servant of Kamsa",
+              "A ruler without divine power"
+            ],
+            "correct": 0,
+            "explanation": "The chapter contrasts His assumed cowherd form with His divine reality.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=134",
+            "sourceLabel": "Chapter 37, PDF pages 134–136"
+          }
+        ]
+      },
+      {
+        "id": "chapter-38",
+        "title": "Serpent Kaliya Humbled\r",
+        "chapter": "Chapter 38 · Serpent Kaliya Humbled\r",
+        "chapterNumber": 38,
+        "pdfStartPage": 137,
+        "pdfEndPage": 139,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+        "sourceLabel": "Chapter 38, PDF pages 137–139",
+        "summary": "Krishna takes His companions and cattle toward a dangerous pool in the Yamuna. Its poisonous fumes kill creatures that approach it, and the boys plead with Him to stay away. He nevertheless enters the water, where Kaliya coils around Him. The alarm brings Nanda, Yasoda, Balarama, and the villagers to the bank. Balarama reassures them, while their fear and prayers reveal their intense love for Krishna.\r\n\r\nKrishna expands until the serpent must release its hold. He then subdues Kaliya and dances upon its hoods. The serpent's wives plead for mercy, acknowledging the justice of the punishment and asking that their husband be transformed. Krishna grants pardon and instructs Kaliya to live peacefully. His footprints become a sign of protection even against Garuda. The episode ends with pride humbled and destructive power restrained, extending the theme of divine protection to the transformation of the defeated creature.",
+        "qa": [
+          {
+            "q": "Where is Kaliya's poisonous pool?",
+            "a": "In the Yamuna. The chapter places the pool in the Yamuna near the cowherd community.\r"
+          },
+          {
+            "q": "Who reassures the frightened parents and villagers?",
+            "a": "Balarama. Knowing Krishna's power, Balarama says that no calamity can befall Him.\r"
+          },
+          {
+            "q": "How does Krishna first force the serpent to loosen its coils?",
+            "a": "By expanding His body. His increasing size compels Kaliya to uncoil.\r"
+          },
+          {
+            "q": "Who petitions Krishna to spare Kaliya?",
+            "a": "The serpent's wives. They acknowledge the punishment and ask for pardon and transformation.\r"
+          },
+          {
+            "q": "What sign protects Kaliya even from Garuda?",
+            "a": "Krishna's footprints on his heads. Krishna's blessing accompanies the marks of His feet."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where is Kaliya's poisonous pool?",
+            "options": [
+              "In the Ganga at Hasthinapura",
+              "Beside Maruth's sacrifice",
+              "In Sandipani's school",
+              "In the Yamuna"
+            ],
+            "correct": 3,
+            "explanation": "The chapter places the pool in the Yamuna near the cowherd community.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+            "sourceLabel": "Chapter 38, PDF pages 137–139"
+          },
+          {
+            "q": "Who reassures the frightened parents and villagers?",
+            "options": [
+              "Balarama",
+              "Kamsa",
+              "Sringi",
+              "Duryodhana"
+            ],
+            "correct": 0,
+            "explanation": "Knowing Krishna's power, Balarama says that no calamity can befall Him.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+            "sourceLabel": "Chapter 38, PDF pages 137–139"
+          },
+          {
+            "q": "How does Krishna first force the serpent to loosen its coils?",
+            "options": [
+              "By calling for Arjuna's bow",
+              "By expanding His body",
+              "By leaving the water unseen",
+              "By sending the villagers away"
+            ],
+            "correct": 1,
+            "explanation": "His increasing size compels Kaliya to uncoil.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+            "sourceLabel": "Chapter 38, PDF pages 137–139"
+          },
+          {
+            "q": "Who petitions Krishna to spare Kaliya?",
+            "options": [
+              "Kamsa's soldiers",
+              "The royal astrologers",
+              "The serpent's wives",
+              "Durvasa's disciples"
+            ],
+            "correct": 2,
+            "explanation": "They acknowledge the punishment and ask for pardon and transformation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+            "sourceLabel": "Chapter 38, PDF pages 137–139"
+          },
+          {
+            "q": "What sign protects Kaliya even from Garuda?",
+            "options": [
+              "A crown from Parikshith",
+              "A weapon from Indra",
+              "A letter from Kamsa",
+              "Krishna's footprints on his heads"
+            ],
+            "correct": 3,
+            "explanation": "Krishna's blessing accompanies the marks of His feet.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=137",
+            "sourceLabel": "Chapter 38, PDF pages 137–139"
+          }
+        ]
+      },
+      {
+        "id": "chapter-39",
+        "title": "The Omniscient as Student\r",
+        "chapter": "Chapter 39 · The Omniscient as Student\r",
+        "chapterNumber": 39,
+        "pdfStartPage": 140,
+        "pdfEndPage": 144,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+        "sourceLabel": "Chapter 39, PDF pages 140–144",
+        "summary": "Parikshith asks why Krishna, the source of all knowledge, studied under a teacher. Suka explains this as divine play that both blesses Sandipani and provides an example of ideal studentship. Following consultation with Garga, Krishna and Balarama are entrusted to the teacher. They study attentively, obey his directions, and give him joy through humility and dedication rather than displaying their authority.\r\n\r\nThe brothers master sixty-four arts and sciences in sixty-four days. Their gratitude culminates in restoring the teacher's lost son, an act that reveals their divine power and brings profound joy to the parents. Suka then draws out the educational meaning of the episode. The one from whom learning proceeds nevertheless accepts the role of pupil to show reverence, disciplined study, service, and gratitude. The chapter thus answers the apparent contradiction between omniscience and learning by explaining the purpose of the role Krishna chooses to enact.",
+        "qa": [
+          {
+            "q": "Who is the teacher of Krishna and Balarama in this chapter?",
+            "a": "Sandipani. The parents entrust the brothers to Sandipani for their education.\r"
+          },
+          {
+            "q": "Who recommends this teacher?",
+            "a": "Garga. The family priest advises the parents after their consultation.\r"
+          },
+          {
+            "q": "How many arts and sciences do the brothers master, and in how long?",
+            "a": "Sixty-four in sixty-four days. The text highlights this extraordinary completeness and speed of learning.\r"
+          },
+          {
+            "q": "What do they restore to their teacher?",
+            "a": "His lost son. Bringing back the son expresses their gratitude and reveals their divinity.\r"
+          },
+          {
+            "q": "Why does the omniscient Krishna take the role of a pupil?",
+            "a": "To exemplify humility, service, and gratitude toward a teacher. Suka explicitly presents the educational episode as an example for students."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who is the teacher of Krishna and Balarama in this chapter?",
+            "options": [
+              "Samika",
+              "Sringi",
+              "Sandipani",
+              "Durvasa"
+            ],
+            "correct": 2,
+            "explanation": "The parents entrust the brothers to Sandipani for their education.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+            "sourceLabel": "Chapter 39, PDF pages 140–144"
+          },
+          {
+            "q": "Who recommends this teacher?",
+            "options": [
+              "Takshaka",
+              "Dussasana",
+              "Maruth",
+              "Garga"
+            ],
+            "correct": 3,
+            "explanation": "The family priest advises the parents after their consultation.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+            "sourceLabel": "Chapter 39, PDF pages 140–144"
+          },
+          {
+            "q": "How many arts and sciences do the brothers master, and in how long?",
+            "options": [
+              "Sixty-four in sixty-four days",
+              "Eighteen in eighteen years",
+              "Five in seven days",
+              "Ten in fourteen years"
+            ],
+            "correct": 0,
+            "explanation": "The text highlights this extraordinary completeness and speed of learning.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+            "sourceLabel": "Chapter 39, PDF pages 140–144"
+          },
+          {
+            "q": "What do they restore to their teacher?",
+            "options": [
+              "His royal throne",
+              "His lost son",
+              "His army",
+              "His sacrificial horse"
+            ],
+            "correct": 1,
+            "explanation": "Bringing back the son expresses their gratitude and reveals their divinity.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+            "sourceLabel": "Chapter 39, PDF pages 140–144"
+          },
+          {
+            "q": "Why does the omniscient Krishna take the role of a pupil?",
+            "options": [
+              "Because He has lost His divine nature",
+              "To escape all duties",
+              "To exemplify humility, service, and gratitude toward a teacher",
+              "To compete for a royal office"
+            ],
+            "correct": 2,
+            "explanation": "Suka explicitly presents the educational episode as an example for students.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=140",
+            "sourceLabel": "Chapter 39, PDF pages 140–144"
+          }
+        ]
+      },
+      {
+        "id": "chapter-40",
+        "title": "From Death to Immortality\r",
+        "chapter": "Chapter 40 · From Death to Immortality\r",
+        "chapterNumber": 40,
+        "pdfStartPage": 145,
+        "pdfEndPage": 149,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+        "sourceLabel": "Chapter 40, PDF pages 145–149",
+        "summary": "The discussion turns to how illusion can prevent recognition of divinity. Suka connects present tendencies with previous actions and describes faith as something that has ripened over time. Parikshith asks about the uprooting of the trees, and Suka tells of Yasoda churning, Krishna's interrupted feeding, the broken pot, and His taking butter. The Lord allows Himself to be caught and tied to a mortar. Dragging it between twin trunks, He uproots the tree and frees Nalakubera and Manigriva from Narada's curse.\r\n\r\nThe narrative opens into instruction about identity. Just as ash can cover glowing embers or an obstruction can hide what is visible, identification with the body conceals the indwelling reality. Parikshith recognises that the body made of five elements is not his true Self. The gathered listeners understand this teaching as meant for them too. The chapter ends by identifying the mind as the instrument of both bondage and liberation: attachment sustains the former, while recognition of the Atma makes freedom possible.",
+        "qa": [
+          {
+            "q": "What does Suka compare faith in God to?",
+            "a": "A harvest from seeds planted in previous lives. The image explains the ripening of earlier good tendencies.\r"
+          },
+          {
+            "q": "What household work is Yasoda doing when Krishna approaches?",
+            "a": "Churning. She is churning and singing when the child seeks her attention.\r"
+          },
+          {
+            "q": "What happens to the pot after Yasoda briefly leaves Krishna?",
+            "a": "Krishna breaks it and takes butter. This begins the sequence leading to her search for the child.\r"
+          },
+          {
+            "q": "What mistaken identification does Parikshith say has been removed?",
+            "a": "Taking the body of five elements as his true reality. He thanks the sage for clarifying the distinction between the body and the Self.\r"
+          },
+          {
+            "q": "What is described as the instrument of both bondage and liberation?",
+            "a": "The mind. The concluding teaching concerns the mind's attachment or recognition of the Atma."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Suka compare faith in God to?",
+            "options": [
+              "A possession bought with royal wealth",
+              "A harvest from seeds planted in previous lives",
+              "A skill limited to soldiers",
+              "A reward from Kamsa"
+            ],
+            "correct": 1,
+            "explanation": "The image explains the ripening of earlier good tendencies.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+            "sourceLabel": "Chapter 40, PDF pages 145–149"
+          },
+          {
+            "q": "What household work is Yasoda doing when Krishna approaches?",
+            "options": [
+              "Weaving a royal banner",
+              "Preparing a chariot",
+              "Churning",
+              "Counting jewels"
+            ],
+            "correct": 2,
+            "explanation": "She is churning and singing when the child seeks her attention.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+            "sourceLabel": "Chapter 40, PDF pages 145–149"
+          },
+          {
+            "q": "What happens to the pot after Yasoda briefly leaves Krishna?",
+            "options": [
+              "It turns into a golden crown",
+              "It is carried away by Durvasa",
+              "It disappears into the river",
+              "Krishna breaks it and takes butter"
+            ],
+            "correct": 3,
+            "explanation": "This begins the sequence leading to her search for the child.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+            "sourceLabel": "Chapter 40, PDF pages 145–149"
+          },
+          {
+            "q": "What mistaken identification does Parikshith say has been removed?",
+            "options": [
+              "Taking the body of five elements as his true reality",
+              "Believing he has ever been a king",
+              "Remembering his grandparents",
+              "Recognising Suka as his teacher"
+            ],
+            "correct": 0,
+            "explanation": "He thanks the sage for clarifying the distinction between the body and the Self.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+            "sourceLabel": "Chapter 40, PDF pages 145–149"
+          },
+          {
+            "q": "What is described as the instrument of both bondage and liberation?",
+            "options": [
+              "The royal elephant",
+              "The mind",
+              "A sacrificial horse",
+              "The palace gates"
+            ],
+            "correct": 1,
+            "explanation": "The concluding teaching concerns the mind's attachment or recognition of the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=145",
+            "sourceLabel": "Chapter 40, PDF pages 145–149"
+          }
+        ]
+      },
+      {
+        "id": "chapter-41",
+        "title": "The Message about Krishna's Advent\r",
+        "chapter": "Chapter 41 · The Message about Krishna's Advent\r",
+        "chapterNumber": 41,
+        "pdfStartPage": 150,
+        "pdfEndPage": 153,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+        "sourceLabel": "Chapter 41, PDF pages 150–153",
+        "summary": "As his allotted time nears its end, Parikshith asks to remain immersed in Krishna by hearing the account of His birth. Suka begins with the family background and the marriage of Devaki and Vasudeva. Kamsa escorts the couple with affection until a heavenly warning declares that Devaki's eighth child will cause his death. Fear transforms his affection into violence, and he threatens to kill her.\r\n\r\nVasudeva restrains him and promises to deliver their children into his hands. At first Kamsa returns the first baby, reasoning that the danger concerns the eighth. Narada's later warning intensifies his fear, and he orders all six sons to be brought to him and kills them. The parents endure overwhelming grief. Suka places the account within the mystery of divine providence, stressing the limits of an observer who sees only the interval between birth and death. The chapter prepares the prison setting of Krishna's advent.",
+        "qa": [
+          {
+            "q": "What does Parikshith ask to hear as his final hours approach?",
+            "a": "The story of Krishna's birth. He wishes his remaining thoughts and hearing to remain centred on Krishna.\r"
+          },
+          {
+            "q": "Who are Krishna's parents in the birth narrative?",
+            "a": "Devaki and Vasudeva. Suka begins with their marriage and the events that follow it.\r"
+          },
+          {
+            "q": "What does the heavenly warning tell Kamsa?",
+            "a": "Devaki's eighth child will cause his death. This warning changes his affectionate conduct into fear and hostility.\r"
+          },
+          {
+            "q": "What promise does Vasudeva make to save Devaki?",
+            "a": "To hand over the children born to her. His pledge persuades Kamsa to release her at that moment.\r"
+          },
+          {
+            "q": "Whose later warning intensifies Kamsa's fear?",
+            "a": "Narada's. Narada's visit is followed by Kamsa's demand for the six children."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Parikshith ask to hear as his final hours approach?",
+            "options": [
+              "The story of Krishna's birth",
+              "The price of the royal jewels",
+              "A plan for another hunt",
+              "A list of neighbouring armies"
+            ],
+            "correct": 0,
+            "explanation": "He wishes his remaining thoughts and hearing to remain centred on Krishna.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+            "sourceLabel": "Chapter 41, PDF pages 150–153"
+          },
+          {
+            "q": "Who are Krishna's parents in the birth narrative?",
+            "options": [
+              "Nanda and Iravathi",
+              "Devaki and Vasudeva",
+              "Kunthi and Ugrasena",
+              "Gandhari and Vidura"
+            ],
+            "correct": 1,
+            "explanation": "Suka begins with their marriage and the events that follow it.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+            "sourceLabel": "Chapter 41, PDF pages 150–153"
+          },
+          {
+            "q": "What does the heavenly warning tell Kamsa?",
+            "options": [
+              "He will become Sandipani's pupil",
+              "He must recover Maruth's gold",
+              "Devaki's eighth child will cause his death",
+              "He will rule without end"
+            ],
+            "correct": 2,
+            "explanation": "This warning changes his affectionate conduct into fear and hostility.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+            "sourceLabel": "Chapter 41, PDF pages 150–153"
+          },
+          {
+            "q": "What promise does Vasudeva make to save Devaki?",
+            "options": [
+              "To surrender all the Pandavas",
+              "To leave the kingdom alone",
+              "To build a new prison",
+              "To hand over the children born to her"
+            ],
+            "correct": 3,
+            "explanation": "His pledge persuades Kamsa to release her at that moment.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+            "sourceLabel": "Chapter 41, PDF pages 150–153"
+          },
+          {
+            "q": "Whose later warning intensifies Kamsa's fear?",
+            "options": [
+              "Narada's",
+              "Parikshith's",
+              "Sringi's",
+              "Bhima's"
+            ],
+            "correct": 0,
+            "explanation": "Narada's visit is followed by Kamsa's demand for the six children.",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=150",
+            "sourceLabel": "Chapter 41, PDF pages 150–153"
+          }
+        ]
+      },
+      {
+        "id": "chapter-42",
+        "title": "Consummation in Nanda-Nandana\r",
+        "chapter": "Chapter 42 · Consummation in Nanda-Nandana\r",
+        "chapterNumber": 42,
+        "pdfStartPage": 154,
+        "pdfEndPage": 158,
+        "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+        "sourceLabel": "Chapter 42, PDF pages 154–158",
+        "summary": "Suka describes the imprisonment of Devaki and Vasudeva and the wondrous change accompanying the eighth pregnancy. Parikshith contrasts Kamsa's growing cruelty with the possibility of turning to God when death approaches. Suka explains that final thoughts reflect the tendencies cultivated in life. The king gratefully acknowledges the influence of grace, his elders, and good company, then asks to return to Krishna's birth.\r\n\r\nThe seventh child, transferred to Rohini, is identified as Balarama. Before Krishna's birth, Narayana appears to the parents and instructs Vasudeva to carry the child to Nanda's home and bring back Yasoda's baby girl. Chains fall, doors open, and Adisesha shelters the infant on the journey. As Suka relates these events, the serpent bites Parikshith. With Krishna's name on his lips, the king leaves his body amid the gathering's prayers. Suka declares his attainment of Gopala. The closing image offers the Bhagavatha as a ripe fruit of the Vedas, bringing spiritual nourishment to the world.",
+        "qa": [
+          {
+            "q": "To whose womb is the seventh child transferred?",
+            "a": "Rohini's. Suka identifies this child as Balarama, also called Samkarshana.\r"
+          },
+          {
+            "q": "What does Suka say determines the goal reached at death?",
+            "a": "The thoughts present in the dying person's mind. He contrasts Kamsa's and Parikshith's inward directions as death approaches.\r"
+          },
+          {
+            "q": "Where is Vasudeva instructed to take the newborn Krishna?",
+            "a": "Nanda's home in Gokula. He is told to place Krishna beside Yasoda and bring back her baby girl.\r"
+          },
+          {
+            "q": "Who shelters Krishna from the rain on the journey?",
+            "a": "Adisesha. The serpent's hoods form a protective covering over the infant.\r"
+          },
+          {
+            "q": "What name does Parikshith repeat as he leaves his body?",
+            "a": "Krishna. The narrative closes with his remembrance of Krishna and Suka's declaration that he has reached Gopala."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To whose womb is the seventh child transferred?",
+            "options": [
+              "Gandhari's",
+              "Iravathi's",
+              "Kunthi's",
+              "Rohini's"
+            ],
+            "correct": 3,
+            "explanation": "Suka identifies this child as Balarama, also called Samkarshana.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+            "sourceLabel": "Chapter 42, PDF pages 154–158"
+          },
+          {
+            "q": "What does Suka say determines the goal reached at death?",
+            "options": [
+              "The thoughts present in the dying person's mind",
+              "The number of palace gates",
+              "The size of the funeral gathering alone",
+              "The quantity of stored grain"
+            ],
+            "correct": 0,
+            "explanation": "He contrasts Kamsa's and Parikshith's inward directions as death approaches.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+            "sourceLabel": "Chapter 42, PDF pages 154–158"
+          },
+          {
+            "q": "Where is Vasudeva instructed to take the newborn Krishna?",
+            "options": [
+              "Samika's hermitage",
+              "Nanda's home in Gokula",
+              "Maruth's sacrificial ground",
+              "Parikshith's palace"
+            ],
+            "correct": 1,
+            "explanation": "He is told to place Krishna beside Yasoda and bring back her baby girl.\r",
+            "type": "recall",
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+            "sourceLabel": "Chapter 42, PDF pages 154–158"
+          },
+          {
+            "q": "Who shelters Krishna from the rain on the journey?",
+            "options": [
+              "Bakasura",
+              "Takshaka",
+              "Adisesha",
               "Kamsa"
             ],
-            "correct": 1,
-            "explanation": "Vidura accompanies Dhritarashtra and Gandhari to the forest and helps establish their new life of discipline and contemplation.",
+            "correct": 2,
+            "explanation": "The serpent's hoods form a protective covering over the infant.\r",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+            "sourceLabel": "Chapter 42, PDF pages 154–158"
           },
           {
-            "q": "You want more time for reflection but your schedule is crowded. What is a practical beginning?",
+            "q": "What name does Parikshith repeat as he leaves his body?",
             "options": [
-              "Wait for a perfect future",
-              "Add several demanding practices immediately",
-              "Abandon every responsibility",
-              "Review one optional activity to simplify"
+              "Kamsa",
+              "Maruth",
+              "Hiranyaksha",
+              "Krishna"
             ],
             "correct": 3,
-            "explanation": "Reviewing an optional activity creates room for reflection without making an unconsidered break with existing responsibilities.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A friend plans a simpler routine. What help is most useful?",
-            "options": [
-              "Question their worth",
-              "Demand that they copy your life",
-              "Help identify a workable place and time",
-              "Choose everything for them"
-            ],
-            "correct": 2,
-            "explanation": "Practical arrangements help an intention become sustainable while leaving the person's choices in their own hands.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "Someone wants guidance on a major lifestyle change. What should a guide understand first?",
-            "options": [
-              "How many people will notice",
-              "How impressive the change sounds",
-              "Whether it copies the guide exactly",
-              "The person's aims, needs and responsibilities"
-            ],
-            "correct": 3,
-            "explanation": "Understanding aims and responsibilities keeps guidance relevant to the person rather than to an abstract ideal.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A family member changes their routine without explanation, causing worry. What could help?",
-            "options": [
-              "Refuse every conversation",
-              "Communicate plans and appropriate contact details",
-              "Treat concern as an insult",
-              "Assume affection should require no information"
-            ],
-            "correct": 1,
-            "explanation": "Clear communication can respect a chosen change while reducing unnecessary worry for people who care.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A learner equates simplicity with owning the fewest objects. What should they also consider?",
-            "options": [
-              "How to criticize less simple lives",
-              "How others will admire the change",
-              "Whether the change supports their purpose",
-              "Whether discomfort proves superiority"
-            ],
-            "correct": 2,
-            "explanation": "A change becomes meaningful through the purpose it supports rather than a contest over outward possessions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "You make an ambitious daily practice but cannot sustain it. What is best?",
-            "options": [
-              "Blame everyone with a different routine",
-              "Seek guidance and adjust the plan",
-              "Give up reflection entirely",
-              "Hide the difficulty"
-            ],
-            "correct": 1,
-            "explanation": "Guidance and adjustment make it possible to learn from difficulty without treating the initial plan as untouchable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "Which support is more useful than vague encouragement?",
-            "options": [
-              "Let us find a realistic quiet period",
-              "Everyone should live exactly alike",
-              "You must transform immediately",
-              "There is no need to plan"
-            ],
-            "correct": 0,
-            "explanation": "A realistic quiet period gives the intention a practical place within the person's actual day.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A mentor suggests removing one unnecessary distraction. How should you evaluate it?",
-            "options": [
-              "Assume harder always means better",
-              "Judge only whether it looks strict",
-              "Reject it because it is small",
-              "Consider whether it supports your stated aim"
-            ],
-            "correct": 3,
-            "explanation": "Evaluating the suggestion against the aim helps distinguish useful simplicity from difficulty pursued for its own sake.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "You move to a quieter environment but remain constantly distracted. What deserves attention?",
-            "options": [
-              "Finding someone to blame",
-              "How you use your attention and time",
-              "Announcing the move more widely",
-              "Making the place look more austere"
-            ],
-            "correct": 1,
-            "explanation": "A quieter setting can help, but the way time and attention are used still matters.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A guide is helping a newcomer establish a practice. Which approach is best?",
-            "options": [
-              "List every possible failure",
-              "Demand instant independence",
-              "Agree on manageable steps and review them",
-              "Offer one rigid plan without questions"
-            ],
-            "correct": 2,
-            "explanation": "Manageable steps with review turn guidance into continuing support rather than a single overwhelming instruction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "Which change most clearly supports intentional simplicity?",
-            "options": [
-              "Discarding useful things for praise",
-              "Competing over hardship",
-              "Neglecting people who depend on you",
-              "Reducing an unhelpful habit to protect reflection time"
-            ],
-            "correct": 3,
-            "explanation": "Reducing an unhelpful habit links simplicity with a meaningful use of time instead of outward display.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "Someone asks why you are changing your routine. What is a respectful answer?",
-            "options": [
-              "Declare all other routines inferior",
-              "Claim the change guarantees wisdom",
-              "Refuse to acknowledge their concern",
-              "Explain your purpose without judging their choices"
-            ],
-            "correct": 3,
-            "explanation": "Explaining a personal purpose allows understanding without making another person's different circumstances a target for judgement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A learner feels overwhelmed by conflicting advice. What could help?",
-            "options": [
-              "Clarify the goal and seek relevant guidance",
-              "Follow whichever person speaks loudest",
-              "Choose the strictest suggestion automatically",
-              "Collect still more opinions immediately"
-            ],
-            "correct": 0,
-            "explanation": "A clear goal makes it easier to assess which guidance is relevant and workable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "What distinguishes helpful guidance from control?",
-            "options": [
-              "Guidance requires permanent dependence",
-              "Control always uses harsh words",
-              "Guidance supports understanding and responsible choice",
-              "Guidance removes every personal choice"
-            ],
-            "correct": 2,
-            "explanation": "Helpful guidance strengthens a person's ability to understand and act rather than making dependence the objective.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "You want to create a space for study in a busy home. What is practical?",
-            "options": [
-              "Agree on a modest shared arrangement",
-              "Wait until the home is perfect",
-              "Demand total silence all day",
-              "Remove everyone else's belongings"
-            ],
-            "correct": 0,
-            "explanation": "A modest agreement can make study possible while respecting the other people who share the space.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A new routine is working, but circumstances change. What should you do?",
-            "options": [
-              "Insist that no detail can change",
-              "Abandon the purpose entirely",
-              "Review how to preserve its purpose",
-              "Hide the new difficulty from your guide"
-            ],
-            "correct": 2,
-            "explanation": "Reviewing the arrangement helps preserve a useful purpose when the earlier method no longer fits.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A friend confuses withdrawal with rejecting everyone. What is a balanced suggestion?",
-            "options": [
-              "Cut every relationship immediately",
-              "Seek quiet while communicating and keeping responsibilities clear",
-              "Treat all affection as interference",
-              "Make others prove loyalty first"
-            ],
-            "correct": 1,
-            "explanation": "Quiet and reflection can be pursued with considerate communication rather than through unnecessary confusion or rejection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "Which question helps assess whether a simplification is useful?",
-            "options": [
-              "Can it become a competition?",
-              "Does it look more severe?",
-              "Will others envy it?",
-              "Does it free attention for what matters?"
-            ],
-            "correct": 3,
-            "explanation": "Freed attention provides a practical test of whether the change serves the intention behind it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          },
-          {
-            "q": "A mentor's suggestion is unclear. What is the learner's best next step?",
-            "options": [
-              "Ask a stranger to guess",
-              "Pretend to understand",
-              "Request clarification about purpose and practice",
-              "Follow it without knowing its scope"
-            ],
-            "correct": 2,
-            "explanation": "Clarifying purpose and practice helps the learner use guidance thoughtfully instead of relying on an uncertain interpretation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter8.html",
-            "sourceLabel": "Chapter 8: Dhritarashtra Transformed"
-          }
-        ]
-      },
-      {
-        "id": "remembering-grace-with-gratitude",
-        "title": "Remembering grace with gratitude",
-        "chapter": "Chapter 17: Recalling the Bygone Days",
-        "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-        "summary": "Parikshit learns about his ancestors' relationship with Krishna and longs to hear more from Vyasa. When he regrets missing their experiences, the sage reminds him of the grace present in his own early life. Remembrance becomes an invitation to gratitude.",
-        "qa": [
-          {
-            "q": "How does Vyasa respond to Parikshit's regret?",
-            "a": "He recalls Krishna's protection and affection toward Parikshit from infancy, helping the king recognize his own blessings instead of seeing himself as spiritually unfortunate."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "What changes the perspective on missed opportunities?",
-            "options": [
-              "Withdrawal",
-              "Recognition of received grace",
-              "Comparison",
-              "Resentment"
-            ],
-            "correct": 1,
-            "explanation": "Vyasa draws attention to the grace Parikshit has already received, redirecting regret toward appreciation and renewed spiritual interest.",
+            "explanation": "The narrative closes with his remembrance of Krishna and Suka's declaration that he has reached Gopala.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "You envy someone else's learning opportunities. What reflection could restore perspective?",
-            "options": [
-              "Assume your efforts cannot matter",
-              "Notice the help and opportunities already present",
-              "List everything they received",
-              "Stop seeking guidance"
-            ],
-            "correct": 1,
-            "explanation": "Recognizing existing support makes present opportunities easier to see without denying that circumstances differ.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A mentor reminds you of assistance you had forgotten. What is a useful response?",
-            "options": [
-              "Defend the claim that nobody helped",
-              "Treat remembrance as criticism",
-              "Compare the gift with someone else's",
-              "Acknowledge it and consider how to use it well"
-            ],
-            "correct": 3,
-            "explanation": "Acknowledging help can turn a forgotten experience into encouragement for a responsible present response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "You wish you had joined a study group years earlier. What should guide today's choice?",
-            "options": [
-              "The opportunity available to participate now",
-              "The impossibility of changing the past",
-              "How to blame the organizers",
-              "Whether others started younger"
-            ],
-            "correct": 0,
-            "explanation": "Attention to the present opportunity allows regret to inform action without deciding that beginning is pointless.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "Which journal prompt encourages concrete gratitude?",
-            "options": [
-              "Which memory makes me look greatest?",
-              "Why does everyone else have more?",
-              "Who helped me, and what did their help make possible?",
-              "How can I prove total independence?"
-            ],
-            "correct": 2,
-            "explanation": "Specific remembrance makes gratitude about real contributions rather than a vague claim that everything was easy.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A successful project involved quiet support from many people. What should a leader acknowledge?",
-            "options": [
-              "Only help from prominent people",
-              "Only the most visible contribution",
-              "Only their own decisions",
-              "The different forms of help received"
-            ],
-            "correct": 3,
-            "explanation": "Recognizing varied contributions gives a fuller account of how the shared work became possible.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A learner thinks past mistakes cancel every blessing. Which reflection is more balanced?",
-            "options": [
-              "Mistakes never matter",
-              "Only disappointment is worth remembering",
-              "Mistakes and received help can both be acknowledged",
-              "Support guarantees future perfection"
-            ],
-            "correct": 2,
-            "explanation": "Acknowledging both mistakes and support allows honest gratitude without denying responsibility or difficulty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "Someone shares an encouraging memory from your early learning. What can you do with it?",
-            "options": [
-              "Let it strengthen a current learning effort",
-              "Use it to claim superiority",
-              "Treat it as proof no work remains",
-              "Compare everyone else's history"
-            ],
-            "correct": 0,
-            "explanation": "An encouraging memory becomes useful when it supports present effort rather than replaces it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A friend says they have always had to do everything alone. What is a considerate response?",
-            "options": [
-              "Invite them to reflect on support without dismissing hardship",
-              "Insist their hardship was imaginary",
-              "List reasons they should stop speaking",
-              "Compare them with someone worse off"
-            ],
-            "correct": 0,
-            "explanation": "A considerate invitation leaves room for both difficult experiences and forms of help that may have been overlooked.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "Which response turns gratitude into a practical action?",
-            "options": [
-              "Demanding a larger gift",
-              "Keeping useful knowledge from everyone else",
-              "Using received guidance to help complete a responsibility",
-              "Repeating thanks without attention"
-            ],
-            "correct": 2,
-            "explanation": "Using guidance responsibly honours the help by allowing it to contribute beyond the original moment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "You compare your spiritual experiences with another person's account. What question helps?",
-            "options": [
-              "Whose account sounds more impressive?",
-              "Who deserves higher status?",
-              "How can I obtain the same story?",
-              "What can I learn from the support in my own life?"
-            ],
-            "correct": 3,
-            "explanation": "Reflecting on one's own support reduces the temptation to make another person's experience a standard of worth.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A group wants to remember its beginnings. Which approach is most helpful?",
-            "options": [
-              "Exaggerate every early success",
-              "Exclude less prominent helpers",
-              "Create a flawless legend",
-              "Recall contributions accurately and appreciatively"
-            ],
-            "correct": 3,
-            "explanation": "Accurate appreciation honours the past without replacing real people and events with an embellished account.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "You receive encouragement after expressing regret. What next step gives it meaning?",
-            "options": [
-              "Prove that every regret was justified",
-              "Dismiss the encouragement as irrelevant",
-              "Wait for identical circumstances to return",
-              "Act on one available opportunity"
-            ],
-            "correct": 3,
-            "explanation": "Acting on an available opportunity connects encouragement with the part of life that remains within reach.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "What makes gratitude different from denying difficulty?",
-            "options": [
-              "Gratitude means mistakes never need repair",
-              "Gratitude can recognize help while admitting hardship",
-              "Gratitude requires calling every experience pleasant",
-              "Gratitude forbids asking for assistance"
-            ],
-            "correct": 1,
-            "explanation": "Recognizing help does not require pretending that difficulties, losses or unmet needs did not exist.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A former teacher's advice helped you years later. What is a thoughtful response?",
-            "options": [
-              "Claim you never needed anyone",
-              "Assume remembering it is enough forever",
-              "Compare the advice with every other lesson",
-              "Acknowledge its continuing value"
-            ],
-            "correct": 3,
-            "explanation": "Acknowledging continuing value recognizes that assistance may bear fruit beyond the moment it was first offered.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A newcomer feels less fortunate than long-standing members. What could the group emphasize?",
-            "options": [
-              "Why late arrival is a disadvantage",
-              "The welcome and opportunities available now",
-              "The seniority of existing members",
-              "How much they missed"
-            ],
-            "correct": 1,
-            "explanation": "Present welcome and opportunity can help a newcomer participate without feeling defined by the time they missed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "Which question corrects an overly self-sufficient account of success?",
-            "options": [
-              "How can I sound more independent?",
-              "Who can I credit least?",
-              "Which difficulty can I conceal?",
-              "Whose contributions have I left out?"
-            ],
-            "correct": 3,
-            "explanation": "Looking for omitted contributions makes the account more truthful and opens space for appropriate gratitude.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "You remember receiving patient help when inexperienced. What is a fitting response to a beginner?",
-            "options": [
-              "Keep your method secret",
-              "Offer similar patience and practical support",
-              "Remind them of your superiority",
-              "Demand instant competence"
-            ],
-            "correct": 1,
-            "explanation": "Offering patient support allows gratitude for earlier help to influence the way another learner is treated.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "A happy memory is making you dismiss every present opportunity. What would help?",
-            "options": [
-              "Reject every new arrangement",
-              "Appreciate the memory while engaging with today",
-              "Treat change as personal betrayal",
-              "Insist the past can be recreated exactly"
-            ],
-            "correct": 1,
-            "explanation": "Appreciation of the past can coexist with attention to worthwhile possibilities in the present.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          },
-          {
-            "q": "At a project's conclusion, which acknowledgement is most meaningful?",
-            "options": [
-              "Thanks to everyone, without further thought",
-              "Everything depended on my reputation",
-              "Nobody else could have helped",
-              "Your careful preparation made this part possible"
-            ],
-            "correct": 3,
-            "explanation": "A specific acknowledgement tells someone how their contribution mattered and makes gratitude more attentive.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vahinis-pdf/Bhagavatha.pdf",
-            "sourceLabel": "Chapter 17: Recalling the Bygone Days"
-          }
-        ]
-      },
-      {
-        "id": "a-small-offering-and-trust",
-        "title": "A small offering and trust",
-        "chapter": "Chapter 23: Arjuna's fight with Gods",
-        "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-        "summary": "The chapter opens with Krishna accepting a tiny remnant from Draupadi's vessel. Durvasa and his disciples find their hunger satisfied, resolving the Pandavas' predicament. This episode highlights their surrender and the grace that, in the narrative, makes a seemingly insignificant offering sufficient.",
-        "qa": [
-          {
-            "q": "What makes the small remnant significant in this episode?",
-            "a": "Krishna accepts it and the guests' hunger is satisfied, turning the family's helpless situation into relief and illustrating the grace associated with their trust."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Who accepts the remnant from the vessel?",
-            "options": [
-              "Krishna",
-              "Ravana",
-              "Bharatha",
-              "Valmiki"
-            ],
-            "correct": 0,
-            "explanation": "Krishna accepts the tiny offering, after which Durvasa and his disciples no longer feel able to eat.",
-            "type": "recall",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "You can offer only a modest amount of time to a project. What is best?",
-            "options": [
-              "Withdraw because it is small",
-              "Promise more than you can give",
-              "Wait until the role becomes prestigious",
-              "Offer a useful contribution you can keep"
-            ],
-            "correct": 3,
-            "explanation": "A modest, reliable contribution can serve a real need without relying on exaggerated promises.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A friend gives a small but thoughtful gift. What is a considerate response?",
-            "options": [
-              "Recognize the care behind it",
-              "Treat it as a public ranking",
-              "Compare its price with others",
-              "Ask why it is not larger"
-            ],
-            "correct": 0,
-            "explanation": "Attention to care recognizes the relationship instead of reducing the gift to its cost.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A group has few resources but an immediate need. What should it do first?",
-            "options": [
-              "Abandon planning entirely",
-              "Announce guaranteed success",
-              "Identify what can be used responsibly",
-              "Pretend resources are unlimited"
-            ],
-            "correct": 2,
-            "explanation": "An honest inventory helps the group make useful efforts without confusing trust with unsupported certainty.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "Which offering is most dependable for a shared activity?",
-            "options": [
-              "Help conditional on constant praise",
-              "A small task completed with care",
-              "A grand promise repeatedly postponed",
-              "A gift chosen only for display"
-            ],
-            "correct": 1,
-            "explanation": "Careful completion makes the contribution usable, regardless of whether it appears impressive.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "Someone dismisses a volunteer's simple contribution. What should the coordinator consider?",
-            "options": [
-              "Whether the volunteer has status",
-              "Whether another gift looked expensive",
-              "Whether it attracted enough attention",
-              "Whether the contribution meets a genuine need"
-            ],
-            "correct": 3,
-            "explanation": "Usefulness and care provide a better assessment than prestige, expense or public visibility.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "You want to help but cannot solve the whole problem. What is a thoughtful response?",
-            "options": [
-              "Pretend the problem is already solved",
-              "Offer reassurance without checking the need",
-              "Choose an appropriate part and coordinate with others",
-              "Do nothing until you can do everything"
-            ],
-            "correct": 2,
-            "explanation": "An appropriate contribution can be valuable even when the wider problem requires other people and resources.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A recipient explains that a planned donation is unsuitable. What should the giver do?",
-            "options": [
-              "Listen and adjust if possible",
-              "Insist it must be accepted",
-              "Demand gratitude anyway",
-              "Make the recipient feel guilty"
-            ],
-            "correct": 0,
-            "explanation": "Listening keeps the act directed toward the recipient's need rather than the giver's preferred display of generosity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A team is tempted to embellish a small success. Which response protects trust?",
-            "options": [
-              "Add a more dramatic result",
-              "Describe what actually happened",
-              "Claim every need was met",
-              "Hide the limitations"
-            ],
-            "correct": 1,
-            "explanation": "An accurate account respects both the work accomplished and the needs that still remain.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "Which statement combines trust with responsibility?",
-            "options": [
-              "An offering guarantees our preferred outcome",
-              "Planning shows a lack of sincerity",
-              "No preparation is needed",
-              "We will do what we can carefully"
-            ],
-            "correct": 3,
-            "explanation": "Careful effort gives trust a practical expression without claiming control over every result.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "You are grateful for help that looked insignificant at first. What is a useful reflection?",
-            "options": [
-              "A small act may meet a need at the right moment",
-              "Only large gestures matter",
-              "Appearance always predicts usefulness",
-              "Every small gift solves every problem"
-            ],
-            "correct": 0,
-            "explanation": "The value of an act depends partly on how it serves a need, not only its size.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A volunteer seeks praise before sharing a useful idea. What would better serve the group?",
-            "options": [
-              "Keep the idea private indefinitely",
-              "Let others struggle to create dependence",
-              "Demand a title first",
-              "Share it because it may help"
-            ],
-            "correct": 3,
-            "explanation": "Sharing a useful idea places the group's need ahead of making recognition a condition of help.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A learner has only a few minutes to assist. Which choice is best?",
-            "options": [
-              "Make an impressive but vague offer",
-              "Wait for someone to celebrate the offer",
-              "Agree on one manageable task",
-              "Interrupt the work repeatedly"
-            ],
-            "correct": 2,
-            "explanation": "A manageable task makes limited time useful and gives others a clear expectation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "What should a group avoid when interpreting an extraordinary narrative episode?",
-            "options": [
-              "Recognizing its devotional meaning",
-              "Checking the source account",
-              "Asking a thoughtful question",
-              "Treating it as a guarantee for every modern outcome"
-            ],
-            "correct": 3,
-            "explanation": "A narrative's devotional meaning does not justify promising that every present situation will produce the same result.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "You offer help sincerely, but your first attempt fails. What should follow?",
-            "options": [
-              "Assume sincerity makes review unnecessary",
-              "Claim the failure did not happen",
-              "Learn from the result and adjust",
-              "Blame the recipient"
-            ],
-            "correct": 2,
-            "explanation": "Sincere intention can be joined with learning so that the next attempt responds better to the need.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A quiet act of help receives little attention. What question best examines its value?",
-            "options": [
-              "Did it make me look important?",
-              "Was it photographed?",
-              "Did it help in the way intended?",
-              "Was it more costly than others?"
-            ],
-            "correct": 2,
-            "explanation": "Examining the benefit keeps attention on the act's purpose rather than its visibility.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A team member brings only one useful item. What response supports participation?",
-            "options": [
-              "Compare them publicly with larger donors",
-              "Thank them for the specific contribution",
-              "Assume they did not care enough",
-              "Say small contributions are embarrassing"
-            ],
-            "correct": 1,
-            "explanation": "Specific appreciation recognizes what was offered without making size a measure of the person's sincerity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "Before giving advice as a form of help, what should you ask?",
-            "options": [
-              "Will they admire my knowledge?",
-              "How can I make myself indispensable?",
-              "Can I speak without listening?",
-              "Is this advice wanted and relevant?"
-            ],
-            "correct": 3,
-            "explanation": "Relevant, wanted advice is more likely to help than an unsolicited display of what the giver knows.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "A group has received enough of one supply but lacks another. What is wise?",
-            "options": [
-              "Keep requesting the same familiar item",
-              "Direct new offers toward the remaining need",
-              "Judge gifts only by their quantity",
-              "Ignore the imbalance"
-            ],
-            "correct": 1,
-            "explanation": "Responding to the remaining need makes generosity more useful than simply increasing an already sufficient supply.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          },
-          {
-            "q": "Which reflection best connects a small contribution with humility?",
-            "options": [
-              "My gift proves I am superior",
-              "No one else could have helped",
-              "I was able to offer one useful part",
-              "They must praise me forever"
-            ],
-            "correct": 2,
-            "explanation": "Seeing the contribution as one useful part recognizes its value without claiming ownership of the whole outcome.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/bhagavata/chapter23.html",
-            "sourceLabel": "Chapter 23: Arjuna's fight with Gods"
-          }
-        ]
-      },
-      {
-        "id": "one-divine-many-forms",
-        "title": "One Divine, many forms",
-        "chapter": "Chapter 36: Comrade and King",
-        "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-        "summary": "Suka describes divine manifestations that respond to the needs of devotees and the world. Their variety does not divide the underlying Divine. The discussion encourages reverence, recognition of sacred presence throughout creation and an understanding of the avatars' role in sustaining righteousness.",
-        "qa": [
-          {
-            "q": "How are the many divine forms related?",
-            "a": "The chapter presents them as manifestations of one Divine reality, appearing for purposes such as guiding devotees, restoring right conduct and protecting the world."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Which idea connects the different avatars?",
-            "options": [
-              "One underlying Divinity",
-              "Human ambition",
-              "Unrelated powers",
-              "Competing realities"
-            ],
-            "correct": 0,
-            "explanation": "Suka treats the differing forms and missions as expressions of the same Divine, whose presence extends throughout creation.",
-            "type": "recall",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Two devotees prefer different divine forms in worship. What supports respectful fellowship?",
-            "options": [
-              "Rank them by personal taste",
-              "Treat difference as hostility",
-              "Respect both while recognizing their shared devotion",
-              "Demand identical preferences"
-            ],
-            "correct": 2,
-            "explanation": "Recognizing shared devotion allows respect without requiring every person to choose the same form.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A study group discusses several divine manifestations. Which question explores unity?",
-            "options": [
-              "What common spiritual purpose connects these accounts?",
-              "Which name should exclude all others?",
-              "Which picture is most fashionable?",
-              "How can we avoid every difference?"
-            ],
-            "correct": 0,
-            "explanation": "Looking for a common purpose helps the group consider unity without erasing the distinct accounts.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A participant assumes unfamiliar worship must be insincere. What should they do?",
-            "options": [
-              "Repeat the judgement publicly",
-              "Refuse all conversation",
-              "Demand immediate conformity",
-              "Ask respectfully before judging"
-            ],
-            "correct": 3,
-            "explanation": "Respectful inquiry makes room for understanding instead of turning unfamiliarity into a verdict about sincerity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Which attitude best fits reflection on unity amid varied forms?",
-            "options": [
-              "Respect without requiring outward uniformity",
-              "Indifference to every person's concern",
-              "Approval only of one's favourite image",
-              "Competition over exclusive status"
-            ],
-            "correct": 0,
-            "explanation": "Respect can acknowledge meaningful differences while refusing to turn preference into contempt for others.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "An organizer chooses artwork for a shared study space. What approach is considerate?",
-            "options": [
-              "Dismiss every unfamiliar suggestion",
-              "Assume one person's taste represents everyone",
-              "Use the choice to rank members",
-              "Consider the purpose and participants respectfully"
-            ],
-            "correct": 3,
-            "explanation": "Attention to purpose and participants keeps the choice connected to shared learning rather than personal dominance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Someone enjoys one story more than another. What distinction helps?",
-            "options": [
-              "Personal preference need not become a judgement of others",
-              "Preference determines universal worth",
-              "Enjoyment proves other stories are false",
-              "Every preference must be suppressed"
-            ],
-            "correct": 0,
-            "explanation": "A personal preference can be held without treating another person's different devotion as inferior.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A discussion of sacred forms becomes competitive. What can restore focus?",
-            "options": [
-              "Count each person's supporters",
-              "Award a winner immediately",
-              "Return to the meanings and purposes being studied",
-              "Make the disagreement more dramatic"
-            ],
-            "correct": 2,
-            "explanation": "Returning to meaning moves attention from winning a contest toward understanding the material together.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "You encounter a form you do not recognize in a Vahini passage. What is best?",
-            "options": [
-              "Assume the image is unimportant",
-              "Check the source context and ask respectfully",
-              "Invent a confident explanation",
-              "Judge those who recognize it"
-            ],
-            "correct": 1,
-            "explanation": "Source context and respectful questions help understanding without adding unsupported information.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "What does unity require in a thoughtful discussion?",
-            "options": [
-              "Respect for shared significance despite differences",
-              "Avoiding every specific detail",
-              "Identical personal preferences",
-              "Declaring all descriptions interchangeable"
-            ],
-            "correct": 0,
-            "explanation": "Shared significance can be explored while allowing the particular descriptions to retain their own meaning.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A group includes a person with a different devotional preference. What is welcoming?",
-            "options": [
-              "Ask them to hide their interest",
-              "Make them defend their worth",
-              "Invite participation without mocking their preference",
-              "Assign them a lower place"
-            ],
-            "correct": 2,
-            "explanation": "Participation without mockery makes fellowship possible while leaving room for honest differences in preference.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A learner says one familiar image exhausts all spiritual understanding. What question may broaden reflection?",
-            "options": [
-              "Why are all others mistaken?",
-              "Could other forms illuminate another aspect of the theme?",
-              "How can we prevent further questions?",
-              "Who can enforce this view?"
-            ],
-            "correct": 1,
-            "explanation": "The question invites a wider perspective without requiring the learner to abandon a cherished form.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Which response avoids confusing unity with sameness?",
-            "options": [
-              "No particular story deserves attention",
-              "Everyone must use identical images",
-              "We can share devotion while expressing it differently",
-              "Different expressions cannot share meaning"
-            ],
-            "correct": 2,
-            "explanation": "Shared devotion and varied expression can coexist without forcing every outward feature to become identical.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A reader feels uncomfortable with unfamiliar terminology. What would help?",
-            "options": [
-              "Explain terms using the passage itself",
-              "Replace them with invented meanings",
-              "Mock the discomfort",
-              "Insist explanation is unnecessary"
-            ],
-            "correct": 0,
-            "explanation": "Source-based explanation gives unfamiliar terms a context without creating unsupported definitions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "You lead a conversation about divine manifestations. What should you avoid?",
-            "options": [
-              "Inviting careful reading",
-              "Allowing sincere questions",
-              "Distinguishing source and reflection",
-              "Presenting your preference as a universal ranking"
-            ],
-            "correct": 3,
-            "explanation": "A personal ranking can turn exploration into exclusion and confuse preference with what the source establishes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Two participants use different names for their devotional focus. What should come before comparison?",
-            "options": [
-              "Understanding what each person means",
-              "A decision about who belongs",
-              "A popularity vote",
-              "A rule forbidding questions"
-            ],
-            "correct": 0,
-            "explanation": "Understanding their meanings prevents a comparison from resting only on the surface difference between names.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "Which action turns reflection on sacred presence into respectful conduct?",
-            "options": [
-              "Praising unity while humiliating others",
-              "Treating an overlooked person with consideration",
-              "Ranking people by preferred imagery",
-              "Ignoring the effect of one's words"
-            ],
-            "correct": 1,
-            "explanation": "Consideration for an overlooked person gives respect a concrete expression in a present relationship.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A group wants harmony without suppressing questions. What agreement helps?",
-            "options": [
-              "Avoid all explanation",
-              "Only familiar views may be heard",
-              "Treat every question as an attack",
-              "Discuss differences respectfully and check the source"
-            ],
-            "correct": 3,
-            "explanation": "Respectful discussion with source checking supports harmony through understanding rather than enforced silence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "You discover a dramatic claim about a divine form without a source. What should you do?",
-            "options": [
-              "Verify it before including it in study material",
-              "Repeat it because it is inspiring",
-              "Attribute it to Baba automatically",
-              "Add details to make it memorable"
-            ],
-            "correct": 0,
-            "explanation": "Verification protects the distinction between source-grounded teaching and an appealing but unsupported claim.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          },
-          {
-            "q": "A participant changes their preferred devotional image. What is the most considerate response?",
-            "options": [
-              "Demand a public justification",
-              "Rank their earlier choice as foolish",
-              "Assume their devotion has ended",
-              "Respect their choice without claiming to know their inner state"
-            ],
-            "correct": 3,
-            "explanation": "Respecting the choice avoids drawing unwarranted conclusions about a person's sincerity from an outward change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter36.html",
-            "sourceLabel": "Chapter 36: Comrade and King"
-          }
-        ]
-      },
-      {
-        "id": "making-time-sacred",
-        "title": "Making time sacred",
-        "chapter": "Chapter 44: The Consummation in Gopala",
-        "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-        "summary": "As Suka recounts Krishna's birth, Parikshit directs his remaining time toward remembrance of the Lord. His gratitude acknowledges the influence of wise companions and divine grace. The closing scene presents focused devotion as the fulfilment of the spiritual listening that shaped his final days.",
-        "qa": [
-          {
-            "q": "How does Parikshit choose to use his remaining time?",
-            "a": "He asks to hear about Krishna rather than prolong discussion of other people's faults, sustaining devotion and gratitude as the narrative approaches its conclusion."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "What occupies Parikshit at the conclusion?",
-            "options": [
-              "Finding others' faults",
-              "Accumulating wealth",
-              "Expanding his kingdom",
-              "Remembering Krishna"
-            ],
-            "correct": 3,
-            "explanation": "The account closes with Parikshit absorbed in Krishna's name and the gathered devotees joining in sacred remembrance.",
-            "type": "recall",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You have ten quiet minutes after a demanding day. What best supports intentional reflection?",
-            "options": [
-              "Choose one meaningful reading or reflection",
-              "Scroll without noticing time",
-              "Search for someone to criticize",
-              "List others' failures"
-            ],
-            "correct": 0,
-            "explanation": "A deliberate activity lets a limited period serve a chosen purpose instead of passing by unnoticed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A discussion about someone else's faults is consuming a study meeting. What is best?",
-            "options": [
-              "Return to the meeting's meaningful purpose",
-              "Extend it with more examples",
-              "Invite absent people to be judged",
-              "Identify who can be blamed most"
-            ],
-            "correct": 0,
-            "explanation": "Returning to purpose protects shared time from being absorbed by unproductive judgement of others.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You cannot complete every worthwhile activity today. What should guide your choice?",
-            "options": [
-              "Which activity looks most impressive",
-              "What matters most and is feasible now",
-              "Which avoids every effort",
-              "Which brings quickest applause"
-            ],
-            "correct": 1,
-            "explanation": "Purpose and feasibility help limited time serve a meaningful priority rather than an attractive appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A learner keeps postponing a valued practice. What is a useful first change?",
-            "options": [
-              "Wait until every problem disappears",
-              "Compare their schedule with everyone else's",
-              "Make a larger vague promise",
-              "Choose a small definite time to begin"
-            ],
-            "correct": 3,
-            "explanation": "A small definite beginning makes the intention actionable without requiring ideal circumstances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You want an evening reflection to be honest. Which question helps?",
-            "options": [
-              "How did I use the time available to me?",
-              "How can I appear more advanced?",
-              "Did everyone recognize my efforts?",
-              "Who behaved worse than I did?"
-            ],
-            "correct": 0,
-            "explanation": "Examining one's own use of time directs reflection toward choices that can actually be reconsidered.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A friend has little time for a conversation that matters. What should you do?",
-            "options": [
-              "Speak mainly about absent people",
-              "Listen carefully and address the real concern",
-              "Fill it with unrelated complaints",
-              "Extend it without checking their needs"
-            ],
-            "correct": 1,
-            "explanation": "Careful attention helps limited shared time answer the concern that made the conversation important.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A group is distracted by minor disagreements near the end of a session. What could help?",
-            "options": [
-              "Rush through more material",
-              "Reopen every old argument",
-              "Select one useful point to understand before closing",
-              "Assign blame for the atmosphere"
-            ],
-            "correct": 2,
-            "explanation": "A focused final point gives the remaining time a constructive purpose instead of extending scattered disagreement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "Which action best turns gratitude into a present choice?",
-            "options": [
-              "Wait until gratitude earns recognition",
-              "Plan to appreciate them someday",
-              "Thank someone specifically while the opportunity is available",
-              "Compare their help with others' help"
-            ],
-            "correct": 2,
-            "explanation": "Using an available opportunity makes appreciation an action rather than an intention postponed indefinitely.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You are anxious about not having enough time for everything. What is a practical response?",
-            "options": [
-              "Refuse to review the schedule",
-              "Promise never to rest",
-              "Clarify one priority and its next step",
-              "Add more commitments immediately"
-            ],
-            "correct": 2,
-            "explanation": "A clear priority and next step make the available time easier to use responsibly.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A study session includes a moving account of life's limits. What application is most constructive?",
-            "options": [
-              "Treat reflection as a reason to stop planning",
-              "Assume ordinary duties no longer matter",
-              "Predict when someone will die",
-              "Consider how to use today's opportunities thoughtfully"
-            ],
-            "correct": 3,
-            "explanation": "Thoughtful use of today's opportunities turns awareness of limits toward responsible living rather than unsupported prediction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "Which response makes remembrance attentive rather than merely repetitive?",
-            "options": [
-              "Repeat words while mocking someone",
-              "Bring attention back to the meaning when distracted",
-              "Focus on appearing solemn",
-              "Measure only the speed of recitation"
-            ],
-            "correct": 1,
-            "explanation": "Returning attention to meaning makes the practice deliberate without demanding that distraction never occurs.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A person wants to spend less time judging others. What is a workable replacement?",
-            "options": [
-              "Judge the same people silently",
-              "Insist that no problems exist",
-              "Find a different person's faults",
-              "Reflect on one choice they can improve"
-            ],
-            "correct": 3,
-            "explanation": "Attention to a changeable personal choice redirects energy from unproductive judgement toward responsible action.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "What makes a short period meaningful?",
-            "options": [
-              "It must include a public audience",
-              "The purpose and attention brought to it",
-              "Its value depends only on length",
-              "It must produce immediate perfection"
-            ],
-            "correct": 1,
-            "explanation": "Purpose and attention can make a short period useful without requiring dramatic results or public recognition.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You are deciding how to use the final minutes of a meeting. What is best?",
-            "options": [
-              "Clarify a useful takeaway and next step",
-              "Add a new unrelated dispute",
-              "Repeat all announcements twice",
-              "Compare how much each person spoke"
-            ],
-            "correct": 0,
-            "explanation": "A takeaway and next step help participants carry something useful from the shared time.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A habit repeatedly consumes time you meant for study. What should you examine?",
-            "options": [
-              "The trigger and a realistic boundary",
-              "How to hide the habit",
-              "Which person can be blamed",
-              "Why all study must be impossible"
-            ],
-            "correct": 0,
-            "explanation": "A realistic boundary responds to the pattern directly instead of relying on guilt or a vague intention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You wish to honour someone who guided you. What can you do now?",
-            "options": [
-              "Wait for a grand ceremony",
-              "Only compare them with other teachers",
-              "Put a helpful piece of their guidance into practice",
-              "Claim their guidance solved every difficulty"
-            ],
-            "correct": 2,
-            "explanation": "Using helpful guidance gives appreciation a practical form within the choices available now.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "A group becomes preoccupied with criticizing an absent leader. What question redirects time usefully?",
-            "options": [
-              "What issue can we address responsibly ourselves?",
-              "Who has the harshest example?",
-              "How long can we continue this?",
-              "What else can we accuse them of?"
-            ],
-            "correct": 0,
-            "explanation": "A question about responsible action separates a solvable concern from a conversation driven mainly by criticism.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "You feel a practice is valuable but rarely give it attention. What would help?",
-            "options": [
-              "Set a modest routine and review it",
-              "Judge people with different practices",
-              "Wait for enthusiasm to become permanent",
-              "Announce larger intentions"
-            ],
-            "correct": 0,
-            "explanation": "A modest routine with review gives the value a place in daily life without relying only on enthusiasm.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
-          },
-          {
-            "q": "Which closing thought keeps reflection grounded in the present?",
-            "options": [
-              "Others must improve before I begin",
-              "A long plan is the same as action",
-              "What meaningful action is available to me today?",
-              "Nothing matters until conditions are perfect"
-            ],
-            "correct": 2,
-            "explanation": "A present action connects reflection with an opportunity that can be used instead of postponed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/bhagavata/chapter44.html",
-            "sourceLabel": "Chapter 44: The Consummation in Gopala"
+            "sourceUrl": "assets/bhagavatha-vahini.pdf#page=154",
+            "sourceLabel": "Chapter 42, PDF pages 154–158"
           }
         ]
       }
     ],
-    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba."
+    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba.",
+    "organization": "chapters"
   },
   {
     "id": "prema-vahini",
