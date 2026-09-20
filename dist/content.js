@@ -17704,897 +17704,1275 @@ window.VAHINI_BOOKS = [
     "id": "upanishad",
     "title": "Upanishad Vahini",
     "hindiTitle": "उपनिषद् वाहिनी",
-    "subtitle": "Discovering the inner Self",
-    "description": "Explore wisdom, meditation, and consciousness.",
-    "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Upanishad.pdf",
+    "subtitle": "Stream of the Upanishads",
+    "description": "Explore all 12 chapters of Bhagawan Sri Sathya Sai Baba’s Upanishad Vahini, following the supplied book in order. Each chapter offers a fuller summary, questions and answers, and five quiz questions drawn from its teachings.",
+    "sourceUrl": "assets/upanishad-vahini.pdf",
+    "pdfUrl": "assets/upanishad-vahini.pdf",
     "topics": [
       {
-        "id": "wisdom",
-        "title": "Knowledge and freedom",
-        "chapter": "I. Upanishadvaahini",
-        "summary": "The Upanishads guide inquiry into one's essential reality. Discrimination and detachment support liberation from ignorance and identification with passing experiences.",
+        "id": "chapter-01",
+        "title": "The Upanishads",
+        "chapter": "Chapter 1 · The Upanishads",
+        "chapterNumber": 1,
+        "pdfStartPage": 10,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+        "sourceLabel": "Chapter 1, PDF pages 10–13",
+        "summary": "The opening chapter presents humanity as essentially divine, while explaining that identification with the five elements makes the individual appear limited and temporary. Attraction to sensory qualities and possessions brings joy, grief, and bondage. Liberation is described as freedom from this mistaken identification through discrimination and steady detachment. The Upanishads, collectively called Vedanta, guide the inquiry into one's real nature. They belong to the wisdom section of the Vedas, yet also discuss action and worship as parts of spiritual preparation.\n\nThe chapter stresses that intellectual discussion alone cannot replace disciplined experience. Purity of consciousness, moral awareness, and spiritual discrimination support the concentration needed for the eye of wisdom. The Upanishads are presented as divine revelation conveyed through sages, teaching both truth and the means of realising it. The account describes the surviving collection of 108 and the special prominence of ten through Sankaracharya's commentaries. Its central invitation is to study, practise, and discover the identity of the individual Self with the Supreme.",
         "qa": [
           {
-            "q": "What knowledge is central to this study?",
-            "a": "Knowledge of the inner Self, beyond changing bodily and sensory experiences."
+            "q": "What mistaken identification makes the individual appear limited and temporary?",
+            "a": "Identification with the five elements and their qualities. The chapter connects bondage with entanglement in sound, touch, form, taste, and smell."
+          },
+          {
+            "q": "What collective name is given to the Upanishads?",
+            "a": "Vedanta. They form the Vedic section concerned with higher spiritual wisdom."
+          },
+          {
+            "q": "Which three disciplines are identified in the Vedas?",
+            "a": "Wisdom, worship, and dedicated activity. The chapter names jnana, upasana, and karma as the three sections."
+          },
+          {
+            "q": "Which qualities support the concentration required for wisdom?",
+            "a": "Purity of consciousness, moral awareness, and spiritual discrimination. These three qualifications prepare the aspirant for the eye of wisdom."
+          },
+          {
+            "q": "Whose commentaries gave special prominence to ten Upanishads?",
+            "a": "Sankaracharya's. The chapter explains the importance gained by the ten texts selected for his commentaries."
           }
         ],
         "quiz": [
           {
-            "q": "A reader equates personal identity with appearance. What question extends the inquiry?",
+            "q": "What mistaken identification makes the individual appear limited and temporary?",
             "options": [
-              "Which appearance receives most approval?",
-              "Does a changing appearance exhaust who I am?",
-              "How can every change be prevented?",
-              "Which photograph should define me permanently?"
-            ],
-            "correct": 1,
-            "explanation": "The inquiry distinguishes changing outward features from a complete account of identity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A student can explain a teaching but never examines assumptions. What would deepen study?",
-            "options": [
-              "Apply the inquiry to a personally held belief",
-              "Add more technical expressions",
-              "Collect agreement from classmates",
-              "Memorise another explanation immediately"
+              "Identification with the five elements and their qualities",
+              "Identification with the changeless Atma",
+              "Freedom from sensory attraction",
+              "Realisation of non-duality"
             ],
             "correct": 0,
-            "explanation": "Examining a personal assumption moves study beyond an account that remains merely verbal.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A learner treats every pleasurable experience as permanent security. What needs discrimination?",
-            "options": [
-              "The number of people sharing the pleasure",
-              "The prestige attached to the experience",
-              "The possibility of describing it more attractively",
-              "The difference between temporary experience and enduring reality"
-            ],
-            "correct": 3,
-            "explanation": "Discrimination examines the experience's changing character instead of assuming it provides permanent security.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "An upsetting memory becomes someone's whole self-description. What reflection is useful?",
-            "options": [
-              "The strongest memory must be the truest identity",
-              "Every memory should be erased before inquiry",
-              "A remembered experience need not define the entire Self",
-              "Other people must replace the memory with praise"
-            ],
-            "correct": 2,
-            "explanation": "The reflection questions total identification with one experience without denying that it occurred.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A student wants freedom from ignorance through collecting quotations. What is missing?",
-            "options": [
-              "A more decorative quotation notebook",
-              "Understanding the meaning through sustained reflection",
-              "A larger number of public readings",
-              "The ability to recite faster than peers"
-            ],
-            "correct": 1,
-            "explanation": "Reflection addresses understanding rather than assuming that possessing quotations removes mistaken identification.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A participant dismisses practical ethics as irrelevant to self-knowledge. What should be reconsidered?",
-            "options": [
-              "Whether conduct and clarity support the inquiry",
-              "Whether ethical language sounds sufficiently advanced",
-              "Whether other participants notice the dismissal",
-              "Whether intellectual confidence can replace responsibility"
-            ],
-            "correct": 0,
-            "explanation": "Examining conduct keeps the search for clarity connected with the way a person lives.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A learner assumes detachment means not caring about anyone. What distinction helps?",
-            "options": [
-              "All affection must become indifference",
-              "Concern proves inquiry is impossible",
-              "Only isolated people can consider the Self",
-              "Care can remain without possessive identification"
-            ],
-            "correct": 3,
-            "explanation": "The distinction allows thoughtful care without treating possessiveness as its necessary foundation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A person loses a valued object. Which question supports this topic?",
-            "options": [
-              "How can the loss define my permanent worth?",
-              "Who must restore my status immediately?",
-              "What did I assume this possession made me?",
-              "Which person should be blamed for my identity?"
-            ],
-            "correct": 2,
-            "explanation": "Examining the assumption reveals how ownership became entangled with a claim about identity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A study circle wants to explore ignorance respectfully. Which question is useful?",
-            "options": [
-              "Which member is least intelligent?",
-              "Where might our assumptions exceed our understanding?",
-              "Who can sound most certain?",
-              "Which doubt should remain permanently hidden?"
-            ],
-            "correct": 1,
-            "explanation": "The question makes examination shared and constructive instead of turning ignorance into an insult.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A beginner mistakes confusion for inability to learn. What response supports inquiry?",
-            "options": [
-              "Clarify one distinction at a time",
-              "Avoid every question that feels difficult",
-              "Copy the most confident answer",
-              "Conclude that study belongs only to experts"
-            ],
-            "correct": 0,
-            "explanation": "One clear distinction creates a manageable step without pretending the whole subject is simple.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A learner receives praise and begins to feel complete. What deserves reflection?",
-            "options": [
-              "Whether more public praise can guarantee certainty",
-              "Whether other learners should stop questioning them",
-              "Whether their reputation removes further responsibility",
-              "Whether approval has been confused with self-knowledge"
-            ],
-            "correct": 3,
-            "explanation": "Approval describes a response from others, not the completion of inward understanding.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A person rejects evidence because it threatens a self-image. What would promote learning?",
-            "options": [
-              "Preserve the image at any intellectual cost",
-              "Question the character of every reviewer",
-              "Examine the evidence without defending the image automatically",
-              "Treat discomfort as proof that the evidence is false"
-            ],
-            "correct": 2,
-            "explanation": "Willingness to examine evidence loosens the need to protect a preferred self-description.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A workshop asks participants to distinguish roles from reality. What is a useful exercise?",
-            "options": [
-              "Choose the role with greatest prestige",
-              "Notice how roles change while inquiry continues",
-              "Treat the newest role as permanent identity",
-              "Require everyone to abandon their responsibilities"
-            ],
-            "correct": 1,
-            "explanation": "Observing changing roles supports inquiry without demanding that ordinary responsibilities be discarded.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A student says reading once guarantees liberation. What is the careful correction?",
-            "options": [
-              "Reading must lead toward actual understanding",
-              "The number of pages alone decides attainment",
-              "A difficult edition guarantees complete insight",
-              "Publicly finishing the book proves final wisdom"
-            ],
-            "correct": 0,
-            "explanation": "Completion of reading does not establish that its meaning has been understood and assimilated.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A learner becomes attached to being called detached. What should be noticed?",
-            "options": [
-              "The label proves attachment has ended",
-              "Others must repeat the label more often",
-              "Detachment requires a more impressive title",
-              "Approval seeking has entered the spiritual self-image"
-            ],
-            "correct": 3,
-            "explanation": "The attachment can persist through a spiritual label when approval remains its organising motive.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "What kind of knowledge is central in this topic?",
-            "options": [
-              "Knowledge of social rankings",
-              "Knowledge of valuable possessions",
-              "Knowledge of the inner Self",
-              "Knowledge of winning performances"
-            ],
-            "correct": 2,
-            "explanation": "The topic centres its account of spiritual freedom on understanding the inner Self.",
+            "explanation": "The chapter connects bondage with entanglement in sound, touch, form, taste, and smell.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–13"
           },
           {
-            "q": "Why are changing experiences distinguished from the Self?",
+            "q": "What collective name is given to the Upanishads?",
             "options": [
-              "Experiences never occur in ordinary life",
-              "A passing experience should not be equated with essential reality",
-              "Every experience has identical meaning",
-              "Remembering an experience proves permanent identity"
+              "Vedanga",
+              "Vedanta",
+              "Smrithi",
+              "Purana"
             ],
             "correct": 1,
-            "explanation": "The distinction questions mistaken identification without denying that experiences appear and change.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
+            "explanation": "They form the Vedic section concerned with higher spiritual wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–13"
           },
           {
-            "q": "A participant confuses disagreement with ignorance. What is a better approach?",
+            "q": "Which three disciplines are identified in the Vedas?",
             "options": [
-              "Ask what each interpretation understands and assumes",
-              "Apply the label to every opponent",
-              "Choose whichever interpretation gains applause",
-              "Avoid any discussion of reasons"
-            ],
-            "correct": 0,
-            "explanation": "Examining reasons and assumptions makes disagreement informative rather than merely a contest of labels.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A learner recognises a mistaken assumption. What is the constructive next step?",
-            "options": [
-              "Hide the correction to preserve status",
-              "Assume every other belief is now false",
-              "Wait for others to make the same mistake",
-              "Revise the understanding and consider its implications"
-            ],
-            "correct": 3,
-            "explanation": "Revision allows a discovered error to improve understanding instead of becoming a source of defensiveness.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
-          },
-          {
-            "q": "A reader asks how study can enter daily life. Which practice fits?",
-            "options": [
-              "Count spiritual terms used in conversation",
-              "Compare personal status after each chapter",
-              "Notice moments of identifying entirely with praise or loss",
-              "Avoid all ordinary encounters with uncertainty"
+              "Sleep, dream, and waking",
+              "Food, water, and heat",
+              "Wisdom, worship, and dedicated activity",
+              "Birth, growth, and decay"
             ],
             "correct": 2,
-            "explanation": "Noticing identification connects the study's distinction with situations that actually arise during the day.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — I. Upanishadvaahini"
+            "explanation": "The chapter names jnana, upasana, and karma as the three sections.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–13"
+          },
+          {
+            "q": "Which qualities support the concentration required for wisdom?",
+            "options": [
+              "Wealth, reputation, and physical strength",
+              "Argument, rivalry, and pride",
+              "Sensory pleasure, ambition, and attachment",
+              "Purity of consciousness, moral awareness, and spiritual discrimination"
+            ],
+            "correct": 3,
+            "explanation": "These three qualifications prepare the aspirant for the eye of wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–13"
+          },
+          {
+            "q": "Whose commentaries gave special prominence to ten Upanishads?",
+            "options": [
+              "Sankaracharya's",
+              "Nachiketas'",
+              "Pippalada's",
+              "Swethakethu's"
+            ],
+            "correct": 0,
+            "explanation": "The chapter explains the importance gained by the ten texts selected for his commentaries.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–13"
           }
-        ],
-        "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html"
+        ]
       },
       {
-        "id": "witness",
-        "title": "The two birds",
-        "chapter": "IV. Mundakopanishad",
-        "summary": "Two birds symbolise the individual experiencing action's consequences and the divine witness. Turning toward the witness points beyond sorrow and attachment.",
+        "id": "chapter-02",
+        "title": "Isavasya Upanishad",
+        "chapter": "Chapter 2 · Isavasya Upanishad",
+        "chapterNumber": 2,
+        "pdfStartPage": 14,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+        "sourceLabel": "Chapter 2, PDF pages 14–16",
+        "summary": "The chapter begins with the transmission of Vedic wisdom and then explains the opening teaching of Isavasya: the Lord pervades the entire changing universe. Since all belongs to the Lord, it should be approached with renunciation rather than possessiveness or greed. Seeing the universe and its divine basis as separate is described as delusion. Like sandalwood recovering its fragrance when properly treated, a person discovers the purity of the Atma through discrimination and righteous discipline.\n\nFor those not yet established in renunciation, action without desire for its fruits helps cleanse the mind. The chapter uses purifying seeds in muddy water to illustrate how such action removes impurity without leaving binding consequences. It explains that the first two of the eighteen mantras set out the central approaches, while the remainder elaborate them. The wise recognise the Self in all beings and all beings in the Self. Action and worship prepare purity and concentration, while Self-realisation depends on spiritual wisdom and the ending of separateness.",
         "qa": [
           {
-            "q": "What distinguishes the witnessing bird?",
-            "a": "It observes while the individual bird experiences the consequences of action."
+            "q": "What does the opening teaching say pervades the universe?",
+            "a": "The Lord. The changing world is presented as enveloped by the Lord, its true Reality."
+          },
+          {
+            "q": "What attitude toward worldly things is taught?",
+            "a": "Reverent renunciation without greed. Things belong to the Lord and are to be used without covetousness."
+          },
+          {
+            "q": "What is the effect of work done without desire for its fruits?",
+            "a": "It gradually cleanses the mind. The chapter compares its cleansing effect to a goldsmith's crucible and purifying seeds."
+          },
+          {
+            "q": "How many mantras directly introduce the problem of liberation and its solution?",
+            "a": "The first two. The other sixteen elaborate the solution stated in the opening pair."
+          },
+          {
+            "q": "What does the wise person see?",
+            "a": "The Self in all beings and all beings in the Self. This vision removes the sense of fundamental separation."
           }
         ],
         "quiz": [
           {
-            "q": "In the two-bird image, which bird experiences action's results?",
+            "q": "What does the opening teaching say pervades the universe?",
             "options": [
-              "The witnessing bird",
-              "Both as competing judges",
-              "The individual bird",
-              "Neither as part of the image"
+              "Individual ownership",
+              "The physical body alone",
+              "Desire for rewards",
+              "The Lord"
             ],
-            "correct": 2,
-            "explanation": "The individual bird represents the one involved in action and its experienced consequences.",
+            "correct": 3,
+            "explanation": "The changing world is presented as enveloped by the Lord, its true Reality.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 2, PDF pages 14–16"
           },
           {
-            "q": "What does the shared tree represent in this topic?",
+            "q": "What attitude toward worldly things is taught?",
             "options": [
-              "A public institution",
-              "The body",
-              "A reward for achievement",
-              "A collection of opinions"
+              "Reverent renunciation without greed",
+              "Possessiveness without limits",
+              "Competition for ownership",
+              "Rejection based on hatred"
             ],
-            "correct": 1,
-            "explanation": "The established image places both birds within the same bodily dwelling.",
+            "correct": 0,
+            "explanation": "Things belong to the Lord and are to be used without covetousness.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 2, PDF pages 14–16"
           },
           {
-            "q": "What distinguishes the divine bird in the image?",
+            "q": "What is the effect of work done without desire for its fruits?",
             "options": [
-              "It witnesses",
-              "It competes for fruit",
-              "It demands recognition",
-              "It changes the tree's social rank"
+              "It makes the Atma change",
+              "It gradually cleanses the mind",
+              "It makes every result permanent",
+              "It removes the need for discrimination"
             ],
-            "correct": 0,
-            "explanation": "The divine bird is distinguished by witnessing rather than pursuing action's rewards.",
+            "correct": 1,
+            "explanation": "The chapter compares its cleansing effect to a goldsmith's crucible and purifying seeds.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 2, PDF pages 14–16"
           },
           {
-            "q": "A learner illustrates one bird acting and another watching. What relationship should remain visible?",
+            "q": "How many mantras directly introduce the problem of liberation and its solution?",
             "options": [
-              "The birds represent rival social groups",
-              "One bird proves the other's worthlessness",
-              "The birds occupy unrelated stories",
-              "Both belong within the same symbolic setting"
-            ],
-            "correct": 3,
-            "explanation": "The shared setting matters because the image contrasts involvement and witnessing within one person.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A student observes disappointment after an exam result. What question uses the metaphor well?",
-            "options": [
-              "Which classmate deserves to share my disappointment?",
-              "Does the result define my complete worth?",
-              "Can I notice the disappointment without becoming its whole story?",
-              "Should every future action be avoided?"
+              "The first six",
+              "The last eight",
+              "The first two",
+              "All except the first two"
             ],
             "correct": 2,
-            "explanation": "Noticing disappointment creates space between an experienced consequence and total identification with it.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
+            "explanation": "The other sixteen elaborate the solution stated in the opening pair.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 2, PDF pages 14–16"
           },
           {
-            "q": "A participant thinks witnessing means avoiding every task. What is a useful correction?",
+            "q": "What does the wise person see?",
             "options": [
-              "The image requires abandoning all duties",
-              "Observation can accompany responsible action",
-              "Only inaction permits any awareness",
-              "Consequences disappear when ignored"
-            ],
-            "correct": 1,
-            "explanation": "Observation and responsibility can coexist without making withdrawal from all activity necessary.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A volunteer receives praise and notices pride. What would the inward exercise invite?",
-            "options": [
-              "Observe the pride before letting it govern choices",
-              "Assume praise proves permanent superiority",
-              "Demand that the feeling remain forever",
-              "Treat further reflection as unnecessary"
-            ],
-            "correct": 0,
-            "explanation": "Observing pride makes its influence available for examination rather than automatic acceptance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A person says the acting bird is bad. What should be clarified?",
-            "options": [
-              "Every action makes a person worthless",
-              "Only observers deserve consideration",
-              "The metaphor divides superior and inferior communities",
-              "The image distinguishes functions, not human worth"
+              "A separate Atma created for each body",
+              "The Self only in distant worlds",
+              "The senses as the unchanging Self",
+              "The Self in all beings and all beings in the Self"
             ],
             "correct": 3,
-            "explanation": "The distinction concerns involvement and witnessing rather than a judgment of human value.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A facilitator uses two chairs to explore the metaphor. What should participants understand?",
-            "options": [
-              "The chapter prescribes this exact exercise",
-              "Sitting correctly proves spiritual attainment",
-              "The chairs are an original reflection aid",
-              "One chair diagnoses a person's character"
-            ],
-            "correct": 2,
-            "explanation": "Clear framing keeps a creative teaching aid separate from the source's actual content.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "Someone notices envy after another person's success. What is the relevant shift?",
-            "options": [
-              "Deny that envy was experienced",
-              "Turn from automatic reaction toward aware observation",
-              "Act on envy before examining it",
-              "Treat envy as the observer's permanent identity"
-            ],
-            "correct": 1,
-            "explanation": "Aware observation lets the response be considered instead of immediately organised by envy.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A learner turns witnessing into cold indifference. What restores balance?",
-            "options": [
-              "Observe clearly while remaining considerate",
-              "Assume concern always destroys awareness",
-              "Avoid responding to any person's need",
-              "Treat another's difficulty as irrelevant"
-            ],
-            "correct": 0,
-            "explanation": "Clear observation does not require withdrawing ordinary concern or considerate practical action.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A person identifies completely with a promotion. What reflection fits the two-bird theme?",
-            "options": [
-              "Assume promotion has changed essential human worth",
-              "Require continued admiration to maintain identity",
-              "Avoid every future responsibility attached to work",
-              "Notice success as an experience rather than the whole Self"
-            ],
-            "correct": 3,
-            "explanation": "The reflection loosens total identification with a favourable result while allowing responsible participation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A student compares the birds to two people arguing. What has shifted incorrectly?",
-            "options": [
-              "The body has become more visible",
-              "The image has retained every established relation",
-              "Witnessing has been replaced by interpersonal rivalry",
-              "The metaphor now proves a historical event"
-            ],
-            "correct": 2,
-            "explanation": "Interpersonal rivalry changes the image's central distinction between involvement and witnessing.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A journaling task separates an event from awareness of the reaction. Why?",
-            "options": [
-              "To prove the event never occurred",
-              "To examine involvement without losing perspective",
-              "To assign blame to an imagined observer",
-              "To eliminate responsibility for the response"
-            ],
-            "correct": 1,
-            "explanation": "The separation helps examine reactions while keeping the actual event and responsibility in view.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A beginner thinks noticing a reaction guarantees freedom from it. What is careful guidance?",
-            "options": [
-              "Awareness opens a possibility for a different response",
-              "One observation permanently ends every habit",
-              "Recognition removes the need for further effort",
-              "Future reactions prove the observation was false"
-            ],
-            "correct": 0,
-            "explanation": "An observation can create choice without justifying a guarantee about every future response.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A reader asks whether the image is a zoology lesson. What is the appropriate answer?",
-            "options": [
-              "It establishes the behaviour of every bird",
-              "It identifies a newly discovered species",
-              "It replaces observation of actual animals",
-              "It is a spiritual illustration"
-            ],
-            "correct": 3,
-            "explanation": "The image's purpose is spiritual interpretation rather than a biological claim about animals.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "What does turning toward the witness suggest in this topic?",
-            "options": [
-              "A competition to avoid all work",
-              "A claim that consequences never matter",
-              "A shift away from total absorption in reactions",
-              "A method for judging other people's worth"
-            ],
-            "correct": 2,
-            "explanation": "The suggested shift concerns inward perspective rather than denying action or its consequences.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A group wants to discuss outcomes without boasting or despair. Which prompt helps?",
-            "options": [
-              "Who now deserves permanent superiority?",
-              "What occurred, and how did we relate to it?",
-              "Which person embodies the failure completely?",
-              "How can every unfavourable result be concealed?"
-            ],
-            "correct": 1,
-            "explanation": "Separating outcomes and responses supports honest review without total identification with either.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "A participant invents another bird to explain a personal experience. How should it be labelled?",
-            "options": [
-              "An original extension for discussion",
-              "A verified detail from this chapter",
-              "An exact statement by Baba",
-              "A required belief for every reader"
-            ],
-            "correct": 0,
-            "explanation": "Labelling an extension honestly allows creativity without falsely attributing it to the source.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
-          },
-          {
-            "q": "After reflecting on the image, a learner faces a difficult choice. What is useful?",
-            "options": [
-              "Wait for all feelings to disappear forever",
-              "Assume witnessing makes every option equal",
-              "Let the strongest impulse choose automatically",
-              "Pause, notice reactions, and choose responsibly"
-            ],
-            "correct": 3,
-            "explanation": "A pause joins observation with responsible decision-making instead of replacing action with passivity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — IV. Mundakopanishad"
+            "explanation": "This vision removes the sense of fundamental separation.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 2, PDF pages 14–16"
           }
-        ],
-        "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html"
+        ]
       },
       {
-        "id": "consciousness",
-        "title": "Beyond changing states",
-        "chapter": "V. Mandukyopanishad",
-        "summary": "Waking, dreaming, and deep sleep change, while the Atma remains unaffected. Thuriya points beyond these states toward peaceful, nondual awareness.",
+        "id": "chapter-03",
+        "title": "Katha Upanishad",
+        "chapter": "Chapter 3 · Katha Upanishad",
+        "chapterNumber": 3,
+        "pdfStartPage": 17,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+        "sourceLabel": "Chapter 3, PDF pages 17–20",
+        "summary": "Nachiketas questions his father's gift of worn-out cows, wishing to prevent the consequences of an unworthy offering. His father's angry declaration sends him to Yama. After waiting three nights, he receives three boons. He asks first for reconciliation with his father, next for knowledge connected with freedom from hunger, thirst, and death in heaven, and finally for the truth of the Atma. Yama tests his resolve with offers of worldly enjoyment, but Nachiketas chooses enduring Self-knowledge.\n\nYama distinguishes the spiritually elevating path, sreyas, from the merely pleasant path, preyas. The Atma is described as limitless, unchanging, and beyond the senses, like the sun remaining unmoved while its reflection trembles in water. The teaching directs attention inward, beyond mind and individual intelligence toward the one Reality. Om is explained as a means of approaching Brahman. The chapter concludes that sincere understanding and practice of even one mantra can lead toward the goal; accumulating instructions without practice is insufficient.",
         "qa": [
           {
-            "q": "Is the Atma changed by dreaming?",
-            "a": "No. The changing states do not alter the underlying Self."
+            "q": "Why does Nachiketas question his father's offering of cows?",
+            "a": "The cows are too old to be useful. He fears the consequences of giving unworthy gifts in a sacrifice."
+          },
+          {
+            "q": "Why does Yama offer three boons?",
+            "a": "Nachiketas has waited three nights. Yama offers a boon for each night of the boy's wait."
+          },
+          {
+            "q": "What does Nachiketas insist on receiving as his third boon?",
+            "a": "Knowledge of the Atma. He rejects substitute enjoyments because they cannot provide the enduring benefit of Self-knowledge."
+          },
+          {
+            "q": "What distinction does Yama make between sreyas and preyas?",
+            "a": "The spiritually elevating and the worldly pleasant. The first leads toward freedom, while attachment to the second continues bondage."
+          },
+          {
+            "q": "What does the moving reflection of the sun illustrate?",
+            "a": "The Atma remains unaffected by changing conditions. The water may tremble, but the sun remains a witness unaffected by it."
           }
         ],
         "quiz": [
           {
-            "q": "Which three familiar states are distinguished in this topic?",
+            "q": "Why does Nachiketas question his father's offering of cows?",
             "options": [
-              "Childhood, adulthood, and retirement",
-              "Success, failure, and recovery",
-              "Speaking, reading, and writing",
-              "Waking, dreaming, and deep sleep"
+              "The cows belong to Yama",
+              "The cows have not been named",
+              "The cows are too old to be useful",
+              "The cows are being kept instead of given away"
             ],
-            "correct": 3,
-            "explanation": "The discussion concerns familiar modes of consciousness rather than social or life stages.",
+            "correct": 2,
+            "explanation": "He fears the consequences of giving unworthy gifts in a sacrifice.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
           },
           {
-            "q": "What term names the fourth state in this topic?",
+            "q": "Why does Yama offer three boons?",
             "options": [
-              "Manas",
-              "Prakriti",
+              "Nachiketas has brought three cows",
+              "His father has performed three sacrifices",
+              "Three sages have requested them",
+              "Nachiketas has waited three nights"
+            ],
+            "correct": 3,
+            "explanation": "Yama offers a boon for each night of the boy's wait.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          },
+          {
+            "q": "What does Nachiketas insist on receiving as his third boon?",
+            "options": [
+              "Knowledge of the Atma",
+              "A kingdom",
+              "Long-lasting wealth",
+              "Victory over another prince"
+            ],
+            "correct": 0,
+            "explanation": "He rejects substitute enjoyments because they cannot provide the enduring benefit of Self-knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          },
+          {
+            "q": "What distinction does Yama make between sreyas and preyas?",
+            "options": [
+              "The waking and dreaming states",
+              "The spiritually elevating and the worldly pleasant",
+              "The sun and its reflection",
+              "Speech and hearing"
+            ],
+            "correct": 1,
+            "explanation": "The first leads toward freedom, while attachment to the second continues bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          },
+          {
+            "q": "What does the moving reflection of the sun illustrate?",
+            "options": [
+              "The Atma changes whenever the body changes",
+              "The senses create the sun",
+              "The Atma remains unaffected by changing conditions",
+              "The mind is always motionless"
+            ],
+            "correct": 2,
+            "explanation": "The water may tremble, but the sun remains a witness unaffected by it.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Mundaka Upanishad",
+        "chapter": "Chapter 4 · Mundaka Upanishad",
+        "chapterNumber": 4,
+        "pdfStartPage": 21,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+        "sourceLabel": "Chapter 4, PDF pages 21–23",
+        "summary": "Mundaka opens with a prayer for auspicious perception and a life devoted to the Lord. The chapter distinguishes knowledge of the manifested, qualified aspect of Brahman from knowledge of the transcendent, attributeless Reality. Sacred activity can purify the mind and bring beneficial results, but even heavenly attainment has an end. The seeker therefore approaches a teacher for knowledge that leads beyond temporary rewards. Brahman is explained as both the material and instrumental cause of the universe, illustrated by a spider producing its web from itself.\n\nThe two birds on one tree represent the individual who experiences the fruits of action and the Lord who remains a witness. Turning toward the Lord diminishes lesser desires and grief. The chapter includes both personal duties and public acts of service, while distinguishing their preparatory value from final realisation. Its imagery of an arrow and target directs concentrated attention toward Brahman through Om. A mind freed from attachment, hatred, and possessiveness becomes fit for the wisdom through which the ever-present Atma is realised.",
+        "qa": [
+          {
+            "q": "Which two kinds of knowledge are distinguished?",
+            "a": "Knowledge of the transcendent and of the manifested aspect of Brahman. The chapter describes Para-vidya and a-Para-vidya and their relationship."
+          },
+          {
+            "q": "What does the spider producing its web illustrate?",
+            "a": "Brahman as the source and substance of creation. The web emerges from the spider itself without an outside material supplier."
+          },
+          {
+            "q": "In the two-bird illustration, what does the Lord do?",
+            "a": "Remains a witness. The individual acts and experiences results while the Lord watches."
+          },
+          {
+            "q": "Which is an example of the charitable activities described?",
+            "a": "Planting trees along roads. Public works such as trees, tanks, and rest-houses are listed as charitable acts."
+          },
+          {
+            "q": "What is the target in the chapter's archery illustration?",
+            "a": "Brahman. The imagery directs concentrated meditation toward Brahman, with Om identified as the arrow."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two kinds of knowledge are distinguished?",
+            "options": [
+              "Knowledge of wealth and of warfare",
+              "Knowledge of the transcendent and of the manifested aspect of Brahman",
+              "Knowledge of seasons and of food",
+              "Knowledge of speech and of writing alone"
+            ],
+            "correct": 1,
+            "explanation": "The chapter describes Para-vidya and a-Para-vidya and their relationship.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "What does the spider producing its web illustrate?",
+            "options": [
+              "Creation as independent of Brahman",
+              "The senses as the source of Brahman",
+              "Brahman as the source and substance of creation",
+              "The permanent nature of worldly rewards"
+            ],
+            "correct": 2,
+            "explanation": "The web emerges from the spider itself without an outside material supplier.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "In the two-bird illustration, what does the Lord do?",
+            "options": [
+              "Eats every fruit with the individual",
+              "Leaves the tree permanently",
+              "Creates another independent tree",
+              "Remains a witness"
+            ],
+            "correct": 3,
+            "explanation": "The individual acts and experiences results while the Lord watches.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "Which is an example of the charitable activities described?",
+            "options": [
+              "Planting trees along roads",
+              "Seeking praise for learning",
+              "Accumulating ornaments",
+              "Competing for ritual rewards"
+            ],
+            "correct": 0,
+            "explanation": "Public works such as trees, tanks, and rest-houses are listed as charitable acts.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "What is the target in the chapter's archery illustration?",
+            "options": [
+              "Heaven as a lasting reward",
+              "Brahman",
+              "Sensory enjoyment",
+              "Personal fame"
+            ],
+            "correct": 1,
+            "explanation": "The imagery directs concentrated meditation toward Brahman, with Om identified as the arrow.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Mandukya Upanishad",
+        "chapter": "Chapter 5 · Mandukya Upanishad",
+        "chapterNumber": 5,
+        "pdfStartPage": 24,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+        "sourceLabel": "Chapter 5, PDF pages 24–27",
+        "summary": "The chapter presents Mandukya as a brief and profound teaching centred on Om and the Atma. Waking, dreaming, and deep sleep are appearances imposed on the same unchanged Self. In sleep, mental tendencies remain latent; in waking and dreaming, the mind's activity sustains the experience of multiplicity. Thuriya is distinguished from all three states. It is beyond ordinary thought and description, indicated through peace, auspiciousness, and non-duality rather than through the changing functions of the mind.\n\nThe sounds A, U, and M pass into a resonance that fades into silence, symbolising the dissolution of limiting name and form. The illustration of space inside a pot explains that apparent boundaries do not actually divide the all-pervasive Atma. Discrimination and non-attachment are necessary to still the mind; forced restraint without understanding leaves the roots of attachment intact. The chapter examines the apparent world and cause-and-effect relationships as products of ignorance, urging stable recognition of the timeless witness rather than identification with mental agitation.",
+        "qa": [
+          {
+            "q": "Which three states are described as appearances imposed on the Atma?",
+            "a": "Waking, dreaming, and deep sleep. The Atma remains the same through all three states."
+          },
+          {
+            "q": "What is the fourth state called?",
+            "a": "Thuriya. It is beyond the ordinary activity of mind and intellect."
+          },
+          {
+            "q": "Into what do A, U, and M finally merge in the explanation of Om?",
+            "a": "A resonance that fades into silence. The fading resonance symbolises peace and the ending of limiting distinctions."
+          },
+          {
+            "q": "What does the space inside a pot illustrate?",
+            "a": "Apparent limits do not truly divide the Atma. The space within and outside the pot is not intrinsically different."
+          },
+          {
+            "q": "What must accompany efforts to still the mind?",
+            "a": "Discrimination and non-attachment. Without understanding the sensory world's nature, attachment and agitation return."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which three states are described as appearances imposed on the Atma?",
+            "options": [
+              "Waking, dreaming, and deep sleep",
+              "Birth, youth, and old age",
+              "Action, worship, and study",
+              "Hunger, thirst, and fear"
+            ],
+            "correct": 0,
+            "explanation": "The Atma remains the same through all three states.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–27"
+          },
+          {
+            "q": "What is the fourth state called?",
+            "options": [
+              "Prana",
               "Thuriya",
+              "Maya",
               "Karma"
             ],
-            "correct": 2,
-            "explanation": "Thuriya is the term used for what transcends the three familiar states.",
+            "correct": 1,
+            "explanation": "It is beyond the ordinary activity of mind and intellect.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–27"
           },
           {
-            "q": "How is the Atma described across changing states?",
+            "q": "Into what do A, U, and M finally merge in the explanation of Om?",
             "options": [
-              "Created anew with each dream",
-              "Unaffected by their changes",
-              "Measured by remembered detail",
-              "Dependent on public observation"
+              "A new physical element",
+              "The noise of the senses",
+              "A resonance that fades into silence",
+              "A separate individual soul"
             ],
-            "correct": 1,
-            "explanation": "The topic distinguishes the underlying Self from the changes in experienced states.",
+            "correct": 2,
+            "explanation": "The fading resonance symbolises peace and the ending of limiting distinctions.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–27"
           },
           {
-            "q": "A student labels ordinary sleep as Thuriya. What should be corrected?",
+            "q": "What does the space inside a pot illustrate?",
             "options": [
-              "The fourth is distinguished from deep sleep",
-              "Every period of rest is the fourth",
-              "Remembering fewer events proves transcendence",
-              "A longer night guarantees the fourth"
-            ],
-            "correct": 0,
-            "explanation": "The classification keeps deep sleep among the three states from which Thuriya is distinguished.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A learner recalls a vivid dream as a physical event. What question clarifies matters?",
-            "options": [
-              "Did the dream feel emotionally important?",
-              "Was the dream described impressively?",
-              "Did someone else like the story?",
-              "Was this experienced while dreaming or while awake?"
+              "Each body creates a separate eternal Self",
+              "Space ends when a pot breaks",
+              "The Atma is confined to a room",
+              "Apparent limits do not truly divide the Atma"
             ],
             "correct": 3,
-            "explanation": "Identifying the state prevents vividness alone from deciding whether an event happened while awake.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "explanation": "The space within and outside the pot is not intrinsically different.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–27"
           },
           {
-            "q": "A dream changes a person's imagined age and occupation. What does that invite examining?",
+            "q": "What must accompany efforts to still the mind?",
             "options": [
-              "Which dream occupation has highest status",
-              "Whether dream roles determine legal identity",
-              "How experienced roles can change",
-              "Whether imagination guarantees historical truth"
-            ],
-            "correct": 2,
-            "explanation": "Changing dream roles provide a reflection point without establishing claims about waking identity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A participant says dreamless sleep proves complete spiritual understanding. What is cautious?",
-            "options": [
-              "Any forgotten experience proves final wisdom",
-              "Absence of remembered content is not the same classification",
-              "Longer sleep guarantees deeper realisation",
-              "Others must accept the claim without discussion"
-            ],
-            "correct": 1,
-            "explanation": "A lack of remembered content does not establish the distinct spiritual condition being discussed.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A study chart places Thuriya beside waking, dream, and sleep as another daily activity. What nuance is missing?",
-            "options": [
-              "It is described as transcending those familiar states",
-              "It is simply an afternoon task",
-              "It requires a particular occupation",
-              "It replaces every ordinary responsibility"
+              "Discrimination and non-attachment",
+              "Desire for powers and praise",
+              "Dependence on sensory pleasures",
+              "Repetition without understanding alone"
             ],
             "correct": 0,
-            "explanation": "The topic's distinction goes beyond adding another activity to an ordinary daily schedule.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "explanation": "Without understanding the sensory world's nature, attachment and agitation return.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Brihadaranyaka Upanishad",
+        "chapter": "Chapter 6 · Brihadaranyaka Upanishad",
+        "chapterNumber": 6,
+        "pdfStartPage": 28,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+        "sourceLabel": "Chapter 6, PDF pages 28–32",
+        "summary": "This chapter introduces the large Upanishad associated with the White Yajur-veda, bringing together principles, experience, and practice. At Janaka's sacrifice, Yajnavalkya confidently claims the offered cows and faces questions from the assembled scholars. His replies explain the inward power behind the senses and vital functions. The Atma is the unchanging reality that makes experience possible, rather than one more object that the senses can grasp. Ritual is interpreted through its deeper meaning, while renunciation is presented as essential to Self-knowledge.\n\nGargi's questions lead to an account of Brahman as the support of the entire universe, beyond physical attributes and ordinary measurement. The text explicitly recognises her spiritual competence and rejects sex as a barrier to this knowledge. Yajnavalkya also explains the source of bliss and the difference between the changing body and unaffected Self. His teaching to Maitreyi states that things are loved for the sake of the Atma. Knowing that underlying Reality brings understanding of all, as diverse waters ultimately join the ocean.",
+        "qa": [
+          {
+            "q": "To which Veda is Brihadaranyaka affiliated?",
+            "a": "The White Yajur-veda. The chapter identifies its connection with the Sukla or White Yajur-veda."
           },
           {
-            "q": "A learner wants a guaranteed technique for Thuriya from this short topic. What response is accurate?",
-            "options": [
-              "Any repeated word guarantees it tonight",
-              "Perfect attendance guarantees it immediately",
-              "A teacher can certify it from a photograph",
-              "The overview does not provide such a guarantee"
-            ],
-            "correct": 3,
-            "explanation": "An accurate response respects what the overview establishes and avoids inventing procedural guarantees.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "q": "At whose sacrifice does Yajnavalkya answer the scholars?",
+            "a": "Janaka's. Janaka offers richly adorned cows to the one who can teach him Brahman."
           },
           {
-            "q": "Someone calls every quiet moment nondual awareness. What should be examined?",
-            "options": [
-              "Whether the room looks sufficiently sacred",
-              "Whether others have praised the description",
-              "Whether ordinary calm is being given an unsupported label",
-              "Whether a stronger claim would sound clearer"
-            ],
-            "correct": 2,
-            "explanation": "Careful terminology prevents an ordinary experience from automatically acquiring a larger spiritual claim.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "q": "Who questions Yajnavalkya about the support of the universe?",
+            "a": "Gargi. Her questions draw out the teaching on the all-pervading, indestructible Reality."
           },
           {
-            "q": "A student draws the changing states as weather and the Self as sky. How should it be presented?",
-            "options": [
-              "A quotation from the chapter",
-              "An original analogy for discussion",
-              "A scientific proof of the teaching",
-              "A required image for all readers"
-            ],
-            "correct": 1,
-            "explanation": "Honest framing distinguishes an illustrative analogy from quoted teaching or empirical proof.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "q": "What conclusion does the chapter draw from Gargi's spiritual competence?",
+            "a": "Sex is no barrier to knowledge of Brahman. It explicitly affirms the absence of such distinctions in Brahma-vidya."
           },
           {
-            "q": "A reader says the Atma becomes a different Self in each dream. What conflicts with the topic?",
-            "options": [
-              "The Self is described as unaffected by changing states",
-              "The topic denies that dreams occur",
-              "The topic defines identity by dream scenery",
-              "The topic makes dream length decisive"
-            ],
-            "correct": 0,
-            "explanation": "The interpretation conflicts with the stated distinction between changing states and unchanged underlying Self.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A group compares sleep reports. What conclusion should it avoid?",
-            "options": [
-              "Noting differences in what people remember",
-              "Distinguishing reports from established teaching",
-              "Acknowledging the limits of recollection",
-              "Ranking spiritual attainment by reported sleep experiences"
-            ],
-            "correct": 3,
-            "explanation": "Personal sleep reports do not justify ranking participants' spiritual attainment or inner worth.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A learner says remembered dreams are more important than unremembered sleep. What should be distinguished?",
-            "options": [
-              "Memory detail from room decoration",
-              "Memory detail from public speaking skill",
-              "Memory detail from the spiritual classification",
-              "Memory detail from the group's timetable"
-            ],
-            "correct": 2,
-            "explanation": "The amount recalled is not the criterion that defines the topic's spiritual distinctions.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "Why should dream and waking accounts be labelled clearly?",
-            "options": [
-              "Dreams always predict future events",
-              "They refer to different kinds of reported experience",
-              "Waking reports never contain mistakes",
-              "Labels guarantee complete self-knowledge"
-            ],
-            "correct": 1,
-            "explanation": "Clear labels prevent different modes of experience from being confused during discussion.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A participant demands a public performance proving Thuriya. What is a careful response?",
-            "options": [
-              "A performance cannot establish the claimed inner state",
-              "A convincing performance guarantees the claim",
-              "Applause decides the state correctly",
-              "Unusual clothing provides sufficient evidence"
-            ],
-            "correct": 0,
-            "explanation": "Outward performance does not establish the particular inward condition a person claims to experience.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A study exercise asks what changes during a day. Which response best fits?",
-            "options": [
-              "Every change creates a completely new essential Self",
-              "The busiest person has the deepest awareness",
-              "Only pleasant experiences deserve examination",
-              "Experiences and states can be examined as changing"
-            ],
-            "correct": 3,
-            "explanation": "Examining change supports the distinction without making activity or pleasure a measure of awareness.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A person wakes from an upsetting dream. What educational reflection is useful?",
-            "options": [
-              "Assume the dream accusation is a waking fact",
-              "Treat fear as proof that the event occurred",
-              "Notice how the experienced situation changed on waking",
-              "Require someone from the dream to apologise"
-            ],
-            "correct": 2,
-            "explanation": "The reflection distinguishes a changed experiential setting from facts about other waking people.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A learner tries to describe the fourth using a familiar mood. What limitation should be acknowledged?",
-            "options": [
-              "Any happy mood is an exact definition",
-              "A mood does not fully define the described transcendence",
-              "Any silent minute settles the meaning",
-              "A poetic description proves personal attainment"
-            ],
-            "correct": 1,
-            "explanation": "Acknowledging the limitation prevents a familiar temporary mood from being equated with the whole concept.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
-          },
-          {
-            "q": "A facilitator summarises the lesson. Which statement preserves its main distinction?",
-            "options": [
-              "States change while the Atma is described as unchanged",
-              "The Self depends on how much one remembers",
-              "Deep sleep and Thuriya are identical labels",
-              "Dream content determines permanent spiritual worth"
-            ],
-            "correct": 0,
-            "explanation": "The summary preserves the relationship between changing experience and the underlying Self.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html",
-            "sourceLabel": "Upanishad Vahini — V. Mandukyopanishad"
+            "q": "What does Yajnavalkya teach Maitreyi about why things are loved?",
+            "a": "They are loved for the sake of the Atma. Understanding the Atma reveals the underlying reality of everything else."
           }
         ],
-        "sourceUrl": "https://www.vahini.org/downloads/upanishadvahini.html"
+        "quiz": [
+          {
+            "q": "To which Veda is Brihadaranyaka affiliated?",
+            "options": [
+              "The Rig-veda",
+              "The Sama-veda",
+              "The Atharvana-veda",
+              "The White Yajur-veda"
+            ],
+            "correct": 3,
+            "explanation": "The chapter identifies its connection with the Sukla or White Yajur-veda.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 6, PDF pages 28–32"
+          },
+          {
+            "q": "At whose sacrifice does Yajnavalkya answer the scholars?",
+            "options": [
+              "Janaka's",
+              "Nachiketas'",
+              "Pippalada's",
+              "Bhrigu's"
+            ],
+            "correct": 0,
+            "explanation": "Janaka offers richly adorned cows to the one who can teach him Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 6, PDF pages 28–32"
+          },
+          {
+            "q": "Who questions Yajnavalkya about the support of the universe?",
+            "options": [
+              "Sita",
+              "Gargi",
+              "Sabari",
+              "Kausalya"
+            ],
+            "correct": 1,
+            "explanation": "Her questions draw out the teaching on the all-pervading, indestructible Reality.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 6, PDF pages 28–32"
+          },
+          {
+            "q": "What conclusion does the chapter draw from Gargi's spiritual competence?",
+            "options": [
+              "Only kings may study Brahman",
+              "Women may study rituals but not wisdom",
+              "Sex is no barrier to knowledge of Brahman",
+              "Scholarship removes the need for experience"
+            ],
+            "correct": 2,
+            "explanation": "It explicitly affirms the absence of such distinctions in Brahma-vidya.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 6, PDF pages 28–32"
+          },
+          {
+            "q": "What does Yajnavalkya teach Maitreyi about why things are loved?",
+            "options": [
+              "They are loved only for their price",
+              "They are loved because all forms are permanent",
+              "They are loved independently of the Self",
+              "They are loved for the sake of the Atma"
+            ],
+            "correct": 3,
+            "explanation": "Understanding the Atma reveals the underlying reality of everything else.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 6, PDF pages 28–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Prasna Upanishad",
+        "chapter": "Chapter 7 · Prasna Upanishad",
+        "chapterNumber": 7,
+        "pdfStartPage": 33,
+        "pdfEndPage": 36,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+        "sourceLabel": "Chapter 7, PDF pages 33–36",
+        "summary": "Prasna develops its teaching through questions and answers, expanding matters introduced in Mundaka. Six seekers approach Pippalada for knowledge of the eternal Reality. Their approach requires sincere inward dedication, not merely the outward presentation of ritual fuel. Pippalada asks them to undergo a year of preparation and observation before instruction. Their inquiries concern the origin and support of beings, the vital powers, experience in different states, and the relation between the changing manifestation and the Supreme.\n\nThe chapter describes the sun, time, and the order of the universe in relation to Prajapathi. The body and its functions depend upon prana, pictured as a hub holding spokes together; prana itself is explained as arising from the Atma like a shadow from a person. The divine Self resides in the heart and is not fundamentally separate from beings. Rivers losing their names in the sea illustrate the ending of apparent distinctions. The disciples close by honouring their teacher for revealing the Atmic principle.",
+        "qa": [
+          {
+            "q": "Why is this Upanishad called Prasna?",
+            "a": "Its teaching takes the form of questions and answers. Prasna means question, and the chapter develops inquiry through the seekers' questions."
+          },
+          {
+            "q": "Whom do the six seekers approach?",
+            "a": "Pippalada. Pippalada guides them toward knowledge of Brahman."
+          },
+          {
+            "q": "How long does Pippalada require preparation and observation before instruction?",
+            "a": "One year. He first tests the students' readiness for the teaching."
+          },
+          {
+            "q": "To what is the origin of prana from the Atma compared?",
+            "a": "A shadow arising from a person. The comparison expresses the dependence of the vital air on the Self."
+          },
+          {
+            "q": "What does the merging of rivers in the sea illustrate?",
+            "a": "The loss of separate names and forms in the Supreme. After merging, the rivers are called the sea; the Supreme alone remains."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is this Upanishad called Prasna?",
+            "options": [
+              "It deals only with ritual fire",
+              "It is named after a river",
+              "Its teaching takes the form of questions and answers",
+              "It contains only hymns to the sun"
+            ],
+            "correct": 2,
+            "explanation": "Prasna means question, and the chapter develops inquiry through the seekers' questions.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 7, PDF pages 33–36"
+          },
+          {
+            "q": "Whom do the six seekers approach?",
+            "options": [
+              "Yajnavalkya",
+              "Uddalaka",
+              "Yama",
+              "Pippalada"
+            ],
+            "correct": 3,
+            "explanation": "Pippalada guides them toward knowledge of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 7, PDF pages 33–36"
+          },
+          {
+            "q": "How long does Pippalada require preparation and observation before instruction?",
+            "options": [
+              "One year",
+              "Three nights",
+              "Twelve days",
+              "Fourteen years"
+            ],
+            "correct": 0,
+            "explanation": "He first tests the students' readiness for the teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 7, PDF pages 33–36"
+          },
+          {
+            "q": "To what is the origin of prana from the Atma compared?",
+            "options": [
+              "Gold being made from clay",
+              "A shadow arising from a person",
+              "A river flowing upward",
+              "A lamp borrowing light from an object"
+            ],
+            "correct": 1,
+            "explanation": "The comparison expresses the dependence of the vital air on the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 7, PDF pages 33–36"
+          },
+          {
+            "q": "What does the merging of rivers in the sea illustrate?",
+            "options": [
+              "The destruction of the eternal Self",
+              "The permanent separation of souls",
+              "The loss of separate names and forms in the Supreme",
+              "The independence of the senses from the Self"
+            ],
+            "correct": 2,
+            "explanation": "After merging, the rivers are called the sea; the Supreme alone remains.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 7, PDF pages 33–36"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Kena Upanishad",
+        "chapter": "Chapter 8 · Kena Upanishad",
+        "chapterNumber": 8,
+        "pdfStartPage": 37,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+        "sourceLabel": "Chapter 8, PDF pages 37–39",
+        "summary": "Kena begins by asking what enables the mind, vital force, speech, eyes, and ears to function. The senses are instruments that reveal their respective objects, but they are not independently conscious. The chapter identifies the Atma as the illumination through which mind and senses operate. Comparisons with electricity energising a machine and sunlight enabling activity explain this dependence. The Atma itself remains inactive and unaffected; its presence makes the instruments' functions possible without turning it into an ordinary agent.\n\nThe source of knowing cannot be grasped as another known object. Just as objects do not light the lamp that reveals them, the senses cannot illuminate the self-luminous Atma. Claims to have possessed Brahman as an object therefore need further inquiry. Listening, reflection, and meditation prepare the aspirant, but direct realisation goes beyond intellectual description. The chapter declares this knowledge open to all and urges release from worldly attachment. Self-control, discipline, and truth support the search for the eternal reality behind changing experience.",
+        "qa": [
+          {
+            "q": "What central question opens Kena?",
+            "a": "What power enables the mind and senses to function?. Its inquiry seeks the underlying source of the instruments of knowing and acting."
+          },
+          {
+            "q": "What activates and illumines the senses?",
+            "a": "The presence of the Atma. The chapter describes the Atma as the illumination reflected in the inner instrument."
+          },
+          {
+            "q": "What does the lamp illustration explain?",
+            "a": "The senses cannot illuminate the Self that enables them. The objects revealed by a lamp do not reveal the lamp in return."
+          },
+          {
+            "q": "Why is the claim to have known Brahman as an object inadequate?",
+            "a": "Brahman is the very reality of the knower. The chapter distinguishes realisation from treating the Self as something separate to be possessed through knowledge."
+          },
+          {
+            "q": "Who is entitled to knowledge of Brahman?",
+            "a": "All people. The text explicitly describes this knowledge as everyone's heritage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What central question opens Kena?",
+            "options": [
+              "Which king owns the greatest wealth?",
+              "What power enables the mind and senses to function?",
+              "How many rivers reach the ocean?",
+              "Which sacrifice produces the most cattle?"
+            ],
+            "correct": 1,
+            "explanation": "Its inquiry seeks the underlying source of the instruments of knowing and acting.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 8, PDF pages 37–39"
+          },
+          {
+            "q": "What activates and illumines the senses?",
+            "options": [
+              "Their independent intelligence",
+              "Their physical shape alone",
+              "The presence of the Atma",
+              "Desire for their objects alone"
+            ],
+            "correct": 2,
+            "explanation": "The chapter describes the Atma as the illumination reflected in the inner instrument.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 8, PDF pages 37–39"
+          },
+          {
+            "q": "What does the lamp illustration explain?",
+            "options": [
+              "Objects supply the lamp's light",
+              "The Atma needs a second source of light",
+              "Knowledge depends only on physical vision",
+              "The senses cannot illuminate the Self that enables them"
+            ],
+            "correct": 3,
+            "explanation": "The objects revealed by a lamp do not reveal the lamp in return.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 8, PDF pages 37–39"
+          },
+          {
+            "q": "Why is the claim to have known Brahman as an object inadequate?",
+            "options": [
+              "Brahman is the very reality of the knower",
+              "Brahman changes with every observation",
+              "Brahman exists only in dreams",
+              "Brahman is one physical object among others"
+            ],
+            "correct": 0,
+            "explanation": "The chapter distinguishes realisation from treating the Self as something separate to be possessed through knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 8, PDF pages 37–39"
+          },
+          {
+            "q": "Who is entitled to knowledge of Brahman?",
+            "options": [
+              "Only kings",
+              "All people",
+              "Only people born in a particular place",
+              "Only those who possess wealth"
+            ],
+            "correct": 1,
+            "explanation": "The text explicitly describes this knowledge as everyone's heritage.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=37",
+            "sourceLabel": "Chapter 8, PDF pages 37–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Chandogya Upanishad",
+        "chapter": "Chapter 9 · Chandogya Upanishad",
+        "chapterNumber": 9,
+        "pdfStartPage": 40,
+        "pdfEndPage": 43,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+        "sourceLabel": "Chapter 9, PDF pages 40–43",
+        "summary": "The chapter links dedicated work, worship, and wisdom: work helps purify consciousness, worship develops concentration, and these prepare the way for knowledge of Brahman. Uddalaka challenges the pride of his learned son Swethakethu by asking whether he knows that through which everything becomes known. Clay and its vessels, and gold and its ornaments, illustrate the relation between an enduring basis and changing names and forms. Being, or is-ness, is presented as the common reality underlying all objects.\n\nFurther illustrations distinguish the changeless Self from bodily life. Rivers lose their individual names in the sea, and dissolved salt remains present even when unseen. The chapter directs attention to Brahman in the heart without implying that the infinite is physically confined there. It discusses the soul's journey, the refinement of consciousness, meditation, and experiential wisdom. Its closing emphasis is to relinquish identification of the Self with the body. Scholarship alone is insufficient unless awareness is transformed toward the Reality it studies.",
+        "qa": [
+          {
+            "q": "What order of preparation does the chapter describe?",
+            "a": "Dedicated work, worship, then spiritual wisdom. Work and worship prepare purity and concentration for knowledge of Brahman."
+          },
+          {
+            "q": "Who questions Swethakethu about the knowledge through which all becomes known?",
+            "a": "Uddalaka. His father challenges the pride that has accompanied Swethakethu's learning."
+          },
+          {
+            "q": "What do clay vessels and gold ornaments illustrate?",
+            "a": "Changing names and forms share an underlying reality. Clay and gold remain the basis of their various modifications."
+          },
+          {
+            "q": "How is salt dissolved in water still recognised?",
+            "a": "By its taste. The illustration shows that what cannot be grasped visibly may still be present."
+          },
+          {
+            "q": "Which identification must be relinquished to recognise one's true Reality?",
+            "a": "Identification of the Self with the physical body. The chapter distinguishes bodily limitation from the true nature of the Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What order of preparation does the chapter describe?",
+            "options": [
+              "Dedicated work, worship, then spiritual wisdom",
+              "Wealth, authority, then fame",
+              "Sleep, food, then ritual",
+              "Debate, victory, then possessions"
+            ],
+            "correct": 0,
+            "explanation": "Work and worship prepare purity and concentration for knowledge of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–43"
+          },
+          {
+            "q": "Who questions Swethakethu about the knowledge through which all becomes known?",
+            "options": [
+              "Pippalada",
+              "Uddalaka",
+              "Yama",
+              "Varuna"
+            ],
+            "correct": 1,
+            "explanation": "His father challenges the pride that has accompanied Swethakethu's learning.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–43"
+          },
+          {
+            "q": "What do clay vessels and gold ornaments illustrate?",
+            "options": [
+              "Every form exists independently of its material",
+              "All objects are equally permanent",
+              "Changing names and forms share an underlying reality",
+              "Knowledge of causes prevents knowledge of effects"
+            ],
+            "correct": 2,
+            "explanation": "Clay and gold remain the basis of their various modifications.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–43"
+          },
+          {
+            "q": "How is salt dissolved in water still recognised?",
+            "options": [
+              "By its visible shape",
+              "By its shadow",
+              "By its sound",
+              "By its taste"
+            ],
+            "correct": 3,
+            "explanation": "The illustration shows that what cannot be grasped visibly may still be present.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–43"
+          },
+          {
+            "q": "Which identification must be relinquished to recognise one's true Reality?",
+            "options": [
+              "Identification of the Self with the physical body",
+              "Recognition of Brahman as one",
+              "Awareness of the Self's immortality",
+              "Understanding of the underlying cause"
+            ],
+            "correct": 0,
+            "explanation": "The chapter distinguishes bodily limitation from the true nature of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–43"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Aithareya Upanishad",
+        "chapter": "Chapter 10 · Aithareya Upanishad",
+        "chapterNumber": 10,
+        "pdfStartPage": 44,
+        "pdfEndPage": 46,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+        "sourceLabel": "Chapter 10, PDF pages 44–46",
+        "summary": "Aithareya is introduced as a Rig-vedic teaching of the Atmic principle. It distinguishes the apparent individual moving through worldly experience from the limitless reality signified by Atma. Waking, dreaming, and deep sleep describe modes of experience, but they do not change the Self. Before the manifestation of creation, the Atma alone existed. Names and forms make variety perceptible, just as one ocean appears in waves, bubbles, and foam without becoming a second substance.\n\nThe chapter describes the formation of the cosmic person, the senses, and their presiding deities. An organ's outward structure alone does not account for its ability to function; consciousness is the underlying illumination. The human form receives particular importance because discrimination makes it an instrument for liberation. The Lord is described as illumining experience through living beings, while the stages of consciousness belong to sensory conditions rather than the Atma itself. The final discussion concerns continuity through parent and child, rebirth, and Vamadeva's liberation through recognising the true Self.",
+        "qa": [
+          {
+            "q": "To which Veda does Aithareya belong?",
+            "a": "Rig-veda. The chapter states this affiliation at its opening."
+          },
+          {
+            "q": "What existed before creation, according to the chapter?",
+            "a": "The Atma alone. Creation is described as initially unmanifest in the Atma."
+          },
+          {
+            "q": "What do waves, bubbles, and foam illustrate?",
+            "a": "Apparent variety within one underlying substance. The ocean remains one despite its many appearances."
+          },
+          {
+            "q": "What makes the human form an instrument for liberation?",
+            "a": "Its capacity for discrimination. The chapter gives viveka a special role in human spiritual possibility."
+          },
+          {
+            "q": "Which sage is described as liberated through understanding the Atma?",
+            "a": "Vamadeva. The closing passage connects Vamadeva's understanding with freedom from worldly flux."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To which Veda does Aithareya belong?",
+            "options": [
+              "Sama-veda",
+              "White Yajur-veda",
+              "Atharvana-veda",
+              "Rig-veda"
+            ],
+            "correct": 3,
+            "explanation": "The chapter states this affiliation at its opening.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+            "sourceLabel": "Chapter 10, PDF pages 44–46"
+          },
+          {
+            "q": "What existed before creation, according to the chapter?",
+            "options": [
+              "The Atma alone",
+              "Names and forms independently of the Atma",
+              "The senses without consciousness",
+              "A second eternal material substance"
+            ],
+            "correct": 0,
+            "explanation": "Creation is described as initially unmanifest in the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+            "sourceLabel": "Chapter 10, PDF pages 44–46"
+          },
+          {
+            "q": "What do waves, bubbles, and foam illustrate?",
+            "options": [
+              "Several unrelated ultimate realities",
+              "Apparent variety within one underlying substance",
+              "The Atma's destruction during sleep",
+              "The independence of names from forms"
+            ],
+            "correct": 1,
+            "explanation": "The ocean remains one despite its many appearances.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+            "sourceLabel": "Chapter 10, PDF pages 44–46"
+          },
+          {
+            "q": "What makes the human form an instrument for liberation?",
+            "options": [
+              "Its size alone",
+              "Its ability to enjoy rewards alone",
+              "Its capacity for discrimination",
+              "Its possession of food alone"
+            ],
+            "correct": 2,
+            "explanation": "The chapter gives viveka a special role in human spiritual possibility.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+            "sourceLabel": "Chapter 10, PDF pages 44–46"
+          },
+          {
+            "q": "Which sage is described as liberated through understanding the Atma?",
+            "options": [
+              "Kabandi",
+              "Swethakethu",
+              "Sounaka",
+              "Vamadeva"
+            ],
+            "correct": 3,
+            "explanation": "The closing passage connects Vamadeva's understanding with freedom from worldly flux.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=44",
+            "sourceLabel": "Chapter 10, PDF pages 44–46"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Taithiriya Upanishad",
+        "chapter": "Chapter 11 · Taithiriya Upanishad",
+        "chapterNumber": 11,
+        "pdfStartPage": 47,
+        "pdfEndPage": 50,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+        "sourceLabel": "Chapter 11, PDF pages 47–50",
+        "summary": "Taithiriya is presented through instruction, Brahman or bliss, and Bhrigu's inquiry. The chapter distinguishes preparation through action and worship from the knowledge that removes ignorance. Results produced by action are temporary, whereas liberation is not a new object to be manufactured. It is recognised when the false belief in bondage disappears. Brahman is characterised as truth, spiritual wisdom, and eternity: unlike changing things, it is not altered by time or circumstance. The teaching also upholds truthfulness, duty, learning, teaching, and care for welfare.\n\nListening, reflection, and concentration lead from instruction toward realisation. Bhrigu's investigation develops through contemplation rather than stopping at his first conclusion about food. Food itself is to be respected, since the body and its life depend upon it. The chapter explains the five sheaths: food, vital air, mind, spiritual wisdom, and bliss. Moving from the gross toward the subtle loosens bodily identification. Even the bliss sheath is finally transcended as the aspirant realises pure being beyond these coverings.",
+        "qa": [
+          {
+            "q": "Why can liberation not be produced by action?",
+            "a": "It already exists, while produced results are temporary. Knowledge removes the ignorance hiding freedom rather than manufacturing freedom."
+          },
+          {
+            "q": "Which three terms characterise Brahman here?",
+            "a": "Truth, spiritual wisdom, and eternity. Sathya, jnana, and an-antha distinguish Brahman from changing phenomena."
+          },
+          {
+            "q": "What three steps toward realisation are described?",
+            "a": "Listening, reflection, and concentration. The teaching is heard, considered deeply, and held with single-minded attention."
+          },
+          {
+            "q": "Why should food not be treated with disrespect?",
+            "a": "It sustains the body and supports the path of inquiry. Food is revered as essential support and as a starting point in Bhrigu's inquiry."
+          },
+          {
+            "q": "Which sheath does the aspirant pass beyond last in the chapter's account?",
+            "a": "The bliss sheath. The progression goes beyond even ananda-maya kosa into pure being."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why can liberation not be produced by action?",
+            "options": [
+              "It is a physical object beyond reach",
+              "It depends only on heavenly residence",
+              "It already exists, while produced results are temporary",
+              "It is created anew with every ritual"
+            ],
+            "correct": 2,
+            "explanation": "Knowledge removes the ignorance hiding freedom rather than manufacturing freedom.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 11, PDF pages 47–50"
+          },
+          {
+            "q": "Which three terms characterise Brahman here?",
+            "options": [
+              "Birth, growth, and decay",
+              "Sound, colour, and shape",
+              "Desire, action, and reward",
+              "Truth, spiritual wisdom, and eternity"
+            ],
+            "correct": 3,
+            "explanation": "Sathya, jnana, and an-antha distinguish Brahman from changing phenomena.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 11, PDF pages 47–50"
+          },
+          {
+            "q": "What three steps toward realisation are described?",
+            "options": [
+              "Listening, reflection, and concentration",
+              "Arguing, competing, and conquering",
+              "Sleeping, dreaming, and forgetting",
+              "Acquiring, storing, and displaying"
+            ],
+            "correct": 0,
+            "explanation": "The teaching is heard, considered deeply, and held with single-minded attention.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 11, PDF pages 47–50"
+          },
+          {
+            "q": "Why should food not be treated with disrespect?",
+            "options": [
+              "It is the only permanent object",
+              "It sustains the body and supports the path of inquiry",
+              "It removes the need for wisdom",
+              "It guarantees liberation without discipline"
+            ],
+            "correct": 1,
+            "explanation": "Food is revered as essential support and as a starting point in Bhrigu's inquiry.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 11, PDF pages 47–50"
+          },
+          {
+            "q": "Which sheath does the aspirant pass beyond last in the chapter's account?",
+            "options": [
+              "The food sheath",
+              "The vital-air sheath",
+              "The bliss sheath",
+              "The mind sheath"
+            ],
+            "correct": 2,
+            "explanation": "The progression goes beyond even ananda-maya kosa into pure being.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 11, PDF pages 47–50"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Brahmanubhava Upanishad",
+        "chapter": "Chapter 12 · Brahmanubhava Upanishad",
+        "chapterNumber": 12,
+        "pdfStartPage": 51,
+        "pdfEndPage": 55,
+        "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+        "sourceLabel": "Chapter 12, PDF pages 51–55",
+        "summary": "The concluding chapter gathers the teaching of non-duality: Brahman alone is the reality beneath changing appearances. The mistaken snake vanishes when a lamp reveals the rope, illustrating how wisdom removes the appearance of separation. Being, consciousness, bliss, fullness, and eternity indicate Brahman's nature. The mind becomes bound through desire, dislike, and bodily identification, while the Atma remains pure and unattached. The two birds again distinguish the experiencing individual from the witnessing Supreme.\n\nBeneficial tendencies such as compassion, service, and remembrance counter harmful tendencies, but even helpful impressions are finally transcended, like a thorn discarded after it removes another thorn. Through negation of what is not the Self, the aspirant recognises the reality signified by the true “I”. The chapter calls for sense control, truth, and freedom from bodily attachment. Divinity is discovered through wisdom or love rather than physical sight alone. Its final teaching moves beyond the artificial division between seer, seen, and seeing to awareness of Brahman in all.",
+        "qa": [
+          {
+            "q": "What happens to the apparent snake when light reveals the rope?",
+            "a": "The illusion disappears while the rope remains. The example illustrates the removal of dualistic error through knowledge."
+          },
+          {
+            "q": "Which five terms describe Brahman in this chapter?",
+            "a": "Being, consciousness, bliss, fullness, and eternity. These terms indicate the Reality beyond limitation and change."
+          },
+          {
+            "q": "What does the example of removing a thorn with another thorn teach?",
+            "a": "Helpful tendencies are also finally relinquished after overcoming harmful ones. The chapter distinguishes useful purification from the ultimate freedom beyond binding impressions."
+          },
+          {
+            "q": "Which means of vision are said to reveal Divinity?",
+            "a": "The eye of wisdom or the eye of love. Gross physical eyes cannot grasp the subtle divine Reality."
+          },
+          {
+            "q": "Which threefold distinction is finally overcome?",
+            "a": "Seer, seen, and seeing. The chapter calls this division a mental construction that disappears in realisation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What happens to the apparent snake when light reveals the rope?",
+            "options": [
+              "The rope becomes a real snake",
+              "The illusion disappears while the rope remains",
+              "Both become separate eternal objects",
+              "The light creates a second rope"
+            ],
+            "correct": 1,
+            "explanation": "The example illustrates the removal of dualistic error through knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 12, PDF pages 51–55"
+          },
+          {
+            "q": "Which five terms describe Brahman in this chapter?",
+            "options": [
+              "Earth, water, fire, wind, and space",
+              "Speech, touch, sight, taste, and smell",
+              "Being, consciousness, bliss, fullness, and eternity",
+              "Birth, growth, action, decay, and death"
+            ],
+            "correct": 2,
+            "explanation": "These terms indicate the Reality beyond limitation and change.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 12, PDF pages 51–55"
+          },
+          {
+            "q": "What does the example of removing a thorn with another thorn teach?",
+            "options": [
+              "Harmful tendencies must be preserved forever",
+              "Good actions have no preparatory value",
+              "Physical pain alone brings liberation",
+              "Helpful tendencies are also finally relinquished after overcoming harmful ones"
+            ],
+            "correct": 3,
+            "explanation": "The chapter distinguishes useful purification from the ultimate freedom beyond binding impressions.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 12, PDF pages 51–55"
+          },
+          {
+            "q": "Which means of vision are said to reveal Divinity?",
+            "options": [
+              "The eye of wisdom or the eye of love",
+              "Physical sight alone",
+              "The desire for possessions",
+              "Pride in intellectual victory"
+            ],
+            "correct": 0,
+            "explanation": "Gross physical eyes cannot grasp the subtle divine Reality.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 12, PDF pages 51–55"
+          },
+          {
+            "q": "Which threefold distinction is finally overcome?",
+            "options": [
+              "Food, water, and fire",
+              "Seer, seen, and seeing",
+              "Parent, child, and teacher",
+              "Morning, noon, and evening"
+            ],
+            "correct": 1,
+            "explanation": "The chapter calls this division a mental construction that disappears in realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/upanishad-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 12, PDF pages 51–55"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Upanishad Vahini PDF. These study summaries and questions are paraphrases; consult the linked chapter for the full teaching.",
+    "coverage": "All 12 chapters in the supplied edition"
   },
   {
     "id": "vidya",

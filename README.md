@@ -6,7 +6,9 @@ Bhagavatha Vahini now follows all 42 chapters of the user-supplied 175-page PDF:
 
 Ramakatha Rasavahini combines the two user-supplied PDFs into one book entry: Part 1 has 18 chapters and Part 2 has 14. All 32 chapters include two-paragraph summaries, five questions and answers, and five quiz questions (160 of each). Original chapter numbers remain visible within each part. Links open the correct page of the unchanged source PDFs at `dist/assets/ramakatha-rasavahini-part-1.pdf` and `dist/assets/ramakatha-rasavahini-part-2.pdf`.
 
-The other 13 works retain their existing 39 selected topics and 780 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 113 study entries, 409 Q&A, and 1,150 quiz questions. Bhagavatha and Ramakatha have complete chapter coverage.
+Upanishad Vahini follows all 12 chapters of the supplied 73-page PDF, with two-paragraph summaries, 60 questions and answers, and 60 quiz questions (five per chapter). Chapter links use the PDF's page numbers and the unchanged source at `dist/assets/upanishad-vahini.pdf`. The introduction and Brahmanubhava chapter are included; the glossary is not treated as a chapter.
+
+The other 12 works retain their existing 36 selected topics and 720 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 122 study entries, 466 Q&A, and 1,150 quiz questions. Bhagavatha, Ramakatha, and Upanishad have complete chapter coverage.
 
 ## Features
 
@@ -28,7 +30,7 @@ The site requires no build process or external JavaScript dependencies. Serve `d
 
 ## Content policy
 
-Use only the Vahini texts and user-supplied books. Bhagavatha and Ramakatha material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
+Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, and Upanishad material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
 ## Image sources
 
