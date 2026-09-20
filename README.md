@@ -8,7 +8,9 @@ Ramakatha Rasavahini combines the two user-supplied PDFs into one book entry: Pa
 
 Upanishad Vahini follows all 12 chapters of the supplied 73-page PDF, with two-paragraph summaries, 60 questions and answers, and 60 quiz questions (five per chapter). Chapter links use the PDF's page numbers and the unchanged source at `dist/assets/upanishad-vahini.pdf`. The introduction and Brahmanubhava chapter are included; the glossary is not treated as a chapter.
 
-The other 12 works retain their existing 36 selected topics and 720 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 122 study entries, 466 Q&A, and 1,150 quiz questions. Bhagavatha, Ramakatha, and Upanishad have complete chapter coverage.
+Sutra Vahini follows the 12 numbered aphorism chapters of the supplied 61-page PDF, with two-paragraph summaries, 60 questions and answers, and 60 quiz questions (five per chapter). Links open the relevant PDF pages in `dist/assets/sutra-vahini.pdf`. Prefaces, the unnumbered introductory essay, and the glossary remain available in the original PDF.
+
+The other 11 works retain their existing 33 selected topics and 660 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 131 study entries, 523 Q&A, and 1,150 quiz questions. Bhagavatha, Ramakatha, Upanishad, and Sutra have complete numbered-chapter coverage.
 
 ## Features
 

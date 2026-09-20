@@ -16808,897 +16808,1275 @@ window.VAHINI_BOOKS = [
     "id": "sutra",
     "title": "Sutra Vahini",
     "hindiTitle": "सूत्र वाहिनी",
-    "subtitle": "Preparing for wisdom",
-    "description": "Explore the foundations of inquiry into Brahman.",
-    "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Sutra.pdf",
+    "subtitle": "Stream of Aphorisms on Brahman",
+    "description": "Explore all 12 chapters of Bhagawan Sri Sathya Sai Baba’s Sutra Vahini, following the supplied book in order. Each chapter offers a fuller summary, questions and answers, and five quiz questions drawn from its teachings.",
+    "sourceUrl": "assets/sutra-vahini.pdf",
+    "pdfUrl": "assets/sutra-vahini.pdf",
     "topics": [
       {
-        "id": "inquiry",
-        "title": "Readiness for inquiry",
-        "chapter": "Athaatho Brahma Jijnaasaa",
-        "summary": "Inquiry into Brahman requires preparation: discrimination, non-attachment, virtues, and longing for liberation. Intellectual study needs the support of character.",
+        "id": "chapter-01",
+        "title": "Thereafter, the inquiry into Brahman",
+        "chapter": "Chapter 1 · Thereafter, the inquiry into Brahman",
+        "chapterNumber": 1,
+        "pdfStartPage": 11,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+        "sourceLabel": "Chapter 1, PDF pages 11–16",
+        "summary": "The first aphorism explains the preparation required for inquiry into Brahman. “Thereafter” points to the acquisition of four qualifications: discrimination between the eternal and the temporary, detachment from the rewards of action, six spiritual virtues, and longing for liberation. Detachment is not defined as simply leaving home. It means recognising the world's transience and loosening the claims of “I” and “mine”. The six virtues develop mastery of mind and senses, withdrawal from binding dualities, forbearance, faith, and equanimity.\n\nThe chapter distinguishes purifying disciplines from the knowledge that removes ignorance. Ritual, scholarship, wealth, or outward austerity cannot by themselves establish awareness of the Atma. Moral character is therefore indispensable rather than an optional addition to learning. The mind must submit its impulses to discrimination instead of following the senses unchecked. Renunciation and wisdom are compared to the two wings needed for flight: neither alone completes the journey. Inquiry becomes fruitful when conduct, understanding, and the desire for freedom support one another.",
         "qa": [
           {
-            "q": "What does discrimination distinguish?",
-            "a": "It distinguishes the changing and temporary from the eternal Atma."
+            "q": "What does “thereafter” indicate in the first aphorism?",
+            "a": "Inquiry after acquiring the necessary qualifications. The opening word directs attention to spiritual readiness."
+          },
+          {
+            "q": "What is the first qualification for inquiry?",
+            "a": "Discrimination between the eternal and the transitory. Viveka recognises the Atma as changeless and sensory objects as temporary."
+          },
+          {
+            "q": "How does the chapter define nonattachment?",
+            "a": "Giving up possessiveness through awareness of transience. Vairagya concerns desire and identification, rather than an outward change of residence alone."
+          },
+          {
+            "q": "What should examine the mind's desires and proposed actions?",
+            "a": "The intellect or faculty of discrimination. The intellect tests whether an impulse helps or hinders the right path."
+          },
+          {
+            "q": "Which two supports are compared to a bird's wings?",
+            "a": "Renunciation and wisdom. The aspirant needs both freedom from worldly desire and awareness of the Atma."
           }
         ],
         "quiz": [
           {
-            "q": "A student wants advanced philosophy while refusing self-examination. What should be developed first?",
+            "q": "What does “thereafter” indicate in the first aphorism?",
             "options": [
-              "Readiness in character and discernment",
-              "A more prestigious reading list",
-              "A larger discussion audience",
-              "A reputation for difficult questions"
+              "Inquiry after acquiring the necessary qualifications",
+              "Inquiry only after gaining wealth",
+              "Inquiry only after leaving one's family",
+              "Inquiry after mastering a profession"
             ],
             "correct": 0,
-            "explanation": "Readiness connects philosophical inquiry with the personal qualities needed to engage it thoughtfully.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A learner distinguishes lasting concerns from passing attractions. Which capacity is being exercised?",
-            "options": [
-              "Public persuasion",
-              "Competition",
-              "Ceremonial precision",
-              "Discrimination"
-            ],
-            "correct": 3,
-            "explanation": "The exercise examines what changes and what deserves consideration as enduring reality.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A person calls withdrawal from family duties non-attachment. What should be questioned?",
-            "options": [
-              "Whether solitude always proves wisdom",
-              "Whether relatives approve the new title",
-              "Whether responsibilities are being confused with possessiveness",
-              "Whether a more remote location is needed"
-            ],
-            "correct": 2,
-            "explanation": "Non-attachment requires examining possessiveness rather than assuming that abandoning duties demonstrates understanding.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "An aspiring scholar reacts harshly whenever corrected. What preparation would help?",
-            "options": [
-              "Finding arguments that silence every critic",
-              "Cultivating humility and emotional steadiness",
-              "Collecting more impressive qualifications",
-              "Avoiding anyone who might disagree"
-            ],
-            "correct": 1,
-            "explanation": "Humility and steadiness make correction useful instead of treating it as a personal threat.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A student has strong curiosity but little patience. What is a constructive plan?",
-            "options": [
-              "Combine study with gradual character practice",
-              "Wait until patience appears without effort",
-              "Treat curiosity as completed preparation",
-              "Choose only views requiring no reflection"
-            ],
-            "correct": 0,
-            "explanation": "Combining study and practice lets readiness develop alongside the pursuit of understanding.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A discussion focuses entirely on vocabulary. Which question restores depth?",
-            "options": [
-              "Which term is hardest to pronounce?",
-              "Who remembers the most definitions?",
-              "Which phrase would sound impressive publicly?",
-              "How should these ideas shape our conduct?"
-            ],
-            "correct": 3,
-            "explanation": "Conduct connects concepts with their practical implications beyond accurate verbal reproduction.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A learner mistakes renunciation for refusing all enjoyment. What distinction is useful?",
-            "options": [
-              "Prove seriousness through outward discomfort alone",
-              "Assume pleasure determines spiritual rank",
-              "Examine attachment rather than perform deprivation",
-              "Treat every preference as a permanent identity"
-            ],
-            "correct": 2,
-            "explanation": "Examining attachment addresses the inward relationship to experience rather than merely its appearance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A person seeks liberation mainly to gain admiration. What needs honest review?",
-            "options": [
-              "The number of potential admirers",
-              "The desire governing the spiritual ambition",
-              "The prestige of the goal's description",
-              "The speed of public recognition"
-            ],
-            "correct": 1,
-            "explanation": "Honest review asks whether the ambition remains organised around the reward of admiration.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A beginner wants a checklist that guarantees wisdom. What is a careful response?",
-            "options": [
-              "Preparatory qualities require lived cultivation",
-              "Completed boxes prove final attainment",
-              "A checklist removes all need for reflection",
-              "Only the longest checklist can succeed"
-            ],
-            "correct": 0,
-            "explanation": "Preparatory qualities concern how someone lives rather than a mechanical guarantee of attainment.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A teacher offers praise for memorisation. What further evidence matters?",
-            "options": [
-              "The beauty of the written notes",
-              "The size of the memorised passage alone",
-              "The learner's confidence when corrected",
-              "The learner's understanding and ethical application"
-            ],
-            "correct": 3,
-            "explanation": "Understanding and ethical application reveal dimensions of learning that memorisation cannot establish alone.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "Two students have different levels of scholarship. What remains relevant for both?",
-            "options": [
-              "Competition over which background is superior",
-              "Assumptions that one has no chance",
-              "Sincere effort to develop the necessary virtues",
-              "A requirement to present identical opinions"
-            ],
-            "correct": 2,
-            "explanation": "Shared effort matters even when learners begin with different amounts of formal knowledge.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A seeker confuses giving possessions away with ending possessiveness. What should be examined?",
-            "options": [
-              "Whether enough witnesses saw the gift",
-              "Whether the inward claim of ownership remains",
-              "Whether the recipient gives public thanks",
-              "Whether the gift exceeds another person's donation"
-            ],
-            "correct": 1,
-            "explanation": "Outward giving does not by itself establish how the giver relates inwardly to ownership.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A participant insists moral conduct is separate from philosophy. What challenge fits this topic?",
-            "options": [
-              "Consider how character affects the quality of inquiry",
-              "Add more specialist terminology",
-              "Reserve conduct only for beginners",
-              "Measure understanding solely by debate victories"
-            ],
-            "correct": 0,
-            "explanation": "Character shapes how a person handles evidence, disagreement, desire, and the search for truth.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A student wishes to study only when praised. Which preparation is weak?",
-            "options": [
-              "Ability to remember names",
-              "Knowledge of public speaking",
-              "Familiarity with event schedules",
-              "Independence from the demand for approval"
-            ],
-            "correct": 3,
-            "explanation": "Dependence on praise makes learning contingent on an external reward rather than sincere purpose.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A reading circle wants to support preparation. Which activity is useful?",
-            "options": [
-              "Rank members by spiritual status",
-              "Replace all study with administrative tasks",
-              "Discuss one virtue through actual choices",
-              "Reward agreement regardless of understanding"
-            ],
-            "correct": 2,
-            "explanation": "Actual choices make virtues concrete and open to honest reflection within the group.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "Why does preparation precede deeper inquiry here?",
-            "options": [
-              "Truth changes according to social prestige",
-              "The learner needs qualities that support understanding",
-              "A difficult vocabulary guarantees readiness",
-              "Every beginner must already know the answer"
-            ],
-            "correct": 1,
-            "explanation": "Preparation concerns the learner's capacity for thoughtful engagement rather than social standing.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "Which is one qualification named in this topic?",
-            "options": [
-              "Discrimination between temporary and eternal",
-              "A position of public influence",
-              "A large personal library",
-              "An ability to defeat every opponent"
-            ],
-            "correct": 0,
-            "explanation": "Discrimination is identified among the qualities that prepare a seeker for inquiry.",
+            "explanation": "The opening word directs attention to spiritual readiness.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
+            "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 1, PDF pages 11–16"
           },
           {
-            "q": "What does the topic pair with discrimination and non-attachment?",
+            "q": "What is the first qualification for inquiry?",
             "options": [
-              "Prestige and financial independence",
-              "Performance and public approval",
-              "Certainty and avoidance of questions",
-              "Virtues and longing for liberation"
-            ],
-            "correct": 3,
-            "explanation": "The topic's preparation includes character and spiritual purpose alongside discrimination and non-attachment.",
-            "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A learner notices that possessions provoke constant fear. What is a fitting inquiry?",
-            "options": [
-              "Which possession would impress others more?",
-              "How can everyone validate my ownership?",
-              "How does attachment shape my sense of security?",
-              "Which label would make the fear spiritual?"
-            ],
-            "correct": 2,
-            "explanation": "The question examines the relationship between attachment and fear rather than disguising it.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
-          },
-          {
-            "q": "A person finishes a preparatory course. What attitude supports further study?",
-            "options": [
-              "Assume every required virtue is permanent",
-              "Remain open to continued cultivation and correction",
-              "Treat attendance as final self-knowledge",
-              "Claim exemption from ordinary ethical expectations"
+              "Possession of ritual materials",
+              "Discrimination between the eternal and the transitory",
+              "Fame as a scholar",
+              "Residence in a forest"
             ],
             "correct": 1,
-            "explanation": "Continued openness recognises that a completed course does not finish personal development.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Athaatho Brahma Jijnaasaa"
+            "explanation": "Viveka recognises the Atma as changeless and sensory objects as temporary.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 1, PDF pages 11–16"
+          },
+          {
+            "q": "How does the chapter define nonattachment?",
+            "options": [
+              "Merely abandoning one's home",
+              "Refusing every form of duty",
+              "Giving up possessiveness through awareness of transience",
+              "Acquiring only sacred possessions"
+            ],
+            "correct": 2,
+            "explanation": "Vairagya concerns desire and identification, rather than an outward change of residence alone.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 1, PDF pages 11–16"
+          },
+          {
+            "q": "What should examine the mind's desires and proposed actions?",
+            "options": [
+              "The strongest sensory craving",
+              "Public praise",
+              "The desire for quick reward",
+              "The intellect or faculty of discrimination"
+            ],
+            "correct": 3,
+            "explanation": "The intellect tests whether an impulse helps or hinders the right path.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 1, PDF pages 11–16"
+          },
+          {
+            "q": "Which two supports are compared to a bird's wings?",
+            "options": [
+              "Renunciation and wisdom",
+              "Wealth and scholarship",
+              "Power and popularity",
+              "Ritual and reward"
+            ],
+            "correct": 0,
+            "explanation": "The aspirant needs both freedom from worldly desire and awareness of the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 1, PDF pages 11–16"
           }
-        ],
-        "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html"
+        ]
       },
       {
-        "id": "mind",
-        "title": "Directing the mind",
-        "chapter": "Sama",
-        "summary": "The mind can bind or liberate. Discerning intelligence should examine desires and guide the senses toward constructive spiritual practice.",
+        "id": "chapter-02",
+        "title": "Brahman is the Cosmic Source, Force, and Support",
+        "chapter": "Chapter 2 · Brahman is the Cosmic Source, Force, and Support",
+        "chapterNumber": 2,
+        "pdfStartPage": 17,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+        "sourceLabel": "Chapter 2, PDF pages 17–22",
+        "summary": "The second aphorism identifies Brahman as that from which the universe arises, by which it is sustained, and into which it merges. Changing names and forms point toward an unchanging foundation. Mistaking a tree stump for a ghost in darkness illustrates how false perception hides the real basis of an appearance. The chapter examines proposed explanations of the cosmos and insists that dependent or unconscious factors cannot independently account for its governing intelligence and order.\n\nIt distinguishes temporary, indicative signs from characteristics that reveal Brahman's enduring nature. A finger or branch may indicate the moon or a star only for a time; such pointers should not be confused with the reality itself. Existence, illumination, and dearness underlie the changing names and forms of things. Bubbles arising, remaining, and dissolving in water illustrate creation's dependence on its source. The inquiry is fulfilled in recognising that the apparent universe and its foundation are not ultimately separate, and that realisation of Brahman transforms the knower's understanding of self and world.",
         "qa": [
           {
-            "q": "How should a new desire be examined?",
-            "a": "Consider whether it helps or harms and where it leads."
+            "q": "Which three processes does the aphorism trace to Brahman?",
+            "a": "Origination, maintenance, and dissolution. Brahman is presented as the source, support, and final resting place of the cosmos."
+          },
+          {
+            "q": "What causes a tree stump to be mistaken for a ghost in the illustration?",
+            "a": "Darkness. The example explains how misperception conceals the underlying reality."
+          },
+          {
+            "q": "Which two of the five features of things undergo change?",
+            "a": "Name and form. Names and forms are described as superimpositions on the underlying reality."
+          },
+          {
+            "q": "Why is pointing to a star above a branch only an indicative sign?",
+            "a": "The apparent position changes with time. The temporary pointer does not describe the star's genuine nature."
+          },
+          {
+            "q": "What do bubbles and water illustrate?",
+            "a": "Creation's origin, support, and mergence in Brahman. A bubble depends upon water throughout its appearance and disappearance."
           }
         ],
         "quiz": [
           {
-            "q": "A harsh reply is ready to send. Which pause best exercises discrimination?",
+            "q": "Which three processes does the aphorism trace to Brahman?",
             "options": [
-              "Check whether it sounds forceful enough",
-              "Consider its purpose and likely effect",
-              "Predict how many friends will approve",
-              "Send quickly before doubt appears"
-            ],
-            "correct": 1,
-            "explanation": "Considering purpose and effect allows judgment to guide the response before impulse acts.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A student wants to check messages during every task. What would help?",
-            "options": [
-              "Choose a clear interval for undivided attention",
-              "Keep every notification visible",
-              "Switch tasks whenever curiosity appears",
-              "Assume the habit cannot be examined"
-            ],
-            "correct": 0,
-            "explanation": "A clear interval creates a practical opportunity to direct attention instead of following every prompt.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A person feels an urge to gossip. What question is most useful?",
-            "options": [
-              "Will the story make me interesting?",
-              "Can I avoid being named?",
-              "Will others repeat it faster?",
-              "Would sharing this help or harm?"
+              "Hearing, speaking, and walking",
+              "Sleeping, dreaming, and forgetting",
+              "Desire, anger, and rivalry",
+              "Origination, maintenance, and dissolution"
             ],
             "correct": 3,
-            "explanation": "Help and harm provide a relevant basis for deciding whether the impulse deserves action.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A learner mistakes having a thought for needing to obey it. What distinction helps?",
-            "options": [
-              "Every thought is a reliable instruction",
-              "Strong thoughts are always wise",
-              "A thought can be examined before action",
-              "Unwanted thoughts prove permanent failure"
-            ],
-            "correct": 2,
-            "explanation": "Examining thoughts creates a space for choice instead of treating their arrival as authority.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "Someone practises concentration but uses it to manipulate others. What is missing?",
-            "options": [
-              "A more powerful concentration exercise",
-              "Ethical direction for the strengthened ability",
-              "A larger audience to influence",
-              "More confidence in personal strategy"
-            ],
-            "correct": 1,
-            "explanation": "An ability needs ethical direction if its increased power is to serve constructive purposes.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A shopper feels sudden pressure to buy. What check supports self-control?",
-            "options": [
-              "Ask whether the purchase serves a genuine need",
-              "Buy before the feeling changes",
-              "Treat urgency as proof of necessity",
-              "Ask only whether others own it"
-            ],
-            "correct": 0,
-            "explanation": "Checking genuine need tests the desire rather than accepting the feeling of urgency.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A tired volunteer becomes unusually irritable. What is a discerning response?",
-            "options": [
-              "Treat irritation as a command",
-              "Assume others caused every feeling",
-              "Make a permanent decision immediately",
-              "Notice the condition and choose a careful reply"
-            ],
-            "correct": 3,
-            "explanation": "Noticing current conditions helps prevent a temporary state from dictating an unconsidered response.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A person rehearses an old argument repeatedly. What could redirect the mind?",
-            "options": [
-              "Keep improving imaginary insults",
-              "Wait for the other person to sense resentment",
-              "Choose a useful present task consciously",
-              "Treat repetition as progress toward resolution"
-            ],
-            "correct": 2,
-            "explanation": "A consciously chosen task redirects attention from rehearsal toward something presently constructive.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A group uses a rule to avoid all independent thought. What should be restored?",
-            "options": [
-              "Faster obedience without understanding",
-              "Thoughtful examination of actions and consequences",
-              "More elaborate penalties for questions",
-              "A belief that habit guarantees wisdom"
-            ],
-            "correct": 1,
-            "explanation": "Thoughtful examination keeps discipline connected with judgment instead of turning it into blind habit.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A learner notices jealousy after another's success. What response guides the mind?",
-            "options": [
-              "Acknowledge it and choose a generous action",
-              "Search for reasons to diminish the achievement",
-              "Treat jealousy as proof of unfairness",
-              "Hide the feeling while spreading criticism"
-            ],
-            "correct": 0,
-            "explanation": "Acknowledgment and a chosen generous response prevent the feeling from automatically directing conduct.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A person resolves to avoid distraction but leaves tempting feeds open. What practical change helps?",
-            "options": [
-              "Make a louder promise",
-              "Blame the temptation entirely",
-              "Wait for effortless control",
-              "Arrange the setting to support the intention"
-            ],
-            "correct": 3,
-            "explanation": "Supportive surroundings make it easier to practise the intended direction of attention.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A decision promises pleasure now but foreseeable harm later. What should judgment consider?",
-            "options": [
-              "Only the strength of present desire",
-              "Only whether the choice looks exciting",
-              "Both immediate attraction and later consequences",
-              "Only whether someone else has tried it"
-            ],
-            "correct": 2,
-            "explanation": "Considering later consequences prevents immediate attraction from becoming the decision's only criterion.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "Someone suppresses questions by calling them bad thoughts. What is a better distinction?",
-            "options": [
-              "Reject every uncomfortable question",
-              "Evaluate thoughts by content and consequences",
-              "Accept only thoughts producing instant pleasure",
-              "Treat questioning itself as harmful"
-            ],
-            "correct": 1,
-            "explanation": "Evaluation requires examining a thought rather than judging it solely by discomfort.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A facilitator asks participants to notice mental habits. What response is most useful?",
-            "options": [
-              "Describe a specific pattern without self-condemnation",
-              "Declare that all habits are permanent",
-              "Compare who has the worst mind",
-              "Claim no pattern can ever be noticed"
-            ],
-            "correct": 0,
-            "explanation": "Specific description makes a pattern available for improvement without turning observation into self-attack.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "A student begins three tasks impulsively and finishes none. What decision supports steadiness?",
-            "options": [
-              "Add a fourth interesting task",
-              "Wait for every task to feel equally pleasant",
-              "Judge effort only by busyness",
-              "Select one priority and attend to it"
-            ],
-            "correct": 3,
-            "explanation": "A chosen priority gives attention direction instead of letting each new impulse reorganise activity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "Why can the same mind bind or help free a person?",
-            "options": [
-              "Every thought has the same consequence",
-              "Intelligence has no role in conduct",
-              "Its direction depends on how desires are guided",
-              "Only external conditions determine attention"
-            ],
-            "correct": 2,
-            "explanation": "The distinction concerns direction and guidance rather than treating the mind as fixed.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
-          },
-          {
-            "q": "What does Sama refer to in this topic?",
-            "options": [
-              "Accumulation of information",
-              "Discipline of the mind",
-              "Avoidance of all responsibility",
-              "Approval from a teacher's audience"
-            ],
-            "correct": 1,
-            "explanation": "The topic uses Sama for guiding and regulating the activity of the mind.",
+            "explanation": "Brahman is presented as the source, support, and final resting place of the cosmos.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
+            "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 2, PDF pages 17–22"
           },
           {
-            "q": "Which faculty should examine a newly arising desire?",
+            "q": "What causes a tree stump to be mistaken for a ghost in the illustration?",
             "options": [
-              "Discerning intelligence",
-              "Social popularity",
-              "Immediate appetite",
-              "Habit alone"
+              "Darkness",
+              "The stump's movement",
+              "A change in the tree's substance",
+              "The presence of another person"
             ],
             "correct": 0,
-            "explanation": "Discerning intelligence examines a desire's value and direction before it governs action.",
+            "explanation": "The example explains how misperception conceals the underlying reality.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
+            "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 2, PDF pages 17–22"
           },
           {
-            "q": "A person mistakes endless self-monitoring for useful reflection. What would make reflection practical?",
+            "q": "Which two of the five features of things undergo change?",
             "options": [
-              "Analyse every thought without ever acting",
-              "Search for a flawless mental record",
-              "Compare private thoughts with others' appearances",
-              "Identify one pattern and choose a constructive response"
+              "Existence and illumination",
+              "Name and form",
+              "Illumination and dearness",
+              "Existence and dearness"
             ],
-            "correct": 3,
-            "explanation": "A specific constructive response keeps reflection connected with living rather than endless checking.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
+            "correct": 1,
+            "explanation": "Names and forms are described as superimpositions on the underlying reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 2, PDF pages 17–22"
           },
           {
-            "q": "A volunteer notices that praise changes their choices. What is a useful experiment?",
+            "q": "Why is pointing to a star above a branch only an indicative sign?",
             "options": [
-              "Ask for praise more directly",
-              "Avoid useful work when unseen",
-              "Choose one helpful action without seeking attention",
-              "Measure worth by the response received"
+              "The star is part of the branch",
+              "The branch produces the star",
+              "The apparent position changes with time",
+              "The star can exist only when pointed at"
             ],
             "correct": 2,
-            "explanation": "The experiment tests whether a chosen action can proceed independently of public attention.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Sama"
+            "explanation": "The temporary pointer does not describe the star's genuine nature.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 2, PDF pages 17–22"
+          },
+          {
+            "q": "What do bubbles and water illustrate?",
+            "options": [
+              "The complete independence of the universe",
+              "The destruction of Brahman",
+              "The permanence of every form",
+              "Creation's origin, support, and mergence in Brahman"
+            ],
+            "correct": 3,
+            "explanation": "A bubble depends upon water throughout its appearance and disappearance.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 2, PDF pages 17–22"
           }
-        ],
-        "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html"
+        ]
       },
       {
-        "id": "steadiness",
-        "title": "Patient strength",
-        "chapter": "Thithiksha",
-        "summary": "Forbearance avoids retaliation when confronted by injury or insult. Returning harm increases karmic entanglement; patient goodwill supports inner purification.",
+        "id": "chapter-03",
+        "title": "Brahman is the source of all knowledge",
+        "chapter": "Chapter 3 · Brahman is the source of all knowledge",
+        "chapterNumber": 3,
+        "pdfStartPage": 23,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+        "sourceLabel": "Chapter 3, PDF pages 23–25",
+        "summary": "This aphorism presents Brahman as the source of the scriptures and the scriptures as the means of revealing Brahman. The Vedas are described as eternal knowledge heard by sages, rather than products of an individual's imagination. Ordinary perception and inference cannot measure the unlimited Reality. Scripture recalls what has been forgotten about one's own true nature, like a caring mother repeatedly guiding a child toward the right goal. Its essential lesson is to keep God continually in mind and put understanding into practice.\n\nPrahlada illustrates this inward orientation when he tells his father that worldly conquest is hollow without mastery of the senses and remembrance of Narayana. The chapter then follows Brighu's inquiry under Varuna. Successive contemplation moves through food, vital air, mind, and spiritual wisdom until Brighu realises spiritual bliss as Brahman. His final understanding becomes an abiding experience rather than another answer to report. Atma, Brahman, and Om are explained as expressing the same reality, uniting the inner and outer universe.",
         "qa": [
           {
-            "q": "Why avoid retaliatory harm?",
-            "a": "It adds further consequences instead of resolving the inner burden."
+            "q": "What is declared to be the source of the scriptures?",
+            "a": "Brahman. Their illumination and authority are traced to Brahman."
+          },
+          {
+            "q": "What essential lesson should be grasped and practised without mastering every text?",
+            "a": "Constant thought of God. The chapter compares learning this essence to tasting the ocean through a single drop."
+          },
+          {
+            "q": "What failure does Prahlada point out despite his father's worldly conquests?",
+            "a": "Failure to conquer the senses. Prahlada distinguishes external power from spiritual mastery."
+          },
+          {
+            "q": "Who guides Brighu's inquiry?",
+            "a": "Varuna. His father directs him to discover Brahman through concentrated spiritual practice."
+          },
+          {
+            "q": "What is Brighu's final realisation in the chapter?",
+            "a": "Spiritual bliss is Brahman. After successive stages of inquiry, he remains absorbed in the bliss he has realised."
           }
         ],
         "quiz": [
           {
-            "q": "A colleague makes an insulting remark. What response best combines restraint and clarity?",
+            "q": "What is declared to be the source of the scriptures?",
             "options": [
-              "Create a sharper insult in reply",
-              "Spread an unrelated rumour",
-              "Address the issue calmly without returning the insult",
-              "Assume the insult must be silently approved"
+              "An individual's imagination",
+              "Political authority",
+              "Brahman",
+              "Material wealth"
             ],
             "correct": 2,
-            "explanation": "Calm clarification can challenge conduct without reproducing the same harmful pattern in response.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "Someone repeatedly mistreats a volunteer. What is a responsible non-retaliatory response?",
-            "options": [
-              "Remain exposed to prove patience",
-              "Seek support and set a clear boundary",
-              "Plan a humiliating revenge",
-              "Pretend the situation causes no concern"
-            ],
-            "correct": 1,
-            "explanation": "Protection and clear boundaries can coexist with refusing revenge or deliberate humiliation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A learner receives unfair criticism online. What should guide a reply?",
-            "options": [
-              "Correct relevant facts without attacking the critic",
-              "Match every accusation with another",
-              "Recruit friends to mock the critic",
-              "Accept false claims as permanently true"
-            ],
-            "correct": 0,
-            "explanation": "Factual correction addresses the problem without adding personal attack to an already difficult exchange.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "An angry person wants immediate satisfaction. What question supports forbearance?",
-            "options": [
-              "Will this response embarrass them enough?",
-              "Can I make the retaliation invisible?",
-              "Who will admire my sharpness?",
-              "Will this response create further harm?"
-            ],
-            "correct": 3,
-            "explanation": "Considering further harm interrupts the demand for immediate emotional satisfaction through retaliation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A family dispute resurfaces. Which choice breaks a repeated cycle?",
-            "options": [
-              "List every past offence before listening",
-              "Reply according to the harshest previous remark",
-              "Discuss the current issue without rehearsing old insults",
-              "Invite relatives to choose permanent sides"
-            ],
-            "correct": 2,
-            "explanation": "Focusing on the current issue reduces the fuel supplied by repeated historical grievances.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A person forgives but needs distance. Is that inconsistent with goodwill?",
-            "options": [
-              "Yes, forgiveness requires unrestricted access",
-              "No, goodwill can coexist with appropriate distance",
-              "Yes, every boundary expresses revenge",
-              "No, distance proves the other person worthless"
-            ],
-            "correct": 1,
-            "explanation": "Appropriate distance may protect wellbeing without requiring hostility or a wish to punish.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A participant hears an unkind joke about them. What is a measured response?",
-            "options": [
-              "State that it is unwelcome without humiliating anyone",
-              "Make a crueler joke in return",
-              "Publicise unrelated private information",
-              "Demand that everyone choose sides immediately"
-            ],
-            "correct": 0,
-            "explanation": "A direct measured statement communicates a boundary without escalating the exchange through humiliation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A learner confuses patience with passivity. What distinction is useful?",
-            "options": [
-              "Patience means no action is ever appropriate",
-              "Only anger can motivate correction",
-              "Every complaint is automatically retaliation",
-              "Patient action can still address a problem"
-            ],
-            "correct": 3,
-            "explanation": "Patience concerns the quality of response rather than requiring that problems remain unaddressed.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A volunteer's contribution is overlooked. What response protects steadiness?",
-            "options": [
-              "Withhold necessary work to punish the group",
-              "Exaggerate another person's mistakes",
-              "Clarify the record without seeking revenge",
-              "Conclude that all service is pointless"
-            ],
-            "correct": 2,
-            "explanation": "Clarifying the record preserves accuracy while refusing to turn disappointment into retaliatory conduct.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A tense meeting produces several interruptions. What should a facilitator do?",
-            "options": [
-              "Interrupt the interrupters more aggressively",
-              "Restore fair turns with calm firmness",
-              "Allow only supporters to speak",
-              "Pretend that no difficulty exists"
-            ],
-            "correct": 1,
-            "explanation": "Calm firmness addresses the disruption while modelling the orderly conduct being requested.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "Someone apologises for a careless remark. What is a constructive response?",
-            "options": [
-              "Consider the apology without demanding humiliation",
-              "Require a public spectacle regardless of context",
-              "Invent additional offences to strengthen the case",
-              "Refuse to update any earlier judgment"
-            ],
-            "correct": 0,
-            "explanation": "Considering the apology creates room for repair without making humiliation the price of reconciliation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A person feels anger but chooses not to act cruelly. What does this show?",
-            "options": [
-              "Feeling anger makes restraint impossible",
-              "Every strong feeling must be denied",
-              "The anger proves permanent spiritual failure",
-              "Restraint can guide conduct despite strong feelings"
-            ],
-            "correct": 3,
-            "explanation": "A difficult feeling does not remove the possibility of choosing a considerate response.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A student plans to expose a genuine safety concern. How can they avoid retaliation?",
-            "options": [
-              "Add insulting speculation about everyone involved",
-              "Suppress the concern to appear patient",
-              "Report relevant facts through an appropriate process",
-              "Publish private details unrelated to the risk"
-            ],
-            "correct": 2,
-            "explanation": "Relevant reporting protects others while avoiding unnecessary humiliation or unsupported personal accusations.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A grievance occupies someone's attention all day. What could help?",
-            "options": [
-              "Perfect the imagined revenge repeatedly",
-              "Choose a constructive next step and release repeated rehearsal",
-              "Demand that friends rehearse it too",
-              "Treat every neutral event as another offence"
-            ],
-            "correct": 1,
-            "explanation": "A constructive step addresses what can be done without continually renewing the grievance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "A person mistakes goodwill for agreeing with harmful conduct. What is accurate?",
-            "options": [
-              "Goodwill can accompany firm disagreement",
-              "Goodwill requires approval of every act",
-              "Disagreement always expresses hatred",
-              "Harmful conduct becomes harmless when ignored"
-            ],
-            "correct": 0,
-            "explanation": "Concern for a person remains compatible with clearly opposing conduct that causes harm.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "Why does this topic discourage returning harm?",
-            "options": [
-              "Retaliation always solves the original problem",
-              "Every conflict requires surrendering all boundaries",
-              "Strong feelings establish a right to punish",
-              "Retaliation adds to the cycle of consequences"
-            ],
-            "correct": 3,
-            "explanation": "The teaching directs attention to the additional consequences created by a retaliatory response.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "What does Thithiksha name in this topic?",
-            "options": [
-              "Public prestige",
-              "Competitive ambition",
-              "Forbearance",
-              "Constant argument"
-            ],
-            "correct": 2,
-            "explanation": "Thithiksha is presented as patient steadiness when confronted by difficult or hurtful circumstances.",
+            "explanation": "Their illumination and authority are traced to Brahman.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
+            "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 3, PDF pages 23–25"
           },
           {
-            "q": "Which response most clearly differs from retaliation?",
+            "q": "What essential lesson should be grasped and practised without mastering every text?",
             "options": [
-              "An insult delivered politely",
-              "A firm boundary without deliberate humiliation",
-              "A rumour shared anonymously",
-              "A punishment disguised as generosity"
-            ],
-            "correct": 1,
-            "explanation": "A boundary protects legitimate interests without making another person's humiliation its purpose.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "An organiser is blamed for a shared mistake. What response is most balanced?",
-            "options": [
-              "Explain responsibilities accurately and support repair",
-              "Assign all blame elsewhere immediately",
-              "Refuse to help until publicly praised",
-              "Accept every false allegation without clarification"
-            ],
-            "correct": 0,
-            "explanation": "Accurate explanation and repair preserve responsibility without escalating the situation through counter-blame.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
-          },
-          {
-            "q": "After responding harshly, a student wants to practise steadiness. What is the next step?",
-            "options": [
-              "Defend the harshness as unavoidable",
-              "Focus only on the other person's fault",
-              "Make an unrealistic promise never to feel anger",
-              "Acknowledge the harm and choose a calmer repair"
+              "Constant comparison with others",
+              "The pursuit of worldly victory",
+              "The accumulation of ritual rewards",
+              "Constant thought of God"
             ],
             "correct": 3,
-            "explanation": "Acknowledgment and repair turn the lapse into an opportunity for responsible continued practice.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html",
-            "sourceLabel": "Sutra Vahini — Thithiksha"
+            "explanation": "The chapter compares learning this essence to tasting the ocean through a single drop.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 3, PDF pages 23–25"
+          },
+          {
+            "q": "What failure does Prahlada point out despite his father's worldly conquests?",
+            "options": [
+              "Failure to conquer the senses",
+              "Failure to gather enough wealth",
+              "Failure to gain subjects",
+              "Failure to learn a trade"
+            ],
+            "correct": 0,
+            "explanation": "Prahlada distinguishes external power from spiritual mastery.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 3, PDF pages 23–25"
+          },
+          {
+            "q": "Who guides Brighu's inquiry?",
+            "options": [
+              "Yama",
+              "Varuna",
+              "Pippalada",
+              "Uddalaka"
+            ],
+            "correct": 1,
+            "explanation": "His father directs him to discover Brahman through concentrated spiritual practice.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 3, PDF pages 23–25"
+          },
+          {
+            "q": "What is Brighu's final realisation in the chapter?",
+            "options": [
+              "Food alone is the ultimate reality",
+              "The mind alone is permanent",
+              "Spiritual bliss is Brahman",
+              "Vital air is separate from Brahman"
+            ],
+            "correct": 2,
+            "explanation": "After successive stages of inquiry, he remains absorbed in the bliss he has realised.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 3, PDF pages 23–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "All Vedantic axioms posit only Brahman",
+        "chapter": "Chapter 4 · All Vedantic axioms posit only Brahman",
+        "chapterNumber": 4,
+        "pdfStartPage": 26,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+        "sourceLabel": "Chapter 4, PDF pages 26–28",
+        "summary": "The fourth aphorism asks the reader to understand scriptural statements in harmony, recognising Brahman as their common purpose. Works can cleanse the mind, but their changing results cannot remove ignorance by themselves. Awareness of Brahman is not a new product of activity; it is an already-present truth that becomes clear when ignorance ends, as darkness disappears when a lamp is lit. Intellectual inquiry can clarify understanding, while liberating wisdom goes beyond attachment to learning or action as achievements.\n\nThe scriptures nevertheless teach appropriate action according to the aspirant's needs. A mother giving different food to a healthy child and an unwell child illustrates guidance adapted with equal care. Spiritual inquiry moves from the physical sheath toward the inward experience of bliss. The chapter extends its principle of reconciliation to religions: distinct names, doctrines, and forms of worship should not obscure their shared divine foundation. Understanding one another's practices with a clear mind and loving heart supports the harmony that this aphorism emphasises.",
+        "qa": [
+          {
+            "q": "What common purpose does the aphorism find in Vedantic statements?",
+            "a": "Revealing Brahman. Their meaning is understood through reconciliation around Brahman."
+          },
+          {
+            "q": "What can work accomplish as preparation?",
+            "a": "Purification of the mind. The chapter values work as a means of purification while distinguishing it from liberation."
+          },
+          {
+            "q": "What does the lamp removing darkness illustrate?",
+            "a": "Awareness ending ignorance. When truth becomes clear, the ignorance concealing it disappears."
+          },
+          {
+            "q": "Why does the mother give different food to her two children?",
+            "a": "Their conditions and needs differ. The illustration explains why scripture gives different guidance without partiality."
+          },
+          {
+            "q": "What principle does the chapter apply to different religions?",
+            "a": "Understanding their common divine core through harmony. It urges mutual understanding and reconciliation rather than separation."
           }
         ],
-        "sourceUrl": "https://www.vahini.org/downloads/sutravahini.html"
+        "quiz": [
+          {
+            "q": "What common purpose does the aphorism find in Vedantic statements?",
+            "options": [
+              "Promoting work as an end in itself",
+              "Revealing Brahman",
+              "Establishing rivalry among traditions",
+              "Securing permanent material rewards"
+            ],
+            "correct": 1,
+            "explanation": "Their meaning is understood through reconciliation around Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 4, PDF pages 26–28"
+          },
+          {
+            "q": "What can work accomplish as preparation?",
+            "options": [
+              "Production of an eternal result",
+              "Removal of ignorance without wisdom",
+              "Purification of the mind",
+              "Creation of the Atma"
+            ],
+            "correct": 2,
+            "explanation": "The chapter values work as a means of purification while distinguishing it from liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 4, PDF pages 26–28"
+          },
+          {
+            "q": "What does the lamp removing darkness illustrate?",
+            "options": [
+              "Ritual producing a new Self",
+              "Wealth replacing spiritual discipline",
+              "The destruction of consciousness",
+              "Awareness ending ignorance"
+            ],
+            "correct": 3,
+            "explanation": "When truth becomes clear, the ignorance concealing it disappears.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 4, PDF pages 26–28"
+          },
+          {
+            "q": "Why does the mother give different food to her two children?",
+            "options": [
+              "Their conditions and needs differ",
+              "She loves only one of them",
+              "One has more possessions",
+              "She wants them to compete"
+            ],
+            "correct": 0,
+            "explanation": "The illustration explains why scripture gives different guidance without partiality.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 4, PDF pages 26–28"
+          },
+          {
+            "q": "What principle does the chapter apply to different religions?",
+            "options": [
+              "Treating every difference as a reason for hostility",
+              "Understanding their common divine core through harmony",
+              "Rejecting all forms of worship",
+              "Ranking people by their religious names"
+            ],
+            "correct": 1,
+            "explanation": "It urges mutual understanding and reconciliation rather than separation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 4, PDF pages 26–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Consciousness, not matter, is the primal cause of the cosmos",
+        "chapter": "Chapter 5 · Consciousness, not matter, is the primal cause of the cosmos",
+        "chapterNumber": 5,
+        "pdfStartPage": 29,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+        "sourceLabel": "Chapter 5, PDF pages 29–31",
+        "summary": "The fifth aphorism argues from the Vedic description of creation as a divine resolve. Willing, deciding, and designing require consciousness, so unconscious matter cannot be the independent primal cause. The chapter considers explanations based on primordial matter and the three qualities of nature, then returns to Brahman as the conscious foundation. God and the universe may appear separate from an ordinary viewpoint, but deeper examination finds no ultimate separation between the maker and the material manifestation.\n\nThe cosmos is described as the body assumed by Brahman. All things originate, grow, and are absorbed within that reality. Yajnavalkya's teaching to Maitreyi is used to explain that love for the Self underlies other forms of love. The body is a covering of the Atma, not its source or limit. Eyes and ears function through the consciousness that sustains them and cannot turn that sustaining Self into an ordinary sensory object. The chapter concludes that the conscious Reality pervades both what appears moving and what appears inert.",
+        "qa": [
+          {
+            "q": "Why does the chapter reject unconscious matter as the independent primal cause?",
+            "a": "Resolution and design require consciousness. The argument begins with the Vedic teaching that creation follows divine will."
+          },
+          {
+            "q": "What is pradhana in the discussion?",
+            "a": "Primordial matter. The chapter examines claims that primordial matter accounts for creation."
+          },
+          {
+            "q": "How is the cosmos described in relation to God?",
+            "a": "As the body He has assumed. The manifestation includes the apparently conscious and non-conscious within one reality."
+          },
+          {
+            "q": "What is presented as the source of all other love?",
+            "a": "Love for the Self. The teaching to Maitreyi traces what is dear to the Atmic reality."
+          },
+          {
+            "q": "What enables the eyes and ears to function?",
+            "a": "The Atma. The senses are sustained by the Self and cannot themselves grasp it as an object."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does the chapter reject unconscious matter as the independent primal cause?",
+            "options": [
+              "Resolution and design require consciousness",
+              "Matter possesses complete knowledge by itself",
+              "The universe has no order",
+              "The senses exist before every cause"
+            ],
+            "correct": 0,
+            "explanation": "The argument begins with the Vedic teaching that creation follows divine will.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 5, PDF pages 29–31"
+          },
+          {
+            "q": "What is pradhana in the discussion?",
+            "options": [
+              "The bliss sheath",
+              "Primordial matter",
+              "The fourth state",
+              "A form of charity"
+            ],
+            "correct": 1,
+            "explanation": "The chapter examines claims that primordial matter accounts for creation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 5, PDF pages 29–31"
+          },
+          {
+            "q": "How is the cosmos described in relation to God?",
+            "options": [
+              "As an entirely independent rival",
+              "As the creator of consciousness",
+              "As the body He has assumed",
+              "As something beyond His presence"
+            ],
+            "correct": 2,
+            "explanation": "The manifestation includes the apparently conscious and non-conscious within one reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 5, PDF pages 29–31"
+          },
+          {
+            "q": "What is presented as the source of all other love?",
+            "options": [
+              "Desire for reputation",
+              "Fear of losing possessions",
+              "Attachment to names alone",
+              "Love for the Self"
+            ],
+            "correct": 3,
+            "explanation": "The teaching to Maitreyi traces what is dear to the Atmic reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 5, PDF pages 29–31"
+          },
+          {
+            "q": "What enables the eyes and ears to function?",
+            "options": [
+              "The Atma",
+              "Their independence from consciousness",
+              "The body's name",
+              "Worldly achievement"
+            ],
+            "correct": 0,
+            "explanation": "The senses are sustained by the Self and cannot themselves grasp it as an object.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 5, PDF pages 29–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Supreme Self is the Primal Entity, not primordial matter",
+        "chapter": "Chapter 6 · Supreme Self is the Primal Entity, not primordial matter",
+        "chapterNumber": 6,
+        "pdfStartPage": 32,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+        "sourceLabel": "Chapter 6, PDF pages 32–34",
+        "summary": "The sixth aphorism continues the inquiry into the cause of creation by examining the scriptural use of the word Atma. The will behind manifestation belongs to the Self. Primordial matter functions as an instrument of that sovereign consciousness rather than an independent origin. The feeling of separation from the whole subjects the individual to desire, grief, and opposing experiences. Liberation requires turning toward the divine Self and recognising the individual and universal as one reality.\n\nThe chapter explains waking, dreaming, deep sleep, and thuriya. In waking, experience reaches outward through nineteen instruments, including the senses, vital airs, and inner faculties. Dream experience is inwardly formed yet produces felt joy and fear. In dreamless sleep, activities become latent and individual distinctions temporarily subside. Thuriya signifies realised unity beyond the limited individual standpoint. These stages are related to the expression of Aum. Throughout all states and activities, the Atma remains present; the cosmos is full of that reality rather than empty or separate from it.",
+        "qa": [
+          {
+            "q": "Why does the use of the word Atma matter in this aphorism?",
+            "a": "It identifies the conscious Self as the source of the creative will. The text interprets the creative resolution as belonging to the Atma."
+          },
+          {
+            "q": "How does primordial matter function in the explanation?",
+            "a": "As an instrument of the supreme Self. Nature is operated by the sovereign consciousness."
+          },
+          {
+            "q": "How many instruments of contact are described in the waking state?",
+            "a": "Nineteen. These include five perceptive senses, five organs of action, five vital airs, and four inner instruments."
+          },
+          {
+            "q": "What distinguishes dream experience from ordinary waking experience?",
+            "a": "It is inwardly formed rather than contact with the external environment. Each dreamer experiences a personally formed world even while others sleep nearby."
+          },
+          {
+            "q": "What does thuriya signify?",
+            "a": "Realisation of the all-inclusive Atma beyond individuality. The fourth stage is described as the peace and bliss of realised unity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does the use of the word Atma matter in this aphorism?",
+            "options": [
+              "It makes matter independent of consciousness",
+              "It limits reality to the body",
+              "It denies any basis for creation",
+              "It identifies the conscious Self as the source of the creative will"
+            ],
+            "correct": 3,
+            "explanation": "The text interprets the creative resolution as belonging to the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 6, PDF pages 32–34"
+          },
+          {
+            "q": "How does primordial matter function in the explanation?",
+            "options": [
+              "As an instrument of the supreme Self",
+              "As a separate omniscient ruler",
+              "As the source of the Atma",
+              "As a replacement for divine will"
+            ],
+            "correct": 0,
+            "explanation": "Nature is operated by the sovereign consciousness.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 6, PDF pages 32–34"
+          },
+          {
+            "q": "How many instruments of contact are described in the waking state?",
+            "options": [
+              "Five",
+              "Nineteen",
+              "Twelve",
+              "Twenty-four"
+            ],
+            "correct": 1,
+            "explanation": "These include five perceptive senses, five organs of action, five vital airs, and four inner instruments.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 6, PDF pages 32–34"
+          },
+          {
+            "q": "What distinguishes dream experience from ordinary waking experience?",
+            "options": [
+              "It has no felt emotions",
+              "It is shared identically by everyone nearby",
+              "It is inwardly formed rather than contact with the external environment",
+              "It always removes ignorance permanently"
+            ],
+            "correct": 2,
+            "explanation": "Each dreamer experiences a personally formed world even while others sleep nearby.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 6, PDF pages 32–34"
+          },
+          {
+            "q": "What does thuriya signify?",
+            "options": [
+              "Ordinary dream imagery",
+              "Mere absence of bodily movement",
+              "A new sensory object",
+              "Realisation of the all-inclusive Atma beyond individuality"
+            ],
+            "correct": 3,
+            "explanation": "The fourth stage is described as the peace and bliss of realised unity.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 6, PDF pages 32–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Divine Will is the Cause of all Causes",
+        "chapter": "Chapter 7 · Divine Will is the Cause of all Causes",
+        "chapterNumber": 7,
+        "pdfStartPage": 35,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+        "sourceLabel": "Chapter 7, PDF pages 35–37",
+        "summary": "The chapter distinguishes a material cause from an efficient cause through the example of a silver cup. Silver is the substance without which the cup cannot exist; the silversmith gives it its form. In creation, God is explained as both the substance and the maker. The universe therefore does not stand outside the divine reality. Distorted vision sees only separate names and forms, while clear vision recognises the One within their diversity. Liberation is described as the fulfilment of this awareness.\n\nThe seeker burdened by grief is directed toward the Lord as the inexhaustible source of bliss. The spiritual journey moves from gross to subtle, from subtle to causal, and finally toward the supreme Cause. Turning inward is essential, but the inward and outward worlds are not ultimately divided. The Atma sustains the senses, mind, and intellect through which the world is experienced. Established awareness brings equanimity: praise and blame, gain and loss, and the claims of “I” and “mine” no longer dominate the purified consciousness.",
+        "qa": [
+          {
+            "q": "In the silver-cup example, what is the material cause?",
+            "a": "Silver. The cup cannot exist apart from its material substance."
+          },
+          {
+            "q": "Who represents the efficient cause in that example?",
+            "a": "The silversmith. The maker gives the material its particular form."
+          },
+          {
+            "q": "How is God related to these two kinds of cause?",
+            "a": "God is both the material and the efficient cause. The chapter presents the divine as both the substance and maker of the cosmos."
+          },
+          {
+            "q": "What is the sequence of the spiritual journey described?",
+            "a": "Gross, subtle, causal, then the supreme Cause. The inward progression moves beyond successive levels of limitation."
+          },
+          {
+            "q": "What characterises the person established in Atmic awareness?",
+            "a": "Equanimity amid opposing experiences. Likes, dislikes, and the claims of ownership no longer agitate that awareness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "In the silver-cup example, what is the material cause?",
+            "options": [
+              "The silversmith",
+              "The cup's name",
+              "Silver",
+              "The buyer's desire"
+            ],
+            "correct": 2,
+            "explanation": "The cup cannot exist apart from its material substance.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 7, PDF pages 35–37"
+          },
+          {
+            "q": "Who represents the efficient cause in that example?",
+            "options": [
+              "The silver itself",
+              "The cup's weight",
+              "The vessel's owner",
+              "The silversmith"
+            ],
+            "correct": 3,
+            "explanation": "The maker gives the material its particular form.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 7, PDF pages 35–37"
+          },
+          {
+            "q": "How is God related to these two kinds of cause?",
+            "options": [
+              "God is both the material and the efficient cause",
+              "God is neither",
+              "God is only a later observer",
+              "God depends on an independent material creator"
+            ],
+            "correct": 0,
+            "explanation": "The chapter presents the divine as both the substance and maker of the cosmos.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 7, PDF pages 35–37"
+          },
+          {
+            "q": "What is the sequence of the spiritual journey described?",
+            "options": [
+              "Causal, gross, subtle, then sensory pleasure",
+              "Gross, subtle, causal, then the supreme Cause",
+              "Subtle, gross, name, then form",
+              "Matter, wealth, fame, then power"
+            ],
+            "correct": 1,
+            "explanation": "The inward progression moves beyond successive levels of limitation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 7, PDF pages 35–37"
+          },
+          {
+            "q": "What characterises the person established in Atmic awareness?",
+            "options": [
+              "Dependence on praise",
+              "Hatred of everyone who disagrees",
+              "Equanimity amid opposing experiences",
+              "Constant anxiety over possessions"
+            ],
+            "correct": 2,
+            "explanation": "Likes, dislikes, and the claims of ownership no longer agitate that awareness.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 7, PDF pages 35–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Individual Merges in the Universal Brahman",
+        "chapter": "Chapter 8 · Individual Merges in the Universal Brahman",
+        "chapterNumber": 8,
+        "pdfStartPage": 38,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+        "sourceLabel": "Chapter 8, PDF pages 38–39",
+        "summary": "This aphorism explains the individual's return to its underlying reality in deep, dreamless sleep. The apparent limits of name and form subside, like a wave merging into the ocean. Brahman is described as both being and awareness, the one source and substance of the cosmos. The chapter also attends to the body's continuing life during sleep: the vital airs remain active, breathing proceeds, and the organism is sustained even while ordinary sensory experience is withdrawn.\n\nThe body is compared to a temple with the embodied Atma as its indwelling deity. Dream experiences arise in relation to impressions in the mind, while dreamless sleep offers temporary rest in bliss. This temporary condition must be distinguished from realised awareness. In ordinary deep sleep, ignorance remains; purification of mind and clarification of intellect make possible an abiding recognition of the Supreme. The realised person is not dependent upon sleeping to know bliss, but remains established in the same reality through waking and other states.",
+        "qa": [
+          {
+            "q": "What image describes the individual's mergence in deep sleep?",
+            "a": "A wave returning to the ocean. Name and form subside into their underlying being."
+          },
+          {
+            "q": "Which two aspects of Brahman are emphasised?",
+            "a": "Being and awareness. Brahman is described as sat and chit, not as an unconscious substance."
+          },
+          {
+            "q": "What continues to function during sleep?",
+            "a": "The five vital airs. The chapter explains the sustaining work of the vital airs while ordinary experience is withdrawn."
+          },
+          {
+            "q": "To what is the body compared?",
+            "a": "A temple of the Atma. The embodied Atma is pictured as the deity within the temple."
+          },
+          {
+            "q": "How does realised bliss differ from ordinary deep sleep?",
+            "a": "It is abiding awareness rather than a temporary state accompanied by ignorance. Purification and realisation establish the awareness that ordinary sleep does not permanently confer."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What image describes the individual's mergence in deep sleep?",
+            "options": [
+              "A flame turning into stone",
+              "A wave returning to the ocean",
+              "A tree growing without roots",
+              "A cup existing without silver"
+            ],
+            "correct": 1,
+            "explanation": "Name and form subside into their underlying being.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 8, PDF pages 38–39"
+          },
+          {
+            "q": "Which two aspects of Brahman are emphasised?",
+            "options": [
+              "Birth and death",
+              "Desire and possession",
+              "Being and awareness",
+              "Size and shape"
+            ],
+            "correct": 2,
+            "explanation": "Brahman is described as sat and chit, not as an unconscious substance.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 8, PDF pages 38–39"
+          },
+          {
+            "q": "What continues to function during sleep?",
+            "options": [
+              "Conscious use of all the senses",
+              "Deliberate outward speech",
+              "Continuous waking judgement",
+              "The five vital airs"
+            ],
+            "correct": 3,
+            "explanation": "The chapter explains the sustaining work of the vital airs while ordinary experience is withdrawn.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 8, PDF pages 38–39"
+          },
+          {
+            "q": "To what is the body compared?",
+            "options": [
+              "A temple of the Atma",
+              "An independent creator of the Self",
+              "A permanent possession",
+              "A source of awareness separate from Brahman"
+            ],
+            "correct": 0,
+            "explanation": "The embodied Atma is pictured as the deity within the temple.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 8, PDF pages 38–39"
+          },
+          {
+            "q": "How does realised bliss differ from ordinary deep sleep?",
+            "options": [
+              "It depends on sleeping longer",
+              "It is abiding awareness rather than a temporary state accompanied by ignorance",
+              "It removes the need for understanding",
+              "It exists only during dreams"
+            ],
+            "correct": 1,
+            "explanation": "Purification and realisation establish the awareness that ordinary sleep does not permanently confer.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 8, PDF pages 38–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Omniscient Brahman, the Cause of the Cosmos",
+        "chapter": "Chapter 9 · Omniscient Brahman, the Cause of the Cosmos",
+        "chapterNumber": 9,
+        "pdfStartPage": 40,
+        "pdfEndPage": 42,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+        "sourceLabel": "Chapter 9, PDF pages 40–42",
+        "summary": "The ninth aphorism presents the cosmos as a manifestation of supreme Consciousness and Brahman as both its material and efficient cause. The attraction and splendour found in creation point toward that inner reality. Flour sweetened by sugar illustrates how the delight perceived in things depends on the divine presence. The chapter turns inward through the five sheaths, moving from food and vital air through mind and intellect toward spiritual bliss. The intellect's discrimination helps the seeker recognise what is temporary and what endures.\n\nRemoving layers of clothing to examine the heart illustrates inquiry beyond successive coverings. Life's purpose is described as a pilgrimage from the material plane toward the realisation of bliss. This bliss is not greater in the universal Self and smaller in the individual Self; the chapter affirms their essential identity. Searching for lasting happiness in external objects is compared to pursuing a mirage. The seeker is instead directed toward the Atma, whose truth and bliss are not confined by time, space, or changing personal moods.",
+        "qa": [
+          {
+            "q": "What does sugar mixed with flour illustrate?",
+            "a": "The divine presence underlying charm and delight. The analogy points to the source of attractiveness within creation."
+          },
+          {
+            "q": "Which sheath is described as the innermost?",
+            "a": "The spiritual-bliss sheath. The chapter proceeds through the coverings toward ananda-maya kosa."
+          },
+          {
+            "q": "What does removing layers of clothing to examine the heart illustrate?",
+            "a": "Looking beyond successive coverings to the inner reality. The illustration explains the movement beyond the sheaths."
+          },
+          {
+            "q": "How does the chapter compare bliss in the individual and supreme Self?",
+            "a": "It is the same indivisible bliss. Spiritual bliss is not treated as a quantity divided into greater and lesser shares."
+          },
+          {
+            "q": "What is the search for lasting bliss through external objects compared to?",
+            "a": "A thirsty person's pursuit of a mirage. Depending on external objects for permanent happiness brings disappointment and grief."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does sugar mixed with flour illustrate?",
+            "options": [
+              "The divine presence underlying charm and delight",
+              "Matter's independence from Brahman",
+              "The superiority of food over awareness",
+              "The permanence of every pleasure"
+            ],
+            "correct": 0,
+            "explanation": "The analogy points to the source of attractiveness within creation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–42"
+          },
+          {
+            "q": "Which sheath is described as the innermost?",
+            "options": [
+              "The food sheath",
+              "The spiritual-bliss sheath",
+              "The vital-air sheath",
+              "The mental sheath"
+            ],
+            "correct": 1,
+            "explanation": "The chapter proceeds through the coverings toward ananda-maya kosa.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–42"
+          },
+          {
+            "q": "What does removing layers of clothing to examine the heart illustrate?",
+            "options": [
+              "Rejecting every form of inquiry",
+              "Increasing outward possessions",
+              "Looking beyond successive coverings to the inner reality",
+              "Treating clothing as the Self"
+            ],
+            "correct": 2,
+            "explanation": "The illustration explains the movement beyond the sheaths.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–42"
+          },
+          {
+            "q": "How does the chapter compare bliss in the individual and supreme Self?",
+            "options": [
+              "The individual has a smaller kind of bliss",
+              "The Supreme depends on the individual for bliss",
+              "Neither is related to bliss",
+              "It is the same indivisible bliss"
+            ],
+            "correct": 3,
+            "explanation": "Spiritual bliss is not treated as a quantity divided into greater and lesser shares.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–42"
+          },
+          {
+            "q": "What is the search for lasting bliss through external objects compared to?",
+            "options": [
+              "A thirsty person's pursuit of a mirage",
+              "A bird using both wings",
+              "A silversmith making a cup",
+              "A teacher explaining a text"
+            ],
+            "correct": 0,
+            "explanation": "Depending on external objects for permanent happiness brings disappointment and grief.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=40",
+            "sourceLabel": "Chapter 9, PDF pages 40–42"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Divine “Light” and Divine “Feet”",
+        "chapter": "Chapter 10 · Divine “Light” and Divine “Feet”",
+        "chapterNumber": 10,
+        "pdfStartPage": 43,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+        "sourceLabel": "Chapter 10, PDF pages 43–44",
+        "summary": "This chapter explains that the light spoken of in the Upanishads must not be reduced to ordinary physical illumination. Divine light signifies Brahman, the reality through which everything becomes manifest. It shines in all beings and is described through existence, illumination or knowledge, and bliss. Visible and moving things rest on an unseen, unmoving foundation. Physical measures cannot contain this reality, so references to divine “feet” or quarters must also be understood beyond a bodily interpretation.\n\nThe manifested universe is described as one quarter of the cosmic Person's glory, while the other three remain undying and unchanged. This symbolism does not limit the Supreme. The chapter distinguishes an individual lamp's flame from the illumination that reveals all. Roads remaining steady beneath walkers and rails beneath a train illustrate the stable support of movement. Fire, warmth, the brightness of the eye, and celestial light are considered expressions dependent on Brahman, rather than independent sources that explain the divine light itself.",
+        "qa": [
+          {
+            "q": "What does divine light signify in this chapter?",
+            "a": "Brahman. Jyothi refers to the unlimited reality through which all is revealed."
+          },
+          {
+            "q": "What portion of the cosmic Person's glory is the manifested universe said to represent?",
+            "a": "One quarter. The remaining three quarters are described as undying and unchanged."
+          },
+          {
+            "q": "Do references to divine “feet” impose bodily limits on Brahman?",
+            "a": "No, they do not restrict its vastness. The chapter explains these expressions beyond literal physical measurement."
+          },
+          {
+            "q": "What do stationary roads and rails illustrate?",
+            "a": "The stable basis supporting movement. Movement is understood in relation to an unmoving foundation."
+          },
+          {
+            "q": "How is divine light distinguished from an individual lamp's flame?",
+            "a": "It is the illumination that reveals all. The chapter contrasts total illumination with a limited light source."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does divine light signify in this chapter?",
+            "options": [
+              "Only the flame of a lamp",
+              "Only sunlight",
+              "Only bodily warmth",
+              "Brahman"
+            ],
+            "correct": 3,
+            "explanation": "Jyothi refers to the unlimited reality through which all is revealed.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 10, PDF pages 43–44"
+          },
+          {
+            "q": "What portion of the cosmic Person's glory is the manifested universe said to represent?",
+            "options": [
+              "One quarter",
+              "One half",
+              "Three quarters",
+              "The whole without remainder"
+            ],
+            "correct": 0,
+            "explanation": "The remaining three quarters are described as undying and unchanged.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 10, PDF pages 43–44"
+          },
+          {
+            "q": "Do references to divine “feet” impose bodily limits on Brahman?",
+            "options": [
+              "Yes, they define a physical body's size",
+              "No, they do not restrict its vastness",
+              "Yes, they confine it to one place",
+              "Yes, they make it dependent on movement"
+            ],
+            "correct": 1,
+            "explanation": "The chapter explains these expressions beyond literal physical measurement.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 10, PDF pages 43–44"
+          },
+          {
+            "q": "What do stationary roads and rails illustrate?",
+            "options": [
+              "The absence of any basis for change",
+              "The motion of Brahman as an ordinary object",
+              "The stable basis supporting movement",
+              "The independence of moving things from support"
+            ],
+            "correct": 2,
+            "explanation": "Movement is understood in relation to an unmoving foundation.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 10, PDF pages 43–44"
+          },
+          {
+            "q": "How is divine light distinguished from an individual lamp's flame?",
+            "options": [
+              "It lasts only while fuel remains",
+              "It belongs to one physical location",
+              "It depends on the observer's eyes for existence",
+              "It is the illumination that reveals all"
+            ],
+            "correct": 3,
+            "explanation": "The chapter contrasts total illumination with a limited light source.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 10, PDF pages 43–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Brahman as Cosmic Breath or Life",
+        "chapter": "Chapter 11 · Brahman as Cosmic Breath or Life",
+        "chapterNumber": 11,
+        "pdfStartPage": 45,
+        "pdfEndPage": 46,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+        "sourceLabel": "Chapter 11, PDF pages 45–46",
+        "summary": "The eleventh aphorism interprets prana in its scriptural context rather than limiting it to ordinary breathing. Pratardana asks Indra for instruction about what is most beneficial. Indra speaks of life identified with consciousness and characterised by bliss, freedom from ageing, and deathlessness. The chapter argues that these qualities refer to Brahman, not merely to physical air or a particular deity. The instruction to know Indra's true reality therefore directs the seeker toward Brahman as the underlying Self.\n\nVamadeva's realisation helps explain this interpretation. The chapter brings together the great declarations identifying the Self with Brahman and describing Brahman as awareness. After realisation, identification extends beyond a limited person to the universal reality. Gold retaining its nature through many ornaments illustrates how diverse names and forms need not conceal their one basis. Meditation should reach that basis rather than stop at a symbol's surface meaning. The chapter returns to Brahman as the source of the cosmos and all vital powers, affirming why prana here denotes the Supreme.",
+        "qa": [
+          {
+            "q": "Who asks Indra about what is most beneficial?",
+            "a": "Pratardana. His request provides the setting for Indra's teaching about life and consciousness."
+          },
+          {
+            "q": "Why is prana interpreted as Brahman rather than ordinary air?",
+            "a": "It is described as blissful, ageless, and deathless. These characteristics identify the Supreme rather than the usual bodily meaning of breath."
+          },
+          {
+            "q": "How is Indra's instruction to know his real Self interpreted?",
+            "a": "As pointing to Brahman as his underlying reality. The chapter distinguishes the spiritual meaning from a merely personal reference."
+          },
+          {
+            "q": "Which sage illustrates direct awareness of Brahman through the great declarations?",
+            "a": "Vamadeva. His realisation supports the interpretation of the teaching in terms of the universal Self."
+          },
+          {
+            "q": "What do gold and its ornaments illustrate?",
+            "a": "One substance remaining through many names and forms. Recognising the underlying substance helps reveal Brahman behind apparent diversity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who asks Indra about what is most beneficial?",
+            "options": [
+              "Nachiketas",
+              "Brighu",
+              "Pratardana",
+              "Swethakethu"
+            ],
+            "correct": 2,
+            "explanation": "His request provides the setting for Indra's teaching about life and consciousness.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–46"
+          },
+          {
+            "q": "Why is prana interpreted as Brahman rather than ordinary air?",
+            "options": [
+              "It is measured by physical volume",
+              "It changes with the weather",
+              "It belongs only to one organ",
+              "It is described as blissful, ageless, and deathless"
+            ],
+            "correct": 3,
+            "explanation": "These characteristics identify the Supreme rather than the usual bodily meaning of breath.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–46"
+          },
+          {
+            "q": "How is Indra's instruction to know his real Self interpreted?",
+            "options": [
+              "As pointing to Brahman as his underlying reality",
+              "As worship of his physical limbs alone",
+              "As the study of air currents alone",
+              "As a promise of worldly fame"
+            ],
+            "correct": 0,
+            "explanation": "The chapter distinguishes the spiritual meaning from a merely personal reference.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–46"
+          },
+          {
+            "q": "Which sage illustrates direct awareness of Brahman through the great declarations?",
+            "options": [
+              "Kapila",
+              "Vamadeva",
+              "Kanada",
+              "Jaimini"
+            ],
+            "correct": 1,
+            "explanation": "His realisation supports the interpretation of the teaching in terms of the universal Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–46"
+          },
+          {
+            "q": "What do gold and its ornaments illustrate?",
+            "options": [
+              "Each ornament creating a new kind of gold",
+              "Gold losing its nature when shaped",
+              "One substance remaining through many names and forms",
+              "Names existing without any basis"
+            ],
+            "correct": 2,
+            "explanation": "Recognising the underlying substance helps reveal Brahman behind apparent diversity.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–46"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Brahman is the Universal Teaching",
+        "chapter": "Chapter 12 · Brahman is the Universal Teaching",
+        "chapterNumber": 12,
+        "pdfStartPage": 47,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+        "sourceLabel": "Chapter 12, PDF pages 47–47",
+        "summary": "The final aphorism identifies Brahman as the consistent subject of the Upanishadic instruction to meditate with serenity. The intended object is not the limited individual ego. Creation arises in Brahman, is sustained by Brahman, and merges there, so it is not ultimately separable from its source. When perception is distorted by attachment and aversion, forms and causes appear divided. Calm, balanced awareness instead recognises their unity. Serenity is therefore central to how the teaching is understood and experienced.\n\nThe chapter illustrates differing viewpoints through one family member addressed as father, husband, grandfather, or brother. The relationships produce several descriptions without multiplying the person. Likewise, seekers at different levels approach the One through different conceptions, including the individual Self, God, divine energy, and the cosmic Person. The limited individual cannot claim omniscience while bound by ignorance and ego. The conclusion directs inquiry beyond those self-imposed limits toward the all-pervading Brahman that the varied descriptions seek to express.",
+        "qa": [
+          {
+            "q": "What is the intended object of serene meditation?",
+            "a": "Brahman. The instruction begins from the teaching that all this is Brahman."
+          },
+          {
+            "q": "Why is creation described as inseparable from Brahman?",
+            "a": "It originates, is sustained, and merges in Brahman. The chapter bases inseparability on creation's relation to its source and support."
+          },
+          {
+            "q": "What effect does serenity have on vision?",
+            "a": "It reveals unity in the apparent many. Agitation divides experience, while balanced awareness recognises the One."
+          },
+          {
+            "q": "What does the family-member illustration show?",
+            "a": "Different relationships can produce different descriptions of one person. Father, husband, grandfather, and brother refer to the same person from different viewpoints."
+          },
+          {
+            "q": "What prevents the limited individual from experiencing all-pervading Brahman?",
+            "a": "Self-imposed ignorance and egotism. The conclusion locates the limitation in the individual's ignorance and ego."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the intended object of serene meditation?",
+            "options": [
+              "The limited ego as a separate ultimate reality",
+              "Brahman",
+              "A desire for praise",
+              "A chosen possession"
+            ],
+            "correct": 1,
+            "explanation": "The instruction begins from the teaching that all this is Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 12, PDF pages 47–47"
+          },
+          {
+            "q": "Why is creation described as inseparable from Brahman?",
+            "options": [
+              "It creates Brahman independently",
+              "It exists outside every cause",
+              "It originates, is sustained, and merges in Brahman",
+              "It never undergoes any change of form"
+            ],
+            "correct": 2,
+            "explanation": "The chapter bases inseparability on creation's relation to its source and support.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 12, PDF pages 47–47"
+          },
+          {
+            "q": "What effect does serenity have on vision?",
+            "options": [
+              "It multiplies hostility",
+              "It makes names permanently separate",
+              "It increases dependence on the ego",
+              "It reveals unity in the apparent many"
+            ],
+            "correct": 3,
+            "explanation": "Agitation divides experience, while balanced awareness recognises the One.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 12, PDF pages 47–47"
+          },
+          {
+            "q": "What does the family-member illustration show?",
+            "options": [
+              "Different relationships can produce different descriptions of one person",
+              "Every title names a different person",
+              "A name creates an independent reality",
+              "Only one family relationship can be valid"
+            ],
+            "correct": 0,
+            "explanation": "Father, husband, grandfather, and brother refer to the same person from different viewpoints.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 12, PDF pages 47–47"
+          },
+          {
+            "q": "What prevents the limited individual from experiencing all-pervading Brahman?",
+            "options": [
+              "Brahman's absence from the world",
+              "Self-imposed ignorance and egotism",
+              "The lack of a physical boundary around Brahman",
+              "The existence of other sincere seekers"
+            ],
+            "correct": 1,
+            "explanation": "The conclusion locates the limitation in the individual's ignorance and ego.",
+            "type": "recall",
+            "sourceUrl": "assets/sutra-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 12, PDF pages 47–47"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Sutra Vahini PDF. These study summaries and questions are paraphrases; consult the linked chapter for the full teaching.",
+    "coverage": "All 12 chapters in the supplied edition"
   },
   {
     "id": "upanishad",
