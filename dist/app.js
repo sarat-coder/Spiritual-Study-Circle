@@ -4,7 +4,7 @@
   const $ = id => document.getElementById(id);
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const sourceLink = value => {
-    if (/^assets\/bhagavatha-vahini\.pdf(?:#page=[1-9]\d{0,2})?$/.test(value)) return escape(value);
+    if (/^assets\/(?:bhagavatha-vahini|ramakatha-rasavahini-part-[12])\.pdf(?:#page=[1-9]\d{0,2})?$/.test(value)) return escape(value);
     try { const u = new URL(value); return u.protocol === 'https:' && ['vahini.org','www.vahini.org'].includes(u.hostname) ? escape(u.href) : 'https://www.vahini.org/downloads.html'; }
     catch { return 'https://www.vahini.org/downloads.html'; }
   };
@@ -69,12 +69,15 @@
     $('mobile-book').innerHTML=books.map((x,i)=>`<option value="${i}" ${i===bookIndex?'selected':''}>${escape(x.title)}</option>`).join('');
     const art=artwork(b.id);
     $('book-header').classList.toggle('with-art',!!art);
-    $('book-header').innerHTML=`<div class="book-copy"><p class="eyebrow">THE VAHINI SERIES · ENGLISH STUDY</p><h2>${escape(b.title)}</h2><p class="description">${escape(b.description)}</p><div class="book-meta"><span>${b.topics.length} ${chapterMode?'chapters':'study topics'}</span><span class="meta-divider" aria-hidden="true"></span><a href="${sourceLink(b.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read original book ↗</a>${chapterMode?'':(b.pdfUrls || (b.pdfUrl?[{label:'Book',url:b.pdfUrl}]:[])).map(p=>`<a href="${sourceLink(p.url)}" target="_blank" rel="noopener noreferrer">${escape(p.label)} PDF ↗</a>`).join('')}</div></div>${art}`;
+    const originalLinks=chapterMode&&b.pdfUrls?b.pdfUrls.map(p=>`<a href="${sourceLink(p.url)}" target="_blank" rel="noopener noreferrer">${escape(p.label)} PDF ↗</a>`).join(''):`<a href="${sourceLink(b.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read original book ↗</a>${chapterMode?'':(b.pdfUrls || (b.pdfUrl?[{label:'Book',url:b.pdfUrl}]:[])).map(p=>`<a href="${sourceLink(p.url)}" target="_blank" rel="noopener noreferrer">${escape(p.label)} PDF ↗</a>`).join('')}`;
+    $('book-header').innerHTML=`<div class="book-copy"><p class="eyebrow">THE VAHINI SERIES · ENGLISH STUDY</p><h2>${escape(b.title)}</h2><p class="description">${escape(b.description)}</p><div class="book-meta"><span>${b.topics.length} ${chapterMode?'chapters':'study topics'}</span><span class="meta-divider" aria-hidden="true"></span>${originalLinks}</div></div>${art}`;
     $('topics-heading').textContent=chapterMode?'Study chapters':'Study topics';
-    $('topic-position').textContent=`${chapterMode?'Chapter':'Topic'} ${topicIndex+1} of ${b.topics.length}`;
+    $('topic-position').textContent=t.part?`Part ${t.part} · Chapter ${t.chapterNumber} · ${topicIndex+1} of ${b.topics.length}`:`${chapterMode?'Chapter':'Topic'} ${topicIndex+1} of ${b.topics.length}`;
     $('previous-topic').textContent=`← Previous ${unit}`;
     $('next-topic').textContent=`Next ${unit} →`;
-    $('topics').innerHTML=chapterMode?`<label class="sr-only" for="chapter-select">Choose a chapter</label><select id="chapter-select" class="chapter-select">${b.topics.map((x,i)=>`<option value="${i}" ${i===topicIndex?'selected':''}>${String(i+1).padStart(2,'0')} · ${escape(x.title)}</option>`).join('')}</select><p class="chapter-guide">In the book’s original order · 5 questions per chapter</p>`:b.topics.map((x,i)=>`<button data-topic="${i}" class="topic-button ${i===topicIndex?'active':''}" aria-pressed="${i===topicIndex}"><span>${String(i+1).padStart(2,'0')}</span>${escape(x.title)}</button>`).join('');
+    const chapterOption=(x,i)=>`<option value="${i}" ${i===topicIndex?'selected':''}>${x.part?`Part ${x.part} · Chapter ${x.chapterNumber}`:String(i+1).padStart(2,'0')} · ${escape(x.title)}</option>`;
+    const chapterOptions=t.part?[...new Set(b.topics.map(x=>x.part))].map(part=>`<optgroup label="Part ${part}">${b.topics.map((x,i)=>x.part===part?chapterOption(x,i):'').join('')}</optgroup>`).join(''):b.topics.map(chapterOption).join('');
+    $('topics').innerHTML=chapterMode?`<label class="sr-only" for="chapter-select">Choose a chapter</label><select id="chapter-select" class="chapter-select">${chapterOptions}</select><p class="chapter-guide">${t.part?'Both parts in their original chapter order':'In the book’s original order'} · 5 questions per chapter</p>`:b.topics.map((x,i)=>`<button data-topic="${i}" class="topic-button ${i===topicIndex?'active':''}" aria-pressed="${i===topicIndex}"><span>${String(i+1).padStart(2,'0')}</span>${escape(x.title)}</button>`).join('');
     $('study-tabs').innerHTML=Object.entries(activityNames).map(([id,label])=>`<button id="tab-${id}" class="tab" role="tab" aria-controls="activity" aria-selected="${activeTab===id}" tabindex="${activeTab===id?'0':'-1'}" data-tab="${id}">${label}${id==='quiz'?`<span class="tab-count">${t.quiz.length}</span>`:''}</button>`).join('');
     $('activity').setAttribute('aria-labelledby',`tab-${activeTab}`);
     $('previous-topic').disabled=topicIndex===0;
@@ -83,12 +86,12 @@
     renderActivity();
   }
   function referenceCard(t) {
-    return `<aside class="source-card"><p class="eyebrow">READ AT THE SOURCE</p><h4>${escape(t.chapter)}</h4><p>${t.pdfStartPage?`Supplied book · PDF pages ${t.pdfStartPage}–${t.pdfEndPage}. `:''}Return to the original text for the full teaching and context.</p><a href="${sourceLink(t.sourceUrl)}" target="_blank" rel="noopener noreferrer">${t.pdfStartPage?'Open chapter in PDF':'Open source text'} ↗</a></aside>`;
+    return `<aside class="source-card"><p class="eyebrow">READ AT THE SOURCE</p><h4>${escape(t.chapter)}</h4><p>${t.pdfStartPage?`Supplied ${t.part?`Part ${t.part}`:'book'} · PDF pages ${t.pdfStartPage}–${t.pdfEndPage}. `:''}Return to the original text for the full teaching and context.</p><a href="${sourceLink(t.sourceUrl)}" target="_blank" rel="noopener noreferrer">${t.pdfStartPage?'Open chapter in PDF':'Open source text'} ↗</a></aside>`;
   }
   function renderActivity() {
     const t=currentTopic(), title=`<h3 class="activity-title">${escape(t.title)}</h3>`;
     if(activeTab==='summary') {
-      $('activity').innerHTML=`${title}<div class="summary-grid"><div>${t.summary.split(/\n\s*\n/).map(p=>`<p class="summary-text">${escape(p)}</p>`).join('')}<div class="action-row"><button class="primary-button" data-tab="questions">Explore the questions</button><button class="secondary-button" data-tab="quiz">Try the quiz</button></div><p class="study-note">${t.pdfStartPage?'A chapter summary based only on the supplied Bhagavatha Vahini PDF, written in our own words.':'A brief study summary based on the linked Vahini text.'}</p></div>${referenceCard(t)}</div>`;
+      $('activity').innerHTML=`${title}<div class="summary-grid"><div>${t.summary.split(/\n\s*\n/).map(p=>`<p class="summary-text">${escape(p)}</p>`).join('')}<div class="action-row"><button class="primary-button" data-tab="questions">Explore the questions</button><button class="secondary-button" data-tab="quiz">Try the quiz</button></div><p class="study-note">${t.pdfStartPage?`A chapter summary based only on the supplied ${escape(currentBook().title)} ${t.part?`Part ${t.part} `:''}PDF, written in our own words.`:'A brief study summary based on the linked Vahini text.'}</p></div>${referenceCard(t)}</div>`;
     } else if(activeTab==='questions') {
       $('activity').innerHTML=`${title}<p class="qa-intro">Reflect on each question, then open the answer.</p>${t.qa.map((q,i)=>`<details><summary>${escape(q.q)}</summary><p>${escape(q.a)}</p></details>`).join('')}<p class="study-note">Study questions written from <a href="${sourceLink(t.sourceUrl)}" target="_blank" rel="noopener noreferrer">${escape(t.chapter)}</a>.</p><div class="action-row"><button class="primary-button" data-tab="quiz">Test your understanding</button><button class="secondary-button" data-tab="notes">Write my summary</button></div>`;
     } else if(activeTab==='quiz') {

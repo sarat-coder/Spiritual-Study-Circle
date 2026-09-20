@@ -902,1795 +902,3418 @@ window.VAHINI_BOOKS = [
     "id": "ramakatha-rasavahini",
     "title": "Ramakatha Rasavahini",
     "hindiTitle": "रामकथा रसवाहिनी",
-    "subtitle": "The Rama Story, Stream of Sacred Sweetness",
-    "description": "Explore compassion, responsibility and devotion through selected episodes spanning both parts of Rama's story.",
-    "sourceUrl": "https://www.vahini.org/ramakatha/ramakatha.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/RamkathaI.pdf",
+    "subtitle": "The Sweet Story of Rama",
+    "description": "Study both parts of Bhagawan Sri Sathya Sai Baba’s Ramakatha Rasavahini together: 18 chapters in Part 1 and 14 in Part 2. Each chapter includes a fuller summary, questions and answers, and five quiz questions drawn only from the supplied books.",
+    "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf",
+    "pdfUrl": "assets/ramakatha-rasavahini-part-1.pdf",
     "pdfUrls": [
       {
         "label": "Part 1",
-        "url": "https://vahini.org/downloads/vahinis-pdf/RamkathaI.pdf"
+        "url": "assets/ramakatha-rasavahini-part-1.pdf"
       },
       {
         "label": "Part 2",
-        "url": "https://vahini.org/downloads/vahinis-pdf/RamakathaII.pdf"
+        "url": "assets/ramakatha-rasavahini-part-2.pdf"
       }
     ],
-    "studyNote": "Original study aids based on selected passages; not quotations or a complete chapter commentary.",
-    "coverage": "Six selected themes across both parts.",
+    "studyNote": "Based solely on the two supplied Ramakatha Rasavahini PDFs. These summaries and questions are paraphrases; consult the linked chapter for the full text.",
+    "coverage": "All 32 chapters from Parts 1 and 2 in their original order",
     "topics": [
       {
-        "id": "rama-as-spiritual-ideal",
-        "title": "Rama as a spiritual ideal",
-        "chapter": "Part 1 · Chapter 1: Rama - Prince and Principle",
-        "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-        "summary": "The opening chapter invites readers to seek the spiritual values expressed through Rama's story. Compassion and righteous conduct give the narrative its enduring meaning. Studying the characters becomes fruitful when their ideals influence the reader's own choices and actions.",
+        "id": "part-1-chapter-01",
+        "title": "Rama—Prince and Principle",
+        "chapter": "Part 1 · Chapter 1 · Rama—Prince and Principle",
+        "part": 1,
+        "chapterNumber": 1,
+        "pdfStartPage": 12,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+        "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15",
+        "summary": "The opening chapter presents Rama both as the prince of the narrative and as the divine principle sustaining the universe. It compares the Ramayana's sweetness to sugar cane: however the story turns through joy, sorrow, wonder, or conflict, compassion and love of dharma remain its underlying flavour. The streams of Rama's compassion and Lakshmana's devotion are compared to rivers that join and flow together.\n\nThe reader is asked to approach the work as the account of an Avatar and to understand the values expressed through its events. Family relationships and historical details matter, but they should not obscure the spiritual meaning. Human effort and divine grace are both necessary to fulfilment. The chapter also discusses the guiding place of sages and the importance of carrying out duty. Rama's story is finally described as universal rather than confined to one human lifetime: the divine reality it reveals is present in all beings and throughout time.",
         "qa": [
           {
-            "q": "What should a reader seek beyond the events?",
-            "a": "The chapter directs attention toward compassion, truth and duty, encouraging readers to bring these qualities into their own experience rather than merely collecting narrative details."
+            "q": "What remains sweet throughout the story's many turns?",
+            "a": "Compassion and love of dharma. The sugar-cane comparison describes the continuing sweetness beneath varied events."
+          },
+          {
+            "q": "What quality is particularly associated with Lakshmana's stream?",
+            "a": "Devotion. The chapter pairs Rama's compassion with Lakshmana's devotion."
+          },
+          {
+            "q": "What two factors contribute to spiritual fulfilment?",
+            "a": "Self-effort and divine grace. Individual effort is described as one half of the pursuit, with divine grace completing it."
+          },
+          {
+            "q": "How should the Ramayana primarily be approached?",
+            "a": "As the narrative of an Avatar whose ideals are to be realised. The chapter asks readers to seek the values expressed by the incarnation."
+          },
+          {
+            "q": "Why is Rama's story called the story of the universe?",
+            "a": "Rama embodies the universal principle in all beings. Rama is described as present in all, beyond a single historical period."
           }
         ],
         "quiz": [
           {
-            "q": "Which approach best fits this chapter?",
+            "q": "What remains sweet throughout the story's many turns?",
             "options": [
-              "Focus only on battles",
-              "Count royal possessions",
-              "Practise the values encountered",
-              "Collect family trivia"
+              "Compassion and love of dharma",
+              "The pursuit of royal wealth",
+              "Victory for every ambitious ruler",
+              "The absence of sorrow"
             ],
-            "correct": 2,
-            "explanation": "The chapter treats spiritual listening as a way to absorb compassion and translate the narrative's values into life.",
+            "correct": 0,
+            "explanation": "The sugar-cane comparison describes the continuing sweetness beneath varied events.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+            "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "A reading group finishes a story about compassion. Which follow-up best explores its value?",
+            "q": "What quality is particularly associated with Lakshmana's stream?",
             "options": [
-              "Identify someone who needs thoughtful help",
-              "Debate the finest cover",
-              "Count unfamiliar names",
-              "Rank everyone's memory"
-            ],
-            "correct": 0,
-            "explanation": "Looking for a real need connects the story's value with the readers' present responsibilities.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A child remembers only a dramatic battle. What question could broaden reflection?",
-            "options": [
-              "How many weapons appeared?",
-              "What did the characters' choices reveal?",
-              "Who looked most powerful?",
-              "Which costume was brightest?"
+              "Envy",
+              "Devotion",
+              "Indifference",
+              "Pride"
             ],
             "correct": 1,
-            "explanation": "Examining choices helps the child move from an exciting event toward its moral significance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
+            "explanation": "The chapter pairs Rama's compassion with Lakshmana's devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+            "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "You admire a character's kindness. Which response turns admiration into learning?",
+            "q": "What two factors contribute to spiritual fulfilment?",
             "options": [
-              "Compare the character's jewellery",
-              "Try a considerate action today",
-              "Retell only the most dramatic scene",
-              "Praise yourself for understanding"
-            ],
-            "correct": 1,
-            "explanation": "A considerate action lets admiration begin shaping the learner's own habits and relationships.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Two readers disagree about a minor narrative detail. What could restore useful focus?",
-            "options": [
-              "Declare one reader unworthy",
-              "Return to the value being explored",
-              "Abandon every discussion",
-              "Repeat the disagreement more loudly"
-            ],
-            "correct": 1,
-            "explanation": "Returning to the shared value keeps a minor disagreement from consuming the whole learning opportunity.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A group describes an ideal leader. Which question examines the ideal meaningfully?",
-            "options": [
-              "How does the leader care for others?",
-              "How many titles are used?",
-              "How often is the leader applauded?",
-              "How ornate is the leader's seat?"
-            ],
-            "correct": 0,
-            "explanation": "Care for others connects leadership with lived responsibility rather than the symbols surrounding a position.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A reader mistakes compassion for avoiding every difficult conversation. What is a better approach?",
-            "options": [
-              "Speak truthfully with concern for their welfare",
-              "Speak harshly to prove strength",
-              "Avoid the person indefinitely",
-              "Let others deal with everything"
-            ],
-            "correct": 0,
-            "explanation": "Truthful, considerate conversation can protect another person's welfare while addressing a real difficulty.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Your study circle includes people unfamiliar with the story. What helps them participate?",
-            "options": [
-              "Test them before welcoming them",
-              "Assume they cannot understand values",
-              "Explain context without condescension",
-              "Use names without explanation"
+              "Wealth and ancestry alone",
+              "Fame and military strength",
+              "Self-effort and divine grace",
+              "Argument and rivalry"
             ],
             "correct": 2,
-            "explanation": "Clear context lets newcomers consider the same values without requiring familiarity with every narrative detail.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
+            "explanation": "Individual effort is described as one half of the pursuit, with divine grace completing it.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+            "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "Which project best links reading with compassionate action?",
+            "q": "How should the Ramayana primarily be approached?",
             "options": [
-              "A tally of memorized names",
-              "A display of expensive books",
-              "A competition for the longest retelling",
-              "A practical response to an identified need"
+              "Only as a list of family relationships",
+              "Only as a record of military tactics",
+              "As a collection without spiritual significance",
+              "As the narrative of an Avatar whose ideals are to be realised"
             ],
             "correct": 3,
-            "explanation": "An identified need gives compassion a useful direction and helps the group act with care.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
+            "explanation": "The chapter asks readers to seek the values expressed by the incarnation.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+            "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15"
           },
           {
-            "q": "A reader asks what a story means for today. Which answer is most helpful?",
+            "q": "Why is Rama's story called the story of the universe?",
             "options": [
-              "Its value depends on remembering dates",
-              "Every scene needs literal imitation",
-              "Consider a choice you currently face",
-              "Only the historical setting matters"
-            ],
-            "correct": 2,
-            "explanation": "A present choice allows thoughtful reflection without assuming that every narrative action should be copied literally.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Which discussion prompt combines compassion and responsibility?",
-            "options": [
-              "How can we help without neglecting our commitments?",
-              "Which character had the richest home?",
-              "Who deserves the most admiration?",
-              "How can we finish reflection fastest?"
+              "Rama embodies the universal principle in all beings",
+              "Ayodhya contains every city physically",
+              "The story excludes individual lives",
+              "The universe begins with Dasaratha's reign"
             ],
             "correct": 0,
-            "explanation": "The prompt connects concern for others with the practical commitments that make help reliable.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A participant shares a thoughtful but incomplete interpretation. What serves the discussion?",
-            "options": [
-              "Build on it with a respectful question",
-              "Ignore it entirely",
-              "Require an impressive vocabulary",
-              "Mock its simplicity"
-            ],
-            "correct": 0,
-            "explanation": "A respectful question values the contribution while opening space for greater understanding.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "You notice a person excluded from a group activity. What puts compassion into practice?",
-            "options": [
-              "Offer a considerate way to participate",
-              "Wait for someone more important",
-              "Assume exclusion is deserved",
-              "Discuss kindness abstractly"
-            ],
-            "correct": 0,
-            "explanation": "A considerate invitation responds to the person's situation rather than leaving compassion only in discussion.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Which reading habit best supports attention to values?",
-            "options": [
-              "Skip every difficult scene",
-              "Pause at significant decisions",
-              "Collect only colourful descriptions",
-              "Treat questions as interruptions"
-            ],
-            "correct": 1,
-            "explanation": "Pausing at decisions makes room to examine motives, consequences and the qualities being expressed.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A storyteller wants to inspire listeners. What should guide the retelling?",
-            "options": [
-              "Preserving meaning and encouraging reflection",
-              "Focusing only on audience applause",
-              "Adding impressive unverified details",
-              "Making every episode more sensational"
-            ],
-            "correct": 0,
-            "explanation": "Preserving meaning helps listeners reflect without confusing invented embellishment with the source narrative.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Which response distinguishes an ideal from a slogan?",
-            "options": [
-              "Using it to examine a difficult choice",
-              "Placing it on more posters",
-              "Repeating it at greater volume",
-              "Assuming repetition guarantees understanding"
-            ],
-            "correct": 0,
-            "explanation": "Examining a choice reveals what an ideal asks of someone beyond simply repeating its name.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A friend offers help that creates extra work for others. What would improve it?",
-            "options": [
-              "Demand gratitude before adjusting",
-              "Announce their generosity repeatedly",
-              "Stop speaking to the recipients",
-              "Ask what help would actually be useful"
-            ],
-            "correct": 3,
-            "explanation": "Understanding the recipient's need makes a kind intention more likely to become beneficial assistance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "Which question can deepen reflection after reading together?",
-            "options": [
-              "Where could we show greater consideration?",
-              "Whose pronunciation was most impressive?",
-              "Who read the most pages?",
-              "Which edition cost the most?"
-            ],
-            "correct": 0,
-            "explanation": "The question brings attention back to relationships and choices within the group's own reach.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A learner feels distant from an exalted ideal. What is a practical starting point?",
-            "options": [
-              "Compare themselves with every character",
-              "Wait until they feel perfect",
-              "Choose one small expression of the value",
-              "Reject the ideal as useless"
-            ],
-            "correct": 2,
-            "explanation": "A small expression makes the ideal approachable while leaving room for continued learning and growth.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
-          },
-          {
-            "q": "A community leader receives advice about residents' needs. Which response fits compassionate responsibility?",
-            "options": [
-              "Listen and consider a practical response",
-              "Treat the advice as an insult",
-              "Dismiss quieter residents",
-              "Focus only on personal reputation"
-            ],
-            "correct": 0,
-            "explanation": "Listening to needs allows responsibility to serve people rather than protect the leader's self-image.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter1.html",
-            "sourceLabel": "Part 1 · Chapter 1: Rama - Prince and Principle"
+            "explanation": "Rama is described as present in all, beyond a single historical period.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=12",
+            "sourceLabel": "Part 1 · Chapter 1, PDF pages 12–15"
           }
         ]
       },
       {
-        "id": "promises-and-self-interest",
-        "title": "Promises and self-interest",
-        "chapter": "Part 1 · Chapter 10(b): The Two Boons",
-        "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-        "summary": "Kaikeyi demands Bharatha's coronation and Rama's exile, while Dasaratha struggles with his promise and affection for Rama. Their painful exchange exposes the consequences of unchecked ambition and unconsidered promises. The crisis invites reflection on truthfulness, discernment and the welfare of others.",
+        "id": "part-1-chapter-02",
+        "title": "The Imperial Line: Raghu",
+        "chapter": "Part 1 · Chapter 2 · The Imperial Line: Raghu",
+        "part": 1,
+        "chapterNumber": 2,
+        "pdfStartPage": 16,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+        "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21",
+        "summary": "The narrative introduces the Solar dynasty through Khatvanga and his son Dilipa. Dilipa and Sudakshina rule with concern for their subjects, but their lack of an heir causes distress. Vasishta explains that Dilipa once neglected to honour Kamadhenu and advises service to the cow Nandini. Dilipa's willingness to give his own life to protect her from a lion brings the release of the curse and the promise of a son.\n\nRaghu's birth and righteous rule continue the dynasty's association with responsibility and virtue. The account then moves to Aja and Indumathi, and to the sorrow caused by her sudden death. Narada explains that she was the celestial Harini, living under a curse that would end when a heavenly flower touched her. What appears only as bereavement to Aja is also her release. Dasaratha eventually receives the responsibility of kingship, carrying the line forward amid the passing of earlier generations.",
         "qa": [
           {
-            "q": "Why is Dasaratha deeply troubled?",
-            "a": "He has promised to grant Kaikeyi's wishes, yet her demands threaten separation from Rama and widespread sorrow for the family and the people of Ayodhya."
+            "q": "Which sage advises Dilipa about his lack of an heir?",
+            "a": "Vasishta. Dilipa and his queen visit their family preceptor for guidance."
+          },
+          {
+            "q": "Which cow is Dilipa instructed to serve?",
+            "a": "Nandini. Vasishta assigns the care and protection of Nandini as the prescribed service."
+          },
+          {
+            "q": "What does Dilipa offer when a lion threatens the cow?",
+            "a": "His own body in exchange. His readiness for self-sacrifice is followed by the lifting of the curse."
+          },
+          {
+            "q": "What ends Indumathi's earthly life and curse?",
+            "a": "A heavenly flower falling upon her. Narada explains the condition attached to Harini's curse."
+          },
+          {
+            "q": "Who succeeds Aja as ruler?",
+            "a": "Dasaratha. The chapter carries the dynasty forward to Dasaratha."
           }
         ],
         "quiz": [
           {
-            "q": "What demand creates the central crisis?",
+            "q": "Which sage advises Dilipa about his lack of an heir?",
             "options": [
-              "A new palace",
-              "A pilgrimage",
-              "A musical celebration",
-              "Rama's exile and Bharatha's coronation"
+              "Viswamitra",
+              "Narada",
+              "Agastya",
+              "Vasishta"
             ],
             "correct": 3,
-            "explanation": "Kaikeyi insists on these two boons despite Dasaratha's appeals about the suffering their fulfilment would cause.",
+            "explanation": "Dilipa and his queen visit their family preceptor for guidance.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+            "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21"
           },
           {
-            "q": "Someone asks you to promise help before explaining the task. What should you do?",
+            "q": "Which cow is Dilipa instructed to serve?",
             "options": [
-              "Promise and worry later",
-              "Ask what the commitment involves",
-              "Agree immediately to look generous",
-              "Assume it requires no effort"
-            ],
-            "correct": 1,
-            "explanation": "Understanding the request first makes a promise more truthful, deliberate and dependable.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "You made two commitments for the same time. What is the most responsible response?",
-            "options": [
-              "Explain promptly and arrange a fair adjustment",
-              "Hide the conflict",
-              "Wait for complaints",
-              "Blame both people for asking"
+              "Nandini",
+              "Surpanakha",
+              "Harini",
+              "Mandodari"
             ],
             "correct": 0,
-            "explanation": "Early honesty gives those affected a chance to plan around the conflict.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
+            "explanation": "Vasishta assigns the care and protection of Nandini as the prescribed service.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+            "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21"
           },
           {
-            "q": "A project decision benefits your relative but harms the group. What deserves attention?",
+            "q": "What does Dilipa offer when a lion threatens the cow?",
             "options": [
-              "Your relative's approval alone",
-              "The quickest route to victory",
-              "The effects on everyone involved",
-              "How to conceal the harm"
-            ],
-            "correct": 2,
-            "explanation": "Considering all affected people helps reveal when personal attachment is narrowing the decision.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A friend pressures you to make an unrealistic promise. Which reply shows discernment?",
-            "options": [
-              "I need no details",
-              "I will promise anything you want",
-              "I can offer this smaller commitment reliably",
-              "My reputation guarantees success"
-            ],
-            "correct": 2,
-            "explanation": "A realistic commitment is more trustworthy than reassurance that cannot be responsibly delivered.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "You regret a commitment that affects others. What should you examine before acting?",
-            "options": [
-              "Who can be made responsible",
-              "How to appear faultless",
-              "Whether anyone can blame you",
-              "Your obligations and the consequences of changes"
-            ],
-            "correct": 3,
-            "explanation": "Examining obligations and effects keeps the response connected to truthfulness and the people relying on you.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A leader wants to favour a family member. What question tests the motive?",
-            "options": [
-              "How can I silence objections?",
-              "Can I make this decision privately?",
-              "Will my family praise me?",
-              "Would this be fair without the family connection?"
-            ],
-            "correct": 3,
-            "explanation": "Removing the personal connection from consideration helps expose whether the decision rests on fair reasons.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "Which behaviour makes a promise less trustworthy?",
-            "options": [
-              "Explaining genuine limitations",
-              "Clarifying its scope",
-              "Recording what was agreed",
-              "Offering certainty without considering feasibility"
-            ],
-            "correct": 3,
-            "explanation": "Unexamined certainty can encourage others to rely on a commitment that has no workable basis.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A volunteer discovers that a promised activity would cause harm. What is the responsible next step?",
-            "options": [
-              "Explain the problem and seek a safer agreement",
-              "Conceal the new information",
-              "Proceed solely to avoid embarrassment",
-              "Shift the risk onto someone else"
-            ],
-            "correct": 0,
-            "explanation": "Honest reconsideration addresses the harm while respecting the people affected by the original commitment.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A request sounds attractive but has hidden costs for others. What should happen before agreement?",
-            "options": [
-              "Accept because the requester is close",
-              "Keep the costs secret",
-              "Discuss the wider consequences",
-              "Assume objections are disloyal"
-            ],
-            "correct": 2,
-            "explanation": "Discussing consequences makes room for people whose interests enthusiasm or attachment might overlook.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "You want an award badly. Which choice best guards against self-interest?",
-            "options": [
-              "Ask friends to excuse every decision",
-              "Evaluate your actions against the same fair standard",
-              "Ignore the rules when convenient",
-              "Treat rivals as enemies"
+              "His royal crown only",
+              "His own body in exchange",
+              "A promise to abandon the cow",
+              "A new chariot"
             ],
             "correct": 1,
-            "explanation": "A consistent standard helps keep desire for an outcome from overriding fairness and responsibility.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
+            "explanation": "His readiness for self-sacrifice is followed by the lifting of the curse.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+            "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21"
           },
           {
-            "q": "Which statement combines honesty with realistic limits?",
+            "q": "What ends Indumathi's earthly life and curse?",
             "options": [
-              "You never need to check progress",
-              "I can complete this part by Friday",
-              "I can do anything if admired",
-              "I guarantee everything will work"
-            ],
-            "correct": 1,
-            "explanation": "A clear, bounded commitment tells others what they can reasonably expect and plan around.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A disagreement escalates because each person defends their image. What could help?",
-            "options": [
-              "Repeat personal accusations",
-              "Name the actual commitments and effects",
-              "Refuse to discuss the facts",
-              "Gather a louder audience"
-            ],
-            "correct": 1,
-            "explanation": "Clarifying commitments and effects moves the exchange away from self-defence toward the problem itself.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "Your preferred outcome disappoints several people. What is a useful first question?",
-            "options": [
-              "Have I considered their legitimate concerns?",
-              "How can I prevent objections?",
-              "Why will they not celebrate?",
-              "Who should lose their influence?"
-            ],
-            "correct": 0,
-            "explanation": "Considering legitimate concerns challenges the assumption that personal satisfaction is enough to justify a decision.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "When is enthusiasm most likely to produce an unwise promise?",
-            "options": [
-              "When limits are discussed",
-              "When requirements are clarified",
-              "When it replaces consideration of consequences",
-              "When agreement is recorded"
+              "An arrow from Dasaratha",
+              "A message from Ravana",
+              "A heavenly flower falling upon her",
+              "A journey across the sea"
             ],
             "correct": 2,
-            "explanation": "Enthusiasm becomes unreliable when it substitutes for understanding what the commitment will require.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
+            "explanation": "Narada explains the condition attached to Harini's curse.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+            "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21"
           },
           {
-            "q": "A group asks you to confirm an uncertain completion date. What is best?",
+            "q": "Who succeeds Aja as ruler?",
             "options": [
-              "Invent a confident date",
-              "Copy someone else's guess",
-              "State the uncertainty and your next update",
-              "Avoid answering forever"
-            ],
-            "correct": 2,
-            "explanation": "A truthful update supports planning without creating false confidence about what is not yet known.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "You can win an argument by withholding an important detail. Which choice protects trust?",
-            "options": [
-              "Call every question an accusation",
-              "Use the omission strategically",
-              "Wait until the decision is irreversible",
-              "Share the relevant detail"
+              "Bharatha",
+              "Sugriva",
+              "Janaka",
+              "Dasaratha"
             ],
             "correct": 3,
-            "explanation": "Providing relevant information lets others assess the decision instead of being steered by selective disclosure.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A parent wants a special exception for their child in a shared activity. What is a fair approach?",
-            "options": [
-              "Review the need under rules applied to everyone",
-              "Demand it because of affection",
-              "Hide the exception from other families",
-              "Assume all objections are envy"
-            ],
-            "correct": 0,
-            "explanation": "Using a shared standard allows genuine needs to be considered without making affection the only criterion.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "You notice that pride is driving a commitment. What would be a useful correction?",
-            "options": [
-              "Promise even more",
-              "Leave others to manage the consequences",
-              "Choose a realistic contribution and explain it",
-              "Seek more applause"
-            ],
-            "correct": 2,
-            "explanation": "A realistic contribution replaces a performance of importance with something others can actually rely on.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
-          },
-          {
-            "q": "A team is about to announce a decision. What final check reduces avoidable harm?",
-            "options": [
-              "Can dissenters be excluded?",
-              "Are the commitments clear and affected people considered?",
-              "Will the announcement sound grand?",
-              "Will one person gain enough credit?"
-            ],
-            "correct": 1,
-            "explanation": "Clear commitments and attention to affected people provide a firmer basis than the appeal of an announcement.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter10b.html",
-            "sourceLabel": "Part 1 · Chapter 10(b): The Two Boons"
+            "explanation": "The chapter carries the dynasty forward to Dasaratha.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=16",
+            "sourceLabel": "Part 1 · Chapter 2, PDF pages 16–21"
           }
         ]
       },
       {
-        "id": "bharathas-stewardship",
-        "title": "Bharatha's devoted stewardship",
-        "chapter": "Part 1 · Chapter 18: Sandals Enthroned",
-        "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-        "summary": "Bharatha accepts Rama's sandals as the focus of his responsibility in Ayodhya. He places them on the throne and adopts a simple life at Nandigrama. His conduct presents authority as devoted service, sustained by fidelity to Rama during their separation.",
+        "id": "part-1-chapter-03",
+        "title": "Curse of No Progeny for Dasaratha",
+        "chapter": "Part 1 · Chapter 3 · Curse of No Progeny for Dasaratha",
+        "part": 1,
+        "chapterNumber": 3,
+        "pdfStartPage": 22,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+        "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26",
+        "summary": "Dasaratha's prowess arouses Ravana's envy. When Ravana demands tribute, Dasaratha demonstrates his strength by sending arrows that fasten Lanka's gates. Ravana then seeks protection through austerity and asks Brahma that Dasaratha should have no children. He also tries to prevent the king's marriage by abducting Kausalya and casting her into the sea in a box. Sumanthra finds and rescues her, and the hostile scheme does not prevent the intended union.\n\nThe chapter introduces Dasaratha's queens, Kausalya, Sumitra, and Kaika, and the continuing concern for an heir. A sacrifice is arranged for the birth of sons, with Rishyasringa directing the rites. From the sacred fire a radiant being appears carrying a vessel of payasam. A heavenly instruction tells the king to distribute it among his three queens. The chapter ends with public joy, presenting the divine gift as the answer to a difficulty that royal strength alone could not resolve.",
         "qa": [
           {
-            "q": "What do Bharatha's actions reveal about leadership?",
-            "a": "He receives responsibility without treating the kingdom as a personal possession, keeping Rama at the centre and supporting that commitment through an austere daily life."
+            "q": "What first arouses Ravana's hostility toward Dasaratha?",
+            "a": "Envy of his fame and prowess. Ravana hears of Dasaratha's greatness and seeks to overpower him."
+          },
+          {
+            "q": "How does Dasaratha answer Ravana's demand for tribute?",
+            "a": "With arrows that fasten Lanka's gates. The demonstration humiliates Ravana without a conventional battle."
+          },
+          {
+            "q": "Who discovers Kausalya in the box?",
+            "a": "Sumanthra. The minister rescues her and returns her to her father."
+          },
+          {
+            "q": "Who directs the sacrifice for sons?",
+            "a": "Rishyasringa. He serves as the chief organiser and makes the prescribed offerings."
+          },
+          {
+            "q": "What does the radiant being bring from the fire?",
+            "a": "A vessel of sacred payasam. The king is instructed to distribute the sweet milk preparation among his queens."
           }
         ],
         "quiz": [
+          {
+            "q": "What first arouses Ravana's hostility toward Dasaratha?",
+            "options": [
+              "A request from Janaka",
+              "A dispute about Sita's wedding",
+              "Envy of his fame and prowess",
+              "The loss of Sugriva's kingdom"
+            ],
+            "correct": 2,
+            "explanation": "Ravana hears of Dasaratha's greatness and seeks to overpower him.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+            "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26"
+          },
+          {
+            "q": "How does Dasaratha answer Ravana's demand for tribute?",
+            "options": [
+              "By surrendering Ayodhya",
+              "By sending all his horses",
+              "By abandoning his throne",
+              "With arrows that fasten Lanka's gates"
+            ],
+            "correct": 3,
+            "explanation": "The demonstration humiliates Ravana without a conventional battle.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+            "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26"
+          },
+          {
+            "q": "Who discovers Kausalya in the box?",
+            "options": [
+              "Sumanthra",
+              "Hanuman",
+              "Bharatha",
+              "Vali"
+            ],
+            "correct": 0,
+            "explanation": "The minister rescues her and returns her to her father.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+            "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26"
+          },
+          {
+            "q": "Who directs the sacrifice for sons?",
+            "options": [
+              "Sugriva",
+              "Rishyasringa",
+              "Parasurama",
+              "Guha"
+            ],
+            "correct": 1,
+            "explanation": "He serves as the chief organiser and makes the prescribed offerings.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+            "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26"
+          },
+          {
+            "q": "What does the radiant being bring from the fire?",
+            "options": [
+              "Siva's bow",
+              "A pair of sandals",
+              "A vessel of sacred payasam",
+              "A golden deer"
+            ],
+            "correct": 2,
+            "explanation": "The king is instructed to distribute the sweet milk preparation among his queens.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=22",
+            "sourceLabel": "Part 1 · Chapter 3, PDF pages 22–26"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-04",
+        "title": "Birth of Dasaratha's Four Sons",
+        "chapter": "Part 1 · Chapter 4 · Birth of Dasaratha's Four Sons",
+        "part": 1,
+        "chapterNumber": 4,
+        "pdfStartPage": 27,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+        "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33",
+        "summary": "The sacred payasam is divided among the queens. When an eagle carries away Sumitra's portion, Kausalya and Kaika each share some of theirs with her. The account emphasises affection and cooperation among the three women. In time, Kausalya and Kaika each bear a son, while Sumitra bears twins. Ayodhya celebrates, and Dasaratha marks the births with generous gifts and care for people in need.\n\nVasishta names the children Rama, Bharatha, Lakshmana, and Satrughna, explaining the significance of their names and future qualities. The narrative describes their distinctive bonds, especially Lakshmana's attraction to Rama, and includes Kausalya's experience of the child's divinity. As the boys grow, they enter the preceptor's household and learn through service, discipline, and instruction. Rama's extraordinary grasp of lessons amazes the teacher. The brothers' closeness remains central even in their studies, showing that their companionship is more than ordinary family attachment.",
+        "qa": [
+          {
+            "q": "What happens to Sumitra's original portion of payasam?",
+            "a": "An eagle carries it away. The incident leads the other queens to share their portions with her."
+          },
+          {
+            "q": "Who shares payasam with Sumitra?",
+            "a": "Kausalya and Kaika. Their response expresses the mutual affection of the queens."
+          },
+          {
+            "q": "Which queen gives birth to twins?",
+            "a": "Sumitra. Lakshmana and Satrughna are Sumitra's sons."
+          },
+          {
+            "q": "What meaning is given to Rama's name?",
+            "a": "He who pleases. Vasishta says the child will bring joy and fulfilment to others."
+          },
+          {
+            "q": "Which brother particularly longs for Rama's company during their studies?",
+            "a": "Lakshmana. Lakshmana says that Rama's presence matters to him more than lessons."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What happens to Sumitra's original portion of payasam?",
+            "options": [
+              "She gives it to Ravana",
+              "An eagle carries it away",
+              "It is buried in the forest",
+              "It is poured into the Sarayu"
+            ],
+            "correct": 1,
+            "explanation": "The incident leads the other queens to share their portions with her.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+            "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33"
+          },
+          {
+            "q": "Who shares payasam with Sumitra?",
+            "options": [
+              "Sita and Urmila",
+              "Arundathi and Anasuya",
+              "Kausalya and Kaika",
+              "Mandodari and Tara"
+            ],
+            "correct": 2,
+            "explanation": "Their response expresses the mutual affection of the queens.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+            "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33"
+          },
+          {
+            "q": "Which queen gives birth to twins?",
+            "options": [
+              "Kausalya",
+              "Kaika",
+              "Sunayana",
+              "Sumitra"
+            ],
+            "correct": 3,
+            "explanation": "Lakshmana and Satrughna are Sumitra's sons.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+            "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33"
+          },
+          {
+            "q": "What meaning is given to Rama's name?",
+            "options": [
+              "He who pleases",
+              "Slayer of enemies",
+              "Ruler of the ocean",
+              "Keeper of the bow"
+            ],
+            "correct": 0,
+            "explanation": "Vasishta says the child will bring joy and fulfilment to others.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+            "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33"
+          },
+          {
+            "q": "Which brother particularly longs for Rama's company during their studies?",
+            "options": [
+              "Ravana",
+              "Lakshmana",
+              "Vali",
+              "Janaka"
+            ],
+            "correct": 1,
+            "explanation": "Lakshmana says that Rama's presence matters to him more than lessons.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=27",
+            "sourceLabel": "Part 1 · Chapter 4, PDF pages 27–33"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-05",
+        "title": "The Guru and the Pupils",
+        "chapter": "Part 1 · Chapter 5 · The Guru and the Pupils",
+        "part": 1,
+        "chapterNumber": 5,
+        "pdfStartPage": 34,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+        "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41",
+        "summary": "The princes live in their teacher's household with humility, accepting its discipline instead of palace comfort. Vasishta praises their progress and especially Rama's effortless mastery of the Vedas. Rama's conduct also shows consideration: when his father and teacher begin discussing the boys, he quietly withdraws with his brothers. Their education is presented as character and reverence as well as knowledge.\n\nAfter returning home, the brothers undertake a pilgrimage. Their later inwardness and detachment trouble the family, who interpret the change with parental anxiety. Rama raises profound questions about the individual, the world, and the divine, asking what unity lies beneath apparent distinctions. Vasishta recognises the spiritual depth of these inquiries. The dialogues are identified with the Yoga-Vasishta, also called the Rama-Gita. The chapter contrasts the parents' concern for ordinary wellbeing with the wisdom emerging through Rama's words, preparing the next stage of his public mission.",
+        "qa": [
+          {
+            "q": "Where do the brothers live while studying?",
+            "a": "In their preceptor's household. They accept the teacher's way of life and serve him devotedly."
+          },
+          {
+            "q": "What does Rama do when his father and teacher discuss their progress?",
+            "a": "Withdraws respectfully with his brothers. Vasishta and Dasaratha appreciate his understanding and humility."
+          },
+          {
+            "q": "Why does Vasishta marvel at Rama's Vedic learning?",
+            "a": "He repeats the hymns as though already knowing them. The teacher sees something beyond ordinary learning in Rama's mastery."
+          },
+          {
+            "q": "What change follows the pilgrimage?",
+            "a": "Greater inwardness and detachment. This change causes anxiety to the parents while revealing Rama's spiritual concerns."
+          },
+          {
+            "q": "What text is associated with Rama's dialogues with Vasishta?",
+            "a": "Yoga-Vasishta, also called Rama-Gita. The chapter identifies the dialogues by these names."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where do the brothers live while studying?",
+            "options": [
+              "In their preceptor's household",
+              "In Ravana's palace",
+              "On an ocean island",
+              "In Janaka's assembly hall"
+            ],
+            "correct": 0,
+            "explanation": "They accept the teacher's way of life and serve him devotedly.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+            "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41"
+          },
+          {
+            "q": "What does Rama do when his father and teacher discuss their progress?",
+            "options": [
+              "Interrupts to praise himself",
+              "Withdraws respectfully with his brothers",
+              "Demands an immediate coronation",
+              "Refuses to obey the teacher"
+            ],
+            "correct": 1,
+            "explanation": "Vasishta and Dasaratha appreciate his understanding and humility.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+            "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41"
+          },
+          {
+            "q": "Why does Vasishta marvel at Rama's Vedic learning?",
+            "options": [
+              "He refuses to listen to any hymn",
+              "He studies only from a royal inscription",
+              "He repeats the hymns as though already knowing them",
+              "He replaces every lesson with archery"
+            ],
+            "correct": 2,
+            "explanation": "The teacher sees something beyond ordinary learning in Rama's mastery.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+            "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41"
+          },
+          {
+            "q": "What change follows the pilgrimage?",
+            "options": [
+              "A demand for more palace luxuries",
+              "Hostility toward every sage",
+              "A wish to abandon his brothers",
+              "Greater inwardness and detachment"
+            ],
+            "correct": 3,
+            "explanation": "This change causes anxiety to the parents while revealing Rama's spiritual concerns.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+            "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41"
+          },
+          {
+            "q": "What text is associated with Rama's dialogues with Vasishta?",
+            "options": [
+              "Yoga-Vasishta, also called Rama-Gita",
+              "A manual of Lanka's fortifications",
+              "The laws of the Nishadas",
+              "A chronicle of Sugriva's reign"
+            ],
+            "correct": 0,
+            "explanation": "The chapter identifies the dialogues by these names.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=34",
+            "sourceLabel": "Part 1 · Chapter 5, PDF pages 34–41"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-06",
+        "title": "The Call and the First Victory",
+        "chapter": "Part 1 · Chapter 6 · The Call and the First Victory",
+        "part": 1,
+        "chapterNumber": 6,
+        "pdfStartPage": 42,
+        "pdfEndPage": 56,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+        "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56",
+        "summary": "Viswamitra comes to Ayodhya because demons repeatedly interrupt and defile his sacred rite. Dasaratha welcomes him and promises assistance, but the request for Rama tests the father's attachment. With the guidance of Vasishta, the princes' journey with the sage becomes the next step in their mission. Rama and Lakshmana listen, serve, and accept the discipline of their guide.\n\nThe journey includes accounts of sacred places and the condition of lands harmed by destructive forces. Rama overcomes Thataki, and Viswamitra grants him powerful weapons. The brothers then guard the sacrifice so that it can be completed without disruption. At the end, they do not claim rewards or independence: they ask whether there is further work they should do. The ascetics recognise their extraordinary nature and express gratitude. Protection of the rite, obedience to the teacher, and service to the welfare of others are joined throughout the chapter.",
+        "qa": [
+          {
+            "q": "Why does Viswamitra seek help from Dasaratha?",
+            "a": "Demons are disrupting his sacred rite. The repeated desecration prevents the rite from proceeding."
+          },
+          {
+            "q": "Which two princes accompany the sage?",
+            "a": "Rama and Lakshmana. They undertake the task of protecting Viswamitra's sacrifice."
+          },
+          {
+            "q": "Which destructive figure is defeated during the journey?",
+            "a": "Thataki. Rama's victory removes a threat in the region."
+          },
+          {
+            "q": "What does Viswamitra give Rama after this victory?",
+            "a": "Divine weapons. The sage equips Rama as the journey and mission continue."
+          },
+          {
+            "q": "What do the brothers ask after the rite is completed?",
+            "a": "Whether any further task remains for them. Their question expresses readiness for continued service."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Viswamitra seek help from Dasaratha?",
+            "options": [
+              "He wishes to take Ayodhya's throne",
+              "He needs a bride for Bharatha",
+              "He is searching for a lost crown",
+              "Demons are disrupting his sacred rite"
+            ],
+            "correct": 3,
+            "explanation": "The repeated desecration prevents the rite from proceeding.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+            "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56"
+          },
+          {
+            "q": "Which two princes accompany the sage?",
+            "options": [
+              "Rama and Lakshmana",
+              "Bharatha and Satrughna",
+              "Rama and Bharatha",
+              "Lakshmana and Satrughna"
+            ],
+            "correct": 0,
+            "explanation": "They undertake the task of protecting Viswamitra's sacrifice.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+            "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56"
+          },
+          {
+            "q": "Which destructive figure is defeated during the journey?",
+            "options": [
+              "Mandodari",
+              "Thataki",
+              "Sunayana",
+              "Arundathi"
+            ],
+            "correct": 1,
+            "explanation": "Rama's victory removes a threat in the region.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+            "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56"
+          },
+          {
+            "q": "What does Viswamitra give Rama after this victory?",
+            "options": [
+              "The throne of Mithila",
+              "Bharatha's sandals",
+              "Divine weapons",
+              "A golden deer"
+            ],
+            "correct": 2,
+            "explanation": "The sage equips Rama as the journey and mission continue.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+            "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56"
+          },
+          {
+            "q": "What do the brothers ask after the rite is completed?",
+            "options": [
+              "Whether they may demand tribute",
+              "Whether the hermits will abandon the forest",
+              "Whether Janaka has surrendered",
+              "Whether any further task remains for them"
+            ],
+            "correct": 3,
+            "explanation": "Their question expresses readiness for continued service.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=42",
+            "sourceLabel": "Part 1 · Chapter 6, PDF pages 42–56"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-07",
+        "title": "Winning Sita",
+        "chapter": "Part 1 · Chapter 7 · Winning Sita",
+        "part": 1,
+        "chapterNumber": 7,
+        "pdfStartPage": 57,
+        "pdfEndPage": 85,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+        "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85",
+        "summary": "An invitation from Janaka leads Viswamitra and the princes toward Mithila. Rama first seeks clarity about obedience to his father's instructions, and the sage explains that accompanying him fulfils those instructions. Their journey becomes a setting for accounts of Viswamitra, the Ganga, and other sacred histories. Rama also releases Ahalya before they reach the city where Janaka's great bow is kept.\n\nIn Mithila, the challenge connected with Siva's bow leads to Rama's union with Sita. Rama breaks the bow, and messengers invite Dasaratha to take part in the marriage arrangements. The royal lineages are recounted, and four marriages unite the families. Joyful ceremony is followed by the tenderness and sorrow of departure. Janaka must bear separation from his daughters, and his ministers remind him of the worthiness of the brides and bridegrooms. The chapter places the celebrated victory within a larger account of obedience, sacred learning, family duty, and affection.",
+        "qa": [
+          {
+            "q": "Which ruler invites Viswamitra to Mithila?",
+            "a": "Janaka. Janaka's invitation begins the journey described in this chapter."
+          },
+          {
+            "q": "Why does Rama initially ask about travelling onward?",
+            "a": "He wants to be sure it accords with his father's instructions. Viswamitra explains the full scope of Dasaratha's command."
+          },
+          {
+            "q": "Whom does Rama release on the journey?",
+            "a": "Ahalya. The episode precedes their arrival in Mithila."
+          },
+          {
+            "q": "Whose bow does Rama break?",
+            "a": "Siva's. The breaking of the bow is central to winning Sita."
+          },
+          {
+            "q": "How many weddings are arranged between the royal families?",
+            "a": "Four. The chapter describes the proposal and celebration of four marriages."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which ruler invites Viswamitra to Mithila?",
+            "options": [
+              "Ravana",
+              "Sugriva",
+              "Janaka",
+              "Guha"
+            ],
+            "correct": 2,
+            "explanation": "Janaka's invitation begins the journey described in this chapter.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+            "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85"
+          },
+          {
+            "q": "Why does Rama initially ask about travelling onward?",
+            "options": [
+              "He fears every forest path",
+              "He refuses to meet any other king",
+              "He wants a royal reward first",
+              "He wants to be sure it accords with his father's instructions"
+            ],
+            "correct": 3,
+            "explanation": "Viswamitra explains the full scope of Dasaratha's command.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+            "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85"
+          },
+          {
+            "q": "Whom does Rama release on the journey?",
+            "options": [
+              "Ahalya",
+              "Manthara",
+              "Mandodari",
+              "Surpanakha"
+            ],
+            "correct": 0,
+            "explanation": "The episode precedes their arrival in Mithila.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+            "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85"
+          },
+          {
+            "q": "Whose bow does Rama break?",
+            "options": [
+              "Sugriva's",
+              "Siva's",
+              "Guha's",
+              "Bharatha's"
+            ],
+            "correct": 1,
+            "explanation": "The breaking of the bow is central to winning Sita.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+            "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85"
+          },
+          {
+            "q": "How many weddings are arranged between the royal families?",
+            "options": [
+              "One",
+              "Two",
+              "Four",
+              "Eight"
+            ],
+            "correct": 2,
+            "explanation": "The chapter describes the proposal and celebration of four marriages.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=57",
+            "sourceLabel": "Part 1 · Chapter 7, PDF pages 57–85"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-08",
+        "title": "Another Challenge to Rama's Prowess",
+        "chapter": "Part 1 · Chapter 8 · Another Challenge to Rama's Prowess",
+        "part": 1,
+        "chapterNumber": 8,
+        "pdfStartPage": 86,
+        "pdfEndPage": 91,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+        "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91",
+        "summary": "On the return journey from Mithila, disturbing omens and a violent storm unsettle the wedding party. Vasishta reassures Dasaratha that the threatened danger will be overcome. Parasurama then appears in anger, having heard of Rama's breaking of Siva's bow. He presents another divine bow and demands a demonstration of strength, while Rama remains calm before the challenge.\n\nParasurama recounts the history of Vishnu's bow, his father's death, his campaigns against unrighteous rulers, and his later renunciation. Rama's response brings the confrontation to its resolution and reveals the inadequacy of judging him as an ordinary prince. The party then continues safely to Ayodhya. There, the mothers welcome the sons and their brides with affection, auspicious rites, gifts, and blessings. The chapter moves from a public challenge to a joyful homecoming, holding Rama's composure steady through both threatening and celebratory circumstances.",
+        "qa": [
+          {
+            "q": "Who explains the ominous signs to Dasaratha?",
+            "a": "Vasishta. The preceptor says that the approaching danger will be averted."
+          },
+          {
+            "q": "Who confronts Rama on the return journey?",
+            "a": "Parasurama. He comes after hearing of the breaking of Siva's bow."
+          },
+          {
+            "q": "Which bow does the challenger bring?",
+            "a": "Vishnu's bow. Parasurama explains its divine origin and its passage through his family."
+          },
+          {
+            "q": "Who is Parasurama's father?",
+            "a": "Jamadagni. His account of the bow includes his father and the vengeance that followed his death."
+          },
+          {
+            "q": "Where does the wedding party finally receive a joyful welcome?",
+            "a": "Ayodhya. The mothers greet the princes and their brides on their return home."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who explains the ominous signs to Dasaratha?",
+            "options": [
+              "Manthara",
+              "Vasishta",
+              "Ravana",
+              "Sumanthra's son"
+            ],
+            "correct": 1,
+            "explanation": "The preceptor says that the approaching danger will be averted.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+            "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91"
+          },
+          {
+            "q": "Who confronts Rama on the return journey?",
+            "options": [
+              "Sugriva",
+              "Vibhishana",
+              "Parasurama",
+              "Sampathi"
+            ],
+            "correct": 2,
+            "explanation": "He comes after hearing of the breaking of Siva's bow.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+            "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91"
+          },
+          {
+            "q": "Which bow does the challenger bring?",
+            "options": [
+              "A bow made by Guha",
+              "Bharatha's practice bow",
+              "A toy bow from Mithila",
+              "Vishnu's bow"
+            ],
+            "correct": 3,
+            "explanation": "Parasurama explains its divine origin and its passage through his family.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+            "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91"
+          },
+          {
+            "q": "Who is Parasurama's father?",
+            "options": [
+              "Jamadagni",
+              "Dasaratha",
+              "Janaka",
+              "Vali"
+            ],
+            "correct": 0,
+            "explanation": "His account of the bow includes his father and the vengeance that followed his death.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+            "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91"
+          },
+          {
+            "q": "Where does the wedding party finally receive a joyful welcome?",
+            "options": [
+              "Lanka",
+              "Ayodhya",
+              "Kishkindha",
+              "Panchavati"
+            ],
+            "correct": 1,
+            "explanation": "The mothers greet the princes and their brides on their return home.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=86",
+            "sourceLabel": "Part 1 · Chapter 8, PDF pages 86–91"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-09",
+        "title": "Preparations for Rama's Coronation",
+        "chapter": "Part 1 · Chapter 9 · Preparations for Rama's Coronation",
+        "part": 1,
+        "chapterNumber": 9,
+        "pdfStartPage": 92,
+        "pdfEndPage": 97,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+        "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97",
+        "summary": "Bharatha and Satrughna travel with their wives to visit Bharatha's maternal family. Although lovingly received, they miss their father and Rama. Dasaratha likewise feels their absence. The chapter then describes Rama's gentle speech, lack of resentment, care for others, and interest in spiritual inquiry. These qualities establish why he is loved and trusted as a prospective ruler.\n\nDasaratha resolves to transfer the burden of kingship, and preparations begin for Rama's coronation. The family's counsel emphasises the welfare of the people, righteousness, and the honour of the dynasty. Rama makes clear that Lakshmana shares his responsibilities and happiness; Lakshmana seeks only the opportunity to serve. Sumitra rejoices in their bond rather than seeking independent status for her son. The chapter closes with Rama undertaking the prescribed fast and resting on sacred grass, showing discipline and simplicity at the threshold of royal elevation.",
+        "qa": [
+          {
+            "q": "Where have Bharatha and Satrughna gone?",
+            "a": "To Bharatha's maternal family. Their visit explains their absence during the coronation preparations."
+          },
+          {
+            "q": "How does Rama respond to harsh speech or harm?",
+            "a": "With gentleness and without nursing resentment. His considerate conduct is part of the chapter's account of his qualities."
+          },
+          {
+            "q": "What does Dasaratha decide to prepare?",
+            "a": "Rama's coronation. He wishes to place the burden of rule upon Rama."
+          },
+          {
+            "q": "What does Lakshmana desire when Rama speaks of responsibility?",
+            "a": "To fulfil whatever service Rama assigns. Lakshmana regards service to Rama as sufficient good fortune."
+          },
+          {
+            "q": "On what does Rama rest during the preparatory observance?",
+            "a": "A mat of sacred kusha grass. The chapter ends with his ritual fast and simple resting place."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where have Bharatha and Satrughna gone?",
+            "options": [
+              "To Bharatha's maternal family",
+              "To wage war in Lanka",
+              "To build a bridge",
+              "To visit Sabari"
+            ],
+            "correct": 0,
+            "explanation": "Their visit explains their absence during the coronation preparations.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+            "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97"
+          },
+          {
+            "q": "How does Rama respond to harsh speech or harm?",
+            "options": [
+              "By immediately demanding punishment",
+              "With gentleness and without nursing resentment",
+              "By refusing all further service",
+              "By leaving the kingdom in anger"
+            ],
+            "correct": 1,
+            "explanation": "His considerate conduct is part of the chapter's account of his qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+            "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97"
+          },
+          {
+            "q": "What does Dasaratha decide to prepare?",
+            "options": [
+              "Ravana's reception",
+              "A journey to the nether region",
+              "Rama's coronation",
+              "Sita's second marriage"
+            ],
+            "correct": 2,
+            "explanation": "He wishes to place the burden of rule upon Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+            "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97"
+          },
+          {
+            "q": "What does Lakshmana desire when Rama speaks of responsibility?",
+            "options": [
+              "To rule apart from Rama",
+              "To remain away from all duties",
+              "To replace the family preceptor",
+              "To fulfil whatever service Rama assigns"
+            ],
+            "correct": 3,
+            "explanation": "Lakshmana regards service to Rama as sufficient good fortune.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+            "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97"
+          },
+          {
+            "q": "On what does Rama rest during the preparatory observance?",
+            "options": [
+              "A mat of sacred kusha grass",
+              "A golden throne",
+              "A chariot in Mithila",
+              "A couch in Lanka"
+            ],
+            "correct": 0,
+            "explanation": "The chapter ends with his ritual fast and simple resting place.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=92",
+            "sourceLabel": "Part 1 · Chapter 9, PDF pages 92–97"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-10",
+        "title": "Kaika's Two Boons",
+        "chapter": "Part 1 · Chapter 10 · Kaika's Two Boons",
+        "part": 1,
+        "chapterNumber": 10,
+        "pdfStartPage": 98,
+        "pdfEndPage": 112,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+        "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112",
+        "summary": "The city prepares joyfully for Rama's coronation, but Manthara interprets the celebration as a threat to Kaika and Bharatha. Kaika at first rejects her suspicions, affirming the affection of Rama and the other queens. Manthara continues until fear and ambition displace that confidence. She urges Kaika to use the two boons Dasaratha had promised her.\n\nKaika demands that Bharatha be crowned and that Rama spend fourteen years in the forest. Dasaratha is devastated, caught between his pledged word and his love for Rama. Their prolonged exchange exposes the grief created when a promise is used to serve a divisive purpose. Outside, the people still expect a festival. Sumanthra arrives and finds the king in distress, unable at first to understand the change. Kaika sends him to summon Rama. The chapter closes with the contrast between the city's joyful expectations and the sorrow concealed within the palace.",
+        "qa": [
+          {
+            "q": "Who seeks to turn Kaika against Rama's coronation?",
+            "a": "Manthara. Manthara presents the celebration as a danger to Kaika's position."
+          },
+          {
+            "q": "How does Kaika initially respond to the accusations?",
+            "a": "She defends the affection of Rama and the other queens. Her first reaction rejects the suspicion Manthara is trying to create."
+          },
+          {
+            "q": "How many promised boons does Kaika invoke?",
+            "a": "Two. The earlier promise becomes the instrument of her demands."
+          },
+          {
+            "q": "What does Kaika demand for Rama?",
+            "a": "Fourteen years in the forest. The exile accompanies her demand that Bharatha receive the crown."
+          },
+          {
+            "q": "Whom does Kaika send to bring Rama?",
+            "a": "Sumanthra. The minister is sent from the distressed king's chamber to Rama's residence."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who seeks to turn Kaika against Rama's coronation?",
+            "options": [
+              "Sita",
+              "Sumitra",
+              "Arundathi",
+              "Manthara"
+            ],
+            "correct": 3,
+            "explanation": "Manthara presents the celebration as a danger to Kaika's position.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+            "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112"
+          },
+          {
+            "q": "How does Kaika initially respond to the accusations?",
+            "options": [
+              "She defends the affection of Rama and the other queens",
+              "She immediately orders Rama's imprisonment",
+              "She declares Bharatha her enemy",
+              "She refuses to hear any news of the ceremony"
+            ],
+            "correct": 0,
+            "explanation": "Her first reaction rejects the suspicion Manthara is trying to create.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+            "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112"
+          },
+          {
+            "q": "How many promised boons does Kaika invoke?",
+            "options": [
+              "Four",
+              "Two",
+              "Seven",
+              "Ten"
+            ],
+            "correct": 1,
+            "explanation": "The earlier promise becomes the instrument of her demands.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+            "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112"
+          },
+          {
+            "q": "What does Kaika demand for Rama?",
+            "options": [
+              "Immediate marriage in Mithila",
+              "Command of Lanka's army",
+              "Fourteen years in the forest",
+              "Residence with Bharatha's grandfather"
+            ],
+            "correct": 2,
+            "explanation": "The exile accompanies her demand that Bharatha receive the crown.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+            "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112"
+          },
+          {
+            "q": "Whom does Kaika send to bring Rama?",
+            "options": [
+              "Guha",
+              "Hanuman",
+              "Janaka",
+              "Sumanthra"
+            ],
+            "correct": 3,
+            "explanation": "The minister is sent from the distressed king's chamber to Rama's residence.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=98",
+            "sourceLabel": "Part 1 · Chapter 10, PDF pages 98–112"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-11",
+        "title": "Lakshmana Goes with Rama",
+        "chapter": "Part 1 · Chapter 11 · Lakshmana Goes with Rama",
+        "part": 1,
+        "chapterNumber": 11,
+        "pdfStartPage": 113,
+        "pdfEndPage": 126,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+        "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126",
+        "summary": "Sumanthra brings Rama to the palace where Dasaratha is overwhelmed by grief. Rama accepts the obligation arising from the promised boons without allowing the loss of the throne to disturb his resolve. His concern is to preserve his father's honour. Sita's earlier words likewise express readiness to accept what is required for the elders' wellbeing.\n\nRama then tells Kausalya of the exile. Her sorrow and Lakshmana's forceful reaction bring different forms of family love into view. Rama answers with calm reasoning about duty rather than allowing anger to determine his course. Lakshmana's devotion leads him to accompany Rama, while Kausalya finally offers blessings for his safety. Rama asks her to care for her health and remember him with a joyful heart. The chapter ends as he walks barefoot toward Sita's apartments, while the citizens' hopes for coronation give way to the reality of departure.",
+        "qa": [
+          {
+            "q": "What is Rama chiefly determined to uphold?",
+            "a": "His father's honour and pledged word. Rama accepts the exile as part of preserving the promise."
+          },
+          {
+            "q": "Which mother does Rama visit to explain his departure?",
+            "a": "Kausalya. Her grief forms a central part of the chapter."
+          },
+          {
+            "q": "How does Rama respond to the crisis?",
+            "a": "With composure and attention to duty. His calm contrasts with the sorrow and anger around him."
+          },
+          {
+            "q": "Which brother joins Rama in exile?",
+            "a": "Lakshmana. Lakshmana's devotion determines his place beside Rama."
+          },
+          {
+            "q": "What does Rama ask Kausalya to do during his absence?",
+            "a": "Preserve her health and remember him joyfully. He links her wellbeing and blessings with his own happiness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is Rama chiefly determined to uphold?",
+            "options": [
+              "His own claim at any cost",
+              "Manthara's authority",
+              "His father's honour and pledged word",
+              "Ravana's approval"
+            ],
+            "correct": 2,
+            "explanation": "Rama accepts the exile as part of preserving the promise.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+            "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126"
+          },
+          {
+            "q": "Which mother does Rama visit to explain his departure?",
+            "options": [
+              "Mandodari",
+              "Tara",
+              "Anasuya",
+              "Kausalya"
+            ],
+            "correct": 3,
+            "explanation": "Her grief forms a central part of the chapter.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+            "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126"
+          },
+          {
+            "q": "How does Rama respond to the crisis?",
+            "options": [
+              "With composure and attention to duty",
+              "By demanding revenge",
+              "By refusing to hear his parents",
+              "By abandoning his brothers"
+            ],
+            "correct": 0,
+            "explanation": "His calm contrasts with the sorrow and anger around him.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+            "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126"
+          },
+          {
+            "q": "Which brother joins Rama in exile?",
+            "options": [
+              "Bharatha",
+              "Lakshmana",
+              "Satrughna",
+              "Vibhishana"
+            ],
+            "correct": 1,
+            "explanation": "Lakshmana's devotion determines his place beside Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+            "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126"
+          },
+          {
+            "q": "What does Rama ask Kausalya to do during his absence?",
+            "options": [
+              "Stop eating until he returns",
+              "Leave Ayodhya immediately",
+              "Preserve her health and remember him joyfully",
+              "Refuse all contact with Sumitra"
+            ],
+            "correct": 2,
+            "explanation": "He links her wellbeing and blessings with his own happiness.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=113",
+            "sourceLabel": "Part 1 · Chapter 11, PDF pages 113–126"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-12",
+        "title": "Sita Insists on Going with Rama",
+        "chapter": "Part 1 · Chapter 12 · Sita Insists on Going with Rama",
+        "part": 1,
+        "chapterNumber": 12,
+        "pdfStartPage": 127,
+        "pdfEndPage": 133,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+        "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133",
+        "summary": "Sita waits with the preparations for coronation ready, but Rama returns without the expected royal honours. He explains Kaika's demands: Bharatha is to receive the crown, and he must live in the forest for fourteen years. Sita questions the meaning of this sudden change and refuses to regard separation from Rama as the easier course.\n\nRama describes the hardships of forest life, but Sita insists that companionship and service to him matter more than comfort. Her resolve finally wins his consent. She says that she needs no elaborate preparation because his presence is all she desires. Before leaving, Rama asks her to arrange kindly for the creatures and possessions in her care. She releases her pet birds, gives the cows to people who will tend them, and distributes belongings for useful purposes. The chapter presents her choice as active, joyful dedication, followed by practical acts of generosity and responsibility.",
+        "qa": [
+          {
+            "q": "What surprises Sita when Rama returns?",
+            "a": "He comes barefoot without the expected royal honours. His appearance contrasts with the coronation preparations."
+          },
+          {
+            "q": "How long is the proposed exile?",
+            "a": "Fourteen years. Rama explains the duration of Kaika's second demand."
+          },
+          {
+            "q": "What does Sita insist upon?",
+            "a": "Accompanying Rama into the forest. She values being with Rama above palace comfort."
+          },
+          {
+            "q": "What does Sita do with her caged birds?",
+            "a": "Sets them free. She personally opens the cages before departing."
+          },
+          {
+            "q": "Why are her belongings distributed?",
+            "a": "So they can be used rather than decay during her absence. Rama asks that useful possessions and animals be responsibly provided for."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What surprises Sita when Rama returns?",
+            "options": [
+              "He arrives with a new crown",
+              "He comes barefoot without the expected royal honours",
+              "He is accompanied by Ravana",
+              "He announces that Bharatha has returned"
+            ],
+            "correct": 1,
+            "explanation": "His appearance contrasts with the coronation preparations.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+            "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133"
+          },
+          {
+            "q": "How long is the proposed exile?",
+            "options": [
+              "Twelve months",
+              "Seven days",
+              "Fourteen years",
+              "Eighteen years"
+            ],
+            "correct": 2,
+            "explanation": "Rama explains the duration of Kaika's second demand.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+            "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133"
+          },
+          {
+            "q": "What does Sita insist upon?",
+            "options": [
+              "Remaining as ruler in Ayodhya",
+              "Returning alone to Mithila",
+              "Cancelling Lakshmana's journey",
+              "Accompanying Rama into the forest"
+            ],
+            "correct": 3,
+            "explanation": "She values being with Rama above palace comfort.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+            "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133"
+          },
+          {
+            "q": "What does Sita do with her caged birds?",
+            "options": [
+              "Sets them free",
+              "Sends them to Lanka",
+              "Leaves them without care",
+              "Exchanges them for jewels"
+            ],
+            "correct": 0,
+            "explanation": "She personally opens the cages before departing.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+            "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133"
+          },
+          {
+            "q": "Why are her belongings distributed?",
+            "options": [
+              "To finance a war against Kaika",
+              "So they can be used rather than decay during her absence",
+              "To reward Manthara",
+              "To purchase another throne"
+            ],
+            "correct": 1,
+            "explanation": "Rama asks that useful possessions and animals be responsibly provided for.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=127",
+            "sourceLabel": "Part 1 · Chapter 12, PDF pages 127–133"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-13",
+        "title": "Entering into Exile",
+        "chapter": "Part 1 · Chapter 13 · Entering into Exile",
+        "part": 1,
+        "chapterNumber": 13,
+        "pdfStartPage": 134,
+        "pdfEndPage": 137,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+        "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137",
+        "summary": "Rama, Sita, and Lakshmana take leave of Dasaratha before a grieving household and city. The king struggles to accept their departure, and Rama tries to comfort him without abandoning his duty. Lakshmana's anger at Kaika is restrained by the sight of Rama's serenity. Sita also affirms that her fulfilment lies in accompanying and serving Rama rather than remaining in comfort.\n\nThe departure becomes a test of steadfastness for everyone around them. Rama's concern extends to the family members who will remain behind, and he directs Sumanthra to console the king. Dasaratha repeatedly loses strength under the burden of separation. When he learns that they have gone on foot, his concern turns especially to Sita's tender feet and the hardships of the road. He orders a fast chariot to follow them. The chapter closes with parental affection seeking whatever relief it can provide, even though it cannot change Rama's resolve.",
+        "qa": [
+          {
+            "q": "Who takes leave of Dasaratha together?",
+            "a": "Rama, Sita, and Lakshmana. The three are preparing to begin life in exile."
+          },
+          {
+            "q": "What helps Lakshmana restrain his anger at Kaika?",
+            "a": "Rama's calm expression. He checks his emotion as he observes Rama's serenity."
+          },
+          {
+            "q": "What does Sita say she chiefly seeks?",
+            "a": "The opportunity to serve Rama. Her words reaffirm why she is leaving with him."
+          },
+          {
+            "q": "What task does Rama give Sumanthra?",
+            "a": "Console and advise Dasaratha. Rama remains concerned for his father's suffering."
+          },
+          {
+            "q": "Why does Dasaratha order a chariot to follow them?",
+            "a": "To relieve the hardship of travelling on foot. He especially fears the effect of the road and sun on Sita."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who takes leave of Dasaratha together?",
+            "options": [
+              "Rama, Sita, and Lakshmana",
+              "Rama, Bharatha, and Satrughna",
+              "Janaka, Guha, and Vasishta",
+              "Sugriva, Tara, and Angada"
+            ],
+            "correct": 0,
+            "explanation": "The three are preparing to begin life in exile.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+            "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137"
+          },
+          {
+            "q": "What helps Lakshmana restrain his anger at Kaika?",
+            "options": [
+              "A threat from Ravana",
+              "Rama's calm expression",
+              "A command from Manthara",
+              "The arrival of Bharatha"
+            ],
+            "correct": 1,
+            "explanation": "He checks his emotion as he observes Rama's serenity.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+            "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137"
+          },
+          {
+            "q": "What does Sita say she chiefly seeks?",
+            "options": [
+              "The government of Mithila",
+              "A separate royal palace",
+              "The opportunity to serve Rama",
+              "Command over the ministers"
+            ],
+            "correct": 2,
+            "explanation": "Her words reaffirm why she is leaving with him.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+            "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137"
+          },
+          {
+            "q": "What task does Rama give Sumanthra?",
+            "options": [
+              "Imprison Kaika",
+              "Bring Ravana to court",
+              "Destroy the coronation hall",
+              "Console and advise Dasaratha"
+            ],
+            "correct": 3,
+            "explanation": "Rama remains concerned for his father's suffering.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+            "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137"
+          },
+          {
+            "q": "Why does Dasaratha order a chariot to follow them?",
+            "options": [
+              "To relieve the hardship of travelling on foot",
+              "To bring a military invasion",
+              "To carry the wedding gifts back to Mithila",
+              "To transport Siva's bow"
+            ],
+            "correct": 0,
+            "explanation": "He especially fears the effect of the road and sun on Sita.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=134",
+            "sourceLabel": "Part 1 · Chapter 13, PDF pages 134–137"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-14",
+        "title": "Into the Forest",
+        "chapter": "Part 1 · Chapter 14 · Into the Forest",
+        "part": 1,
+        "chapterNumber": 14,
+        "pdfStartPage": 138,
+        "pdfEndPage": 149,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+        "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149",
+        "summary": "Sumanthra follows with the chariot and carries Rama, Sita, and Lakshmana farther from Ayodhya. The citizens trail them in grief, unwilling to accept separation. Dasaratha's instructions combine recognition of Rama's steadfastness with a lingering hope that at least Sita might return. The travellers nevertheless continue toward the life they have chosen.\n\nGuha, chief of the Nishadas, receives Rama with deep affection. The journey includes the sending back of Sumanthra, the crossing of the river, and the boatman's delighted service. Sita prays to the Ganga and looks forward to returning after the exile. Guha cannot bear to leave at once and asks to accompany them farther, offering his knowledge of the forest. Rama accepts his devotion. Guha and Lakshmana prepare a resting place and food, while Rama ensures that the evening observances are remembered. The chapter portrays friendship and service accompanying the first stages of exile.",
+        "qa": [
+          {
+            "q": "Who drives the chariot that follows the departing three?",
+            "a": "Sumanthra. He acts on Dasaratha's urgent instructions."
+          },
+          {
+            "q": "How do many citizens respond to Rama's departure?",
+            "a": "They follow, pleading not to be left behind. Their grief fills the route out of Ayodhya."
+          },
+          {
+            "q": "Who is Guha?",
+            "a": "Chief of the Nishadas. He welcomes Rama with friendship and devotion."
+          },
+          {
+            "q": "What does Sita vow at the Ganga?",
+            "a": "To return and honour the river after the exile. Her prayer looks ahead to the completion of the fourteen years."
+          },
+          {
+            "q": "Why does Guha ask to accompany Rama farther?",
+            "a": "To serve him with his knowledge of forest paths. His request arises from love and the wish to be useful."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who drives the chariot that follows the departing three?",
+            "options": [
+              "Hanuman",
+              "Janaka",
+              "Parasurama",
+              "Sumanthra"
+            ],
+            "correct": 3,
+            "explanation": "He acts on Dasaratha's urgent instructions.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+            "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149"
+          },
+          {
+            "q": "How do many citizens respond to Rama's departure?",
+            "options": [
+              "They follow, pleading not to be left behind",
+              "They immediately forget the coronation",
+              "They join Ravana's army",
+              "They refuse to leave their homes"
+            ],
+            "correct": 0,
+            "explanation": "Their grief fills the route out of Ayodhya.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+            "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149"
+          },
+          {
+            "q": "Who is Guha?",
+            "options": [
+              "King of Lanka",
+              "Chief of the Nishadas",
+              "Janaka's priest",
+              "Bharatha's maternal uncle"
+            ],
+            "correct": 1,
+            "explanation": "He welcomes Rama with friendship and devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+            "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149"
+          },
+          {
+            "q": "What does Sita vow at the Ganga?",
+            "options": [
+              "Never to approach a river again",
+              "To rule from its bank",
+              "To return and honour the river after the exile",
+              "To send a fleet to Lanka immediately"
+            ],
+            "correct": 2,
+            "explanation": "Her prayer looks ahead to the completion of the fourteen years.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+            "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149"
+          },
+          {
+            "q": "Why does Guha ask to accompany Rama farther?",
+            "options": [
+              "To claim Ayodhya's throne",
+              "To recover a lost weapon",
+              "To avoid meeting his own people forever",
+              "To serve him with his knowledge of forest paths"
+            ],
+            "correct": 3,
+            "explanation": "His request arises from love and the wish to be useful.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=138",
+            "sourceLabel": "Part 1 · Chapter 14, PDF pages 138–149"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-15",
+        "title": "Among Hermitages",
+        "chapter": "Part 1 · Chapter 15 · Among Hermitages",
+        "part": 1,
+        "chapterNumber": 15,
+        "pdfStartPage": 150,
+        "pdfEndPage": 156,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+        "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156",
+        "summary": "At Bharadwaja's hermitage, Rama and his companions are received with reverence and hospitality. The sage regards their arrival as the fulfilment of long spiritual effort. Rama, meanwhile, continues to conduct himself humbly, requesting guidance as though an ordinary traveller. Bharadwaja sends pupils to show the way, giving them the joy of serving the visitors for part of the journey.\n\nThe route includes further sacred places and the meeting with Valmiki, before the travellers settle at Chitrakuta. Their modest forest dwelling becomes a place of contentment. Sita finds greater happiness in Rama's presence than in the palaces she has left, and Lakshmana serves with attentive care. Rama relates accounts of ancient heroes and spiritual attainment. Thoughts of the family sometimes bring sadness, but companionship and trust restore their peace. The chapter contrasts the simplicity of their surroundings with the richness of their inward life.",
+        "qa": [
+          {
+            "q": "Which sage welcomes them at the opening of the chapter?",
+            "a": "Bharadwaja. The chapter begins at Bharadwaja's hermitage."
+          },
+          {
+            "q": "How does Bharadwaja understand their visit?",
+            "a": "As the fulfilment of his spiritual longing. He says the sight of the Lord has fulfilled the purpose of his practices."
+          },
+          {
+            "q": "Who shows the travellers the next part of the route?",
+            "a": "Four pupils of Bharadwaja. The pupils gladly accept the opportunity to guide them."
+          },
+          {
+            "q": "Where do Rama, Sita, and Lakshmana settle?",
+            "a": "Chitrakuta. The chapter describes their peaceful life at Chitrakuta."
+          },
+          {
+            "q": "Why is the forest cottage pleasing to Sita?",
+            "a": "She is with Rama. His presence makes the simple dwelling more attractive to her than former luxuries."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which sage welcomes them at the opening of the chapter?",
+            "options": [
+              "Rishyasringa",
+              "Jamadagni",
+              "Bharadwaja",
+              "Sarabhanga"
+            ],
+            "correct": 2,
+            "explanation": "The chapter begins at Bharadwaja's hermitage.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+            "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156"
+          },
+          {
+            "q": "How does Bharadwaja understand their visit?",
+            "options": [
+              "As an interruption without value",
+              "As a demand for tribute",
+              "As a sign that Ayodhya has fallen",
+              "As the fulfilment of his spiritual longing"
+            ],
+            "correct": 3,
+            "explanation": "He says the sight of the Lord has fulfilled the purpose of his practices.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+            "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156"
+          },
+          {
+            "q": "Who shows the travellers the next part of the route?",
+            "options": [
+              "Four pupils of Bharadwaja",
+              "Ravana's soldiers",
+              "Manthara's attendants",
+              "Parasurama's army"
+            ],
+            "correct": 0,
+            "explanation": "The pupils gladly accept the opportunity to guide them.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+            "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156"
+          },
+          {
+            "q": "Where do Rama, Sita, and Lakshmana settle?",
+            "options": [
+              "Lanka",
+              "Chitrakuta",
+              "Girivraja",
+              "Mithila's palace"
+            ],
+            "correct": 1,
+            "explanation": "The chapter describes their peaceful life at Chitrakuta.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+            "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156"
+          },
+          {
+            "q": "Why is the forest cottage pleasing to Sita?",
+            "options": [
+              "It is larger than every palace",
+              "It contains the royal treasury",
+              "She is with Rama",
+              "It removes all need for devotion"
+            ],
+            "correct": 2,
+            "explanation": "His presence makes the simple dwelling more attractive to her than former luxuries.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=150",
+            "sourceLabel": "Part 1 · Chapter 15, PDF pages 150–156"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-16",
+        "title": "Gloom over Ayodhya",
+        "chapter": "Part 1 · Chapter 16 · Gloom over Ayodhya",
+        "part": 1,
+        "chapterNumber": 16,
+        "pdfStartPage": 157,
+        "pdfEndPage": 170,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+        "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170",
+        "summary": "Sumanthra finds it painful to return without Rama, and Guha urges him to fulfil his responsibility to the waiting family. Even the horses are described as reluctant to turn away. Back in Ayodhya, his account deepens the grief of the palace. Dasaratha recalls the old curse connected with his accidental killing of a young ascetic and dies in the anguish of separation from his son.\n\nBharatha and Satrughna return to find the city transformed by sorrow. Bharatha learns of his father's death, and the funeral rites are performed. As the full circumstances of Rama's exile become clear, he rejects the advantage his mother intended for him. He seeks to reassure Kausalya and condemns the plan that has harmed the family and kingdom. Kaika comes to recognise the consequences of listening to Manthara. The chapter prepares Bharatha's decision to go to Rama, presenting his response as loyalty rather than ambition.",
+        "qa": [
+          {
+            "q": "Who urges Sumanthra to return with news?",
+            "a": "Guha. Guha reminds him that the queens are waiting to hear his account."
+          },
+          {
+            "q": "What is Sumanthra's chief sorrow?",
+            "a": "Returning without Rama. Separation makes the journey back almost unbearable to him."
+          },
+          {
+            "q": "Which king dies in this chapter?",
+            "a": "Dasaratha. His death follows the anguish caused by Rama's departure."
+          },
+          {
+            "q": "How does Bharatha regard the throne gained through his mother's plan?",
+            "a": "He rejects it as an unrighteous advantage. He refuses to profit from Rama's exile."
+          },
+          {
+            "q": "What change comes over Kaika?",
+            "a": "She recognises her error and feels remorse. Bharatha's response helps expose the failure of her intentions."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who urges Sumanthra to return with news?",
+            "options": [
+              "Ravana",
+              "Guha",
+              "Manthara",
+              "Sugriva"
+            ],
+            "correct": 1,
+            "explanation": "Guha reminds him that the queens are waiting to hear his account.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+            "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170"
+          },
+          {
+            "q": "What is Sumanthra's chief sorrow?",
+            "options": [
+              "Losing a contest of archery",
+              "Being denied a royal gift",
+              "Returning without Rama",
+              "Missing Janaka's wedding feast"
+            ],
+            "correct": 2,
+            "explanation": "Separation makes the journey back almost unbearable to him.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+            "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170"
+          },
+          {
+            "q": "Which king dies in this chapter?",
+            "options": [
+              "Janaka",
+              "Sugriva",
+              "Vibhishana",
+              "Dasaratha"
+            ],
+            "correct": 3,
+            "explanation": "His death follows the anguish caused by Rama's departure.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+            "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170"
+          },
+          {
+            "q": "How does Bharatha regard the throne gained through his mother's plan?",
+            "options": [
+              "He rejects it as an unrighteous advantage",
+              "He welcomes it without concern",
+              "He gives it to Manthara",
+              "He offers it to Ravana"
+            ],
+            "correct": 0,
+            "explanation": "He refuses to profit from Rama's exile.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+            "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170"
+          },
+          {
+            "q": "What change comes over Kaika?",
+            "options": [
+              "She orders a second exile",
+              "She recognises her error and feels remorse",
+              "She leaves to conquer Mithila",
+              "She accuses Sita of designing the plan"
+            ],
+            "correct": 1,
+            "explanation": "Bharatha's response helps expose the failure of her intentions.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=157",
+            "sourceLabel": "Part 1 · Chapter 16, PDF pages 157–170"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-17",
+        "title": "The Brothers Meet",
+        "chapter": "Part 1 · Chapter 17 · The Brothers Meet",
+        "part": 1,
+        "chapterNumber": 17,
+        "pdfStartPage": 171,
+        "pdfEndPage": 190,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+        "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190",
+        "summary": "Bharatha tells the assembled elders that he cannot accept the throne in Rama's place. He longs to see his brother, and the people share his wish. The journey to the forest passes through Guha's country and Bharadwaja's hermitage before the party reaches Chitrakuta. Suspicion and anxiety are answered by the recognition of Bharatha's sincere devotion.\n\nThe meeting of the brothers brings both joy and grief. The family and elders discuss Rama's return, while Kaika seeks forgiveness. Yet Rama holds to the obligation created by their father's word and directs Bharatha toward his own responsibility in Ayodhya. The chapter also includes the tenderness of the queens' conversations with Sita. Before leaving, Bharatha asks to see the places made sacred by Rama's presence. With permission, he visits the surrounding hermitages and holy sites, including the well remembered as Bharatha-kupa. His longing expresses itself in reverence for everything associated with Rama.",
+        "qa": [
+          {
+            "q": "What does Bharatha tell the elders about ruling in Rama's place?",
+            "a": "He cannot accept it as rightfully his. He regards accession under these circumstances as morally wrong."
+          },
+          {
+            "q": "Where does Bharatha meet Rama?",
+            "a": "Chitrakuta. The journey ends at Rama's forest dwelling."
+          },
+          {
+            "q": "What does Kaika seek during the meeting?",
+            "a": "Forgiveness. The chapter includes her plea after recognising the wrong she has done."
+          },
+          {
+            "q": "What request does Bharatha make about the surrounding region?",
+            "a": "To visit places sanctified by Rama's presence. Rama approves the desire and directs him to seek Athri's permission."
+          },
+          {
+            "q": "What name is associated with the well Bharatha visits?",
+            "a": "Bharatha-kupa. He reverently sprinkles its water on his head and clears away fallen debris."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Bharatha tell the elders about ruling in Rama's place?",
+            "options": [
+              "He cannot accept it as rightfully his",
+              "He has secretly desired it for years",
+              "He will accept only if Rama is imprisoned",
+              "He wishes to give Ayodhya to Ravana"
+            ],
+            "correct": 0,
+            "explanation": "He regards accession under these circumstances as morally wrong.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+            "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190"
+          },
+          {
+            "q": "Where does Bharatha meet Rama?",
+            "options": [
+              "Lanka",
+              "Chitrakuta",
+              "Panchavati",
+              "Mithila's assembly hall"
+            ],
+            "correct": 1,
+            "explanation": "The journey ends at Rama's forest dwelling.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+            "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190"
+          },
+          {
+            "q": "What does Kaika seek during the meeting?",
+            "options": [
+              "A third boon of exile",
+              "A new alliance with Ravana",
+              "Forgiveness",
+              "Command of the forest sages"
+            ],
+            "correct": 2,
+            "explanation": "The chapter includes her plea after recognising the wrong she has done.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+            "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190"
+          },
+          {
+            "q": "What request does Bharatha make about the surrounding region?",
+            "options": [
+              "To build a second royal capital",
+              "To close every hermitage",
+              "To remove the forest animals",
+              "To visit places sanctified by Rama's presence"
+            ],
+            "correct": 3,
+            "explanation": "Rama approves the desire and directs him to seek Athri's permission.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+            "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190"
+          },
+          {
+            "q": "What name is associated with the well Bharatha visits?",
+            "options": [
+              "Bharatha-kupa",
+              "Pampa",
+              "Panchavati",
+              "Girivraja"
+            ],
+            "correct": 0,
+            "explanation": "He reverently sprinkles its water on his head and clears away fallen debris.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=171",
+            "sourceLabel": "Part 1 · Chapter 17, PDF pages 171–190"
+          }
+        ]
+      },
+      {
+        "id": "part-1-chapter-18",
+        "title": "Sandals Enthroned",
+        "chapter": "Part 1 · Chapter 18 · Sandals Enthroned",
+        "part": 1,
+        "chapterNumber": 18,
+        "pdfStartPage": 191,
+        "pdfEndPage": 196,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+        "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196",
+        "summary": "Bharatha asks Rama how he can bear the years of separation while serving him in the kingdom. Rama replies with counsel on duty, justice, and the responsibility of a ruler to sustain every section of the people. Both brothers, he explains, must honour their father's command in their different places. Vasishta and Janaka remain sources of guidance for Bharatha.\n\nRama's sandals become the visible sign of the authority Bharatha refuses to claim for himself. He carries them back reverently and places them upon the throne. He then withdraws from palace luxury to Nandigrama, living austerely while his mind remains fixed on Rama's return. His dress and manner of life mirror the simplicity of the brothers in the forest. Part 1 ends with a form of service shaped by absence: Bharatha accepts the work of governance while dedicating its authority and purpose to Rama.",
+        "qa": [
+          {
+            "q": "For how long must Bharatha await Rama's return?",
+            "a": "Fourteen years. His service in the kingdom corresponds to the period of exile."
+          },
+          {
+            "q": "Whom does Rama name as guides available to Bharatha?",
+            "a": "Vasishta and Janaka. Rama reassures him that wise guidance remains available."
+          },
+          {
+            "q": "What does Bharatha place on the throne?",
+            "a": "Rama's sandals. The sandals represent Rama's authority during his absence."
+          },
+          {
+            "q": "Where does Bharatha adopt an austere life?",
+            "a": "Nandigrama. He leaves the luxury of Ayodhya for a simple residence there."
+          },
+          {
+            "q": "What remains the centre of Bharatha's thoughts?",
+            "a": "Rama and his return. His ascetic life and administration are sustained by devotion to Rama."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "For how long must Bharatha await Rama's return?",
+            "options": [
+              "Seven days",
+              "One month",
+              "Sixty-four days",
+              "Fourteen years"
+            ],
+            "correct": 3,
+            "explanation": "His service in the kingdom corresponds to the period of exile.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+            "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196"
+          },
+          {
+            "q": "Whom does Rama name as guides available to Bharatha?",
+            "options": [
+              "Vasishta and Janaka",
+              "Ravana and Maricha",
+              "Vali and Kumbhakarna",
+              "Manthara and Surpanakha"
+            ],
+            "correct": 0,
+            "explanation": "Rama reassures him that wise guidance remains available.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+            "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196"
+          },
           {
             "q": "What does Bharatha place on the throne?",
             "options": [
-              "A scroll",
-              "His own crown",
-              "A bow",
-              "Rama's sandals"
+              "Siva's broken bow",
+              "Rama's sandals",
+              "Ravana's crown",
+              "A vessel of payasam"
             ],
-            "correct": 3,
-            "explanation": "The sandals represent Rama's authority and become the visible centre of Bharatha's devoted care for the kingdom.",
+            "correct": 1,
+            "explanation": "The sandals represent Rama's authority during his absence.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+            "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196"
           },
           {
-            "q": "You temporarily manage a shared resource. What should guide its use?",
+            "q": "Where does Bharatha adopt an austere life?",
             "options": [
-              "Your chance to gain status",
-              "The purpose and agreed responsibilities",
-              "Your personal convenience",
-              "Keeping others dependent"
+              "Lanka",
+              "Panchavati",
+              "Nandigrama",
+              "Visala"
             ],
-            "correct": 1,
-            "explanation": "Stewardship uses entrusted resources for their agreed purpose rather than treating access as personal ownership.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
+            "correct": 2,
+            "explanation": "He leaves the luxury of Ayodhya for a simple residence there.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+            "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196"
           },
           {
-            "q": "A caretaker can make a popular change beyond their authority. What is best?",
+            "q": "What remains the centre of Bharatha's thoughts?",
             "options": [
-              "Seek the required agreement",
-              "Act before anyone asks",
-              "Conceal the change",
-              "Assume popularity creates permission"
-            ],
-            "correct": 0,
-            "explanation": "Seeking agreement respects the boundary between temporary responsibility and authority that has not been entrusted.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "You are preparing to hand over a volunteer role. What is most useful?",
-            "options": [
-              "An impressive farewell photo",
-              "Private notes no one can access",
-              "A speech about your importance",
-              "Clear records and practical guidance"
+              "Increasing his own royal splendour",
+              "Punishing every forest dweller",
+              "Winning a new bride",
+              "Rama and his return"
             ],
             "correct": 3,
-            "explanation": "Good records and guidance make continuity easier for the person who will carry the responsibility next.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A committee entrusts you with funds. Which habit supports faithful stewardship?",
-            "options": [
-              "Explain only when challenged",
-              "Choose expenses for personal prestige",
-              "Mix them with personal spending",
-              "Keep transparent records of their use"
-            ],
-            "correct": 3,
-            "explanation": "Transparent records allow others to see whether entrusted resources are serving their intended purpose.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A temporary leader receives praise. Which response preserves the role's purpose?",
-            "options": [
-              "Treat the project as personal property",
-              "Use praise to avoid accountability",
-              "Acknowledge the team and the trust received",
-              "Claim the role permanently"
-            ],
-            "correct": 2,
-            "explanation": "Acknowledging the trust keeps recognition connected to responsibility rather than entitlement.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "Someone suggests a simpler way to run the project. How should a steward respond?",
-            "options": [
-              "Assess whether it serves the project well",
-              "Reject it to protect tradition",
-              "Ask whether it increases personal visibility",
-              "Dismiss it because someone else proposed it"
-            ],
-            "correct": 0,
-            "explanation": "Assessing usefulness places the project's welfare ahead of attachment to a personal method.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "Which decision best respects a borrowed item?",
-            "options": [
-              "Use it for any private purpose",
-              "Use it as agreed and return it carefully",
-              "Keep it because you like it",
-              "Lend it onward without checking"
-            ],
-            "correct": 1,
-            "explanation": "Respecting agreed use and return recognizes that temporary possession does not transfer ownership.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A team depends on you for routine updates. What supports trust?",
-            "options": [
-              "Provide accurate updates on schedule",
-              "Use updates chiefly to seek praise",
-              "Share only flattering information",
-              "Wait until every detail is perfect"
-            ],
-            "correct": 0,
-            "explanation": "Accurate, regular updates help others fulfil their responsibilities and understand the state of the shared work.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A caretaker wants to add their name prominently to everything. What should they consider?",
-            "options": [
-              "Whether the lettering is large enough",
-              "How to remove earlier contributors",
-              "Whether recognition is displacing the shared purpose",
-              "Whether others can be prevented from changing it"
-            ],
-            "correct": 2,
-            "explanation": "Examining the motive helps keep a temporary responsibility from becoming a claim of personal ownership.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A successor asks for help after taking over. Which response serves continuity?",
-            "options": [
-              "Refuse because the title is gone",
-              "Demand control before answering",
-              "Offer relevant guidance while respecting their role",
-              "Interfere in every decision"
-            ],
-            "correct": 2,
-            "explanation": "Helpful guidance can support continuity without undermining the responsibility now entrusted to someone else.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "You discover damage to something in your care. What should you do?",
-            "options": [
-              "Hide it until handover",
-              "Ignore it if nobody notices",
-              "Report it and arrange an appropriate response",
-              "Blame an absent volunteer"
-            ],
-            "correct": 2,
-            "explanation": "Prompt reporting makes repair or adjustment possible and protects the trust placed in the caretaker.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "Which statement best expresses stewardship?",
-            "options": [
-              "Accountability ends once I am praised",
-              "I am responsible for serving this purpose",
-              "Access means I can own it",
-              "My preference overrides every agreement"
-            ],
-            "correct": 1,
-            "explanation": "Responsibility concerns serving an entrusted purpose, not converting temporary authority into unrestricted personal control.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A project can continue without your daily involvement. What is a constructive response?",
-            "options": [
-              "Withhold essential information",
-              "Equip others to carry it forward",
-              "Treat their ability as an insult",
-              "Make its dependence on you greater"
-            ],
-            "correct": 1,
-            "explanation": "Equipping others supports the project's continuity and shows commitment beyond personal indispensability.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A steward faces an expense that mainly enhances their status. What should decide it?",
-            "options": [
-              "Whether it meets the entrusted purpose",
-              "Whether it hides a previous mistake",
-              "Whether it looks impressive",
-              "Whether friends will admire it"
-            ],
-            "correct": 0,
-            "explanation": "The entrusted purpose provides a better test for spending than the status it might confer.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A colleague asks why you maintain careful records. Which answer fits stewardship?",
-            "options": [
-              "So the shared responsibility remains clear",
-              "So questions can be discouraged",
-              "So I can claim every success",
-              "So no one can replace me"
-            ],
-            "correct": 0,
-            "explanation": "Clear records make responsibilities understandable and allow the work to continue with appropriate accountability.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "You temporarily lead a group with established commitments. What should you learn first?",
-            "options": [
-              "How to keep the position",
-              "How to rename everything",
-              "What has already been promised and needed",
-              "Who will praise your leadership"
-            ],
-            "correct": 2,
-            "explanation": "Understanding existing commitments helps temporary leadership provide continuity instead of disrupting people who rely on the group.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "Which farewell most clearly reflects responsible service?",
-            "options": [
-              "Announcing that nobody can replace you",
-              "Handing over tasks, contacts and open issues",
-              "Keeping important documents as souvenirs",
-              "Leaving unresolved tasks unmentioned"
-            ],
-            "correct": 1,
-            "explanation": "A complete handover gives the next person the information needed to continue the work responsibly.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "A shared room needs maintenance that few will notice. What should a steward do?",
-            "options": [
-              "Wait for personal recognition",
-              "Attend to the actual maintenance need",
-              "Spend only on visible decoration",
-              "Delay until a public event"
-            ],
-            "correct": 1,
-            "explanation": "Maintaining what is entrusted protects its usefulness even when the care attracts little attention.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
-          },
-          {
-            "q": "You receive authority to make one decision. What should you avoid?",
-            "options": [
-              "Seeking relevant information",
-              "Explaining the outcome",
-              "Expanding that authority without agreement",
-              "Clarifying its scope"
-            ],
-            "correct": 2,
-            "explanation": "Respecting the scope of authority protects the distinction between entrusted responsibility and personal control.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha/chapter18.html",
-            "sourceLabel": "Part 1 · Chapter 18: Sandals Enthroned"
+            "explanation": "His ascetic life and administration are sustained by devotion to Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-1.pdf#page=191",
+            "sourceLabel": "Part 1 · Chapter 18, PDF pages 191–196"
           }
         ]
       },
       {
-        "id": "hanumans-message-of-hope",
-        "title": "Hanuman's message of hope",
-        "chapter": "Part 2 · Chapter 5(b): Success in the Search",
-        "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-        "summary": "Hanuman reassures Vibhishana that Rama values loving, pure intentions. Guided to Asokavana, he finds Sita steadfast amid threats and distress. Rama's ring becomes a sign of connection and hope, helping Hanuman carry out his mission with attention and devotion.",
+        "id": "part-2-chapter-01",
+        "title": "The Dandaka Forest",
+        "chapter": "Part 2 · Chapter 1 · The Dandaka Forest",
+        "part": 2,
+        "chapterNumber": 1,
+        "pdfStartPage": 12,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+        "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19",
+        "summary": "The journey continues through encounters that reveal Rama's protection and the devotion of the forest sages. Jayanta, taking the form of a crow, injures Sita. Rama sends a blade of grass after him as a weapon. Unable to escape its power, Jayanta returns in repentance. The travellers also receive the affection of Athri and Anasuya, and the chapter follows their progress among hermitages and through dangers in the forest.\n\nAgastya's welcome brings further counsel and gifts of weapons. His words place the assurance of divine grace above reliance on weapons alone. The account explains the condition of the Dandaka forest and presents Rama's arrival as a renewal of its life. The journey leads toward Panchavati by the Godavari. There the brothers meet Jatayu, who knew Dasaratha. Learning of his friend's death, the aged bird grieves, and his friendship connects the royal family's past with their new forest dwelling.",
         "qa": [
           {
-            "q": "What reassurance does Hanuman give Vibhishana?",
-            "a": "He explains that Rama responds to love, upright living and purity of feeling, rather than judging a devotee chiefly by family background or outward accomplishments."
+            "q": "In what form does Jayanta injure Sita?",
+            "a": "A crow. The episode begins with Jayanta approaching Sita in the form of a crow."
+          },
+          {
+            "q": "What does Rama send after Jayanta?",
+            "a": "A blade of grass used as a weapon. Rama's power makes the small blade impossible for Jayanta to escape."
+          },
+          {
+            "q": "Which sage gives Rama weapons in this chapter?",
+            "a": "Agastya. Agastya offers weapons while also affirming the protection of divine grace."
+          },
+          {
+            "q": "By which river is Panchavati situated in the account?",
+            "a": "Godavari. The journey leads to Panchavati on the Godavari."
+          },
+          {
+            "q": "Whose friend was Jatayu?",
+            "a": "Dasaratha. Jatayu knew Rama's father and grieves on hearing of his death."
           }
         ],
         "quiz": [
           {
-            "q": "Which object helps reassure Sita?",
+            "q": "In what form does Jayanta injure Sita?",
             "options": [
-              "A crown",
-              "A bracelet from Ravana",
-              "A royal banner",
-              "Rama's ring"
+              "An eagle",
+              "A deer",
+              "A crow",
+              "A serpent"
             ],
-            "correct": 3,
-            "explanation": "Recognizing Rama's ring brings Sita assurance of his connection with the messenger and renews her sense of his presence.",
+            "correct": 2,
+            "explanation": "The episode begins with Jayanta approaching Sita in the form of a crow.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+            "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19"
           },
           {
-            "q": "You bring encouraging news to someone who is worried. What should you establish first?",
+            "q": "What does Rama send after Jayanta?",
             "options": [
-              "That they will praise you",
-              "That every difficulty has ended",
-              "That the information is accurate",
-              "Your importance as messenger"
+              "A golden necklace",
+              "A royal chariot",
+              "A garland of flowers",
+              "A blade of grass used as a weapon"
             ],
-            "correct": 2,
-            "explanation": "Accurate information gives reassurance a trustworthy foundation rather than making comfort depend on an unsupported promise.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
+            "correct": 3,
+            "explanation": "Rama's power makes the small blade impossible for Jayanta to escape.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+            "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19"
           },
           {
-            "q": "Someone doubts whether they belong in a study group. Which welcome is most helpful?",
+            "q": "Which sage gives Rama weapons in this chapter?",
             "options": [
-              "Value their sincere interest",
-              "List their missing qualifications",
-              "Tell them to return after gaining status",
-              "Compare their family with others"
+              "Agastya",
+              "Valmiki",
+              "Vasishta",
+              "Bharadwaja"
             ],
             "correct": 0,
-            "explanation": "Recognizing sincere interest makes participation possible without measuring a person's worth by background or prestige.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
+            "explanation": "Agastya offers weapons while also affirming the protection of divine grace.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+            "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19"
           },
           {
-            "q": "A friend needs reassurance, but the outcome is uncertain. What should you offer?",
+            "q": "By which river is Panchavati situated in the account?",
             "options": [
-              "A guarantee you cannot justify",
-              "A dramatic success story",
-              "Silence until certainty arrives",
-              "Truthful support and a practical next step"
-            ],
-            "correct": 3,
-            "explanation": "Truthful support can offer hope while respecting what remains unknown about the situation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A messenger has several conflicting accounts. What should happen before reassurance?",
-            "options": [
-              "Repeat all rumours together",
-              "Check what can be verified",
-              "Make the story more impressive",
-              "Choose the most comforting version"
+              "Sarayu",
+              "Godavari",
+              "Yamuna",
+              "Ganga"
             ],
             "correct": 1,
-            "explanation": "Checking the information protects the recipient from confusion and disappointment caused by unreliable reassurance.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
+            "explanation": "The journey leads to Panchavati on the Godavari.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+            "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19"
           },
           {
-            "q": "A new volunteer has little experience but a sincere wish to help. What is useful?",
+            "q": "Whose friend was Jatayu?",
             "options": [
-              "Reject them for lacking credentials",
-              "Compare them publicly with experts",
-              "Promise them every responsibility",
-              "Give a suitable task and guidance"
-            ],
-            "correct": 3,
-            "explanation": "An appropriate task and guidance respect sincerity while helping the volunteer contribute responsibly.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "You have an important message for a distressed person. How should you approach?",
-            "options": [
-              "Add suspense before revealing it",
-              "Choose a considerate time and clear words",
-              "Demand instant attention",
-              "Begin with your achievements"
-            ],
-            "correct": 1,
-            "explanation": "A considerate approach helps the recipient receive the message without unnecessary pressure or confusion.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "An encouraging gesture has been misunderstood. What is the best response?",
-            "options": [
-              "Blame their lack of gratitude",
-              "Explain its meaning patiently",
-              "Repeat the gesture more dramatically",
-              "Insist they should understand"
-            ],
-            "correct": 1,
-            "explanation": "Patient explanation restores connection more effectively than treating a misunderstanding as a personal failure.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A person feels ashamed of their background. What response supports dignity?",
-            "options": [
-              "Rank families by reputation",
-              "Recognize their present intentions and conduct",
-              "Make comparisons with prominent members",
-              "Require proof of social standing"
-            ],
-            "correct": 1,
-            "explanation": "Attention to intentions and conduct avoids reducing a person to background or inherited status.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A volunteer's effort has met repeated obstacles. What encouragement is most useful?",
-            "options": [
-              "Success requires no further action",
-              "Let us identify the next workable step",
-              "You can never fail",
-              "Everyone else has it easier"
-            ],
-            "correct": 1,
-            "explanation": "A workable next step combines encouragement with something the volunteer can actually do.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "You are entrusted with a personal message. What shows care?",
-            "options": [
-              "Convey it faithfully to the intended person",
-              "Add your own dramatic details",
-              "Use it to gain attention",
-              "Retell it to entertain others"
-            ],
-            "correct": 0,
-            "explanation": "Faithful delivery protects the trust of both the sender and the intended recipient.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "Someone asks for reassurance you cannot honestly provide. Which reply is best?",
-            "options": [
-              "Everything is certainly solved",
-              "Here is what I know, and I will help clarify more",
-              "Stop asking about it",
-              "Your concerns are foolish"
-            ],
-            "correct": 1,
-            "explanation": "Separating known information from uncertainty allows support without replacing honesty with comforting invention.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "Which kind of hope is most useful when work remains unfinished?",
-            "options": [
-              "Hope used to avoid planning",
-              "Hope based only on applause",
-              "Hope joined with careful effort",
-              "Hope that denies every obstacle"
-            ],
-            "correct": 2,
-            "explanation": "Careful effort gives hope a practical expression while acknowledging the work still required.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A quiet participant offers a thoughtful idea. What response reflects respect for sincerity?",
-            "options": [
-              "Ignore it until someone famous repeats it",
-              "Ask first about their status",
-              "Compare their qualifications aloud",
-              "Consider the idea on its merits"
-            ],
-            "correct": 3,
-            "explanation": "Considering the contribution itself avoids allowing status to obscure a useful and sincere offering.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A worried friend repeatedly asks whether a message is authentic. What should you do?",
-            "options": [
-              "Take offence immediately",
-              "Change the subject",
-              "Demand unquestioning belief",
-              "Explain how its origin was checked"
-            ],
-            "correct": 3,
-            "explanation": "Explaining the basis for trust answers the concern without requiring the friend to hide uncertainty.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "You want to comfort someone after disappointment. Which action is most considerate?",
-            "options": [
-              "Listen before choosing encouraging words",
-              "Describe your own achievements",
-              "Minimize what happened",
-              "Promise immediate success"
-            ],
-            "correct": 0,
-            "explanation": "Listening helps encouragement respond to the person's actual experience instead of a ready-made assumption.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A team finally locates useful information after a long search. What comes next?",
-            "options": [
-              "Celebrate without informing them",
-              "Exaggerate its certainty",
-              "Communicate it clearly to those waiting",
-              "Claim that no obstacles ever existed"
-            ],
-            "correct": 2,
-            "explanation": "Clear communication turns the discovery into practical relief for the people who need the information.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "You receive an encouraging note from someone you trust. What is a thoughtful response?",
-            "options": [
-              "Let it support the next responsible step",
-              "Treat it as a guarantee of every outcome",
-              "Demand the same note from everyone",
-              "Stop addressing the problem"
-            ],
-            "correct": 0,
-            "explanation": "Encouragement is most useful when it strengthens a practical response rather than replacing needed action.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A newcomer worries that spiritual study requires impressive achievements. What can you emphasize?",
-            "options": [
-              "Only public accomplishments matter",
-              "Questions disqualify beginners",
-              "Past status decides every opportunity",
-              "Sincere attention and steady participation matter"
-            ],
-            "correct": 3,
-            "explanation": "Sincere participation gives a beginner a meaningful starting point without requiring an impressive public record.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          },
-          {
-            "q": "A messenger realizes the listener needs clarification. Which choice completes the task well?",
-            "options": [
-              "Repeat the message faster",
-              "Leave because the words were delivered",
-              "Check understanding and answer honestly",
-              "Blame the listener"
-            ],
-            "correct": 2,
-            "explanation": "Checking understanding makes communication about what the listener receives, not merely what the messenger has said.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch5b.html",
-            "sourceLabel": "Part 2 · Chapter 5(b): Success in the Search"
-          }
-        ]
-      },
-      {
-        "id": "courage-and-counsel",
-        "title": "Courage and wise counsel",
-        "chapter": "Part 2 · Chapter 7(b): The Bridge",
-        "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-        "summary": "Before the siege, Rama sends Angada to counsel Ravana. The instructions call for careful, reassuring speech, while Ravana's angry rejection of advice reveals the force of pride. The episode brings courage, responsibility and receptiveness to correction into the same discussion.",
-        "qa": [
-          {
-            "q": "How does Rama prepare Angada for the mission?",
-            "a": "He asks Angada to approach Ravana with strength and virtue, choosing his words carefully and offering counsel without needlessly increasing the ruler's anger."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Who is selected as Rama's envoy?",
-            "options": [
-              "Angada",
+              "Ravana",
+              "Vali",
               "Dasaratha",
-              "Lava",
-              "Janaka"
+              "Maricha"
             ],
-            "correct": 0,
-            "explanation": "Angada is entrusted with the final mission of counsel before the siege, receiving Rama's directions and blessings.",
+            "correct": 2,
+            "explanation": "Jatayu knew Rama's father and grieves on hearing of his death.",
             "type": "recall",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "You must raise a difficult concern with a team leader. What is the best opening?",
-            "options": [
-              "Gather supporters to embarrass them",
-              "State the concern calmly and specifically",
-              "Begin with a personal insult",
-              "Question their worth as a person"
-            ],
-            "correct": 1,
-            "explanation": "A calm, specific opening makes the issue easier to examine without adding unnecessary hostility.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A colleague rejects feedback angrily. What should guide your next response?",
-            "options": [
-              "Introducing unrelated complaints",
-              "Winning the exchange publicly",
-              "Matching the anger",
-              "Keeping the purpose clear and the tone measured"
-            ],
-            "correct": 3,
-            "explanation": "A measured response helps preserve the purpose of counsel when emotion threatens to displace it.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Before delivering advice, what should you understand?",
-            "options": [
-              "How to sound superior",
-              "How to make the other person lose face",
-              "The problem, the facts and the desired improvement",
-              "How to control their reputation"
-            ],
-            "correct": 2,
-            "explanation": "Understanding the issue and intended improvement makes advice more useful than a display of authority.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Someone offers uncomfortable but relevant criticism. What shows receptiveness?",
-            "options": [
-              "Assume criticism proves disloyalty",
-              "Dismiss it because it hurts",
-              "Consider its substance before defending yourself",
-              "Attack the speaker's background"
-            ],
-            "correct": 2,
-            "explanation": "Considering the substance allows a useful correction to be heard even when its delivery feels uncomfortable.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "You represent a group in a sensitive discussion. What should you clarify first?",
-            "options": [
-              "What message and authority you have",
-              "How to surprise the other side",
-              "How much credit you will receive",
-              "Which private opinions to add"
-            ],
-            "correct": 0,
-            "explanation": "A clear mandate helps a representative speak faithfully without making commitments the group has not authorized.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A friend asks you to deliver a complaint. Which approach is constructive?",
-            "options": [
-              "Present rumours as facts",
-              "Add sharper accusations",
-              "Threaten public embarrassment first",
-              "Describe the issue accurately and seek resolution"
-            ],
-            "correct": 3,
-            "explanation": "Accurate description and a clear purpose offer a better chance of resolution than amplified hostility.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A respected person is making a harmful decision. What is courageous counsel?",
-            "options": [
-              "Joining the decision privately",
-              "Raising the concern respectfully with reasons",
-              "Remaining silent to preserve favour",
-              "Mocking them in another room"
-            ],
-            "correct": 1,
-            "explanation": "Respectful reasons address the decision directly without making personal approval the condition for speaking.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "What is a useful sign that pride is obstructing feedback?",
-            "options": [
-              "Asking for relevant examples",
-              "Thanking someone for useful information",
-              "Rejecting every concern because it challenges status",
-              "Checking the facts"
-            ],
-            "correct": 2,
-            "explanation": "When status becomes the main defence, the actual concern can disappear from consideration.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "You notice your advice is making someone defensive. What adjustment may help?",
-            "options": [
-              "Add more personal labels",
-              "Increase the volume",
-              "Repeat that you are right",
-              "Return to the shared purpose"
-            ],
-            "correct": 3,
-            "explanation": "A shared purpose gives both people something to address beyond defending their own positions.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Which message is most likely to support correction?",
-            "options": [
-              "You always ruin everything",
-              "This choice leaves a gap; can we review it?",
-              "Your position makes discussion pointless",
-              "Nobody respects your decisions"
-            ],
-            "correct": 1,
-            "explanation": "A specific concern and invitation to review make correction possible without a sweeping personal attack.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Your team wants to respond to disagreement immediately. What can improve the response?",
-            "options": [
-              "Avoid checking the original message",
-              "Draft the harshest reply",
-              "Assume all disagreement is malicious",
-              "Pause to confirm facts and purpose"
-            ],
-            "correct": 3,
-            "explanation": "Confirming facts and purpose reduces the chance that urgency will turn a disagreement into needless conflict.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A leader invites honest counsel. What behaviour makes the invitation credible?",
-            "options": [
-              "Demanding compliments before criticism",
-              "Listening without punishing respectful disagreement",
-              "Praising only agreement",
-              "Interrupting every concern"
-            ],
-            "correct": 1,
-            "explanation": "People can offer honest counsel more readily when respectful disagreement is actually allowed.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A messenger receives provocation during a discussion. What should remain central?",
-            "options": [
-              "Securing the final word",
-              "Fulfilling the entrusted purpose",
-              "Protecting personal prestige at any cost",
-              "Inventing a more dramatic message"
-            ],
-            "correct": 1,
-            "explanation": "Remembering the entrusted purpose helps prevent provocation from redirecting the whole discussion.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "What distinguishes courage from needless aggression in giving advice?",
-            "options": [
-              "Aggression proves stronger commitment",
-              "Courage addresses the issue without seeking humiliation",
-              "Courage never risks disagreement",
-              "Courage always uses louder words"
-            ],
-            "correct": 1,
-            "explanation": "Addressing an issue firmly does not require turning the other person's humiliation into an objective.",
-            "type": "understanding",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "You realize your earlier criticism was partly mistaken. What should you do?",
-            "options": [
-              "Correct the mistaken part openly",
-              "Change topics to save face",
-              "Defend the accusation anyway",
-              "Ignore the new information"
-            ],
-            "correct": 0,
-            "explanation": "Correcting an error keeps counsel grounded in truth rather than in the need to appear consistently right.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Two sides agree on the goal but not the method. What should a mediator emphasize?",
-            "options": [
-              "The shared goal and reasons for each method",
-              "Which person can be embarrassed",
-              "Which side has more prestige",
-              "Who first raised their voice"
-            ],
-            "correct": 0,
-            "explanation": "Shared aims and clear reasons create a useful basis for comparing methods without personal competition.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Someone repeatedly refuses a well-supported concern. What is a responsible response?",
-            "options": [
-              "Abandon all responsibility immediately",
-              "Make the issue a personal feud",
-              "State the concern clearly and use an appropriate next channel",
-              "Invent evidence to strengthen it"
-            ],
-            "correct": 2,
-            "explanation": "A clear record and appropriate next channel preserve responsibility without converting disagreement into retaliation.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "Before a challenging conversation, which preparation is most useful?",
-            "options": [
-              "Collecting personal insults",
-              "Predicting applause",
-              "Planning how to interrupt",
-              "Choosing clear examples and a respectful request"
-            ],
-            "correct": 3,
-            "explanation": "Clear examples and a respectful request make the conversation more focused and actionable.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
-          },
-          {
-            "q": "A team member suggests that feedback is disloyal. What is the best reply?",
-            "options": [
-              "Loyal people never question",
-              "Concerns should stay hidden",
-              "Respectful correction can serve the shared purpose",
-              "Only leaders can notice problems"
-            ],
-            "correct": 2,
-            "explanation": "Useful correction can protect a shared purpose rather than oppose the people entrusted with it.",
-            "type": "application",
-            "sourceUrl": "https://www.vahini.org/ramakatha2/ch7b.html",
-            "sourceLabel": "Part 2 · Chapter 7(b): The Bridge"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=12",
+            "sourceLabel": "Part 2 · Chapter 1, PDF pages 12–19"
           }
         ]
       },
       {
-        "id": "completion-of-the-divine-story",
-        "title": "Completion of the divine story",
-        "chapter": "Part 2 · Chapter 14: Ending the Play",
-        "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-        "summary": "The closing chapter reunites Rama with Kusa and Lava and describes Sita's return to the Earth. Rama prepares the next generation to govern and blesses his companions. The narrative closes with his departure, presenting these events within the book's understanding of divine purpose.",
+        "id": "part-2-chapter-02",
+        "title": "Panchavati",
+        "chapter": "Part 2 · Chapter 2 · Panchavati",
+        "part": 2,
+        "chapterNumber": 2,
+        "pdfStartPage": 20,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+        "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29",
+        "summary": "Rama, Sita, and Lakshmana settle at Panchavati. When Rama asks Lakshmana to choose a place for their hut according to his own wish, Lakshmana is distressed. He explains that he has no independent desire apart from serving Rama. Rama reassures him and chooses the site. Lakshmana then builds a dwelling whose beauty and care express his devotion. Life at Panchavati includes visits and spiritual instruction, alongside the brothers' loving companionship.\n\nThe peace of the dwelling is interrupted by Surpanakha's arrival. Her desire and the punishment that follows lead to attacks by the demons. The chapter develops the contrast between the tranquillity of Rama's presence and the anger that drives his opponents. Surpanakha eventually carries her account to Ravana. Her description of the brothers and especially of Sita turns his attention toward Panchavati, preparing the next stage of the story and the danger that will follow.",
         "qa": [
           {
-            "q": "What responsibility does Rama fulfil before departing?",
-            "a": "He advises the younger generation on administration and assigns kingdoms, while giving his companions individual directions and blessings according to their continuing roles."
+            "q": "Why is Lakshmana troubled when asked to choose the hut's site according to his own wish?",
+            "a": "He has no wish separate from Rama's will. His response expresses complete dedication to Rama's service."
+          },
+          {
+            "q": "Who finally chooses the place for the hut?",
+            "a": "Rama. Rama reassures Lakshmana and indicates the site."
+          },
+          {
+            "q": "Who builds the forest dwelling?",
+            "a": "Lakshmana. The care of the dwelling is part of Lakshmana's service."
+          },
+          {
+            "q": "Whose arrival interrupts the peaceful life at Panchavati?",
+            "a": "Surpanakha. Her encounter with the brothers sets the conflict in motion."
+          },
+          {
+            "q": "To whom does Surpanakha describe Sita?",
+            "a": "Ravana. Her report directs Ravana's attention toward Sita and Panchavati."
           }
         ],
         "quiz": [
           {
-            "q": "Who identifies Kusa and Lava as Rama's sons?",
+            "q": "Why is Lakshmana troubled when asked to choose the hut's site according to his own wish?",
+            "options": [
+              "He wants to return to Lanka",
+              "He has no wish separate from Rama's will",
+              "He has forgotten how to build",
+              "He refuses to live near water"
+            ],
+            "correct": 1,
+            "explanation": "His response expresses complete dedication to Rama's service.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+            "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29"
+          },
+          {
+            "q": "Who finally chooses the place for the hut?",
+            "options": [
+              "Ravana",
+              "Surpanakha",
+              "Rama",
+              "Jatayu"
+            ],
+            "correct": 2,
+            "explanation": "Rama reassures Lakshmana and indicates the site.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+            "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29"
+          },
+          {
+            "q": "Who builds the forest dwelling?",
+            "options": [
+              "Bharatha",
+              "Satrughna",
+              "Sumanthra",
+              "Lakshmana"
+            ],
+            "correct": 3,
+            "explanation": "The care of the dwelling is part of Lakshmana's service.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+            "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29"
+          },
+          {
+            "q": "Whose arrival interrupts the peaceful life at Panchavati?",
+            "options": [
+              "Surpanakha",
+              "Mandodari",
+              "Sulochana",
+              "Swayamprabha"
+            ],
+            "correct": 0,
+            "explanation": "Her encounter with the brothers sets the conflict in motion.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+            "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29"
+          },
+          {
+            "q": "To whom does Surpanakha describe Sita?",
+            "options": [
+              "Janaka",
+              "Ravana",
+              "Guha",
+              "Vasishta"
+            ],
+            "correct": 1,
+            "explanation": "Her report directs Ravana's attention toward Sita and Panchavati.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=20",
+            "sourceLabel": "Part 2 · Chapter 2, PDF pages 20–29"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-03",
+        "title": "The Wily Villain",
+        "chapter": "Part 2 · Chapter 3 · The Wily Villain",
+        "part": 2,
+        "chapterNumber": 3,
+        "pdfStartPage": 30,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+        "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44",
+        "summary": "Ravana's thoughts turn toward seizing Sita, while Vibhishana's devotion presents a different response to Rama. Ravana seeks Maricha's help. Maricha warns him, remembering the brothers' power, but Ravana's threats leave him choosing between death at Ravana's hands and death through Rama. The golden-deer deception draws Rama away. Lakshmana is caught between conflicting demands, and Sita's abduction brings the struggle of Jatayu and the brothers' search into the narrative.\n\nThe chapter repeatedly asks the reader to look beyond an ordinary reading of the divine drama. The search passes through further encounters and finally reaches Sabari. Her long-awaited meeting with Rama fulfils a life of devotion. She speaks of Sugriva and the refuge at Rishyamuka, pointing the brothers toward an ally. Her account also distinguishes the Sita of the outward drama from the divine Mother. The chapter closes with Sabari's fulfilment and union with Rama through the power of yoga.",
+        "qa": [
+          {
+            "q": "Whom does Ravana ask to assist his deception?",
+            "a": "Maricha. Maricha remembers Rama's power and initially warns Ravana against the plan."
+          },
+          {
+            "q": "What form is central to the deception that draws Rama away?",
+            "a": "A golden deer. The golden deer becomes the means of separating Rama from the dwelling."
+          },
+          {
+            "q": "Which bird struggles in connection with Sita's abduction?",
+            "a": "Jatayu. Jatayu's encounter with Ravana becomes part of the brothers' search for Sita."
+          },
+          {
+            "q": "Which devotee receives Rama near the end of the chapter?",
+            "a": "Sabari. The visit fulfils Sabari's long expectation and devotion."
+          },
+          {
+            "q": "Whom does Sabari identify as a possible ally?",
+            "a": "Sugriva. Her words direct the brothers toward Sugriva at Rishyamuka."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Whom does Ravana ask to assist his deception?",
+            "options": [
+              "Maricha",
+              "Sugriva",
+              "Jambavan",
+              "Nala"
+            ],
+            "correct": 0,
+            "explanation": "Maricha remembers Rama's power and initially warns Ravana against the plan.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+            "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44"
+          },
+          {
+            "q": "What form is central to the deception that draws Rama away?",
+            "options": [
+              "A white elephant",
+              "A golden deer",
+              "A black crow",
+              "A winged horse"
+            ],
+            "correct": 1,
+            "explanation": "The golden deer becomes the means of separating Rama from the dwelling.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+            "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44"
+          },
+          {
+            "q": "Which bird struggles in connection with Sita's abduction?",
+            "options": [
+              "Sampathi",
+              "Suparna",
+              "Jatayu",
+              "Garuda"
+            ],
+            "correct": 2,
+            "explanation": "Jatayu's encounter with Ravana becomes part of the brothers' search for Sita.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+            "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44"
+          },
+          {
+            "q": "Which devotee receives Rama near the end of the chapter?",
+            "options": [
+              "Mandodari",
+              "Kaika",
+              "Sulochana",
+              "Sabari"
+            ],
+            "correct": 3,
+            "explanation": "The visit fulfils Sabari's long expectation and devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+            "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44"
+          },
+          {
+            "q": "Whom does Sabari identify as a possible ally?",
+            "options": [
+              "Sugriva",
+              "Ravana",
+              "Meghanada",
+              "Ahi-Ravana"
+            ],
+            "correct": 0,
+            "explanation": "Her words direct the brothers toward Sugriva at Rishyamuka.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=30",
+            "sourceLabel": "Part 2 · Chapter 3, PDF pages 30–44"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-04",
+        "title": "An Ally Accepted",
+        "chapter": "Part 2 · Chapter 4 · An Ally Accepted",
+        "part": 2,
+        "chapterNumber": 4,
+        "pdfStartPage": 45,
+        "pdfEndPage": 57,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+        "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57",
+        "summary": "Sugriva sees the two armed strangers and fears that Vali may have sent them. Hanuman approaches to learn who they are. Rama recounts their circumstances, and Hanuman recognises the Lord with overwhelming joy. Rama embraces him with affection, comparing his dearness to that of Lakshmana. Through Hanuman, the meeting with Sugriva becomes an alliance shaped by the search for Sita and Sugriva's account of his own troubles.\n\nThe chapter proceeds through the conflict with Vali, Rama's intervention, and the grief surrounding Vali's death. Sugriva's sorrow shows how anger can cloud judgement even when a long-desired victory is gained. Lakshmana offers guidance on the responsibilities of government. Rama remains faithful to the conditions of exile and does not enter the city. With the rains making the search difficult, the next stage is delayed. The brothers continue their forest life, and their conversations turn again to spiritual instruction.",
+        "qa": [
+          {
+            "q": "Why does Sugriva initially fear the two strangers?",
+            "a": "He suspects they have been sent by Vali. His conflict with Vali shapes his first reaction to their arrival."
+          },
+          {
+            "q": "Who approaches Rama and Lakshmana on Sugriva's behalf?",
+            "a": "Hanuman. Hanuman's inquiry leads to recognition and a joyful meeting with Rama."
+          },
+          {
+            "q": "To whom does Rama compare Hanuman in expressing affection?",
+            "a": "Lakshmana. Rama welcomes Hanuman as dearly as Lakshmana."
+          },
+          {
+            "q": "Why does Rama decline to enter the city?",
+            "a": "He must honour his forest-exile vow. His commitment to the conditions of exile continues after the alliance."
+          },
+          {
+            "q": "What delays the next stage of the search?",
+            "a": "The rainy season. The chapter ends with the rains postponing the search expedition."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Sugriva initially fear the two strangers?",
+            "options": [
+              "He thinks they are searching for jewels to steal",
+              "He believes they have come to drain the ocean",
+              "He expects them to seize his chariot",
+              "He suspects they have been sent by Vali"
+            ],
+            "correct": 3,
+            "explanation": "His conflict with Vali shapes his first reaction to their arrival.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+            "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57"
+          },
+          {
+            "q": "Who approaches Rama and Lakshmana on Sugriva's behalf?",
+            "options": [
+              "Hanuman",
+              "Angada",
+              "Sampathi",
+              "Jatayu"
+            ],
+            "correct": 0,
+            "explanation": "Hanuman's inquiry leads to recognition and a joyful meeting with Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+            "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57"
+          },
+          {
+            "q": "To whom does Rama compare Hanuman in expressing affection?",
+            "options": [
+              "Ravana",
+              "Lakshmana",
+              "Maricha",
+              "Dasaratha"
+            ],
+            "correct": 1,
+            "explanation": "Rama welcomes Hanuman as dearly as Lakshmana.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+            "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57"
+          },
+          {
+            "q": "Why does Rama decline to enter the city?",
+            "options": [
+              "He has forgotten the way",
+              "He wishes to rule Lanka first",
+              "He must honour his forest-exile vow",
+              "He is waiting for a coronation there"
+            ],
+            "correct": 2,
+            "explanation": "His commitment to the conditions of exile continues after the alliance.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+            "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57"
+          },
+          {
+            "q": "What delays the next stage of the search?",
+            "options": [
+              "A shortage of royal ornaments",
+              "The loss of Siva's bow",
+              "A festival in Mithila",
+              "The rainy season"
+            ],
+            "correct": 3,
+            "explanation": "The chapter ends with the rains postponing the search expedition.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=45",
+            "sourceLabel": "Part 2 · Chapter 4, PDF pages 45–57"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-05",
+        "title": "Success in the Search",
+        "chapter": "Part 2 · Chapter 5 · Success in the Search",
+        "part": 2,
+        "chapterNumber": 5,
+        "pdfStartPage": 58,
+        "pdfEndPage": 70,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+        "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70",
+        "summary": "When the rains end, Rama reminds Sugriva of the promised search. The monkeys set out with determination, sustained by Rama's name. Swayamprabha welcomes the exhausted searchers and gives them encouragement about Sita's whereabouts. At the seashore, despair over the approaching deadline is eased by Jambavan's reassurance. Sampathi, Jatayu's brother, then identifies Lanka and its ashoka grove as the place where Sita is held.\n\nThe search now depends on crossing the ocean. Hanuman's journey brings him into Lanka and eventually into Sita's presence. Their conversation turns discovery into an exchange of assurance and news about the brothers. Hanuman offers to carry Sita away, but she rejects a rescue that would bypass Rama's own victory over Ravana. She also asks whether Rama commanded Hanuman to bring her back or to find her and report. Hanuman accepts this distinction and withdraws his proposal, respecting her reasoning and steadfast devotion.",
+        "qa": [
+          {
+            "q": "Who feeds and encourages the searchers with news about Sita?",
+            "a": "Swayamprabha. Her meeting with Rama's messengers fulfils the first stages of a promised blessing."
+          },
+          {
+            "q": "How is Sampathi related to Jatayu?",
+            "a": "He is Jatayu's brother. Sampathi introduces himself through this relationship when he meets the monkeys."
+          },
+          {
+            "q": "Where does Sampathi say Sita is being held?",
+            "a": "In the ashoka grove in Lanka. His information gives the searchers a definite destination across the sea."
+          },
+          {
+            "q": "What does Hanuman offer to do after meeting Sita?",
+            "a": "Carry her back to Rama. He wishes to end her suffering and the brothers' separation quickly."
+          },
+          {
+            "q": "What distinction does Sita ask Hanuman to consider about his orders?",
+            "a": "Finding and reporting on her versus bringing her back. Her question ends his repeated proposal because Rama had sent him to discover her whereabouts."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who feeds and encourages the searchers with news about Sita?",
+            "options": [
+              "Manthara",
+              "Kaika",
+              "Swayamprabha",
+              "Sulochana"
+            ],
+            "correct": 2,
+            "explanation": "Her meeting with Rama's messengers fulfils the first stages of a promised blessing.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+            "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70"
+          },
+          {
+            "q": "How is Sampathi related to Jatayu?",
+            "options": [
+              "He is Jatayu's son",
+              "He is Jatayu's teacher",
+              "He is Jatayu's charioteer",
+              "He is Jatayu's brother"
+            ],
+            "correct": 3,
+            "explanation": "Sampathi introduces himself through this relationship when he meets the monkeys.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+            "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70"
+          },
+          {
+            "q": "Where does Sampathi say Sita is being held?",
+            "options": [
+              "In the ashoka grove in Lanka",
+              "In Vasishta's hermitage",
+              "In the palace at Mithila",
+              "In a cave at Chitrakuta"
+            ],
+            "correct": 0,
+            "explanation": "His information gives the searchers a definite destination across the sea.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+            "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70"
+          },
+          {
+            "q": "What does Hanuman offer to do after meeting Sita?",
+            "options": [
+              "Crown her ruler of Lanka",
+              "Carry her back to Rama",
+              "Bring Ravana a new chariot",
+              "Take her to Kaika's palace"
+            ],
+            "correct": 1,
+            "explanation": "He wishes to end her suffering and the brothers' separation quickly.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+            "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70"
+          },
+          {
+            "q": "What distinction does Sita ask Hanuman to consider about his orders?",
+            "options": [
+              "Searching north versus searching west",
+              "Guarding a palace versus building a hut",
+              "Finding and reporting on her versus bringing her back",
+              "Offering jewels versus offering food"
+            ],
+            "correct": 2,
+            "explanation": "Her question ends his repeated proposal because Rama had sent him to discover her whereabouts.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=58",
+            "sourceLabel": "Part 2 · Chapter 5, PDF pages 58–70"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-06",
+        "title": "Lanka on Fire",
+        "chapter": "Part 2 · Chapter 6 · Lanka on Fire",
+        "part": 2,
+        "chapterNumber": 6,
+        "pdfStartPage": 71,
+        "pdfEndPage": 82,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+        "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82",
+        "summary": "Before Hanuman leaves, Sita voices concern about the strength of the demons. He reassures her that the monkeys draw their courage from Rama and briefly reveals a mighty form. His actions in the orchard bring successive forces against him. When Meghanada uses Brahma's sacred weapon, Hanuman honours its power and allows himself to be bound. Taken before Ravana, he urges him to return Sita and seek Rama's protection instead of trusting temporary power and wealth.\n\nThe confrontation leads to the burning of Lanka, after which Hanuman sees Sita again and returns with his news. Within Ravana's court, warnings and counsel fail to change the king's resolve. Vibhishana finally seeks refuge with Rama. Although Sugriva suspects a possible enemy stratagem, Rama declares his commitment to protect those who surrender. He welcomes Vibhishana affectionately and consecrates him as Lanka's ruler with sea water, asking the monkey leaders to receive him as one of their own.",
+        "qa": [
+          {
+            "q": "Why does Hanuman allow Brahma's weapon to bind him?",
+            "a": "Out of reverence for the sacred weapon. He honours the weapon rather than counteracting it."
+          },
+          {
+            "q": "What does Hanuman urge Ravana to do?",
+            "a": "Return Sita and seek Rama's protection. His counsel offers Ravana a way to avoid ruin through surrender."
+          },
+          {
+            "q": "Who seeks refuge in Rama's camp after leaving Ravana?",
+            "a": "Vibhishana. Ravana's younger brother comes to Rama in humility."
+          },
+          {
+            "q": "What concern does Sugriva raise about the newcomer?",
+            "a": "He might have been sent to create dissension. Rama answers the suspicion by declaring his vow to protect those who surrender."
+          },
+          {
+            "q": "What does Rama use in consecrating Vibhishana as ruler?",
+            "a": "Water brought from the sea. Rama sprinkles sea water on Vibhishana's head and assigns him the duty of ruling Lanka."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does Hanuman allow Brahma's weapon to bind him?",
+            "options": [
+              "Because he has forgotten Rama",
+              "Out of reverence for the sacred weapon",
+              "Because he wishes to join Ravana's army",
+              "Because Sita orders him to remain a prisoner"
+            ],
+            "correct": 1,
+            "explanation": "He honours the weapon rather than counteracting it.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+            "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82"
+          },
+          {
+            "q": "What does Hanuman urge Ravana to do?",
+            "options": [
+              "Abandon Lanka to the ocean",
+              "Attack Ayodhya immediately",
+              "Return Sita and seek Rama's protection",
+              "Give his throne to Maricha"
+            ],
+            "correct": 2,
+            "explanation": "His counsel offers Ravana a way to avoid ruin through surrender.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+            "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82"
+          },
+          {
+            "q": "Who seeks refuge in Rama's camp after leaving Ravana?",
+            "options": [
+              "Meghanada",
+              "Akshayakumara",
+              "Kumbhakarna",
+              "Vibhishana"
+            ],
+            "correct": 3,
+            "explanation": "Ravana's younger brother comes to Rama in humility.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+            "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82"
+          },
+          {
+            "q": "What concern does Sugriva raise about the newcomer?",
+            "options": [
+              "He might have been sent to create dissension",
+              "He might refuse all food",
+              "He might be unable to swim",
+              "He might lose the royal necklace"
+            ],
+            "correct": 0,
+            "explanation": "Rama answers the suspicion by declaring his vow to protect those who surrender.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+            "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82"
+          },
+          {
+            "q": "What does Rama use in consecrating Vibhishana as ruler?",
+            "options": [
+              "Ash from the orchard",
+              "Water brought from the sea",
+              "Oil from Ayodhya",
+              "Sand from Mithila"
+            ],
+            "correct": 1,
+            "explanation": "Rama sprinkles sea water on Vibhishana's head and assigns him the duty of ruling Lanka.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=71",
+            "sourceLabel": "Part 2 · Chapter 6, PDF pages 71–82"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-07",
+        "title": "The Bridge",
+        "chapter": "Part 2 · Chapter 7 · The Bridge",
+        "part": 2,
+        "chapterNumber": 7,
+        "pdfStartPage": 83,
+        "pdfEndPage": 95,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+        "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95",
+        "summary": "The army reaches the ocean, and Ravana's messenger Suka encounters the compassion and strength of Rama's camp. Lakshmana prevents his mutilation and sends a warning to Ravana. When Suka's truthful report is rejected, he returns to seek Rama's refuge. At the shore, Rama prepares an arrow, and the ocean reveals how a curse on Nala and Nila can serve the crossing: things they cast into water will float. Stones bearing Rama's name become the means of building the bridge.\n\nThe chapter carries the army toward Lanka while further opportunities for reconciliation are offered. Angada goes as an envoy, and Mandodari repeatedly urges Ravana to recognise Rama's power and abandon his hostility. Ravana instead attempts to deceive Sita with a fabricated head and weapons resembling Rama's. She rejects the trick, knowing that his claim cannot be true. Sarama comforts her as the approaching army's cries announce the next stage of the conflict.",
+        "qa": [
+          {
+            "q": "Who prevents the mutilation of Ravana's messenger?",
+            "a": "Lakshmana. Lakshmana rebukes the treatment of the messenger and sends him back with a warning."
+          },
+          {
+            "q": "Which two generals' curse becomes useful in building the bridge?",
+            "a": "Nala and Nila. The ocean explains that objects they throw into water will float and remain in place."
+          },
+          {
+            "q": "What is to be inscribed on the stones?",
+            "a": "Rama's name. The instruction joins the bridge-building work to remembrance of Rama."
+          },
+          {
+            "q": "Who goes to Ravana as Rama's envoy in this chapter?",
+            "a": "Angada. Angada's mission offers another opportunity to avoid destruction."
+          },
+          {
+            "q": "Who comforts Sita after Ravana's deceptive display?",
+            "a": "Sarama. Vibhishana's wife assures her that Rama has entered Lanka with his forces."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who prevents the mutilation of Ravana's messenger?",
+            "options": [
+              "Lakshmana",
+              "Meghanada",
+              "Vali",
+              "Maricha"
+            ],
+            "correct": 0,
+            "explanation": "Lakshmana rebukes the treatment of the messenger and sends him back with a warning.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+            "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95"
+          },
+          {
+            "q": "Which two generals' curse becomes useful in building the bridge?",
+            "options": [
+              "Angada and Vali",
+              "Nala and Nila",
+              "Bharatha and Satrughna",
+              "Khara and Dushana"
+            ],
+            "correct": 1,
+            "explanation": "The ocean explains that objects they throw into water will float and remain in place.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+            "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95"
+          },
+          {
+            "q": "What is to be inscribed on the stones?",
+            "options": [
+              "Ravana's titles",
+              "A list of royal taxes",
+              "Rama's name",
+              "The names of the seasons"
+            ],
+            "correct": 2,
+            "explanation": "The instruction joins the bridge-building work to remembrance of Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+            "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95"
+          },
+          {
+            "q": "Who goes to Ravana as Rama's envoy in this chapter?",
+            "options": [
+              "Jatayu",
+              "Sabari",
+              "Janaka",
+              "Angada"
+            ],
+            "correct": 3,
+            "explanation": "Angada's mission offers another opportunity to avoid destruction.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+            "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95"
+          },
+          {
+            "q": "Who comforts Sita after Ravana's deceptive display?",
+            "options": [
+              "Sarama",
+              "Manthara",
+              "Kausalya",
+              "Indumathi"
+            ],
+            "correct": 0,
+            "explanation": "Vibhishana's wife assures her that Rama has entered Lanka with his forces.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=83",
+            "sourceLabel": "Part 2 · Chapter 7, PDF pages 83–95"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-08",
+        "title": "The Siege",
+        "chapter": "Part 2 · Chapter 8 · The Siege",
+        "part": 2,
+        "chapterNumber": 8,
+        "pdfStartPage": 96,
+        "pdfEndPage": 108,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+        "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108",
+        "summary": "Rama's allies divide their forces to attack Lanka's four gates. The monkeys and bears fight with trees and rocks, drawing courage from remembrance of Rama. The defenders use magical darkness and other stratagems, but Rama dispels the darkness and restores confidence. Malyavantha urges Ravana to return Sita, while Meghanada promises victory. The fighting brings grave danger to Lakshmana, and Hanuman's mission for the life-restoring remedy becomes an important part of the chapter.\n\nThe struggle continues through Kumbhakarna's appearance and the repeated efforts of Meghanada. When Rama allows the serpent weapon to bind him, the narrative explains this as part of the divine role and respect for the weapon's power. Vibhishana then learns that Meghanada is performing a ritual at Nikumbala that would make him difficult to defeat. Rama sends his companions to interrupt it and directs Lakshmana to fight. Invoking Rama's might, Lakshmana releases the arrow that ends Meghanada's life.",
+        "qa": [
+          {
+            "q": "How many gates are assigned to the attacking forces?",
+            "a": "Four. The allied leaders divide their forces for the siege of Lanka's four gates."
+          },
+          {
+            "q": "Which weapon does Rama use to dispel the demons' darkness?",
+            "a": "The fire-arrow. The fire-arrow fills the area with light and renews the army's confidence."
+          },
+          {
+            "q": "What other name is used for Meghanada?",
+            "a": "Indrajit. The chapter explains that he gained this name through defeating Indra."
+          },
+          {
+            "q": "Where does Meghanada begin the ritual that must be interrupted?",
+            "a": "Nikumbala. Vibhishana reports the planned ritual and warns Rama about its consequences."
+          },
+          {
+            "q": "Who kills Meghanada after invoking Rama's might?",
+            "a": "Lakshmana. Lakshmana's sacred arrow reaches Meghanada despite his magical evasions."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How many gates are assigned to the attacking forces?",
+            "options": [
+              "Two",
+              "Six",
+              "Eight",
+              "Four"
+            ],
+            "correct": 3,
+            "explanation": "The allied leaders divide their forces for the siege of Lanka's four gates.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+            "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108"
+          },
+          {
+            "q": "Which weapon does Rama use to dispel the demons' darkness?",
+            "options": [
+              "The fire-arrow",
+              "A wooden staff",
+              "A golden discus taken from Ravana",
+              "A stone from the bridge"
+            ],
+            "correct": 0,
+            "explanation": "The fire-arrow fills the area with light and renews the army's confidence.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+            "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108"
+          },
+          {
+            "q": "What other name is used for Meghanada?",
+            "options": [
+              "Dasagriva",
+              "Indrajit",
+              "Raghava",
+              "Maruti"
+            ],
+            "correct": 1,
+            "explanation": "The chapter explains that he gained this name through defeating Indra.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+            "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108"
+          },
+          {
+            "q": "Where does Meghanada begin the ritual that must be interrupted?",
+            "options": [
+              "Nandigrama",
+              "Mithila",
+              "Nikumbala",
+              "Chitrakuta"
+            ],
+            "correct": 2,
+            "explanation": "Vibhishana reports the planned ritual and warns Rama about its consequences.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+            "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108"
+          },
+          {
+            "q": "Who kills Meghanada after invoking Rama's might?",
+            "options": [
+              "Satrughna",
+              "Guha",
+              "Janaka",
+              "Lakshmana"
+            ],
+            "correct": 3,
+            "explanation": "Lakshmana's sacred arrow reaches Meghanada despite his magical evasions.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=96",
+            "sourceLabel": "Part 2 · Chapter 8, PDF pages 96–108"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-09",
+        "title": "The Nether Region",
+        "chapter": "Part 2 · Chapter 9 · The Nether Region",
+        "part": 2,
+        "chapterNumber": 9,
+        "pdfStartPage": 109,
+        "pdfEndPage": 114,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+        "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114",
+        "summary": "After Meghanada's death, Sulochana confronts Ravana about the pride and wrongdoing that have brought ruin upon Lanka. Another son, Ahi-Ravana, enters the struggle from the nether region. He takes Vibhishana's form to pass Hanuman's guard, then carries Rama and Lakshmana away for sacrifice to Kamada. The account explains that Rama knowingly permits the event as part of completing the divine mission. The real Vibhishana recognises the deception and directs Hanuman toward Patala.\n\nHanuman discovers the danger, reaches the place of sacrifice, and destroys Ahi-Ravana. Because the demon's severed parts can reunite, Hanuman casts the head into the sacrificial fire. He crowns Makaradwaja ruler of Patala and carries the brothers back on his shoulders, filling their companions with relief and joy. Ravana nevertheless continues the war. His remaining hope in Narantaka also fails when Hanuman overcomes him, leaving the king to face the consequences of his refusal to accept counsel.",
+        "qa": [
+          {
+            "q": "Whose form does Ahi-Ravana take to enter the camp?",
+            "a": "Vibhishana's. The disguise deceives Hanuman, who is guarding the entrance."
+          },
+          {
+            "q": "Where does Ahi-Ravana carry Rama and Lakshmana?",
+            "a": "Patala, the nether region. He intends to offer the brothers in sacrifice there."
+          },
+          {
+            "q": "Who identifies the plot and directs Hanuman to the brothers?",
+            "a": "Vibhishana. His knowledge of the demons' powers allows him to recognise Ahi-Ravana's deception."
+          },
+          {
+            "q": "Why does Hanuman throw Ahi-Ravana's severed head into the fire?",
+            "a": "To prevent the separated parts from joining again. The demon's boon makes ordinary dismemberment ineffective."
+          },
+          {
+            "q": "Whom does Hanuman crown ruler of Patala?",
+            "a": "Makaradwaja. He places Ahi-Ravana's crown on Makaradwaja and instructs him to remain devoted to the brothers."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Whose form does Ahi-Ravana take to enter the camp?",
+            "options": [
+              "Sugriva's",
+              "Jambavan's",
+              "Vibhishana's",
+              "Angada's"
+            ],
+            "correct": 2,
+            "explanation": "The disguise deceives Hanuman, who is guarding the entrance.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+            "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114"
+          },
+          {
+            "q": "Where does Ahi-Ravana carry Rama and Lakshmana?",
+            "options": [
+              "Mithila",
+              "Nandigrama",
+              "Panchavati",
+              "Patala, the nether region"
+            ],
+            "correct": 3,
+            "explanation": "He intends to offer the brothers in sacrifice there.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+            "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114"
+          },
+          {
+            "q": "Who identifies the plot and directs Hanuman to the brothers?",
+            "options": [
+              "Vibhishana",
+              "Suka",
+              "Malyavantha",
+              "Mandodari"
+            ],
+            "correct": 0,
+            "explanation": "His knowledge of the demons' powers allows him to recognise Ahi-Ravana's deception.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+            "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114"
+          },
+          {
+            "q": "Why does Hanuman throw Ahi-Ravana's severed head into the fire?",
+            "options": [
+              "To light the bridge",
+              "To prevent the separated parts from joining again",
+              "To send a message to Ayodhya",
+              "To release the sacrificial horse"
+            ],
+            "correct": 1,
+            "explanation": "The demon's boon makes ordinary dismemberment ineffective.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+            "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114"
+          },
+          {
+            "q": "Whom does Hanuman crown ruler of Patala?",
+            "options": [
+              "Narantaka",
+              "Meghanada",
+              "Makaradwaja",
+              "Akshayakumara"
+            ],
+            "correct": 2,
+            "explanation": "He places Ahi-Ravana's crown on Makaradwaja and instructs him to remain devoted to the brothers.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=109",
+            "sourceLabel": "Part 2 · Chapter 9, PDF pages 109–114"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-10",
+        "title": "Ten Heads Roll",
+        "chapter": "Part 2 · Chapter 10 · Ten Heads Roll",
+        "part": 2,
+        "chapterNumber": 10,
+        "pdfStartPage": 115,
+        "pdfEndPage": 123,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+        "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123",
+        "summary": "Ravana leads his remaining forces despite warnings and ominous signs. After further fighting, he attempts a ritual intended to secure victory, but Rama's allies interrupt it. In their final confrontation, Rama describes three kinds of people through trees: those who only speak, those who speak and act, and those who work without boasting. Ravana rejects the counsel, and the battle ends in his defeat and death. Grief, funeral duties, and Vibhishana's installation follow the fighting.\n\nSita is brought to Rama, and the chapter explains her passage through fire in terms of the divine power entrusted to fire earlier in the forest. It explicitly affirms that Rama knows her spotless character. Agni restores the real Sita, and the reunion is celebrated. Rama then thanks the monkeys and bears, credits their service, and promises continued protection. Many return home with mixed feelings; the leading companions accompany Rama, Sita, and Lakshmana in the Pushpaka chariot as it turns north.",
+        "qa": [
+          {
+            "q": "Why do Rama's allies interrupt Ravana's ritual?",
+            "a": "To prevent the intended victory-giving rite from being completed. Vibhishana warns Rama of the ritual and its intended effect."
+          },
+          {
+            "q": "What does the flower-bearing but fruitless tree represent in Rama's comparison?",
+            "a": "People who speak but do not practise. Rama uses the tree comparison to distinguish speech from fulfilled action."
+          },
+          {
+            "q": "Who is installed as ruler of Lanka after Ravana's fall?",
+            "a": "Vibhishana. The surviving brother assumes the responsibility of governing Lanka."
+          },
+          {
+            "q": "Who brings the real Sita out of the fire?",
+            "a": "Agni. The account presents the fire ordeal as the restoration of the divine power earlier placed in fire."
+          },
+          {
+            "q": "What is the name of the aerial chariot used for departure?",
+            "a": "Pushpaka. Rama and his companions ascend Pushpaka, which turns north toward home."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why do Rama's allies interrupt Ravana's ritual?",
+            "options": [
+              "To arrange a wedding",
+              "To prevent the intended victory-giving rite from being completed",
+              "To recover Siva's bow",
+              "To begin a coronation for Ravana"
+            ],
+            "correct": 1,
+            "explanation": "Vibhishana warns Rama of the ritual and its intended effect.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+            "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123"
+          },
+          {
+            "q": "What does the flower-bearing but fruitless tree represent in Rama's comparison?",
+            "options": [
+              "People who work without boasting",
+              "People who both speak and act",
+              "People who speak but do not practise",
+              "People who never speak at all"
+            ],
+            "correct": 2,
+            "explanation": "Rama uses the tree comparison to distinguish speech from fulfilled action.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+            "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123"
+          },
+          {
+            "q": "Who is installed as ruler of Lanka after Ravana's fall?",
+            "options": [
+              "Sugriva",
+              "Hanuman",
+              "Angada",
+              "Vibhishana"
+            ],
+            "correct": 3,
+            "explanation": "The surviving brother assumes the responsibility of governing Lanka.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+            "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123"
+          },
+          {
+            "q": "Who brings the real Sita out of the fire?",
+            "options": [
+              "Agni",
+              "Varuna",
+              "Indra",
+              "Vayu"
+            ],
+            "correct": 0,
+            "explanation": "The account presents the fire ordeal as the restoration of the divine power earlier placed in fire.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+            "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123"
+          },
+          {
+            "q": "What is the name of the aerial chariot used for departure?",
+            "options": [
+              "Nandigrama",
+              "Pushpaka",
+              "Nikumbala",
+              "Rishyamuka"
+            ],
+            "correct": 1,
+            "explanation": "Rama and his companions ascend Pushpaka, which turns north toward home.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=115",
+            "sourceLabel": "Part 2 · Chapter 10, PDF pages 115–123"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-11",
+        "title": "Happy Ayodhya",
+        "chapter": "Part 2 · Chapter 11 · Happy Ayodhya",
+        "part": 2,
+        "chapterNumber": 11,
+        "pdfStartPage": 124,
+        "pdfEndPage": 127,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+        "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127",
+        "summary": "The return journey retraces places associated with exile, friendship, and victory. Rama points out the battlefield and bridge to Sita, and the travellers visit sages whose hospitality had supported them. Guha receives them with overwhelming joy. Pushpaka is returned to its original owner, Kubera. With one day of exile remaining, Rama stays with Bharadwaja and sends Hanuman, in a brahmin's form, to tell Bharatha that the return is near.\n\nHanuman finds Bharatha worn by separation yet constantly remembering Rama. His news brings profound relief, and Bharatha cannot find a gift equal to the joy it gives. After Hanuman reports back, preparations spread through Ayodhya. Bharatha informs the preceptor and the mothers and leads the welcome. The brothers, queens, sages, allies, and citizens reunite in affection. Rama introduces those who helped him, and Kausalya blesses them as dear as her own son. The decorated city receives the returning family with lamps, flowers, and cheers.",
+        "qa": [
+          {
+            "q": "To whom is Pushpaka returned?",
+            "a": "Kubera. The chapter identifies Kubera as its owner before Ravana took it."
+          },
+          {
+            "q": "How much of the exile remains when Rama sends Hanuman ahead?",
+            "a": "One day. Rama remains outside the city until the prescribed time is complete."
+          },
+          {
+            "q": "In what form does Hanuman approach Bharatha?",
+            "a": "A brahmin. Rama commissions him to take this form and carry the news."
+          },
+          {
+            "q": "With which sage does Rama stay while Hanuman carries his message?",
+            "a": "Bharadwaja. Rama and the returning party accept Bharadwaja's hospitality."
+          },
+          {
+            "q": "How does Kausalya describe the monkeys who helped Rama?",
+            "a": "As dear to her as Rama himself. Her blessing warmly receives the companions who served her son."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To whom is Pushpaka returned?",
+            "options": [
+              "Kubera",
+              "Ravana",
+              "Janaka",
+              "Sugriva"
+            ],
+            "correct": 0,
+            "explanation": "The chapter identifies Kubera as its owner before Ravana took it.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+            "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127"
+          },
+          {
+            "q": "How much of the exile remains when Rama sends Hanuman ahead?",
+            "options": [
+              "One year",
+              "One day",
+              "Seven months",
+              "Fourteen days"
+            ],
+            "correct": 1,
+            "explanation": "Rama remains outside the city until the prescribed time is complete.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+            "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127"
+          },
+          {
+            "q": "In what form does Hanuman approach Bharatha?",
+            "options": [
+              "A golden deer",
+              "An eagle",
+              "A brahmin",
+              "A royal elephant"
+            ],
+            "correct": 2,
+            "explanation": "Rama commissions him to take this form and carry the news.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+            "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127"
+          },
+          {
+            "q": "With which sage does Rama stay while Hanuman carries his message?",
+            "options": [
+              "Sarabhanga",
+              "Matanga",
+              "Viswamitra",
+              "Bharadwaja"
+            ],
+            "correct": 3,
+            "explanation": "Rama and the returning party accept Bharadwaja's hospitality.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+            "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127"
+          },
+          {
+            "q": "How does Kausalya describe the monkeys who helped Rama?",
+            "options": [
+              "As dear to her as Rama himself",
+              "As strangers who must leave at once",
+              "As rivals to Bharatha",
+              "As servants of Ravana"
+            ],
+            "correct": 0,
+            "explanation": "Her blessing warmly receives the companions who served her son.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=124",
+            "sourceLabel": "Part 2 · Chapter 11, PDF pages 124–127"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-12",
+        "title": "The Coronation",
+        "chapter": "Part 2 · Chapter 12 · The Coronation",
+        "part": 2,
+        "chapterNumber": 12,
+        "pdfStartPage": 128,
+        "pdfEndPage": 138,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+        "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138",
+        "summary": "Vasishta announces the auspicious arrangements for Rama's coronation. The city prepares, guests are cared for, and the royal family lays aside the marks of exile. Rama personally tends Bharatha's matted hair, while the mothers prepare Sita. Rama and Sita ascend the throne amid Vedic recitation and public joy. The brothers and the allies stand in attendance, their long devotion fulfilled in the sight of the restored king.\n\nThe necklace episode reveals Hanuman's measure of value. Receiving Sita's gift, he examines the gems for Rama's name and discards them when he finds none. The chapter also develops Rama's teaching and describes the harmony of his rule: mutual affection, truthful conduct, generosity, and freedom from contempt. Vasishta asks for lasting devotion rather than worldly reward. Even when a grieving father brings a painful complaint, Rama attends to his people's welfare. Kingship is presented as an unceasing responsibility sustained by truth and righteousness.",
+        "qa": [
+          {
+            "q": "Who announces the arrangements for Rama's coronation?",
+            "a": "Vasishta. The royal preceptor selects the occasion and directs the ceremonies."
+          },
+          {
+            "q": "Whose matted hair does Rama personally comb?",
+            "a": "Bharatha's. The loving act recognises Bharatha's years of austere separation."
+          },
+          {
+            "q": "To whom does Sita give the necklace?",
+            "a": "Hanuman. Rama allows her to choose a recipient deserving of her grace."
+          },
+          {
+            "q": "What does Hanuman seek within each gem?",
+            "a": "Rama's sacred name. Without Rama's name, he values the jewels no more than ordinary stones."
+          },
+          {
+            "q": "What boon does Vasishta request?",
+            "a": "Undiminished devotion to Rama through future lives. His prayer places enduring devotion above other rewards."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who announces the arrangements for Rama's coronation?",
+            "options": [
+              "Ravana",
+              "Sampathi",
+              "Kabanda",
+              "Vasishta"
+            ],
+            "correct": 3,
+            "explanation": "The royal preceptor selects the occasion and directs the ceremonies.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+            "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138"
+          },
+          {
+            "q": "Whose matted hair does Rama personally comb?",
+            "options": [
+              "Bharatha's",
+              "Vibhishana's",
+              "Hanuman's",
+              "Janaka's"
+            ],
+            "correct": 0,
+            "explanation": "The loving act recognises Bharatha's years of austere separation.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+            "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138"
+          },
+          {
+            "q": "To whom does Sita give the necklace?",
+            "options": [
+              "Suka",
+              "Hanuman",
+              "Malyavantha",
+              "Sumanthra"
+            ],
+            "correct": 1,
+            "explanation": "Rama allows her to choose a recipient deserving of her grace.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+            "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138"
+          },
+          {
+            "q": "What does Hanuman seek within each gem?",
+            "options": [
+              "A portrait of Lanka",
+              "A royal seal",
+              "Rama's sacred name",
+              "A grain of gold"
+            ],
+            "correct": 2,
+            "explanation": "Without Rama's name, he values the jewels no more than ordinary stones.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+            "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138"
+          },
+          {
+            "q": "What boon does Vasishta request?",
+            "options": [
+              "Command of Lanka's army",
+              "Ownership of Pushpaka",
+              "A second royal throne",
+              "Undiminished devotion to Rama through future lives"
+            ],
+            "correct": 3,
+            "explanation": "His prayer places enduring devotion above other rewards.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=128",
+            "sourceLabel": "Part 2 · Chapter 12, PDF pages 128–138"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-13",
+        "title": "Exile for Sita",
+        "chapter": "Part 2 · Chapter 13 · Exile for Sita",
+        "part": 2,
+        "chapterNumber": 13,
+        "pdfStartPage": 139,
+        "pdfEndPage": 149,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+        "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149",
+        "summary": "A messenger reports a washerman's words that cast suspicion on Sita. Rama's response brings anguish to his brothers, who affirm her purity and plead against separation. The chapter first describes Sita's subtle form returning to Vaikunta, while the earthly form continues the unfolding drama. Lakshmana obeys Rama's command and leaves her in the forest. Valmiki finds her, offers the safety of his hermitage, and treats her as a daughter. Ayodhya grieves at her absence.\n\nLater, preparations begin for the horse sacrifice. The narrative turns toward Kusa and Lava, brought up under Valmiki's care. Their capture of the sacrificial horse brings them into conflict with the royal forces. Satrughna, Lakshmana, Bharatha, and the monkey heroes encounter their extraordinary skill. Rama arrives and asks their parentage; they identify Janaki as their mother. The chapter ends with the boys taking the horse and captured companions back to her, before the reunion and resolution that follow in the next chapter.",
+        "qa": [
+          {
+            "q": "Whose reported words prompt the crisis at the start of the chapter?",
+            "a": "A washerman's. A court messenger repeats what he heard during his rounds."
+          },
+          {
+            "q": "Who takes Sita into the forest under Rama's command?",
+            "a": "Lakshmana. Lakshmana obeys in deep sorrow despite his distress at the separation."
+          },
+          {
+            "q": "Who gives Sita refuge and treats her as a daughter?",
+            "a": "Valmiki. He finds her during his return from the Ganga and welcomes her to his hermitage."
+          },
+          {
+            "q": "What do Kusa and Lava capture before fighting the royal forces?",
+            "a": "The sacrificial horse. The horse's capture leads to the successive encounters with Rama's army."
+          },
+          {
+            "q": "Whom do the boys name as their mother when Rama asks?",
+            "a": "Janaki. They say that Janaki, Emperor Janaka's daughter, is being sheltered by Valmiki."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Whose reported words prompt the crisis at the start of the chapter?",
+            "options": [
+              "A boatman's",
+              "A sage's disciple's",
+              "A washerman's",
+              "A palace musician's"
+            ],
+            "correct": 2,
+            "explanation": "A court messenger repeats what he heard during his rounds.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+            "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149"
+          },
+          {
+            "q": "Who takes Sita into the forest under Rama's command?",
+            "options": [
+              "Bharatha",
+              "Sumanthra",
+              "Guha",
+              "Lakshmana"
+            ],
+            "correct": 3,
+            "explanation": "Lakshmana obeys in deep sorrow despite his distress at the separation.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+            "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149"
+          },
+          {
+            "q": "Who gives Sita refuge and treats her as a daughter?",
             "options": [
               "Valmiki",
-              "Ravana",
-              "Durvasa",
-              "Kaikeyi"
+              "Agastya",
+              "Viswamitra",
+              "Sarabhanga"
             ],
             "correct": 0,
-            "explanation": "Valmiki explains their birth and upbringing to Rama, leading to their recognition and an affectionate reunion in the narrative.",
+            "explanation": "He finds her during his return from the Ganga and welcomes her to his hermitage.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+            "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149"
           },
           {
-            "q": "A long project is ending. What best protects the work that will continue?",
+            "q": "What do Kusa and Lava capture before fighting the royal forces?",
             "options": [
-              "Leave all decisions to chance",
-              "Prepare a clear handover",
-              "Focus only on farewell praise",
-              "Hide remaining problems"
+              "Pushpaka",
+              "The sacrificial horse",
+              "Ravana's crown",
+              "Siva's bow"
             ],
             "correct": 1,
-            "explanation": "A clear handover connects the completed phase with the responsibilities that remain for others.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "The horse's capture leads to the successive encounters with Rama's army.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+            "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149"
           },
           {
-            "q": "You are passing a role to younger volunteers. What should you provide?",
+            "q": "Whom do the boys name as their mother when Rama asks?",
             "options": [
-              "Every decision made in advance",
-              "Warnings that they cannot match you",
-              "Practical guidance with room to take responsibility",
-              "Only stories of your achievements"
+              "Mandodari",
+              "Sumitra",
+              "Janaki",
+              "Anasuya"
             ],
             "correct": 2,
-            "explanation": "Guidance supports continuity while allowing the new volunteers to exercise the responsibility they receive.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "They say that Janaki, Emperor Janaka's daughter, is being sheltered by Valmiki.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=139",
+            "sourceLabel": "Part 2 · Chapter 13, PDF pages 139–149"
+          }
+        ]
+      },
+      {
+        "id": "part-2-chapter-14",
+        "title": "Ending the Play",
+        "chapter": "Part 2 · Chapter 14 · Ending the Play",
+        "part": 2,
+        "chapterNumber": 14,
+        "pdfStartPage": 150,
+        "pdfEndPage": 151,
+        "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+        "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151",
+        "summary": "Valmiki explains the boys' deeds to Sita, frees the captured companions, and goes to the battlefield. There he declares that Kusa and Lava are Rama's sons. Rama embraces them, and the fallen warriors rise through his grace. Sita then comes before Rama and invokes the Earth as witness to her unwavering faithfulness. The Earth opens, and the Goddess receives her. The narrative presents this departure as part of the divine purpose, even while the witnesses grieve.\n\nRama completes the sacrifice and provides for the next generation's rule. Kusa receives Ayodhya, and Lava the northern region with Lavapura as his capital. Other heirs also receive kingdoms and guidance. Rama gives particular instructions to Vibhishana and Jambavan, while the people ask to accompany him to his divine home. The closing scene moves to the Sarayu, with Bharatha and Satrughna at his sides. The earthly play ends with the brothers' union in the Lord and a blessing connected with Ayodhya and its sacred river.",
+        "qa": [
+          {
+            "q": "Who declares to Rama that Kusa and Lava are his sons?",
+            "a": "Valmiki. Valmiki recounts Sita's life in his hermitage and the boys' birth there."
           },
           {
-            "q": "A group feels sad when a familiar leader departs. What is a helpful response?",
+            "q": "Who receives Sita when the Earth opens?",
+            "a": "The Goddess Earth. Sita appeals to the Earth after declaring her complete faithfulness to Rama."
+          },
+          {
+            "q": "Which son is installed in Ayodhya?",
+            "a": "Kusa. Rama assigns Ayodhya to Kusa and the northern region to Lava."
+          },
+          {
+            "q": "Until which age is Jambavan told to remain on earth?",
+            "a": "The Dwapara age. Rama says that he will meet Jambavan again when incarnated as Krishna."
+          },
+          {
+            "q": "At which river does the final scene take place?",
+            "a": "Sarayu. Rama goes to the Sarayu with his brothers and the people as the earthly play concludes."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who declares to Rama that Kusa and Lava are his sons?",
             "options": [
-              "Deny that change matters",
-              "Acknowledge the change and plan continuity",
-              "Rush past everyone's feelings",
-              "Keep every task dependent on the former leader"
+              "Vasishta",
+              "Valmiki",
+              "Agastya",
+              "Guha"
             ],
             "correct": 1,
-            "explanation": "Acknowledging change and planning together allow care for people and care for the work to coexist.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "Valmiki recounts Sita's life in his hermitage and the boys' birth there.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+            "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151"
           },
           {
-            "q": "What should be reviewed before declaring a shared task complete?",
+            "q": "Who receives Sita when the Earth opens?",
             "options": [
-              "Remaining obligations and who will handle them",
-              "Whether the title sounds successful",
-              "How to secure the largest thank-you",
-              "Only the public celebration"
-            ],
-            "correct": 0,
-            "explanation": "Reviewing remaining obligations prevents an ending from leaving unnoticed responsibilities without a clear owner.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A departing volunteer knows useful details that others lack. What should they do?",
-            "options": [
-              "Wait until a problem occurs",
-              "Keep the information as personal property",
-              "Document and explain the important details",
-              "Share only information that brings praise"
+              "Anasuya",
+              "Kausalya",
+              "The Goddess Earth",
+              "Sarama"
             ],
             "correct": 2,
-            "explanation": "Sharing essential knowledge lets others continue responsibly after the volunteer's regular involvement ends.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "Sita appeals to the Earth after declaring her complete faithfulness to Rama.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+            "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151"
           },
           {
-            "q": "Which closing reflection best supports gratitude?",
+            "q": "Which son is installed in Ayodhya?",
             "options": [
-              "Who contributed less than I did?",
-              "Why was I not thanked enough?",
-              "Who helped make this work possible?",
-              "How can I remain indispensable?"
-            ],
-            "correct": 2,
-            "explanation": "Recognizing contributors keeps the ending connected to relationships and support rather than personal entitlement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A successor proposes a different workable approach. How can a former leader help?",
-            "options": [
-              "Withhold advice until obedience returns",
-              "Treat change as disrespect",
-              "Demand that every habit continue",
-              "Discuss the purpose and respect their responsibility"
+              "Lava",
+              "Thaksha",
+              "Pushkara",
+              "Kusa"
             ],
             "correct": 3,
-            "explanation": "Respect for the successor's role allows continuity of purpose without requiring identical methods.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "Rama assigns Ayodhya to Kusa and the northern region to Lava.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+            "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151"
           },
           {
-            "q": "You have unfinished promises at the end of a term. What is best?",
+            "q": "Until which age is Jambavan told to remain on earth?",
             "options": [
-              "Blame the incoming team",
-              "Assume they expire automatically",
-              "Mention them only if someone complains",
-              "Clarify their status and agree on follow-through"
-            ],
-            "correct": 3,
-            "explanation": "Clear follow-through respects the people who relied on the promises and helps the next team plan.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A group wants a meaningful farewell. Which element supports continuity?",
-            "options": [
-              "A list of personal rankings",
-              "A promise never to change",
-              "Acknowledgement plus practical next steps",
-              "A competition for the strongest emotion"
-            ],
-            "correct": 2,
-            "explanation": "Acknowledgement honours the relationship while next steps help the group carry its responsibilities forward.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A familiar activity must end because circumstances changed. What is a constructive question?",
-            "options": [
-              "What worthwhile purpose can continue in another form?",
-              "How can we deny the ending?",
-              "Who can be blamed for all change?",
-              "How can we avoid every conversation?"
+              "The Dwapara age",
+              "The end of the Kali age",
+              "The next Sathya age",
+              "The end of the current rainy season"
             ],
             "correct": 0,
-            "explanation": "Separating a worthwhile purpose from one arrangement opens room for thoughtful continuity after change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "Rama says that he will meet Jambavan again when incarnated as Krishna.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+            "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151"
           },
           {
-            "q": "Which handover note would be most useful?",
+            "q": "At which river does the final scene take place?",
             "options": [
-              "No further questions are welcome",
-              "These tasks remain, with contacts and deadlines",
-              "Everything depends on remembering me",
-              "The next team should guess the details"
+              "Godavari",
+              "Sarayu",
+              "Yamuna",
+              "Narmada"
             ],
             "correct": 1,
-            "explanation": "Specific tasks, contacts and deadlines make remaining responsibilities visible and easier to carry forward.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A team is celebrating completion but one obligation remains. What should happen?",
-            "options": [
-              "Assign it clearly before closing",
-              "Assume someone will notice",
-              "Hide it from the successor",
-              "Ignore it because celebration began"
-            ],
-            "correct": 0,
-            "explanation": "Assigning the remaining obligation prevents celebration from obscuring work that still needs responsible attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A mentor wants students to become independent. Which action helps?",
-            "options": [
-              "Explain the purpose and let them practise decisions",
-              "Keep essential methods secret",
-              "Correct every choice before they try",
-              "Make approval depend on imitation"
-            ],
-            "correct": 0,
-            "explanation": "Understanding purpose and practising decisions help learners carry responsibility beyond the mentor's direct presence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "What distinguishes closure from simply stopping?",
-            "options": [
-              "Closure requires nobody to feel sad",
-              "Closure attends to remaining responsibilities and relationships",
-              "Stopping resolves every obligation",
-              "Closure always includes a ceremony"
-            ],
-            "correct": 1,
-            "explanation": "Thoughtful closure considers what still needs care rather than treating the final activity as the whole ending.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "You must leave a role sooner than expected. What should take priority?",
-            "options": [
-              "Hiding the reason indefinitely",
-              "Protecting a perfect public image",
-              "Communicating and arranging essential continuity",
-              "Taking all records with you"
-            ],
-            "correct": 2,
-            "explanation": "Timely communication and continuity reduce avoidable disruption for the people who depend on the role.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A new leader feels uncertain during transition. What support is appropriate?",
-            "options": [
-              "Offer relevant context and answer practical questions",
-              "Compare them unfavourably with the predecessor",
-              "Make every choice for them",
-              "Remind them they were not the first choice"
-            ],
-            "correct": 0,
-            "explanation": "Relevant context and practical answers support confidence without removing the new leader's own responsibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "Which action honours a completed chapter of shared work?",
-            "options": [
-              "Carry forward its useful values thoughtfully",
-              "Use its memory to block successors",
-              "Preserve every procedure without review",
-              "Ignore everyone who contributed"
-            ],
-            "correct": 0,
-            "explanation": "Carrying values forward lets appreciation support continuing work rather than become resistance to every change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "A family is organising responsibilities after someone moves away. What is best?",
-            "options": [
-              "Discuss what changes and agree on new roles",
-              "Assume old arrangements still work",
-              "Make decisions without telling anyone",
-              "Wait for repeated confusion"
-            ],
-            "correct": 0,
-            "explanation": "Explicit discussion helps responsibilities match the new situation instead of relying on outdated assumptions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
-          },
-          {
-            "q": "At the end of a study programme, what would support continued learning?",
-            "options": [
-              "Collect titles and close discussion",
-              "Require dependence on one organizer",
-              "Agree on a manageable personal practice",
-              "Declare that all learning is finished"
-            ],
-            "correct": 2,
-            "explanation": "A manageable practice gives participants a way to continue learning after the organized programme has ended.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/ramakathapart2-vahini.html",
-            "sourceLabel": "Part 2 · Chapter 14: Ending the Play"
+            "explanation": "Rama goes to the Sarayu with his brothers and the people as the earthly play concludes.",
+            "type": "recall",
+            "sourceUrl": "assets/ramakatha-rasavahini-part-2.pdf#page=150",
+            "sourceLabel": "Part 2 · Chapter 14, PDF pages 150–151"
           }
         ]
       }
     ],
-    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba."
+    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba.",
+    "organization": "chapters"
   },
   {
     "id": "bhagavata-vahini",
