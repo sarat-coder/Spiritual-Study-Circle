@@ -15912,897 +15912,2535 @@ window.VAHINI_BOOKS = [
     "id": "sathya-sai",
     "title": "Sathya Sai Vahini",
     "hindiTitle": "सत्य साई वाहिनी",
-    "subtitle": "Self, action, and love",
-    "description": "Explore divine reality and spiritual paths.",
-    "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Sathyasai.pdf",
+    "subtitle": "A Stream of Spiritual Wisdom",
+    "description": "Explore all 24 chapters of Bhagawan Sri Sathya Sai Baba’s Sathya Sai Vahini, following the supplied book in order. Each chapter offers a fuller summary, questions and answers, and five quiz questions drawn from its teachings.",
+    "sourceUrl": "assets/sathya-sai-vahini.pdf",
+    "pdfUrl": "assets/sathya-sai-vahini.pdf",
     "topics": [
       {
-        "id": "atma",
-        "title": "Seeking the Atma",
-        "chapter": "The Supreme Reality",
-        "summary": "Human life offers the capacity to investigate its deepest reality. Intelligence and discrimination can support earnest pursuit of the all-pervading Atma.",
+        "id": "chapter-01",
+        "title": "The Supreme Reality",
+        "chapter": "Chapter 1 · The Supreme Reality",
+        "chapterNumber": 1,
+        "pdfStartPage": 10,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+        "sourceLabel": "Chapter 1, PDF pages 10–12",
+        "summary": "This chapter presents the discovery of the Atma, the eternal Self, as the purpose of human life. Intelligence and discrimination enable human beings to inquire into that reality. The Vedas are described as revelations of enduring spiritual truth, and worship finds its fulfilment in faith and love for the Self. Love for God should arise from recognition of His greatness, without bargaining for a reward. The lotus leaf, which remains unwetted although it lives in water, illustrates living in the world without becoming attached to it.\n\nThe conversation between Dharmaja and Droupadi gives this teaching a personal expression. Although he has lost his kingdom, Dharmaja loves God as freely as he loves the beauty of the mountains, without demanding a return. The chapter connects liberation with release from identification with the body. Inquiry, discipline, and control of the senses prepare a clear consciousness in which the Atma can be recognised. Its final emphasis is on actual spiritual experience: collecting arguments or repeating doctrines cannot replace the inward effort needed to discover the truth.",
         "qa": [
           {
-            "q": "What gives human life spiritual opportunity?",
-            "a": "The capacity to inquire, discriminate, and seek the divine Self."
+            "q": "What does the chapter identify as the purpose of human life?",
+            "a": "Realising the Supreme Reality or Atma. Human intelligence and discrimination are directed toward discovery of the eternal Self."
+          },
+          {
+            "q": "What does the lotus leaf illustrate?",
+            "a": "Living in the world without attachment. The leaf remains unwetted by the water in which it lives."
+          },
+          {
+            "q": "Who questions Dharmaja about his suffering despite righteousness?",
+            "a": "Droupadi. Their conversation explains love for God that does not depend on favourable circumstances."
+          },
+          {
+            "q": "Why does Dharmaja speak of his love for the mountains?",
+            "a": "To explain love that asks for no return. Their beauty evokes his love without giving him a reward, illustrating his love for God."
+          },
+          {
+            "q": "What is the purpose of purifying consciousness in this chapter?",
+            "a": "To recognise the Atma clearly. The clean-mirror comparison connects inward purification with the reflection of spiritual reality."
           }
         ],
         "quiz": [
           {
-            "q": "Meera lists achievements when asked who she is. Which question deepens spiritual inquiry?",
+            "q": "What does the chapter identify as the purpose of human life?",
             "options": [
-              "Which achievement sounds most impressive?",
-              "How can I exceed last year's total?",
-              "Which title should replace my current one?",
-              "What remains beyond my changing achievements?"
-            ],
-            "correct": 3,
-            "explanation": "The deeper question examines identity beyond accomplishments that can change over time.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A student has unusual reasoning ability. Which use fits this topic best?",
-            "options": [
-              "Use intelligence mainly to secure praise",
-              "Treat cleverness as complete self-knowledge",
-              "Investigate life's purpose with honest discrimination",
-              "Assume inquiry is unnecessary for gifted people"
-            ],
-            "correct": 2,
-            "explanation": "Reasoning becomes spiritually relevant when it serves sincere inquiry rather than self-importance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "After retirement, a person feels their identity has vanished. What reflection helps?",
-            "options": [
-              "Only paid employment gives a person reality",
-              "A former occupation need not exhaust personal reality",
-              "A new title must immediately replace the old",
-              "Past achievements settle every question about identity"
-            ],
-            "correct": 1,
-            "explanation": "Distinguishing occupation from deeper identity permits reflection beyond the loss of one role.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A discussion about the Self becomes competitive. What restores its purpose?",
-            "options": [
-              "Return to the question being investigated",
-              "Award points for difficult terminology",
-              "Choose the most confident participant",
-              "Compare the members' academic distinctions"
+              "Realising the Supreme Reality or Atma",
+              "Acquiring authority over others",
+              "Preserving the body forever",
+              "Collecting arguments about religion"
             ],
             "correct": 0,
-            "explanation": "Returning to the question redirects intelligence from rivalry toward a shared search for understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A learner says possessions completely define a person. What should be examined?",
-            "options": [
-              "Whether more possessions would improve the definition",
-              "Whether ownership receives enough public recognition",
-              "Whether everyone agrees on the possessions' price",
-              "Whether changing ownership can determine essential identity"
-            ],
-            "correct": 3,
-            "explanation": "Ownership changes, so it deserves examination before being equated with essential identity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "Someone repeats a spiritual conclusion without understanding it. What is the best next step?",
-            "options": [
-              "Treat repetition as proof of realisation",
-              "Find a more impressive conclusion",
-              "Investigate its meaning and personal implications",
-              "Ask others to confirm their advanced status"
-            ],
-            "correct": 2,
-            "explanation": "Meaningful investigation develops understanding beyond the ability to repeat an accepted conclusion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A seeker enjoys learning but avoids self-examination. Which question addresses the gap?",
-            "options": [
-              "How many books have I completed?",
-              "How does this inquiry challenge my assumptions?",
-              "Which argument wins most applause?",
-              "What opinion will make discussion easier?"
-            ],
-            "correct": 1,
-            "explanation": "Self-examination brings inquiry into contact with assumptions the learner personally holds.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A participant argues that curiosity alone completes the search. What is missing?",
-            "options": [
-              "Sustained investigation and thoughtful engagement",
-              "A larger audience for the curiosity",
-              "Agreement from every family member",
-              "A perfect record of public questions"
-            ],
-            "correct": 0,
-            "explanation": "Initial curiosity begins a search, while sustained engagement gives it depth and direction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A person meets praise and criticism in one day. Which inquiry is relevant?",
-            "options": [
-              "Which judgment should become my permanent identity?",
-              "How can I prevent anyone forming opinions?",
-              "Which response will secure universal approval?",
-              "Does either judgment completely define who I am?"
-            ],
-            "correct": 3,
-            "explanation": "The inquiry distinguishes changing evaluations from a complete account of personal reality.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A student uses the idea of Atma to dismiss others. What inconsistency appears?",
-            "options": [
-              "Spiritual vocabulary automatically proves maturity",
-              "Dismissal is necessary for serious inquiry",
-              "Shared spiritual reality conflicts with contempt",
-              "Difference in learning establishes unequal dignity"
-            ],
-            "correct": 2,
-            "explanation": "Recognising shared reality should encourage reflection on contempt rather than provide an excuse.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A study group wants to explore purpose. Which activity is most relevant?",
-            "options": [
-              "Rank occupations by spiritual prestige",
-              "Examine assumptions about what makes life meaningful",
-              "Collect answers without discussing them",
-              "Select the answer requiring least reflection"
-            ],
-            "correct": 1,
-            "explanation": "Examining assumptions makes the discussion an inquiry rather than a list of untested preferences.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A learner confuses intellectual ability with realised wisdom. What distinction helps?",
-            "options": [
-              "Capacity for inquiry differs from its fulfilment",
-              "Intelligence automatically resolves every inward question",
-              "Only formal qualifications permit personal reflection",
-              "Verbal fluency proves the search is complete"
-            ],
-            "correct": 0,
-            "explanation": "Having a capacity creates an opportunity but does not establish its completed use.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A person wants certainty before examining anything. What would enable progress?",
-            "options": [
-              "Wait for questions to disappear unaided",
-              "Adopt the nearest confident answer",
-              "Avoid every view that requires thought",
-              "Begin with an honest question and careful study"
-            ],
-            "correct": 3,
-            "explanation": "An honest beginning allows inquiry to proceed without pretending its conclusions are already settled.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "Two readers approach the chapter differently. What makes discussion useful?",
-            "options": [
-              "Treat difference as a failure of sincerity",
-              "Choose the interpretation favoured by status",
-              "Compare reasons while acknowledging limits",
-              "Assume both have identical experiences"
-            ],
-            "correct": 2,
-            "explanation": "Comparing reasons keeps dialogue thoughtful while recognising the limits of individual understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A mentor asks students to distinguish temporary and enduring concerns. What is the aim?",
-            "options": [
-              "Prove daily duties have no value",
-              "Clarify what deserves deeper investigation",
-              "Create contempt for practical skills",
-              "Require everyone to abandon all plans"
-            ],
-            "correct": 1,
-            "explanation": "The distinction directs attention toward deeper questions without making ordinary responsibilities worthless.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "Which question is primarily about spiritual identity?",
-            "options": [
-              "What is the reality behind my changing roles?",
-              "Which role earns the highest salary?",
-              "Which role receives the warmest applause?",
-              "Which role is easiest to describe?"
-            ],
-            "correct": 0,
-            "explanation": "Spiritual identity asks about underlying reality rather than comparing advantages of social roles.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "What goal does this topic identify as supreme?",
-            "options": [
-              "Permanent public approval",
-              "Unlimited possessions",
-              "Victory in every argument",
-              "Realisation of the Atma"
-            ],
-            "correct": 3,
-            "explanation": "The topic places knowledge of the divine Self at the centre of spiritual purpose.",
+            "explanation": "Human intelligence and discrimination are directed toward discovery of the eternal Self.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–12"
           },
           {
-            "q": "A beginner feels inquiry belongs only to experts. What is a fitting invitation?",
+            "q": "What does the lotus leaf illustrate?",
             "options": [
-              "Wait until all terminology is mastered",
-              "Copy an expert's certainty without reflection",
-              "Start by examining a sincere personal question",
-              "Replace inquiry with admiration for expertise"
-            ],
-            "correct": 2,
-            "explanation": "A sincere accessible question allows the beginner to exercise their own capacity for reflection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
-          },
-          {
-            "q": "A successful professional feels unresolved inward questions. What response respects that experience?",
-            "options": [
-              "Assume success should end every question",
-              "Allow achievement and deeper inquiry to coexist",
-              "Interpret questioning as rejection of all work",
-              "Seek another title before reflecting"
+              "Abandoning all inquiry",
+              "Living in the world without attachment",
+              "Seeking rewards through worship",
+              "Depending entirely on possessions"
             ],
             "correct": 1,
-            "explanation": "Practical achievement does not prevent a person from exploring deeper questions about meaning.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
+            "explanation": "The leaf remains unwetted by the water in which it lives.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–12"
           },
           {
-            "q": "A reader finishes a chapter with new uncertainty. What is a constructive outcome?",
+            "q": "Who questions Dharmaja about his suffering despite righteousness?",
             "options": [
-              "Identify the question more clearly for further study",
-              "Hide the uncertainty to appear knowledgeable",
-              "Conclude that no learning occurred",
-              "Demand that another reader settle it immediately"
+              "Kunti",
+              "Subhadra",
+              "Droupadi",
+              "Gandhari"
+            ],
+            "correct": 2,
+            "explanation": "Their conversation explains love for God that does not depend on favourable circumstances.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–12"
+          },
+          {
+            "q": "Why does Dharmaja speak of his love for the mountains?",
+            "options": [
+              "To claim that mountains grant kingdoms",
+              "To replace God with worldly beauty",
+              "To explain how to avoid exile",
+              "To explain love that asks for no return"
+            ],
+            "correct": 3,
+            "explanation": "Their beauty evokes his love without giving him a reward, illustrating his love for God.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–12"
+          },
+          {
+            "q": "What is the purpose of purifying consciousness in this chapter?",
+            "options": [
+              "To recognise the Atma clearly",
+              "To increase religious argument",
+              "To strengthen bodily identification",
+              "To secure praise for scholarship"
             ],
             "correct": 0,
-            "explanation": "Clearer questions can mark progress even when a complete answer has not yet emerged.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — The Supreme Reality"
+            "explanation": "The clean-mirror comparison connects inward purification with the reflection of spiritual reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=10",
+            "sourceLabel": "Chapter 1, PDF pages 10–12"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html"
+        ]
       },
       {
-        "id": "karma",
-        "title": "Working without bargaining",
-        "chapter": "Karma-Yoga",
-        "summary": "Karma yoga turns activity into spiritual practice. Work is undertaken without bargaining for rewards or making gratitude a condition of service.",
+        "id": "chapter-02",
+        "title": "From Truth to Truth",
+        "chapter": "Chapter 2 · From Truth to Truth",
+        "chapterNumber": 2,
+        "pdfStartPage": 13,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+        "sourceLabel": "Chapter 2, PDF pages 13–16",
+        "summary": "Spiritual growth is described here as movement from an incomplete understanding of truth toward a fuller understanding. Realisation brings the awareness of wholeness, in which the narrow sense of a separate individual no longer dominates. The teachings of sages therefore take different forms to meet different levels of understanding. A teaching points toward reality, as a finger points toward the moon; the pointer must not be confused with the goal. Earlier stages of worship should not be condemned simply because a seeker has advanced beyond them.\n\nThe chapter explains that worship through an image can help those who identify strongly with the body, while explicitly saying that this method is not compulsory for everyone. Different forms and disciplines answer different spiritual needs. Light passing through differently coloured glass illustrates one source appearing in various ways, and the thread running through pearls suggests the unity within diversity. Liberation is not restricted to one people or country. The chapter encourages respect for sincere paths and an expanding recognition of the same divine reality in all beings.",
         "qa": [
           {
-            "q": "Why can expectations create disappointment?",
-            "a": "Attachment to recognition makes service depend upon another person's response."
+            "q": "How does the chapter describe spiritual progress?",
+            "a": "From incomplete truth to fuller truth. Its central distinction is between degrees of understanding of truth."
+          },
+          {
+            "q": "What does the finger pointing at the moon represent?",
+            "a": "A teaching that directs attention to reality. The pointer helps understanding but should not be mistaken for what it indicates."
+          },
+          {
+            "q": "What does the chapter say about worship through an image?",
+            "a": "It is helpful for some seekers but not compulsory for all. Different methods suit different capacities and stages of spiritual development."
+          },
+          {
+            "q": "What does light passing through coloured glass illustrate?",
+            "a": "One source appearing in different forms. The varying colours do not divide the original light into separate sources."
+          },
+          {
+            "q": "To whom is liberation available according to the chapter?",
+            "a": "All beings, without restriction to one country. The chapter extends the possibility of liberation beyond national boundaries."
           }
         ],
         "quiz": [
           {
-            "q": "A volunteer receives no thanks. Which response best preserves the service motive?",
+            "q": "How does the chapter describe spiritual progress?",
             "options": [
-              "Continue useful work without demanding recognition",
-              "Withdraw solely to make gratitude appear",
-              "Turn the task into a public complaint",
-              "Keep helping only favoured recipients"
-            ],
-            "correct": 0,
-            "explanation": "Useful work remains the focus when recognition is not made its necessary reward.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A donor wants to remain anonymous. Which reason fits karma yoga?",
-            "options": [
-              "Anonymity guarantees superior spiritual status",
-              "Public donors cannot act sincerely",
-              "Anonymous work never needs accountability",
-              "The benefit matters more than personal credit"
+              "From truth into permanent error",
+              "From worship into hostility",
+              "From unity into greater separation",
+              "From incomplete truth to fuller truth"
             ],
             "correct": 3,
-            "explanation": "The fitting reason concerns freedom from personal credit rather than claims of superiority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A helper feels disappointed by a neutral response. What should they examine?",
-            "options": [
-              "The recipient's duty to seem delighted",
-              "The need for a larger audience",
-              "The expectation of a particular reaction",
-              "The possibility of demanding immediate repayment"
-            ],
-            "correct": 2,
-            "explanation": "Examining expectation addresses the attachment that made another person's response feel decisive.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "An organiser compares two equally useful tasks. One is visible, the other unnoticed. What should guide selection?",
-            "options": [
-              "Which produces the most photographs",
-              "Where their contribution is most needed",
-              "Which guarantees public praise",
-              "Which makes colleagues appear less capable"
-            ],
-            "correct": 1,
-            "explanation": "Need and usefulness provide a service-centred basis for choosing between equally available tasks.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A volunteer needs rest after prolonged work. What is a balanced decision?",
-            "options": [
-              "Set a responsible limit and arrange continuity",
-              "Continue only to appear indispensable",
-              "Abandon everyone without communication",
-              "Demand praise before allowing a handover"
-            ],
-            "correct": 0,
-            "explanation": "Responsible limits can preserve useful service without turning exhaustion into a display of virtue.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "Someone offers help expecting future favours. What change addresses the motive?",
-            "options": [
-              "Make the expectation less visible",
-              "Ask for a stronger promise first",
-              "Help only people with greater influence",
-              "Separate the service from the expected return"
-            ],
-            "correct": 3,
-            "explanation": "Separating help from return removes the bargain that currently governs the action.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A team member claims all credit for shared work. What is a constructive response?",
-            "options": [
-              "Compete by exaggerating personal contributions",
-              "Withhold essential information as retaliation",
-              "Clarify responsibilities calmly and keep serving the purpose",
-              "Accept inaccurate records as spiritually necessary"
-            ],
-            "correct": 2,
-            "explanation": "Calm accuracy can coexist with service without making personal credit the central aim.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A project fails despite sincere effort. What is the most useful review?",
-            "options": [
-              "Assume good intentions made review unnecessary",
-              "Learn from decisions without treating failure as personal worth",
-              "Blame every person who received help",
-              "Abandon all service because results vary"
-            ],
-            "correct": 1,
-            "explanation": "Review improves future action while separating the outcome from a total judgment of self.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A volunteer wants measurable impact. Is that incompatible with detachment?",
-            "options": [
-              "No, evaluation can improve service without seeking personal reward",
-              "Yes, useful outcomes must never be examined",
-              "Yes, every measurement proves selfishness",
-              "No, numbers automatically establish spiritual progress"
-            ],
-            "correct": 0,
-            "explanation": "Evaluation can serve recipients and effectiveness without becoming a claim to personal spiritual status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A helper dislikes a recipient's personality. What should determine assistance?",
-            "options": [
-              "Whether friendship will result",
-              "Whether gratitude seems likely",
-              "Whether the recipient admires the helper",
-              "The genuine need and appropriate capacity to help"
-            ],
-            "correct": 3,
-            "explanation": "Need and appropriate capacity keep assistance from depending solely on personal liking.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A leader changes jobs within a service team. What attitude supports continuity?",
-            "options": [
-              "Withhold knowledge to preserve influence",
-              "Treat the handover as proof of rejection",
-              "Share knowledge without needing to remain central",
-              "Require permanent credit for later successes"
-            ],
-            "correct": 2,
-            "explanation": "Sharing knowledge places the project's purpose above the wish to remain indispensable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A student performs chores only when observed. What experiment would test the motive?",
-            "options": [
-              "Choose tasks attracting more observers",
-              "Complete an unnoticed task with equal care",
-              "Publish every completed chore",
-              "Ask for recognition before starting"
-            ],
-            "correct": 1,
-            "explanation": "An unnoticed task reveals whether care depends on being watched and praised.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "An organiser rejects useful feedback because of wounded pride. What should take priority?",
-            "options": [
-              "Improving the work's benefit",
-              "Protecting the original plan's reputation",
-              "Finding faults in the reviewer",
-              "Gathering supporters before considering changes"
-            ],
-            "correct": 0,
-            "explanation": "Considering useful feedback keeps benefit ahead of attachment to personal authorship or reputation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A recipient declines an offered service. What response is appropriate?",
-            "options": [
-              "Insist because the intention was generous",
-              "Treat refusal as a debt unpaid",
-              "Demand an explanation of gratitude",
-              "Respect the refusal and reconsider what is useful"
-            ],
-            "correct": 3,
-            "explanation": "Respecting refusal keeps assistance connected with the recipient rather than the helper's preferred role.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A volunteer tracks hours carefully. What makes this constructive?",
-            "options": [
-              "Using records to demand admiration",
-              "Treating hours as proof of superiority",
-              "Using records for planning and accountability",
-              "Comparing hours to shame every newcomer"
-            ],
-            "correct": 2,
-            "explanation": "Planning and accountability use records for practical service rather than personal ranking.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "Why can gratitude become a source of disappointment?",
-            "options": [
-              "Gratitude always makes service selfish",
-              "The helper makes a response into an expected reward",
-              "Recipients are required to respond identically",
-              "Useful service prevents all disappointment"
-            ],
-            "correct": 1,
-            "explanation": "The problem is the imposed expectation, not gratitude when freely offered.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "What attitude defines this topic's approach to work?",
-            "options": [
-              "Dedicated action without bargaining for reward",
-              "Action only after guaranteed praise",
-              "Avoidance of every practical task",
-              "Competition for personal recognition"
-            ],
-            "correct": 0,
-            "explanation": "The topic emphasises dedication while loosening the demand for a personal return.",
+            "explanation": "Its central distinction is between degrees of understanding of truth.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 2, PDF pages 13–16"
           },
           {
-            "q": "Two colleagues disagree about a service plan. What should resolve the choice?",
+            "q": "What does the finger pointing at the moon represent?",
             "options": [
-              "Which colleague has greater prestige",
-              "Which proposal preserves personal pride",
-              "Which person speaks with more certainty",
-              "Evidence about the community's actual needs"
+              "A teaching that directs attention to reality",
+              "The final reality itself",
+              "An obstacle that must always be rejected",
+              "The need to worship the moon alone"
             ],
-            "correct": 3,
-            "explanation": "Relevant evidence directs the decision toward service instead of protecting individual standing.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
+            "correct": 0,
+            "explanation": "The pointer helps understanding but should not be mistaken for what it indicates.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 2, PDF pages 13–16"
           },
           {
-            "q": "An excellent worker receives criticism unfairly. What response preserves purpose?",
+            "q": "What does the chapter say about worship through an image?",
             "options": [
-              "Sabotage the project to prove importance",
-              "Refuse all future cooperation immediately",
-              "Correct factual errors calmly and continue responsible work",
-              "Make every task conditional on an apology"
-            ],
-            "correct": 2,
-            "explanation": "Calm correction protects accuracy without handing control of the work to resentment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
-          },
-          {
-            "q": "A volunteer wonders whether quiet work matters. What is a useful test?",
-            "options": [
-              "Whether it receives immediate applause",
-              "Whether it contributes to a genuine need",
-              "Whether influential visitors notice it",
-              "Whether it outshines another person's work"
+              "It is compulsory for every seeker",
+              "It is helpful for some seekers but not compulsory for all",
+              "It prevents every form of progress",
+              "It is reserved only for realised sages"
             ],
             "correct": 1,
-            "explanation": "Contribution to genuine need gives quiet work value independent of public visibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Karma-Yoga"
+            "explanation": "Different methods suit different capacities and stages of spiritual development.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 2, PDF pages 13–16"
+          },
+          {
+            "q": "What does light passing through coloured glass illustrate?",
+            "options": [
+              "Many unrelated ultimate realities",
+              "The superiority of outward appearance",
+              "One source appearing in different forms",
+              "The impossibility of spiritual unity"
+            ],
+            "correct": 2,
+            "explanation": "The varying colours do not divide the original light into separate sources.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 2, PDF pages 13–16"
+          },
+          {
+            "q": "To whom is liberation available according to the chapter?",
+            "options": [
+              "Only people born in India",
+              "Only those using one form of worship",
+              "Only those rejecting every spiritual teacher",
+              "All beings, without restriction to one country"
+            ],
+            "correct": 3,
+            "explanation": "The chapter extends the possibility of liberation beyond national boundaries.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 2, PDF pages 13–16"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html"
+        ]
       },
       {
-        "id": "bhakti",
-        "title": "Love expressed as service",
-        "chapter": "Bhakthi-Yoga",
-        "summary": "Devotion recognises God within others. Compassion expands the heart, making loving service an expression of one's relationship with the Divine.",
+        "id": "chapter-03",
+        "title": "The One Alone",
+        "chapter": "Chapter 3 · The One Alone",
+        "chapterNumber": 3,
+        "pdfStartPage": 17,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+        "sourceLabel": "Chapter 3, PDF pages 17–20",
+        "summary": "This chapter traces the recognition of unity through the many divine names and descriptions found in Vedic hymns. Different expressions arise from different viewpoints and levels of clarity, yet they refer to one reality. The discussion of Indra and Rudra connects the mind and senses with outward attention and inward mastery. The movement of spiritual understanding is toward the One that witnesses and animates all hearts, beyond the differences of personal names and attributes.\n\nThe central teaching is that truth is one although the wise speak of it in many ways. Differences in description need not become grounds for contempt or conflict. Disparaging another divine form fails to recognise the unity that the chapter affirms. It therefore urges respect for different names, forms, and paths of worship. In its concluding discussion, the chapter relates differences in individual circumstances and tendencies to the consequences of previous actions. Repeated actions become habits, and these tendencies are used in its explanation of continuity across lives. Throughout, the spiritual task is to recognise the underlying unity rather than become confined by outward distinctions.",
         "qa": [
           {
-            "q": "How does compassion express devotion?",
-            "a": "It responds to others' suffering with love and service."
+            "q": "What central teaching does the chapter draw from the many divine names?",
+            "a": "The same truth is described in many ways. Different descriptions express different approaches to the One."
+          },
+          {
+            "q": "What does the discussion of Indra and Rudra connect with spiritual inquiry?",
+            "a": "The mind, senses, and inward mastery. The chapter uses these names while examining outward attention and mastery of the senses."
+          },
+          {
+            "q": "Why do descriptions in the hymns differ?",
+            "a": "They reflect different viewpoints and clarity of understanding. The underlying reality remains one despite variations in its expression."
+          },
+          {
+            "q": "Why does the chapter discourage belittling another divine form?",
+            "a": "All divine forms point to the same One. Disparagement overlooks the unity of the Godhead expressed through different forms."
+          },
+          {
+            "q": "What does the chapter say repeated actions develop into?",
+            "a": "Habits. The concluding discussion uses habits and tendencies in explaining the effects of action across lives."
           }
         ],
         "quiz": [
           {
-            "q": "A participant sees someone struggling to carry supplies. Which response expresses practical devotion?",
+            "q": "What central teaching does the chapter draw from the many divine names?",
             "options": [
-              "Discuss compassion without approaching",
-              "Offer help respectfully",
-              "Wait for an audience",
-              "Assume difficulty is a test to ignore"
-            ],
-            "correct": 1,
-            "explanation": "A respectful offer connects caring attention with an immediate opportunity to help.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A worship group overlooks an isolated member. What would deepen its practice?",
-            "options": [
-              "Include the person through considerate contact",
-              "Add another slogan about love",
-              "Assume attendance removes loneliness",
-              "Discuss the person's awkwardness privately"
-            ],
-            "correct": 0,
-            "explanation": "Considerate contact translates an expressed value into attention to an actual person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A helper speaks kindly but ignores what is requested. What should change?",
-            "options": [
-              "Make the offer more dramatic",
-              "Repeat that the intention is loving",
-              "Require acceptance to prove friendship",
-              "Listen to the person's stated need"
-            ],
-            "correct": 3,
-            "explanation": "Listening ensures that the assistance responds to the person rather than the helper's assumption.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A devotee encounters someone from another tradition. Which response fits universal love?",
-            "options": [
-              "Require shared beliefs before courtesy",
-              "Avoid useful cooperation",
-              "Offer the same dignity and goodwill",
-              "Treat unfamiliar practice as personal inferiority"
+              "Every name refers to an unrelated ultimate reality",
+              "Only one divine name may be spoken",
+              "The same truth is described in many ways",
+              "Divine names have no place in the Vedas"
             ],
             "correct": 2,
-            "explanation": "Equal goodwill allows differences in belief without making them grounds for diminished dignity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A family member is distressed and wants company. What is most responsive?",
-            "options": [
-              "Deliver a long unsolicited sermon",
-              "Listen attentively without rushing to lecture",
-              "Explain why distress should disappear instantly",
-              "Compare their difficulty with a worse story"
-            ],
-            "correct": 1,
-            "explanation": "Attentive company answers the expressed need without replacing it with unwanted instruction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A donor wants to advertise recipients' private stories. What should be considered first?",
-            "options": [
-              "Their consent and dignity",
-              "The likely popularity of the post",
-              "The donor's need for recognition",
-              "The number of emotional details available"
-            ],
-            "correct": 0,
-            "explanation": "Consent and dignity keep publicity from using vulnerable people merely to promote generosity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A person finds compassion easier for friends. What broadens the practice?",
-            "options": [
-              "Assume strangers deserve less attention",
-              "Wait until every stranger becomes a friend",
-              "Use affection as the only test of need",
-              "Notice needs beyond the familiar circle"
-            ],
-            "correct": 3,
-            "explanation": "Attention beyond familiar relationships widens care without requiring identical personal closeness.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A volunteer feels pity but treats someone as helpless. What would improve the response?",
-            "options": [
-              "Make every decision for them",
-              "Describe their weakness to others",
-              "Support their agency as well as their needs",
-              "Assume gratitude permits control"
-            ],
-            "correct": 2,
-            "explanation": "Respectful assistance recognises the person's capacity to choose and participate in their own life.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A group prepares an elaborate celebration while neglecting promised assistance. What deserves priority?",
-            "options": [
-              "Improving appearances before all else",
-              "Honouring the concrete commitment to help",
-              "Explaining why promises are only symbolic",
-              "Waiting for recipients to complain publicly"
-            ],
-            "correct": 1,
-            "explanation": "Honouring a promise gives practical expression to the caring values being celebrated.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A participant helps only when affection is returned. What should they examine?",
-            "options": [
-              "The condition attached to their goodwill",
-              "The recipient's duty to reciprocate emotion",
-              "The need for a more visible gesture",
-              "Whether affection can be demanded more clearly"
-            ],
-            "correct": 0,
-            "explanation": "Examining the condition reveals where care depends on receiving a preferred emotional response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A neighbour makes an irritating request for reasonable help. What is a loving boundary?",
-            "options": [
-              "Agree resentfully to everything",
-              "Refuse solely to punish irritation",
-              "Question the neighbour's human worth",
-              "Offer what is appropriate with courtesy"
-            ],
-            "correct": 3,
-            "explanation": "Courtesy and appropriate limits allow care without resentment or unnecessary self-neglect.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A group wants to support a grieving person. What is the best first step?",
-            "options": [
-              "Assume public attention is always comforting",
-              "Require participation in a ceremony",
-              "Ask what support would be welcome",
-              "Explain that sadness proves weak devotion"
-            ],
-            "correct": 2,
-            "explanation": "Asking respects personal needs instead of imposing a predetermined expression of support.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A student notices someone excluded at lunch. What is a practical response?",
-            "options": [
-              "Discuss inclusion in a later essay only",
-              "Invite participation without making a spectacle",
-              "Wait for the excluded person to complain",
-              "Photograph the invitation before speaking"
-            ],
-            "correct": 1,
-            "explanation": "A discreet invitation addresses exclusion while preserving the person's dignity and comfort.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A helper becomes angry when advice is declined. What is worth remembering?",
-            "options": [
-              "Care does not confer control over another",
-              "Advice must be accepted as repayment",
-              "Refusal cancels the person's dignity",
-              "Loving intentions make pressure unnecessary to examine"
-            ],
-            "correct": 0,
-            "explanation": "Care can remain sincere while allowing another person to decide differently.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A charity team debates whether efficient service can feel impersonal. What should it seek?",
-            "options": [
-              "Choose warmth while ignoring reliability",
-              "Choose speed while ignoring every concern",
-              "Assume good intentions replace practical skill",
-              "Combine competence with respectful human attention"
-            ],
-            "correct": 3,
-            "explanation": "Competence and respectful attention can work together rather than being treated as opposing aims.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "How is compassion connected with devotion in this topic?",
-            "options": [
-              "Care is useful only inside ceremonies",
-              "Devotion removes all ordinary needs",
-              "Care for others expresses recognition of divinity",
-              "Compassion requires identical beliefs"
-            ],
-            "correct": 2,
-            "explanation": "The topic links the relationship with God to loving attention toward other beings.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "What practical expression of love is emphasised here?",
-            "options": [
-              "Social ranking",
-              "Helpful service",
-              "Demanded agreement",
-              "Emotional control of others"
-            ],
-            "correct": 1,
-            "explanation": "Helpful service is the topic's central example of love expressed in everyday action.",
+            "explanation": "Different descriptions express different approaches to the One.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
           },
           {
-            "q": "A child wants to help but offers an unsuitable solution. What should an adult encourage?",
+            "q": "What does the discussion of Indra and Rudra connect with spiritual inquiry?",
             "options": [
-              "Listen to the need and choose fitting assistance",
-              "Praise intention while ignoring the outcome",
-              "Take over without explaining anything",
-              "Teach that only adults can be useful"
-            ],
-            "correct": 0,
-            "explanation": "Learning to match assistance with need helps sincere concern become more genuinely useful.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
-          },
-          {
-            "q": "A group serves newcomers but forgets long-term helpers. What would broaden care?",
-            "options": [
-              "Assume experienced people never struggle",
-              "Reserve compassion for public cases",
-              "Treat familiarity as proof of self-sufficiency",
-              "Notice overlooked needs throughout the group"
+              "The organisation of kingdoms",
+              "The measurement of ritual buildings",
+              "The division of the year",
+              "The mind, senses, and inward mastery"
             ],
             "correct": 3,
-            "explanation": "Broad attention prevents familiar or less visible people from disappearing from communal concern.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
+            "explanation": "The chapter uses these names while examining outward attention and mastery of the senses.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
           },
           {
-            "q": "A person wants to express devotion during an ordinary workday. What opportunity fits?",
+            "q": "Why do descriptions in the hymns differ?",
             "options": [
-              "Wait for a special occasion",
-              "Display devotion while dismissing interruptions",
-              "Respond kindly and usefully to a colleague's difficulty",
-              "Measure sincerity only by ceremonial activity"
+              "They reflect different viewpoints and clarity of understanding",
+              "They necessarily contradict every spiritual truth",
+              "They describe only geographical differences",
+              "They have no connection with experience"
+            ],
+            "correct": 0,
+            "explanation": "The underlying reality remains one despite variations in its expression.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          },
+          {
+            "q": "Why does the chapter discourage belittling another divine form?",
+            "options": [
+              "All worship must use identical words",
+              "All divine forms point to the same One",
+              "Divine forms belong to separate competing powers",
+              "Only unfamiliar forms deserve respect"
+            ],
+            "correct": 1,
+            "explanation": "Disparagement overlooks the unity of the Godhead expressed through different forms.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          },
+          {
+            "q": "What does the chapter say repeated actions develop into?",
+            "options": [
+              "An unchanging physical body",
+              "Freedom from every consequence",
+              "Habits",
+              "The immediate end of thought"
             ],
             "correct": 2,
-            "explanation": "An ordinary difficulty provides a concrete opportunity to make goodwill useful to another person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html",
-            "sourceLabel": "Sathya Sai Vahini — Bhakthi-Yoga"
+            "explanation": "The concluding discussion uses habits and tendencies in explaining the effects of action across lives.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=17",
+            "sourceLabel": "Chapter 3, PDF pages 17–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "The Miracle of Miracles",
+        "chapter": "Chapter 4 · The Miracle of Miracles",
+        "chapterNumber": 4,
+        "pdfStartPage": 21,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+        "sourceLabel": "Chapter 4, PDF pages 21–23",
+        "summary": "The chapter describes the Atma as eternal, pure, complete, and beyond the destructive powers of material things. The mystery lies in the human feeling of being limited to a body despite this essential freedom. It does not accept a superficial explanation as a solution to that mystery. Instead, it reaffirms the fullness of the Self and presents death as a change of bodily centre. Its account of action connects present circumstances with previous deeds and future conditions with present activity.\n\nThe sages address humanity as heirs to immortality and divine bliss, urging people to abandon a belittling understanding of themselves. Sensual cravings and multiplying desires form a curtain that hides the truth. Recognising this covering leads the inquiry inward: the solution must be experienced within consciousness. The chapter describes the discovery that God is the innermost reality of the person, rather than an external ruler alone. It also recalls Nanak and Guru Govind Singh while discussing India's spiritual inheritance, love, courage, and the particular contribution each nation can make to humanity.",
+        "qa": [
+          {
+            "q": "How is the Atma described in this chapter?",
+            "a": "Eternal, pure, and complete. The chapter repeatedly affirms the Self's freedom from material limitation."
+          },
+          {
+            "q": "What creates the curtain that hides spiritual truth?",
+            "a": "Sensual craving and multiplying desires. Desire draws attention outward and obscures recognition of the inner reality."
+          },
+          {
+            "q": "Where does the chapter direct the search for conviction about truth?",
+            "a": "Toward inner experience. Disciplined inward inquiry is presented as the way to discover the truth."
+          },
+          {
+            "q": "What discovery about God does the chapter emphasise?",
+            "a": "God is the innermost reality of the person. God is described as the inner core and reality of the Self."
+          },
+          {
+            "q": "Which two leaders are recalled in the chapter's discussion of spiritual inheritance?",
+            "a": "Nanak and Guru Govind Singh. Their examples appear in the discussion of love, courage, and service to humanity."
           }
         ],
-        "sourceUrl": "https://vahini.org/downloads/sathyasaivahini.html"
+        "quiz": [
+          {
+            "q": "How is the Atma described in this chapter?",
+            "options": [
+              "A temporary product of the body",
+              "Eternal, pure, and complete",
+              "Dependent on material elements for existence",
+              "Divided whenever the body changes"
+            ],
+            "correct": 1,
+            "explanation": "The chapter repeatedly affirms the Self's freedom from material limitation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "What creates the curtain that hides spiritual truth?",
+            "options": [
+              "The essential purity of the Atma",
+              "The absence of an external kingdom",
+              "Sensual craving and multiplying desires",
+              "The permanence of divine bliss"
+            ],
+            "correct": 2,
+            "explanation": "Desire draws attention outward and obscures recognition of the inner reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "Where does the chapter direct the search for conviction about truth?",
+            "options": [
+              "Only toward external objects",
+              "Only toward political power",
+              "Toward argument without discipline",
+              "Toward inner experience"
+            ],
+            "correct": 3,
+            "explanation": "Disciplined inward inquiry is presented as the way to discover the truth.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "What discovery about God does the chapter emphasise?",
+            "options": [
+              "God is the innermost reality of the person",
+              "God can exist only outside creation",
+              "God is absent from the human heart",
+              "God depends on bodily strength"
+            ],
+            "correct": 0,
+            "explanation": "God is described as the inner core and reality of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          },
+          {
+            "q": "Which two leaders are recalled in the chapter's discussion of spiritual inheritance?",
+            "options": [
+              "Janaka and Dasaratha",
+              "Nanak and Guru Govind Singh",
+              "Valmiki and Vyasa",
+              "Rama and Lakshmana"
+            ],
+            "correct": 1,
+            "explanation": "Their examples appear in the discussion of love, courage, and service to humanity.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 4, PDF pages 21–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Basic Belief",
+        "chapter": "Chapter 5 · Basic Belief",
+        "chapterNumber": 5,
+        "pdfStartPage": 24,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+        "sourceLabel": "Chapter 5, PDF pages 24–26",
+        "summary": "The chapter presents knowledge of the unchanging spiritual reality as the highest purpose of education. Investigation of changing nature has its place, but the central aim is awareness of the divine principle that pervades everything. It describes spiritual unity as compatible with varied beliefs and practices. Diversity can allow different abilities to contribute to the common good; rivalry and enforced uniformity prevent the freedom needed for spiritual growth. The One is therefore approached through many descriptions.\n\nSeveral shared beliefs are then set out. The Vedas are presented as the foundation of spiritual inquiry, although traditions may emphasise different portions and interpretations. God is recognised as the source, support, and destination of the universe, whether approached through form or without form. No person should be forced into a particular spiritual interpretation. Wealth does not qualify someone for spiritual discovery, and poverty does not disqualify them. The chapter closes with a cyclical understanding of creation: manifestation passes through gross, subtle, and causal conditions, and emerges again from the reality into which it has merged.",
+        "qa": [
+          {
+            "q": "What is presented as the highest purpose of education?",
+            "a": "Awareness of the unchanging divine reality. The chapter gives primacy to knowledge of the eternal principle pervading the universe."
+          },
+          {
+            "q": "What attitude does the chapter take toward diversity in spiritual practice?",
+            "a": "It should be welcomed without rivalry. Freedom of approach and underlying unity are both emphasised."
+          },
+          {
+            "q": "What common foundation is identified for the spiritual traditions discussed?",
+            "a": "The Vedas. Traditions may value different portions while sharing the Vedic inheritance."
+          },
+          {
+            "q": "How do wealth and poverty affect eligibility for spiritual discovery?",
+            "a": "Neither wealth qualifies nor poverty disqualifies. The chapter explicitly rejects financial status as a spiritual qualification."
+          },
+          {
+            "q": "How is the universe's manifestation described?",
+            "a": "As a recurring movement through gross, subtle, and causal stages. Creation merges and manifests again in the cyclical account given here."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is presented as the highest purpose of education?",
+            "options": [
+              "Awareness of the unchanging divine reality",
+              "Possession of material resources alone",
+              "Victory in religious disputes",
+              "Mastery of one outward custom"
+            ],
+            "correct": 0,
+            "explanation": "The chapter gives primacy to knowledge of the eternal principle pervading the universe.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–26"
+          },
+          {
+            "q": "What attitude does the chapter take toward diversity in spiritual practice?",
+            "options": [
+              "It must be suppressed by force",
+              "It should be welcomed without rivalry",
+              "It proves that spiritual inquiry is useless",
+              "It permits no common foundation"
+            ],
+            "correct": 1,
+            "explanation": "Freedom of approach and underlying unity are both emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–26"
+          },
+          {
+            "q": "What common foundation is identified for the spiritual traditions discussed?",
+            "options": [
+              "Political agreement",
+              "Material wealth",
+              "The Vedas",
+              "A single compulsory commentary"
+            ],
+            "correct": 2,
+            "explanation": "Traditions may value different portions while sharing the Vedic inheritance.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–26"
+          },
+          {
+            "q": "How do wealth and poverty affect eligibility for spiritual discovery?",
+            "options": [
+              "Wealth is the only qualification",
+              "Poverty prevents all spiritual study",
+              "Eligibility depends on family possessions",
+              "Neither wealth qualifies nor poverty disqualifies"
+            ],
+            "correct": 3,
+            "explanation": "The chapter explicitly rejects financial status as a spiritual qualification.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–26"
+          },
+          {
+            "q": "How is the universe's manifestation described?",
+            "options": [
+              "As a recurring movement through gross, subtle, and causal stages",
+              "As arising once and never changing",
+              "As having no connection with a divine source",
+              "As remaining permanently in the gross stage"
+            ],
+            "correct": 0,
+            "explanation": "Creation merges and manifests again in the cyclical account given here.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 5, PDF pages 24–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Religion is Experience",
+        "chapter": "Chapter 6 · Religion is Experience",
+        "chapterNumber": 6,
+        "pdfStartPage": 27,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+        "sourceLabel": "Chapter 6, PDF pages 27–29",
+        "summary": "The chapter distinguishes the gross body, the mind, and the individualised soul, affirming that the Atma has neither birth nor death. It describes the succession of embodied lives as continuing until liberation. Different schools explain the relation between the individual and God differently, but the discussion centres on the Self's enduring reality. Purity, fullness, and bliss are presented as its essential nature. The dualist and nondualist explanations differ over whether its splendour is diminished or merely appears to be veiled.\n\nFaith in this inner reality gives strength to spiritual effort. Fullness is not an addition that must be manufactured, because anything added could also be lost. The chapter urges remembrance of the highest truths and noble feelings rather than confinement to a sense of inadequacy. Its decisive emphasis is that religion must become experience. Hearing arguments, repeating conclusions, and accepting ideas intellectually are insufficient unless they transform the person. Direct awareness of God and the Atma is the goal. This standard invites honest self-examination and undermines religious quarrels by asking whether those who condemn others have themselves realised what they discuss.",
+        "qa": [
+          {
+            "q": "What does the chapter say about the Atma's birth and death?",
+            "a": "It has neither birth nor death. The embodied condition changes, while the Atma is described as eternal."
+          },
+          {
+            "q": "Which qualities are described as the Atma's essential nature?",
+            "a": "Purity, fullness, and bliss. These qualities are presented as intrinsic rather than externally acquired."
+          },
+          {
+            "q": "How does the nondualist explanation account for apparent loss of the Atma's splendour?",
+            "a": "Ignorance makes it appear diminished. The chapter describes a veiling or false appearance rather than an actual loss."
+          },
+          {
+            "q": "Why is fullness not treated as something added to the Atma?",
+            "a": "What is added could also be lost. Its fullness is affirmed as its original nature."
+          },
+          {
+            "q": "What makes religion effective according to this chapter?",
+            "a": "Practice and transforming experience. The chapter insists that religious principles must be lived and their truth experienced."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the chapter say about the Atma's birth and death?",
+            "options": [
+              "It begins with the physical body",
+              "It dies when the mind becomes inactive",
+              "It lasts only for one human life",
+              "It has neither birth nor death"
+            ],
+            "correct": 3,
+            "explanation": "The embodied condition changes, while the Atma is described as eternal.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–29"
+          },
+          {
+            "q": "Which qualities are described as the Atma's essential nature?",
+            "options": [
+              "Purity, fullness, and bliss",
+              "Restlessness, limitation, and fear",
+              "Desire, rivalry, and ambition",
+              "Memory, age, and physical strength"
+            ],
+            "correct": 0,
+            "explanation": "These qualities are presented as intrinsic rather than externally acquired.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–29"
+          },
+          {
+            "q": "How does the nondualist explanation account for apparent loss of the Atma's splendour?",
+            "options": [
+              "The Atma is physically broken",
+              "Ignorance makes it appear diminished",
+              "Divine reality ceases to exist",
+              "The body consumes its light"
+            ],
+            "correct": 1,
+            "explanation": "The chapter describes a veiling or false appearance rather than an actual loss.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–29"
+          },
+          {
+            "q": "Why is fullness not treated as something added to the Atma?",
+            "options": [
+              "Fullness belongs only to the body",
+              "Spiritual effort creates a new eternal Self",
+              "What is added could also be lost",
+              "The Atma depends on accumulated possessions"
+            ],
+            "correct": 2,
+            "explanation": "Its fullness is affirmed as its original nature.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–29"
+          },
+          {
+            "q": "What makes religion effective according to this chapter?",
+            "options": [
+              "Repeating arguments without change",
+              "Winning disputes with other faiths",
+              "Listening without reflection",
+              "Practice and transforming experience"
+            ],
+            "correct": 3,
+            "explanation": "The chapter insists that religious principles must be lived and their truth experienced.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Be Yourself",
+        "chapter": "Chapter 7 · Be Yourself",
+        "chapterNumber": 7,
+        "pdfStartPage": 30,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+        "sourceLabel": "Chapter 7, PDF pages 30–32",
+        "summary": "Recognition of the one Atma is presented as the basis of universal love and respect for other people's faith. A person established in that understanding does not ridicule another form of worship. The chapter also calls for confidence in one's spiritual inheritance. Learning from others is encouraged, but imitation that abandons one's own nature is discouraged. A seed takes nourishment from soil, water, and air while growing into its own kind of tree; similarly, a seeker can absorb what is good without losing an authentic spiritual direction.\n\nSai's resolve is described as making spiritual dharma active in daily life and available to everyone, from the palace to the poorest home. Wisdom removes ignorance as a lamp removes the darkness of a room. Faulty behaviour should not lead to denial of the divine reality within a person; beneficial company and surroundings are encouraged. The closing section distinguishes gross and subtle bodies, describing thought and feeling as subtle processes. Within its account of nature, space supplies the material basis and the life force gives rise to varied forms.",
+        "qa": [
+          {
+            "q": "What is the basis of universal love described in the chapter?",
+            "a": "Recognition of the one Atma in all. Awareness of spiritual unity leads to respect for different expressions of faith."
+          },
+          {
+            "q": "What does the growing seed illustrate?",
+            "a": "Learning from others while retaining one's own nature. The seed uses its surroundings but grows into its own kind of tree."
+          },
+          {
+            "q": "To whom should spiritual dharma be made available?",
+            "a": "Everyone, in every kind of home. The chapter compares this availability with the air shared by all."
+          },
+          {
+            "q": "What removes the darkness in the chapter's house illustration?",
+            "a": "Lighting a lamp. The lamp represents wisdom dispelling ignorance."
+          },
+          {
+            "q": "Which two principles are discussed as the basis of bodily forms?",
+            "a": "Space and the life force. The chapter describes the life force acting upon space in its account of gross and subtle forms."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the basis of universal love described in the chapter?",
+            "options": [
+              "Agreement on a single outward ceremony",
+              "Imitation of another person's identity",
+              "Recognition of the one Atma in all",
+              "Possession of worldly authority"
+            ],
+            "correct": 2,
+            "explanation": "Awareness of spiritual unity leads to respect for different expressions of faith.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 7, PDF pages 30–32"
+          },
+          {
+            "q": "What does the growing seed illustrate?",
+            "options": [
+              "Refusing all nourishment from outside",
+              "Becoming identical with the soil",
+              "Giving up one's spiritual direction",
+              "Learning from others while retaining one's own nature"
+            ],
+            "correct": 3,
+            "explanation": "The seed uses its surroundings but grows into its own kind of tree.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 7, PDF pages 30–32"
+          },
+          {
+            "q": "To whom should spiritual dharma be made available?",
+            "options": [
+              "Everyone, in every kind of home",
+              "Only scholars",
+              "Only wealthy households",
+              "Only people using one language"
+            ],
+            "correct": 0,
+            "explanation": "The chapter compares this availability with the air shared by all.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 7, PDF pages 30–32"
+          },
+          {
+            "q": "What removes the darkness in the chapter's house illustration?",
+            "options": [
+              "Threatening the darkness",
+              "Lighting a lamp",
+              "Repeatedly blaming the darkness",
+              "Waiting for the house to change location"
+            ],
+            "correct": 1,
+            "explanation": "The lamp represents wisdom dispelling ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 7, PDF pages 30–32"
+          },
+          {
+            "q": "Which two principles are discussed as the basis of bodily forms?",
+            "options": [
+              "Fame and wealth",
+              "Speech and ritual alone",
+              "Space and the life force",
+              "Pleasure and sorrow"
+            ],
+            "correct": 2,
+            "explanation": "The chapter describes the life force acting upon space in its account of gross and subtle forms.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 7, PDF pages 30–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Bondage",
+        "chapter": "Chapter 8 · Bondage",
+        "chapterNumber": 8,
+        "pdfStartPage": 33,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+        "sourceLabel": "Chapter 8, PDF pages 33–35",
+        "summary": "The chapter examines the gross body, subtle body, and individual soul, distinguishing composite forms from the uncreated Self. Material combinations can dissolve, while the individual Atma is described as without beginning. In its account of dualism, God governs creation and remains the witness. Joy and sorrow are related to action and its consequences. Ignorance obscures the soul's essential purity, while beneficial activity clears the covering and turns thought, speech, and action toward God.\n\nThe discussion then distinguishes love offered without expectation from good deeds performed for a reward. It describes the solar path and Brahma-loka in connection with liberation, and the lunar realm in connection with the temporary enjoyment of earned merit. Once that merit is exhausted, renewed embodiment follows. Even heavenly positions are therefore distinguished from final freedom. The chapter explains these states through the teaching's account of action and rebirth. It closes by contrasting later descriptions of hell with the concern of nondualism: the fundamental issue is release from bondage through illumination, rather than the pursuit of heavenly enjoyment or fear of punishment.",
+        "qa": [
+          {
+            "q": "Why is the individual Atma said not to disintegrate?",
+            "a": "It is not a combination of parts. Disintegration belongs to things assembled from components; the Self is described as uncreated."
+          },
+          {
+            "q": "What obscures the soul's essential purity?",
+            "a": "Ignorance. Beneficial action is described as clearing the covering produced by ignorance."
+          },
+          {
+            "q": "Which distinction is central to the discussion of good deeds?",
+            "a": "Love without expectation versus action seeking a reward. The chapter distinguishes selfless devotion from calculations about future benefit."
+          },
+          {
+            "q": "What happens when the merit sustaining enjoyment in the lunar realm is exhausted?",
+            "a": "The soul returns to embodied life. The enjoyment of earned merit is described as temporary."
+          },
+          {
+            "q": "What does nondualism chiefly address in the chapter's conclusion?",
+            "a": "Bondage and liberation, ignorance and illumination. The concluding distinction directs attention to freedom through spiritual knowledge."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is the individual Atma said not to disintegrate?",
+            "options": [
+              "It is made from a stronger material",
+              "It is not a combination of parts",
+              "It is identical with the changing gross body",
+              "It depends on preserving every thought"
+            ],
+            "correct": 1,
+            "explanation": "Disintegration belongs to things assembled from components; the Self is described as uncreated.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What obscures the soul's essential purity?",
+            "options": [
+              "The soul's eternal nature",
+              "Selfless love",
+              "Ignorance",
+              "The existence of divine reality"
+            ],
+            "correct": 2,
+            "explanation": "Beneficial action is described as clearing the covering produced by ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "Which distinction is central to the discussion of good deeds?",
+            "options": [
+              "Public action versus all private action",
+              "Physical work versus all speech",
+              "Childhood action versus old-age action",
+              "Love without expectation versus action seeking a reward"
+            ],
+            "correct": 3,
+            "explanation": "The chapter distinguishes selfless devotion from calculations about future benefit.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What happens when the merit sustaining enjoyment in the lunar realm is exhausted?",
+            "options": [
+              "The soul returns to embodied life",
+              "The gross body becomes eternal",
+              "All action throughout the cosmos ends",
+              "Heavenly office becomes permanent"
+            ],
+            "correct": 0,
+            "explanation": "The enjoyment of earned merit is described as temporary.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What does nondualism chiefly address in the chapter's conclusion?",
+            "options": [
+              "Competition for heavenly offices",
+              "Bondage and liberation, ignorance and illumination",
+              "The preservation of every bodily form",
+              "The acquisition of material rewards"
+            ],
+            "correct": 1,
+            "explanation": "The concluding distinction directs attention to freedom through spiritual knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "One with the One",
+        "chapter": "Chapter 9 · One with the One",
+        "chapterNumber": 9,
+        "pdfStartPage": 36,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+        "sourceLabel": "Chapter 9, PDF pages 36–37",
+        "summary": "The chapter examines how God, the individual, and the universe are understood in three schools of Vedanta. Dualism describes the universe as governed by God; qualified nondualism presents the integration of God, souls, and nature; nondualism affirms the One without a second. The discussion follows the implications of saying that God is both the originator and the material cause of creation. An effect cannot be entirely separate from its cause, yet the changing appearance of the universe raises questions about divine changelessness.\n\nThe nondualist response treats multiplicity as an appearance rather than a division of the Absolute. One sun reflected in many waters illustrates how the One can seem to be many individual selves. The dream comparison develops this further: its people and events arise within the dreamer and disappear there, although they appear real while the dream lasts. Likewise, the chapter describes the cosmos as arising and subsiding in God. Its conclusion directs the seeker toward awareness of being, consciousness, and bliss, and the possibility of realising oneness here and now.",
+        "qa": [
+          {
+            "q": "Which three schools of Vedanta are discussed?",
+            "a": "Dualism, qualified nondualism, and nondualism. The chapter compares their accounts of God, the individual, and the universe."
+          },
+          {
+            "q": "What does qualified nondualism integrate in the chapter's account?",
+            "a": "God, the Atma, and nature. These three entities are discussed as an integrated divine whole."
+          },
+          {
+            "q": "What is explained by the comparison of one sun reflected in many waters?",
+            "a": "The appearance of many selves from the One. Reflections appear numerous without dividing their source."
+          },
+          {
+            "q": "Where do the persons and events of a dream arise and disappear?",
+            "a": "Within the dreamer. The dream comparison supports the account of the cosmos arising and subsiding in God."
+          },
+          {
+            "q": "What does the chapter say becomes apparent to the vision of reality?",
+            "a": "Being, awareness, and bliss. The conclusion identifies the underlying reality beyond apparent multiplicity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which three schools of Vedanta are discussed?",
+            "options": [
+              "Dualism, qualified nondualism, and nondualism",
+              "Logic, medicine, and astronomy",
+              "Ritual, grammar, and poetry",
+              "Action, sleep, and memory"
+            ],
+            "correct": 0,
+            "explanation": "The chapter compares their accounts of God, the individual, and the universe.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–37"
+          },
+          {
+            "q": "What does qualified nondualism integrate in the chapter's account?",
+            "options": [
+              "Three unrelated creators",
+              "God, the Atma, and nature",
+              "Only the body and its food",
+              "Heaven, wealth, and fame"
+            ],
+            "correct": 1,
+            "explanation": "These three entities are discussed as an integrated divine whole.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–37"
+          },
+          {
+            "q": "What is explained by the comparison of one sun reflected in many waters?",
+            "options": [
+              "The existence of many independent Absolutes",
+              "The destruction of the sun by reflection",
+              "The appearance of many selves from the One",
+              "The separation of God from every mind"
+            ],
+            "correct": 2,
+            "explanation": "Reflections appear numerous without dividing their source.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–37"
+          },
+          {
+            "q": "Where do the persons and events of a dream arise and disappear?",
+            "options": [
+              "In a separate physical universe",
+              "Outside all consciousness",
+              "In objects borrowed from another dreamer",
+              "Within the dreamer"
+            ],
+            "correct": 3,
+            "explanation": "The dream comparison supports the account of the cosmos arising and subsiding in God.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–37"
+          },
+          {
+            "q": "What does the chapter say becomes apparent to the vision of reality?",
+            "options": [
+              "Being, awareness, and bliss",
+              "Permanent separation between all beings",
+              "Only the outward diversity of names",
+              "An eternal dependence on bodily form"
+            ],
+            "correct": 0,
+            "explanation": "The conclusion identifies the underlying reality beyond apparent multiplicity.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "The Yogis",
+        "chapter": "Chapter 10 · The Yogis",
+        "chapterNumber": 10,
+        "pdfStartPage": 38,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+        "sourceLabel": "Chapter 10, PDF pages 38–44",
+        "summary": "The chapter treats dualism, qualified nondualism, and nondualism as stages of spiritual understanding suited to different temperaments and experiences. Their followers should seek harmony rather than claim exclusive superiority. Yoga is explained as union, and four paths are described. Karma yoga elevates action through work without bargaining for its results. Bhakthi yoga approaches God through love, devotion, and worship, recognising the divine presence in those who receive that love. Raja yoga develops mastery of the mind, with concentration as its central discipline.\n\nJnana yoga seeks direct awareness of the one reality beneath apparent diversity. The chapter distinguishes instinctive knowledge, reasoned understanding, and intuitive wisdom, while warning that genuine higher insight does not contradict sound discrimination. Intellectual agreement alone does not make a person wise: understanding must shape thought, word, and deed. The final discussion presents the Vedas as divine revelation transmitted carefully from teacher to pupil. It distinguishes the Karma-kanda, concerned with duties and disciplines, from the Jnana-kanda or Vedanta, which is expressed in the Upanishads.",
+        "qa": [
+          {
+            "q": "What meaning of yoga is given in the chapter?",
+            "a": "Coming together or union. The different yogas are presented as approaches to spiritual union."
+          },
+          {
+            "q": "What characterises the karma yogi's work?",
+            "a": "Action without bargaining for its results. Freedom from expectation protects the worker from disappointment over rewards."
+          },
+          {
+            "q": "What is the central discipline emphasised in raja yoga?",
+            "a": "Single-pointed concentration. Concentration gathers the mind's powers and supports mastery over it."
+          },
+          {
+            "q": "What must happen before knowledge of divine unity becomes wisdom?",
+            "a": "It must be assimilated through experience and living. The chapter insists that faith and understanding permeate thought, word, and deed."
+          },
+          {
+            "q": "Where is the Jnana-kanda of the Vedas enshrined?",
+            "a": "In the Upanishads. The chapter identifies this section with Vedanta, the culmination of Vedic knowledge."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What meaning of yoga is given in the chapter?",
+            "options": [
+              "Withdrawal from every form of knowledge",
+              "Competition between spiritual schools",
+              "Acquisition of material power",
+              "Coming together or union"
+            ],
+            "correct": 3,
+            "explanation": "The different yogas are presented as approaches to spiritual union.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 10, PDF pages 38–44"
+          },
+          {
+            "q": "What characterises the karma yogi's work?",
+            "options": [
+              "Action without bargaining for its results",
+              "Action performed only for praise",
+              "Refusal to undertake any duty",
+              "Work measured only by personal gain"
+            ],
+            "correct": 0,
+            "explanation": "Freedom from expectation protects the worker from disappointment over rewards.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 10, PDF pages 38–44"
+          },
+          {
+            "q": "What is the central discipline emphasised in raja yoga?",
+            "options": [
+              "Accumulation of possessions",
+              "Single-pointed concentration",
+              "Ritual argument with other schools",
+              "Dependence on uncontrolled thoughts"
+            ],
+            "correct": 1,
+            "explanation": "Concentration gathers the mind's powers and supports mastery over it.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 10, PDF pages 38–44"
+          },
+          {
+            "q": "What must happen before knowledge of divine unity becomes wisdom?",
+            "options": [
+              "It must remain a purely intellectual theory",
+              "It must produce superiority over other seekers",
+              "It must be assimilated through experience and living",
+              "It must replace all discrimination"
+            ],
+            "correct": 2,
+            "explanation": "The chapter insists that faith and understanding permeate thought, word, and deed.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 10, PDF pages 38–44"
+          },
+          {
+            "q": "Where is the Jnana-kanda of the Vedas enshrined?",
+            "options": [
+              "Only in rules for material trade",
+              "Only in accounts of royal succession",
+              "In a rejection of all spiritual inquiry",
+              "In the Upanishads"
+            ],
+            "correct": 3,
+            "explanation": "The chapter identifies this section with Vedanta, the culmination of Vedic knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 10, PDF pages 38–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Values in Vedas",
+        "chapter": "Chapter 11 · Values in Vedas",
+        "chapterNumber": 11,
+        "pdfStartPage": 45,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+        "sourceLabel": "Chapter 11, PDF pages 45–47",
+        "summary": "The Vedas are presented as guidance for right knowledge and right activity throughout life. The chapter explains that the Vedangas, Puranas, and epics help make their meaning accessible. It outlines the four Vedas: the Rigveda contains hymns of praise; the Yajur-veda includes the Krishna and Sukla recensions and forest disciplines; the Sama-veda sets hymns to musical notation; and the Atharvaveda is discussed in relation to disciplines and powers. Their varied contents are understood as sharing a common spiritual purpose.\n\nThat purpose includes the four aims of life: dharma, wealth, desire, and liberation. The chapter describes action and wisdom as mutually supporting: deeper understanding gives activity direction, while disciplined activity prepares further understanding. Upanishadic guidance calls for reverence toward mother, father, teacher, and guest, and for fidelity to truth and dharma. The closing appeal concerns preserving Vedic learning through both support and example. Scholarship should reveal its value in the peace, conduct, and harmony of those who practise it; explaining ideals without embodying them does not fulfil their purpose.",
+        "qa": [
+          {
+            "q": "Why were explanatory works such as the Vedangas and Puranas studied?",
+            "a": "To clarify the meaning and purpose of Vedic teachings. These works help readers understand the instructions and principles of the Vedas."
+          },
+          {
+            "q": "Which Veda is especially associated with musical notation?",
+            "a": "Sama-veda. The chapter describes hymns arranged for singing and emphasises the Sama-veda's musical character."
+          },
+          {
+            "q": "What are the two recensions of the Yajur-veda named here?",
+            "a": "Krishna and Sukla. They are identified as the black and white Yajur-veda."
+          },
+          {
+            "q": "Which four aims of life are named?",
+            "a": "Dharma, artha, kama, and moksha. The Vedic teachings are related to righteousness, wealth, desire, and liberation."
+          },
+          {
+            "q": "How should scholars demonstrate the value of Vedic study?",
+            "a": "Through their own conduct, peace, and practice. The closing appeal stresses living the ideals rather than merely explaining them."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why were explanatory works such as the Vedangas and Puranas studied?",
+            "options": [
+              "To make all Vedic guidance unnecessary",
+              "To replace spiritual practice with entertainment",
+              "To clarify the meaning and purpose of Vedic teachings",
+              "To restrict knowledge to royal families"
+            ],
+            "correct": 2,
+            "explanation": "These works help readers understand the instructions and principles of the Vedas.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "Which Veda is especially associated with musical notation?",
+            "options": [
+              "Rigveda",
+              "Yajur-veda",
+              "Atharvaveda",
+              "Sama-veda"
+            ],
+            "correct": 3,
+            "explanation": "The chapter describes hymns arranged for singing and emphasises the Sama-veda's musical character.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What are the two recensions of the Yajur-veda named here?",
+            "options": [
+              "Krishna and Sukla",
+              "Purusha and Prakriti",
+              "Sama and Atharvana",
+              "Dharma and Moksha"
+            ],
+            "correct": 0,
+            "explanation": "They are identified as the black and white Yajur-veda.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "Which four aims of life are named?",
+            "options": [
+              "Hearing, seeing, touching, and tasting",
+              "Dharma, artha, kama, and moksha",
+              "Waking, dreaming, sleeping, and forgetting",
+              "Birth, youth, maturity, and age"
+            ],
+            "correct": 1,
+            "explanation": "The Vedic teachings are related to righteousness, wealth, desire, and liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "How should scholars demonstrate the value of Vedic study?",
+            "options": [
+              "Through argument alone",
+              "Through the price charged for learning",
+              "Through their own conduct, peace, and practice",
+              "Through neglect of the teachings in daily life"
+            ],
+            "correct": 2,
+            "explanation": "The closing appeal stresses living the ideals rather than merely explaining them.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Values in Later Texts",
+        "chapter": "Chapter 12 · Values in Later Texts",
+        "chapterNumber": 12,
+        "pdfStartPage": 48,
+        "pdfEndPage": 52,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+        "sourceLabel": "Chapter 12, PDF pages 48–52",
+        "summary": "This chapter distinguishes the enduring truth of the Atma from social rules that may require adjustment as circumstances change. The smrithis guide duties and conduct, while their particular regulations can vary with time and conditions. Atma-dharma remains unchanged. The Puranas make spiritual principles accessible through narratives in language people can understand. The chapter also presents its account of karma and impartial divine grace, using rain falling on both cultivated and uncultivated ground as an illustration.\n\nThe Upanishads, Brahma Sutra, and Bhagavad Gita are identified as the three foundational sources of Vedanta. Dualist, qualified nondualist, and nondualist interpretations all draw on them. The process of obtaining ghee from milk illustrates why spiritual effort is needed even though God is already present. The discussion associates Sankara with nondual realisation, Ramanuja with devotion and surrender to the indwelling Lord, and Madhwacharya with the devotee's dependence upon God. It concludes by presenting the Gita within the Mahabharatha as a concentrated spiritual teaching whose acceptance must go beyond proud repetition of philosophical statements.",
+        "qa": [
+          {
+            "q": "What remains unchanged while social regulations may be adjusted?",
+            "a": "Atma-dharma. The chapter distinguishes eternal spiritual truth from regulations adapted to circumstances."
+          },
+          {
+            "q": "What purpose do the Puranas serve in this chapter?",
+            "a": "Explaining spiritual truths through accessible narratives. Their stories illustrate teachings of the Vedas and Vedanta."
+          },
+          {
+            "q": "Which texts form the Three Sources of Vedanta?",
+            "a": "Upanishads, Brahma Sutra, and Bhagavad Gita. These are identified as the Prasthana Thraya accepted by the schools discussed."
+          },
+          {
+            "q": "What does the preparation of ghee from milk illustrate?",
+            "a": "The effort needed to realise the already-present Divine. Presence alone does not replace the process needed for realisation."
+          },
+          {
+            "q": "Which teacher is associated here with devotion and total surrender to God as the soul of the individual?",
+            "a": "Ramanuja. This is the account of qualified nondualistic worship in the chapter."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What remains unchanged while social regulations may be adjusted?",
+            "options": [
+              "Every food rule for every climate",
+              "Atma-dharma",
+              "Every historical social arrangement",
+              "Every detail of customary ceremony"
+            ],
+            "correct": 1,
+            "explanation": "The chapter distinguishes eternal spiritual truth from regulations adapted to circumstances.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–52"
+          },
+          {
+            "q": "What purpose do the Puranas serve in this chapter?",
+            "options": [
+              "Replacing all inquiry with social status",
+              "Prohibiting ordinary people from learning",
+              "Explaining spiritual truths through accessible narratives",
+              "Recording only rules of trade"
+            ],
+            "correct": 2,
+            "explanation": "Their stories illustrate teachings of the Vedas and Vedanta.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–52"
+          },
+          {
+            "q": "Which texts form the Three Sources of Vedanta?",
+            "options": [
+              "Ramayana, Manusmrithi, and Sama-veda",
+              "Rigveda, Atharvaveda, and Yoga-vasistha",
+              "Puranas, Vedangas, and a single commentary",
+              "Upanishads, Brahma Sutra, and Bhagavad Gita"
+            ],
+            "correct": 3,
+            "explanation": "These are identified as the Prasthana Thraya accepted by the schools discussed.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–52"
+          },
+          {
+            "q": "What does the preparation of ghee from milk illustrate?",
+            "options": [
+              "The effort needed to realise the already-present Divine",
+              "The absence of God until rituals create Him",
+              "The uselessness of every spiritual discipline",
+              "The superiority of food over knowledge"
+            ],
+            "correct": 0,
+            "explanation": "Presence alone does not replace the process needed for realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–52"
+          },
+          {
+            "q": "Which teacher is associated here with devotion and total surrender to God as the soul of the individual?",
+            "options": [
+              "Madhwacharya",
+              "Ramanuja",
+              "Sankara",
+              "Valmiki"
+            ],
+            "correct": 1,
+            "explanation": "This is the account of qualified nondualistic worship in the chapter.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–52"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "The Avatar as Guru",
+        "chapter": "Chapter 13 · The Avatar as Guru",
+        "chapterNumber": 13,
+        "pdfStartPage": 53,
+        "pdfEndPage": 59,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+        "sourceLabel": "Chapter 13, PDF pages 53–59",
+        "summary": "The chapter presents creation, time, and action as expressions of divine will. God can assume the form for which a devotee yearns, and the Avatar is described as a full manifestation of divinity. The individual is not treated as a helpless machine: present decisions and actions participate in shaping the future. Ignorance is identified as the cause of bondage, while love, worship, service, and contemplation help prepare awareness of the Self. Scholarship must produce transformation of character if it is to serve spiritual life.\n\nThe relationship between teacher and pupil requires both an accomplished guide and a receptive, dedicated seeker, like a living seed and prepared soil. The Avatar is presented as the guru of gurus. A genuine guide is grounded in the Vedas and established in God-consciousness. The inquiry into death becomes an inquiry into one's own reality. Nachiketas refuses temporary enjoyments in order to understand death, while Maitreyi asks whether wealth can bring immortality. These examples lead to the chapter's conclusion that God is the true guide toward lasting freedom and fulfilment.",
+        "qa": [
+          {
+            "q": "How does the chapter describe the Avatar?",
+            "a": "A full manifestation of God who can guide spiritual fulfilment. The Avatar is presented as the guru of gurus."
+          },
+          {
+            "q": "What does the comparison of a living seed and prepared soil explain?",
+            "a": "The readiness required in both teacher and pupil. Spiritual instruction bears fruit when a qualified giver meets a receptive seeker."
+          },
+          {
+            "q": "What two qualifications are stressed for a spiritual guide?",
+            "a": "Fidelity to the Vedas and establishment in God-consciousness. The chapter explains these as srotriya and Brahma-nishta."
+          },
+          {
+            "q": "Why does Nachiketas refuse the enjoyments offered by Yama?",
+            "a": "They are temporary and cannot answer his question about death. He persists in seeking the knowledge on which his heart is set."
+          },
+          {
+            "q": "What does Maitreyi ask about the wealth offered to her?",
+            "a": "Whether it can save her from death and grant immortality. Her question turns the conversation toward the path of enduring bliss."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How does the chapter describe the Avatar?",
+            "options": [
+              "A full manifestation of God who can guide spiritual fulfilment",
+              "A teacher limited to borrowed scholarship",
+              "A being who creates the Atma for the first time",
+              "A temporary object without divine presence"
+            ],
+            "correct": 0,
+            "explanation": "The Avatar is presented as the guru of gurus.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 13, PDF pages 53–59"
+          },
+          {
+            "q": "What does the comparison of a living seed and prepared soil explain?",
+            "options": [
+              "The sufficiency of wealth for liberation",
+              "The readiness required in both teacher and pupil",
+              "The absence of any need for effort",
+              "The importance of argument over experience"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual instruction bears fruit when a qualified giver meets a receptive seeker.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 13, PDF pages 53–59"
+          },
+          {
+            "q": "What two qualifications are stressed for a spiritual guide?",
+            "options": [
+              "Fame and eloquence alone",
+              "Wealth and political influence",
+              "Fidelity to the Vedas and establishment in God-consciousness",
+              "Youth and physical strength"
+            ],
+            "correct": 2,
+            "explanation": "The chapter explains these as srotriya and Brahma-nishta.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 13, PDF pages 53–59"
+          },
+          {
+            "q": "Why does Nachiketas refuse the enjoyments offered by Yama?",
+            "options": [
+              "He wants a larger kingdom instead",
+              "He has already forgotten his question",
+              "He seeks only a longer celebration",
+              "They are temporary and cannot answer his question about death"
+            ],
+            "correct": 3,
+            "explanation": "He persists in seeking the knowledge on which his heart is set.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 13, PDF pages 53–59"
+          },
+          {
+            "q": "What does Maitreyi ask about the wealth offered to her?",
+            "options": [
+              "Whether it can save her from death and grant immortality",
+              "Whether it can increase her reputation",
+              "Whether it can purchase a new palace",
+              "Whether it can replace every family duty"
+            ],
+            "correct": 0,
+            "explanation": "Her question turns the conversation toward the path of enduring bliss.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 13, PDF pages 53–59"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "This and That",
+        "chapter": "Chapter 14 · This and That",
+        "chapterNumber": 14,
+        "pdfStartPage": 60,
+        "pdfEndPage": 62,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+        "sourceLabel": "Chapter 14, PDF pages 60–62",
+        "summary": "The inquiry begins with the word “I”, used by people of every level of understanding. Beneath its many names and bodily appearances, the chapter points to an enduring reality that connects all beings. It compares this presence to a thread holding together a string of beads. The body is a covering, and distinctions based only on physical or social characteristics fail to reveal the Self. The teaching expressed by “That thou art” directs attention to the identity underlying the individual and the Supreme.\n\nAsking “Who am I?” is therefore presented as fundamental rather than as a minor question beside the mysteries of the universe. Recognising the Self opens the way to understanding the whole. Scriptures and genuine guidance help remove ignorance, while scholarship alone is insufficient. The chapter gives special importance to devotion, dedication, and divine grace. Its closing illustration uses cotton, yarn, and cloth: although the names and forms differ, one substance remains. In the same way, the individual “I”, Atma, and Paramatma are explained as expressions of the one divine reality.",
+        "qa": [
+          {
+            "q": "Which everyday expression forms the starting point of the chapter's inquiry?",
+            "a": "I. The chapter asks what enduring reality is indicated when different beings refer to themselves."
+          },
+          {
+            "q": "What does the thread through a rosary illustrate?",
+            "a": "The one presence connecting many names and forms. The thread remains the unifying element through the many beads."
+          },
+          {
+            "q": "What does “That thou art” express in this chapter?",
+            "a": "The identity underlying the individual and the Supreme. The expression directs the seeker toward the divine reality of the Self."
+          },
+          {
+            "q": "Why is the question “Who am I?” considered fundamental?",
+            "a": "Knowing the Self opens understanding of the whole. The chapter connects self-inquiry with recognition of the cosmos and its underlying reality."
+          },
+          {
+            "q": "In the cotton, yarn, and cloth illustration, what remains constant?",
+            "a": "The underlying substance. Different names and forms do not divide the one reality they express."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which everyday expression forms the starting point of the chapter's inquiry?",
+            "options": [
+              "Mine alone",
+              "Yesterday",
+              "Perhaps",
+              "I"
+            ],
+            "correct": 3,
+            "explanation": "The chapter asks what enduring reality is indicated when different beings refer to themselves.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 14, PDF pages 60–62"
+          },
+          {
+            "q": "What does the thread through a rosary illustrate?",
+            "options": [
+              "The one presence connecting many names and forms",
+              "The permanent separation of every being",
+              "The superiority of one bodily form",
+              "The absence of a common spiritual basis"
+            ],
+            "correct": 0,
+            "explanation": "The thread remains the unifying element through the many beads.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 14, PDF pages 60–62"
+          },
+          {
+            "q": "What does “That thou art” express in this chapter?",
+            "options": [
+              "The body's permanent independence from the Self",
+              "The identity underlying the individual and the Supreme",
+              "The need to abandon inquiry into oneself",
+              "The reality of social distinctions as the ultimate truth"
+            ],
+            "correct": 1,
+            "explanation": "The expression directs the seeker toward the divine reality of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 14, PDF pages 60–62"
+          },
+          {
+            "q": "Why is the question “Who am I?” considered fundamental?",
+            "options": [
+              "It concerns only a person's outward name",
+              "It avoids the need for spiritual awareness",
+              "Knowing the Self opens understanding of the whole",
+              "It establishes bodily differences as final"
+            ],
+            "correct": 2,
+            "explanation": "The chapter connects self-inquiry with recognition of the cosmos and its underlying reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 14, PDF pages 60–62"
+          },
+          {
+            "q": "In the cotton, yarn, and cloth illustration, what remains constant?",
+            "options": [
+              "The outward name",
+              "The particular shape",
+              "The use of the finished article",
+              "The underlying substance"
+            ],
+            "correct": 3,
+            "explanation": "Different names and forms do not divide the one reality they express.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=60",
+            "sourceLabel": "Chapter 14, PDF pages 60–62"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Levels and Stages",
+        "chapter": "Chapter 15 · Levels and Stages",
+        "chapterNumber": 15,
+        "pdfStartPage": 63,
+        "pdfEndPage": 65,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+        "sourceLabel": "Chapter 15, PDF pages 63–65",
+        "summary": "The chapter questions the claim that a variety of forms of worship is itself the cause of conflict. It directs attention instead to the dispositions and tendencies that shape human conduct. Differences occur among species and among individuals, even among twins. Outward similarity does not mean identical understanding, character, or aspiration. Within the chapter's account of spiritual development, the refinement of intelligence and the feelings cultivated during life influence the individual's continuing journey.\n\nThe comparison between sleep and waking is used to explain continuity: activity resumes after an interruption, and death and renewed life are discussed in a similar way. The chapter links the final dominant thought with feelings repeatedly cultivated during life. Its examples distinguish a shared category from the differing qualities of its members. It also compares people to lamps supplied by the same electric current but giving different degrees of light. The emphasis is on recognising stages of expression and evaluating conduct and qualities, rather than assuming that a common outward form means everyone has reached an identical level of understanding.",
+        "qa": [
+          {
+            "q": "What explanation for conflict does the chapter question?",
+            "a": "That varied forms of worship are themselves its basic cause. The chapter argues that diversity of worship alone does not explain destructive conduct."
+          },
+          {
+            "q": "What example shows that a shared origin need not produce identical dispositions?",
+            "a": "Twins with different natures. Twins are used to illustrate differences despite similar conditions of birth."
+          },
+          {
+            "q": "What comparison is used when discussing continuity between lives?",
+            "a": "Resuming activity after sleep. The chapter compares the interruption of sleep with the continuation described in its account of rebirth."
+          },
+          {
+            "q": "According to the chapter, what shapes the feelings present at the end of life?",
+            "a": "The feelings repeatedly cultivated during life. The discussion connects the final disposition with the tendencies fostered over time."
+          },
+          {
+            "q": "What do lamps of different brightness supplied by the same current illustrate?",
+            "a": "Different degrees of expression despite a common source. The chapter uses this comparison to explain differing levels and stages."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What explanation for conflict does the chapter question?",
+            "options": [
+              "That conduct can be influenced by inner tendencies",
+              "That people differ in their understanding",
+              "That varied forms of worship are themselves its basic cause",
+              "That outward similarity can conceal differences"
+            ],
+            "correct": 2,
+            "explanation": "The chapter argues that diversity of worship alone does not explain destructive conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+            "sourceLabel": "Chapter 15, PDF pages 63–65"
+          },
+          {
+            "q": "What example shows that a shared origin need not produce identical dispositions?",
+            "options": [
+              "A single word repeated twice",
+              "One lamp viewed from one place",
+              "A stone remaining motionless",
+              "Twins with different natures"
+            ],
+            "correct": 3,
+            "explanation": "Twins are used to illustrate differences despite similar conditions of birth.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+            "sourceLabel": "Chapter 15, PDF pages 63–65"
+          },
+          {
+            "q": "What comparison is used when discussing continuity between lives?",
+            "options": [
+              "Resuming activity after sleep",
+              "Replacing a word with its opposite",
+              "Erasing all memory from a book",
+              "Changing the colour of a wall"
+            ],
+            "correct": 0,
+            "explanation": "The chapter compares the interruption of sleep with the continuation described in its account of rebirth.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+            "sourceLabel": "Chapter 15, PDF pages 63–65"
+          },
+          {
+            "q": "According to the chapter, what shapes the feelings present at the end of life?",
+            "options": [
+              "A completely unrelated outward label",
+              "The feelings repeatedly cultivated during life",
+              "The size of a person's home",
+              "The number of people nearby"
+            ],
+            "correct": 1,
+            "explanation": "The discussion connects the final disposition with the tendencies fostered over time.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+            "sourceLabel": "Chapter 15, PDF pages 63–65"
+          },
+          {
+            "q": "What do lamps of different brightness supplied by the same current illustrate?",
+            "options": [
+              "The existence of unrelated sources for every lamp",
+              "The absence of any light in all lamps",
+              "Different degrees of expression despite a common source",
+              "Identical expression in every individual"
+            ],
+            "correct": 2,
+            "explanation": "The chapter uses this comparison to explain differing levels and stages.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=63",
+            "sourceLabel": "Chapter 15, PDF pages 63–65"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Mankind and God",
+        "chapter": "Chapter 16 · Mankind and God",
+        "chapterNumber": 16,
+        "pdfStartPage": 66,
+        "pdfEndPage": 68,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+        "sourceLabel": "Chapter 16, PDF pages 66–68",
+        "summary": "Religion is compared to a bridge joining individual life with the Universal across the confusing river of nature. The chapter presents Sanathana Dharma as an enduring Vedic path and also acknowledges spiritual teachers associated with other religions. It distinguishes a shared sacred purpose from differences in doctrines, disciplines, and accounts of the goal. In its presentation of Vedic teaching, the individual soul is eternal and present life belongs to a continuing sequence shaped by action.\n\nRitual and discipline are described as supports for spiritual progress when accompanied by devotion, wisdom, and self-control. The image of a tree brings these elements together: dharma is the root, devotion supplies water, renunciation and virtues are its leaves and flowers, and understanding is its fruit. The chapter connects religious life with morality, responsibility, and hope for further growth. It also argues that beliefs and conduct have effects beyond the individual, particularly when influential people become examples to others. The closing discussion honours inherited scriptures and directs the seeker toward understanding the spiritual principles they preserve.",
+        "qa": [
+          {
+            "q": "What does the bridge in the opening illustration represent?",
+            "a": "Religion linking the individual with the Universal. The river of nature stands between individual life and the universal goal."
+          },
+          {
+            "q": "What does the chapter distinguish when discussing religions?",
+            "a": "Their sacred purpose from differences in doctrines and disciplines. The chapter does not treat respect for paths as proof that every detail is identical."
+          },
+          {
+            "q": "In the tree illustration, what is the root?",
+            "a": "Dharma. Dharma is described as the foundation supplying the tree of religion with strength."
+          },
+          {
+            "q": "What supplies water to that spiritual tree?",
+            "a": "Devotion. Devotion nourishes the growth whose fruit is understanding."
+          },
+          {
+            "q": "Why does the chapter say religion cannot be treated as merely a personal affair?",
+            "a": "Beliefs and conduct also influence society. The discussion stresses the wider effect of behaviour, especially the example set by influential people."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the bridge in the opening illustration represent?",
+            "options": [
+              "Material wealth connecting two kingdoms",
+              "Religion linking the individual with the Universal",
+              "A boundary preventing spiritual growth",
+              "The physical body alone"
+            ],
+            "correct": 1,
+            "explanation": "The river of nature stands between individual life and the universal goal.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+            "sourceLabel": "Chapter 16, PDF pages 66–68"
+          },
+          {
+            "q": "What does the chapter distinguish when discussing religions?",
+            "options": [
+              "Spiritual life from every kind of morality",
+              "Every teacher from all possible divine guidance",
+              "Their sacred purpose from differences in doctrines and disciplines",
+              "All belief from any effect on conduct"
+            ],
+            "correct": 2,
+            "explanation": "The chapter does not treat respect for paths as proof that every detail is identical.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+            "sourceLabel": "Chapter 16, PDF pages 66–68"
+          },
+          {
+            "q": "In the tree illustration, what is the root?",
+            "options": [
+              "Material wealth",
+              "Reputation",
+              "Physical strength",
+              "Dharma"
+            ],
+            "correct": 3,
+            "explanation": "Dharma is described as the foundation supplying the tree of religion with strength.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+            "sourceLabel": "Chapter 16, PDF pages 66–68"
+          },
+          {
+            "q": "What supplies water to that spiritual tree?",
+            "options": [
+              "Devotion",
+              "Rivalry",
+              "Possessions",
+              "Intellectual pride"
+            ],
+            "correct": 0,
+            "explanation": "Devotion nourishes the growth whose fruit is understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+            "sourceLabel": "Chapter 16, PDF pages 66–68"
+          },
+          {
+            "q": "Why does the chapter say religion cannot be treated as merely a personal affair?",
+            "options": [
+              "Every private thought must be publicly announced",
+              "Beliefs and conduct also influence society",
+              "Social position is the sole goal of religion",
+              "Individuals have no responsibility for their actions"
+            ],
+            "correct": 1,
+            "explanation": "The discussion stresses the wider effect of behaviour, especially the example set by influential people.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=66",
+            "sourceLabel": "Chapter 16, PDF pages 66–68"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Fourfold Social Division",
+        "chapter": "Chapter 17 · Fourfold Social Division",
+        "chapterNumber": 17,
+        "pdfStartPage": 69,
+        "pdfEndPage": 72,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+        "sourceLabel": "Chapter 17, PDF pages 69–72",
+        "summary": "The chapter examines varna through its account of divine order, names and forms, qualities, and activity. It first discusses the connection between a word and what it signifies, treating the universe of names and forms as an expression of divine will. The explanation of varna then turns to the gunas: white symbolises the pure tendency, red the passionate tendency, and black the dull tendency. These are presented as qualities in the chapter's discussion, not as descriptions of bodily complexion.\n\nThe chapter relates desire, intelligence, action, and character within its explanation of birth and spiritual development. It explicitly discusses people whose conduct differs from what their birth might lead others to expect. The example of Kausika, later known as Viswamitra, is especially important: born a warrior, he transforms his consciousness through truth and spiritual effort, and the Gayatri emerges from that attainment. His example connects spiritual standing with qualities and deeds. The final section explains social arrangements in relation to place, time, and circumstances, while continuing to interpret them within the chapter's account of divine will.",
+        "qa": [
+          {
+            "q": "What connection does the chapter examine before discussing varna in detail?",
+            "a": "The connection between words and their meanings. Names and forms provide the opening framework for the discussion."
+          },
+          {
+            "q": "Which quality is symbolised by white in the chapter?",
+            "a": "The pure or sathwic tendency. The colour symbolism is used to explain the three gunas."
+          },
+          {
+            "q": "Which sequence links the factors discussed in the chapter?",
+            "a": "Desires shape intelligence, intelligence shapes action, and action shapes life. The chapter connects inner tendencies with actions and their consequences."
+          },
+          {
+            "q": "Who is the warrior described as becoming Viswamitra?",
+            "a": "Kausika. His transformation illustrates the importance of spiritual qualities and activity."
+          },
+          {
+            "q": "Which mantra is associated with Viswamitra's attainment in this chapter?",
+            "a": "Gayatri. The Gayatri is described as emerging from his purified level of consciousness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What connection does the chapter examine before discussing varna in detail?",
+            "options": [
+              "The connection between words and their meanings",
+              "The connection between trade routes and rainfall",
+              "The connection between music and architecture",
+              "The connection between food prices and wealth"
+            ],
+            "correct": 0,
+            "explanation": "Names and forms provide the opening framework for the discussion.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+            "sourceLabel": "Chapter 17, PDF pages 69–72"
+          },
+          {
+            "q": "Which quality is symbolised by white in the chapter?",
+            "options": [
+              "The passionate or rajasic tendency",
+              "The pure or sathwic tendency",
+              "The dull or thamasic tendency",
+              "The absence of all consciousness"
+            ],
+            "correct": 1,
+            "explanation": "The colour symbolism is used to explain the three gunas.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+            "sourceLabel": "Chapter 17, PDF pages 69–72"
+          },
+          {
+            "q": "Which sequence links the factors discussed in the chapter?",
+            "options": [
+              "Wealth creates the Atma, and the Atma creates birth",
+              "Physical appearance alone determines all conduct",
+              "Desires shape intelligence, intelligence shapes action, and action shapes life",
+              "Social praise removes the need for character"
+            ],
+            "correct": 2,
+            "explanation": "The chapter connects inner tendencies with actions and their consequences.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+            "sourceLabel": "Chapter 17, PDF pages 69–72"
+          },
+          {
+            "q": "Who is the warrior described as becoming Viswamitra?",
+            "options": [
+              "Janaka",
+              "Dasaratha",
+              "Bharatha",
+              "Kausika"
+            ],
+            "correct": 3,
+            "explanation": "His transformation illustrates the importance of spiritual qualities and activity.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+            "sourceLabel": "Chapter 17, PDF pages 69–72"
+          },
+          {
+            "q": "Which mantra is associated with Viswamitra's attainment in this chapter?",
+            "options": [
+              "Gayatri",
+              "Aham Brahmasmi",
+              "Thath thwam asi",
+              "Soham"
+            ],
+            "correct": 0,
+            "explanation": "The Gayatri is described as emerging from his purified level of consciousness.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=69",
+            "sourceLabel": "Chapter 17, PDF pages 69–72"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Activity and Action",
+        "chapter": "Chapter 18 · Activity and Action",
+        "chapterNumber": 18,
+        "pdfStartPage": 73,
+        "pdfEndPage": 76,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+        "sourceLabel": "Chapter 18, PDF pages 73–76",
+        "summary": "Activity is described as unavoidable and wider than physical work: it includes thought, emotion, and speech. The chapter distinguishes activities that sustain worldly life from those directed toward spiritual elevation. It explains three categories of karma: prarabdha is the effect of past acts being experienced now, aagaami is present activity bearing future consequences, and sanchitha is the accumulated store worked out over lives. Beneath the movement of creation it posits the unmoving support of the Atma or Brahman.\n\nThe chapter explores action and inaction by showing that outward stillness does not necessarily mean freedom from activity. Work performed as duty and worship, without attachment to its fruit, allows non-action within action. Desire, intention, and repeated deeds shape the individual's direction. All work necessary for sustaining and uplifting life is treated as worthy of dedication. Krishna's instruction to Arjuna is discussed in its particular setting: Arjuna's confusion about his responsibility to oppose injustice. The concluding emphasis is that spiritual advancement deserves the same earnest effort that people commonly devote to worldly success.",
+        "qa": [
+          {
+            "q": "Which activities are included within karma?",
+            "a": "Mental, verbal, and physical activity. The chapter explicitly extends karma beyond bodily work."
+          },
+          {
+            "q": "What is prarabdha karma?",
+            "a": "Past action whose consequences are being experienced in this life. It is distinguished from aagaami and sanchitha in the opening classification."
+          },
+          {
+            "q": "What is sanchitha karma?",
+            "a": "The stored accumulation gradually worked out over lives. The chapter describes it as the accumulated store of karma."
+          },
+          {
+            "q": "How can non-action be practised within action?",
+            "a": "By acting as duty and worship without attachment to results. Inward freedom from attachment is central to the explanation."
+          },
+          {
+            "q": "In what context is Krishna's instruction to Arjuna discussed?",
+            "a": "Arjuna's duty to oppose injustice. The chapter relates the instruction to the restoration of righteousness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which activities are included within karma?",
+            "options": [
+              "Physical labour alone",
+              "Only formal ceremonies",
+              "Only actions visible to others",
+              "Mental, verbal, and physical activity"
+            ],
+            "correct": 3,
+            "explanation": "The chapter explicitly extends karma beyond bodily work.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 18, PDF pages 73–76"
+          },
+          {
+            "q": "What is prarabdha karma?",
+            "options": [
+              "Past action whose consequences are being experienced in this life",
+              "Present action that affects only future lives",
+              "The entire unexperienced store of actions",
+              "Action completely unrelated to consequences"
+            ],
+            "correct": 0,
+            "explanation": "It is distinguished from aagaami and sanchitha in the opening classification.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 18, PDF pages 73–76"
+          },
+          {
+            "q": "What is sanchitha karma?",
+            "options": [
+              "Only the action performed this morning",
+              "The stored accumulation gradually worked out over lives",
+              "Only the effects already exhausted",
+              "Complete absence of activity"
+            ],
+            "correct": 1,
+            "explanation": "The chapter describes it as the accumulated store of karma.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 18, PDF pages 73–76"
+          },
+          {
+            "q": "How can non-action be practised within action?",
+            "options": [
+              "By appearing still while craving rewards",
+              "By refusing all responsibility",
+              "By acting as duty and worship without attachment to results",
+              "By measuring every act only by personal gain"
+            ],
+            "correct": 2,
+            "explanation": "Inward freedom from attachment is central to the explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 18, PDF pages 73–76"
+          },
+          {
+            "q": "In what context is Krishna's instruction to Arjuna discussed?",
+            "options": [
+              "Arjuna's desire to acquire more possessions",
+              "Arjuna's refusal to study music",
+              "Arjuna's search for a new trade",
+              "Arjuna's duty to oppose injustice"
+            ],
+            "correct": 3,
+            "explanation": "The chapter relates the instruction to the restoration of righteousness.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=73",
+            "sourceLabel": "Chapter 18, PDF pages 73–76"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Prayer",
+        "chapter": "Chapter 19 · Prayer",
+        "chapterNumber": 19,
+        "pdfStartPage": 77,
+        "pdfEndPage": 80,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+        "sourceLabel": "Chapter 19, PDF pages 77–80",
+        "summary": "The opening example shows a farmer carefully tending a crop but still depending on conditions beyond personal control. A prayer for rain may conflict with a neighbour's prayer for a dry festival day. The chapter uses this tension to discuss divine order, comparing the governance of the cosmos with a ruler's responsibility to honour law and coordinate different departments. It identifies particular deities with particular functions, including Varuna with rain and Ganapathi with the removal of obstacles to good work.\n\nThe deeper question is the character of the person praying. Faith is tested by sincere conduct, love, compassion, and adherence to divine guidance. The chapter singles out desireless activity, action arising from unselfish love, and prayer from a pure heart as reaching God directly. It then turns to service, affirming that helping fellow beings can be worship while warning against self-promotion disguised as service. Genuine assistance should contribute to the harmony and happiness of the wider community. Dharma is compared to an elephant's broad footprint, which contains the smaller footprints of many forms of service.",
+        "qa": [
+          {
+            "q": "What conflicting requests appear in the opening example?",
+            "a": "Rain for a farmer and dry weather for a festival. The example raises the question of how individual prayers relate to a wider order."
+          },
+          {
+            "q": "Which deity is associated with rain in the chapter?",
+            "a": "Varuna. Varuna is identified with the department concerned with rain."
+          },
+          {
+            "q": "What is the test of the quality of a person's faith?",
+            "a": "Sincere practice of divine guidance. Beliefs and actions should express holiness, love, and compassion."
+          },
+          {
+            "q": "Which three are said to reach God directly?",
+            "a": "Desireless action, unselfish love, and pure-hearted prayer. These are distinguished from requests for particular benefits."
+          },
+          {
+            "q": "What does the elephant's footprint illustrate?",
+            "a": "Dharma includes service to society and humanity. The broad footprint containing smaller ones represents the inclusive scope of dharma."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What conflicting requests appear in the opening example?",
+            "options": [
+              "Wealth for a ruler and a new army",
+              "Food for a traveller and a longer journey",
+              "Rain for a farmer and dry weather for a festival",
+              "Silence for a student and a new house"
+            ],
+            "correct": 2,
+            "explanation": "The example raises the question of how individual prayers relate to a wider order.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+            "sourceLabel": "Chapter 19, PDF pages 77–80"
+          },
+          {
+            "q": "Which deity is associated with rain in the chapter?",
+            "options": [
+              "Ganapathi",
+              "Surya",
+              "Bhudevi",
+              "Varuna"
+            ],
+            "correct": 3,
+            "explanation": "Varuna is identified with the department concerned with rain.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+            "sourceLabel": "Chapter 19, PDF pages 77–80"
+          },
+          {
+            "q": "What is the test of the quality of a person's faith?",
+            "options": [
+              "Sincere practice of divine guidance",
+              "The length of a public speech",
+              "The number of requests made",
+              "The size of a material offering alone"
+            ],
+            "correct": 0,
+            "explanation": "Beliefs and actions should express holiness, love, and compassion.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+            "sourceLabel": "Chapter 19, PDF pages 77–80"
+          },
+          {
+            "q": "Which three are said to reach God directly?",
+            "options": [
+              "Wealth, social rank, and fame",
+              "Desireless action, unselfish love, and pure-hearted prayer",
+              "Argument, rivalry, and outward display",
+              "Fear, bargaining, and attachment to rewards"
+            ],
+            "correct": 1,
+            "explanation": "These are distinguished from requests for particular benefits.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+            "sourceLabel": "Chapter 19, PDF pages 77–80"
+          },
+          {
+            "q": "What does the elephant's footprint illustrate?",
+            "options": [
+              "Service is limited to one occupation",
+              "Good conduct makes compassion unnecessary",
+              "Dharma includes service to society and humanity",
+              "Individual fame is the goal of service"
+            ],
+            "correct": 2,
+            "explanation": "The broad footprint containing smaller ones represents the inclusive scope of dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=77",
+            "sourceLabel": "Chapter 19, PDF pages 77–80"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "The Primal Purpose",
+        "chapter": "Chapter 20 · The Primal Purpose",
+        "chapterNumber": 20,
+        "pdfStartPage": 81,
+        "pdfEndPage": 87,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+        "sourceLabel": "Chapter 20, PDF pages 81–87",
+        "summary": "The chapter places dharma at the foundation of peace and spiritual growth. Even charity can be weakened by pride or a desire for praise. It distinguishes information, moral discrimination, and the higher wisdom expressed through truthfulness, nonviolence, and compassion. Dharma is the measure of that wisdom. Among the four aims of life, righteousness must guide the pursuit of wealth and desire, while liberation remains the final goal. Different religious expressions are also considered in relation to their underlying spiritual purpose.\n\nThe discussion then examines the one Atma beneath the individual and the cosmos. The three gunas help explain differing appearances, as a mirror's condition affects its reflection without altering the object reflected. God is presented as the witness and giver of the consequences of action. The chapter returns repeatedly to self-knowledge: understanding the Self matters more than speculative accounts of the universe's origin. Space appears divided by containers while remaining one; similarly, consciousness underlies many beings. Vasishta's counsel directs attention toward removing ignorance through wisdom, rather than becoming entangled in arguments about its beginning.",
+        "qa": [
+          {
+            "q": "What can spoil the spiritual value of charity according to the chapter?",
+            "a": "Egotism and desire for praise. The opening discussion warns that a good outward act can carry a self-centred motive."
+          },
+          {
+            "q": "What is the measure of higher wisdom?",
+            "a": "Dharma expressed in life. Higher wisdom transforms the heart through truth, nonviolence, and compassion."
+          },
+          {
+            "q": "Which goal is presented as the culmination of the four aims of life?",
+            "a": "Liberation. Dharma should guide the pursuit of the other aims toward moksha."
+          },
+          {
+            "q": "What does the distorted-mirror illustration explain?",
+            "a": "A faulty reflection does not alter the original reality. The condition of the reflecting medium accounts for the distorted appearance."
+          },
+          {
+            "q": "What does Vasishta urge regarding ignorance?",
+            "a": "Concentrate on removing it through wisdom. The closing emphasis is on liberation from ignorance rather than speculation alone."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What can spoil the spiritual value of charity according to the chapter?",
+            "options": [
+              "Compassion for others",
+              "Egotism and desire for praise",
+              "Freedom from personal reward",
+              "Loyalty to truth"
+            ],
+            "correct": 1,
+            "explanation": "The opening discussion warns that a good outward act can carry a self-centred motive.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+            "sourceLabel": "Chapter 20, PDF pages 81–87"
+          },
+          {
+            "q": "What is the measure of higher wisdom?",
+            "options": [
+              "The number of objects one can name",
+              "The size of accumulated wealth",
+              "Dharma expressed in life",
+              "Success in argument alone"
+            ],
+            "correct": 2,
+            "explanation": "Higher wisdom transforms the heart through truth, nonviolence, and compassion.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+            "sourceLabel": "Chapter 20, PDF pages 81–87"
+          },
+          {
+            "q": "Which goal is presented as the culmination of the four aims of life?",
+            "options": [
+              "Wealth",
+              "Desire",
+              "Social recognition",
+              "Liberation"
+            ],
+            "correct": 3,
+            "explanation": "Dharma should guide the pursuit of the other aims toward moksha.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+            "sourceLabel": "Chapter 20, PDF pages 81–87"
+          },
+          {
+            "q": "What does the distorted-mirror illustration explain?",
+            "options": [
+              "A faulty reflection does not alter the original reality",
+              "Brahman loses its nature whenever a mind changes",
+              "Every reflection creates a separate Absolute",
+              "Spiritual truth depends on the shape of a physical mirror"
+            ],
+            "correct": 0,
+            "explanation": "The condition of the reflecting medium accounts for the distorted appearance.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+            "sourceLabel": "Chapter 20, PDF pages 81–87"
+          },
+          {
+            "q": "What does Vasishta urge regarding ignorance?",
+            "options": [
+              "Postpone all practice until its origin is dated",
+              "Concentrate on removing it through wisdom",
+              "Treat it as impossible to overcome",
+              "Increase attachment to changing appearances"
+            ],
+            "correct": 1,
+            "explanation": "The closing emphasis is on liberation from ignorance rather than speculation alone.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=81",
+            "sourceLabel": "Chapter 20, PDF pages 81–87"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "The Inner Inquiry",
+        "chapter": "Chapter 21 · The Inner Inquiry",
+        "chapterNumber": 21,
+        "pdfStartPage": 88,
+        "pdfEndPage": 94,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+        "sourceLabel": "Chapter 21, PDF pages 88–94",
+        "summary": "The rope mistaken for a snake illustrates how ignorance places a false appearance upon an underlying reality. The chapter applies this to the limited sense of individuality and the search for happiness outside oneself. It names attention to spiritual progress, steady faith, devotion, and divine grace as four requirements for realisation. Knowledge must become experience through the stages of knowing, visualising, and entering; merely collecting information or delivering discourses cannot complete this movement.\n\nThe chapter then develops the role of discrimination, common sense, and education directed toward human welfare. Knowledge can be used constructively or destructively, so its application requires sound judgement and character. Self-knowledge is open to all, while secular learning should also be pursued with spiritual vision. A substantial closing discussion distinguishes charity from sacrifice. Sacrifice includes surrendering the fruits of action and relinquishing hatred, jealousy, anger, and selfishness. Examples such as Sibi, Bali, Dadhichi, and Karna illustrate this spirit. The educational ideal is a person whose understanding becomes humble, courageous service and contributes to the well-being of society.",
+        "qa": [
+          {
+            "q": "What does the rope mistaken for a snake illustrate?",
+            "a": "A false appearance superimposed upon a real basis. Recognition of the rope removes the fear caused by the imagined snake."
+          },
+          {
+            "q": "Which four requirements for spiritual progress are listed?",
+            "a": "Attention, steady faith, devotion, and divine grace. The chapter says that the absence of any of these spiritual requirements obstructs the highest bliss."
+          },
+          {
+            "q": "What are the three stages for turning knowledge into experience?",
+            "a": "Knowing, visualising, and entering. The final stage involves assimilating and living what has been learned."
+          },
+          {
+            "q": "Why is discrimination necessary alongside knowledge?",
+            "a": "To direct its use toward welfare rather than destruction. The chapter's discussion of scientific applications illustrates this responsibility."
+          },
+          {
+            "q": "What does true sacrifice include beyond giving material possessions?",
+            "a": "Surrendering action's fruits and abandoning harmful qualities. Sacrifice includes inner renunciation as well as willing generosity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the rope mistaken for a snake illustrate?",
+            "options": [
+              "A false appearance superimposed upon a real basis",
+              "The creation of a second permanent reality",
+              "The destruction of the rope by thought",
+              "The impossibility of correcting a mistake"
+            ],
+            "correct": 0,
+            "explanation": "Recognition of the rope removes the fear caused by the imagined snake.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+            "sourceLabel": "Chapter 21, PDF pages 88–94"
+          },
+          {
+            "q": "Which four requirements for spiritual progress are listed?",
+            "options": [
+              "Wealth, fame, strength, and age",
+              "Attention, steady faith, devotion, and divine grace",
+              "Argument, rivalry, power, and comfort",
+              "Ritual objects, travel, rank, and possessions"
+            ],
+            "correct": 1,
+            "explanation": "The chapter says that the absence of any of these spiritual requirements obstructs the highest bliss.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+            "sourceLabel": "Chapter 21, PDF pages 88–94"
+          },
+          {
+            "q": "What are the three stages for turning knowledge into experience?",
+            "options": [
+              "Collecting, boasting, and forgetting",
+              "Hearing, sleeping, and postponing",
+              "Knowing, visualising, and entering",
+              "Comparing, competing, and withdrawing"
+            ],
+            "correct": 2,
+            "explanation": "The final stage involves assimilating and living what has been learned.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+            "sourceLabel": "Chapter 21, PDF pages 88–94"
+          },
+          {
+            "q": "Why is discrimination necessary alongside knowledge?",
+            "options": [
+              "To avoid every kind of practical action",
+              "To replace compassion with cleverness",
+              "To secure reputation without character",
+              "To direct its use toward welfare rather than destruction"
+            ],
+            "correct": 3,
+            "explanation": "The chapter's discussion of scientific applications illustrates this responsibility.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+            "sourceLabel": "Chapter 21, PDF pages 88–94"
+          },
+          {
+            "q": "What does true sacrifice include beyond giving material possessions?",
+            "options": [
+              "Surrendering action's fruits and abandoning harmful qualities",
+              "Preserving jealousy while giving gifts",
+              "Seeking power through charity",
+              "Demanding recognition for service"
+            ],
+            "correct": 0,
+            "explanation": "Sacrifice includes inner renunciation as well as willing generosity.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=88",
+            "sourceLabel": "Chapter 21, PDF pages 88–94"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "The Eternal Truths",
+        "chapter": "Chapter 22 · The Eternal Truths",
+        "chapterNumber": 22,
+        "pdfStartPage": 95,
+        "pdfEndPage": 105,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+        "sourceLabel": "Chapter 22, PDF pages 95–105",
+        "summary": "The Vedas are presented as timeless revelations received by sages and preserved through attentive oral transmission. The name sruthi points to this hearing. The chapter compares discovery of spiritual truth with recognition of a force that already exists, explaining that discovery does not create its subject. It honours Sanskrit, traditional learning, yoga, and the work of sages, while repeatedly insisting that scholarship must become lived experience. It also affirms that Vedantic knowledge is available across differences of community, faith, and sex.\n\nThe inquiry into the Self distinguishes the seer from the seen. Body, senses, mind, intellect, vital airs, and ego are examined as instruments or objects of awareness rather than the ultimate witness. The intellect is compared to a knife requiring someone to wield it, and to the moon shining by reflected light. The Atma is described as self-evident consciousness. Responsibilities across life's stages provide opportunities to deepen wisdom and service. A ripe tamarind, whose parts separate easily, illustrates the clarity produced by inquiry and selfless activity: bodily change can then be distinguished from the changeless Self.",
+        "qa": [
+          {
+            "q": "Why are the Vedas called sruthi?",
+            "a": "They were heard and transmitted by sages. The term refers to what was heard and preserved through the teacher-pupil tradition."
+          },
+          {
+            "q": "What is the point of the chapter's comparison with the discovery of gravitation?",
+            "a": "Discovery recognises something that already exists. The analogy explains the chapter's view of eternal truths being discovered rather than invented."
+          },
+          {
+            "q": "What does the sharp knife illustrate in the inquiry into the Self?",
+            "a": "The intellect needs the inner Self to function. A knife cannot cut by its own initiative; it must be wielded."
+          },
+          {
+            "q": "How is the Atma's existence ultimately established in the chapter?",
+            "a": "It is its own witness and proof. The Self is the consciousness presupposed by inquiry and experience."
+          },
+          {
+            "q": "What does the ripe tamarind illustrate?",
+            "a": "Inquiry and selfless action clarify the distinction between body and Self. Ripening allows rind, pulp, and seed to be distinguished, just as mature awareness distinguishes the Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why are the Vedas called sruthi?",
+            "options": [
+              "They were named after one royal author",
+              "They concern only visible objects",
+              "They are limited to written commentary",
+              "They were heard and transmitted by sages"
+            ],
+            "correct": 3,
+            "explanation": "The term refers to what was heard and preserved through the teacher-pupil tradition.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 22, PDF pages 95–105"
+          },
+          {
+            "q": "What is the point of the chapter's comparison with the discovery of gravitation?",
+            "options": [
+              "Discovery recognises something that already exists",
+              "A truth begins to exist only when someone names it",
+              "Spiritual truth belongs only to its place of discovery",
+              "Experience is unnecessary for understanding"
+            ],
+            "correct": 0,
+            "explanation": "The analogy explains the chapter's view of eternal truths being discovered rather than invented.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 22, PDF pages 95–105"
+          },
+          {
+            "q": "What does the sharp knife illustrate in the inquiry into the Self?",
+            "options": [
+              "The intellect acts entirely independently",
+              "The intellect needs the inner Self to function",
+              "The physical body is the ultimate witness",
+              "Instruments can always use themselves"
+            ],
+            "correct": 1,
+            "explanation": "A knife cannot cut by its own initiative; it must be wielded.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 22, PDF pages 95–105"
+          },
+          {
+            "q": "How is the Atma's existence ultimately established in the chapter?",
+            "options": [
+              "Only by bodily appearance",
+              "Only by social agreement",
+              "It is its own witness and proof",
+              "By the changing contents of dreams alone"
+            ],
+            "correct": 2,
+            "explanation": "The Self is the consciousness presupposed by inquiry and experience.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 22, PDF pages 95–105"
+          },
+          {
+            "q": "What does the ripe tamarind illustrate?",
+            "options": [
+              "Physical age alone guarantees liberation",
+              "The Atma disintegrates with the body",
+              "Spiritual knowledge prevents every bodily change",
+              "Inquiry and selfless action clarify the distinction between body and Self"
+            ],
+            "correct": 3,
+            "explanation": "Ripening allows rind, pulp, and seed to be distinguished, just as mature awareness distinguishes the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=95",
+            "sourceLabel": "Chapter 22, PDF pages 95–105"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Modes of Worship",
+        "chapter": "Chapter 23 · Modes of Worship",
+        "chapterNumber": 23,
+        "pdfStartPage": 106,
+        "pdfEndPage": 113,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+        "sourceLabel": "Chapter 23, PDF pages 106–113",
+        "summary": "The chapter explains worship as drawing near to the divine presence and experiencing the joy of adoration. Its opening discussion interprets Vedic sacrifice, sacred offerings, and the protective role of the Vedas. It then describes four approaches: sathya-vathi rests on the conviction that the Divine pervades all; anga-vathi adores divine manifestations such as fire, wind, and rain; anya-vathi contemplates symbols expressing divine attributes; and nidaana-vathi proceeds through successive stages of devotion. The fourth path includes listening, singing, remembrance, service, surrender, dedication, and intense longing for God.\n\nThe meanings of sacred symbols receive particular attention. Krishna's flute represents the egoless, desireless seeker, while other attributes express concentration, time, will, or harmony. The chapter also discusses worship through the Gita, the three Vedantic approaches, Chaithanya's devotional ecstasy, Radha-Krishna worship, and forms centred on Siva and divine energy. Its concluding survey includes Jain, Sikh, Christian, and Islamic worship as described in the book. Across this range, it presents sincere spiritual effort as a means of moving beyond sorrow and bondage toward divine awareness.",
+        "qa": [
+          {
+            "q": "What does upasana mean in this chapter?",
+            "a": "Attaining the divine presence and the bliss of adoration. The term introduces the chapter's discussion of approaches to worship."
+          },
+          {
+            "q": "Which approach rests on the conviction that the Divine pervades everything?",
+            "a": "Sathya-vathi. This is the truth-based path, founded on divine immanence."
+          },
+          {
+            "q": "Which approach adores the Divine through manifestations such as fire, wind, and rain?",
+            "a": "Anga-vathi. The manifestation-based path recognises these beneficent forms as expressions of the Divine."
+          },
+          {
+            "q": "What does Krishna's flute symbolise in the chapter?",
+            "a": "The egoless, desireless seeker. The flute appears in the discussion of symbols used in contemplation."
+          },
+          {
+            "q": "How many stages are listed for the step-by-step path?",
+            "a": "Eleven. The list continues beyond dedication to longing for union and anguish at separation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does upasana mean in this chapter?",
+            "options": [
+              "Acquiring worldly authority through argument",
+              "Rejecting every form of spiritual practice",
+              "Attaining the divine presence and the bliss of adoration",
+              "Memorising names without devotion"
+            ],
+            "correct": 2,
+            "explanation": "The term introduces the chapter's discussion of approaches to worship.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+            "sourceLabel": "Chapter 23, PDF pages 106–113"
+          },
+          {
+            "q": "Which approach rests on the conviction that the Divine pervades everything?",
+            "options": [
+              "Anga-vathi",
+              "Anya-vathi",
+              "Nidaana-vathi",
+              "Sathya-vathi"
+            ],
+            "correct": 3,
+            "explanation": "This is the truth-based path, founded on divine immanence.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+            "sourceLabel": "Chapter 23, PDF pages 106–113"
+          },
+          {
+            "q": "Which approach adores the Divine through manifestations such as fire, wind, and rain?",
+            "options": [
+              "Anga-vathi",
+              "Sathya-vathi",
+              "Anya-vathi",
+              "Nidaana-vathi"
+            ],
+            "correct": 0,
+            "explanation": "The manifestation-based path recognises these beneficent forms as expressions of the Divine.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+            "sourceLabel": "Chapter 23, PDF pages 106–113"
+          },
+          {
+            "q": "What does Krishna's flute symbolise in the chapter?",
+            "options": [
+              "The passage of time",
+              "The egoless, desireless seeker",
+              "The three periods of past, present, and future",
+              "The force of royal authority"
+            ],
+            "correct": 1,
+            "explanation": "The flute appears in the discussion of symbols used in contemplation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+            "sourceLabel": "Chapter 23, PDF pages 106–113"
+          },
+          {
+            "q": "How many stages are listed for the step-by-step path?",
+            "options": [
+              "Five",
+              "Seven",
+              "Eleven",
+              "Nine"
+            ],
+            "correct": 2,
+            "explanation": "The list continues beyond dedication to longing for union and anguish at separation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=106",
+            "sourceLabel": "Chapter 23, PDF pages 106–113"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "The Divine Body",
+        "chapter": "Chapter 24 · The Divine Body",
+        "chapterNumber": 24,
+        "pdfStartPage": 114,
+        "pdfEndPage": 118,
+        "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+        "sourceLabel": "Chapter 24, PDF pages 114–118",
+        "summary": "The final chapter presents social functions through the image of the limbs of one divine body. Its account of the four varnas relates them to qualities and occupations, and explicitly says that appearance or family birth alone cannot determine them. Each limb has an indispensable role; none provides a basis for claims of superiority over another. The chapter criticises narrow and selfish interpretations and identifies service to humanity as service to the Lord. It also affirms the common humanity underlying these distinctions.\n\nThe discussion then turns to Brahman as the witness and the basis of the universe. The world is described as relatively real in practical experience but not independently or permanently real. The image of a painting on a canvas helps explain its dependence upon Brahman. Four preparations for the Vedantic path are listed: discrimination, detachment from pleasures, the disciplines of self-mastery, and a strong yearning for liberation. The conclusion distinguishes immediate liberation through wisdom from gradual liberation through worship, study, and discipline, and describes devotion as love for God for His own sake.",
+        "qa": [
+          {
+            "q": "What does the image of four limbs of one body emphasise?",
+            "a": "The interdependence and importance of all social functions. Each limb contributes to the well-being of the whole."
+          },
+          {
+            "q": "What does the chapter say should determine varna?",
+            "a": "Character and occupation, rather than appearance or birth alone. The chapter explicitly relates its classification to qualities and activities."
+          },
+          {
+            "q": "How is the universe's reality described?",
+            "a": "Relatively real, dependent on Brahman. Its changing existence is distinguished from the unchanging ultimate reality."
+          },
+          {
+            "q": "Which set matches the four preparations for the Vedantic path?",
+            "a": "Discrimination, detachment, self-mastery, and yearning for liberation. The chapter lists these qualifications before discussing liberation."
+          },
+          {
+            "q": "What distinction is made between immediate and gradual liberation?",
+            "a": "Wisdom brings immediate liberation; worship, study, and discipline lead gradually. The final passage distinguishes these two modes while defining devotion as supreme love."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the image of four limbs of one body emphasise?",
+            "options": [
+              "The right of one group to despise another",
+              "The interdependence and importance of all social functions",
+              "The absence of any need for service",
+              "The separation of humanity into unrelated beings"
+            ],
+            "correct": 1,
+            "explanation": "Each limb contributes to the well-being of the whole.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+            "sourceLabel": "Chapter 24, PDF pages 114–118"
+          },
+          {
+            "q": "What does the chapter say should determine varna?",
+            "options": [
+              "Family birth alone, regardless of conduct",
+              "Wealth alone",
+              "Character and occupation, rather than appearance or birth alone",
+              "Physical appearance alone"
+            ],
+            "correct": 2,
+            "explanation": "The chapter explicitly relates its classification to qualities and activities.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+            "sourceLabel": "Chapter 24, PDF pages 114–118"
+          },
+          {
+            "q": "How is the universe's reality described?",
+            "options": [
+              "Permanently independent of Brahman",
+              "Entirely without practical appearance",
+              "More enduring than its divine basis",
+              "Relatively real, dependent on Brahman"
+            ],
+            "correct": 3,
+            "explanation": "Its changing existence is distinguished from the unchanging ultimate reality.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+            "sourceLabel": "Chapter 24, PDF pages 114–118"
+          },
+          {
+            "q": "Which set matches the four preparations for the Vedantic path?",
+            "options": [
+              "Discrimination, detachment, self-mastery, and yearning for liberation",
+              "Wealth, rank, fame, and comfort",
+              "Argument, travel, display, and rivalry",
+              "Physical strength, age, possessions, and ancestry"
+            ],
+            "correct": 0,
+            "explanation": "The chapter lists these qualifications before discussing liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+            "sourceLabel": "Chapter 24, PDF pages 114–118"
+          },
+          {
+            "q": "What distinction is made between immediate and gradual liberation?",
+            "options": [
+              "Wealth brings immediate liberation; age brings it gradually",
+              "Wisdom brings immediate liberation; worship, study, and discipline lead gradually",
+              "Both depend only on family birth",
+              "Neither has any relation to spiritual understanding"
+            ],
+            "correct": 1,
+            "explanation": "The final passage distinguishes these two modes while defining devotion as supreme love.",
+            "type": "recall",
+            "sourceUrl": "assets/sathya-sai-vahini.pdf#page=114",
+            "sourceLabel": "Chapter 24, PDF pages 114–118"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Sathya Sai Vahini PDF. These study summaries and questions are paraphrases; consult the linked chapter for the full teaching.",
+    "coverage": "All 24 chapters in the supplied edition"
   },
   {
     "id": "sutra",
