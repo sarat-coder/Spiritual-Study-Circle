@@ -8744,897 +8744,7681 @@ window.VAHINI_BOOKS = [
     "id": "prema-vahini",
     "title": "Prema Vahini",
     "hindiTitle": "प्रेम वाहिनी",
-    "subtitle": "The stream of divine love",
-    "description": "Explore character, spiritual study, and loving service.",
-    "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Prema.pdf",
+    "subtitle": "The Stream of Divine Love",
+    "description": "Study all 73 numbered sections of Bhagawan Sri Sathya Sai Baba’s Prema Vahini in their original order, with fuller English summaries, five questions and answers, and five source-based quiz questions for each section.",
+    "sourceUrl": "assets/prema-vahini.pdf",
+    "pdfUrl": "assets/prema-vahini.pdf",
     "topics": [
       {
-        "id": "prema-character",
-        "title": "Cultivating character",
-        "chapter": "Noble Qualities from the Path for the Aspirant",
-        "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-        "summary": "Daily choices form habits. Patience, generosity, and love gradually shape the character that gives learning its value.",
+        "id": "chapter-01",
+        "title": "Good character is spiritual power",
+        "chapter": "Section 1 · Good character is spiritual power",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 8,
+        "sourceUrl": "assets/prema-vahini.pdf#page=8",
+        "sourceLabel": "Section 1, PDF page 8",
+        "summary": "The opening section asks why suffering persists despite opportunities for education and wealth. Its answer centres on conduct: learning alone cannot supply the strength that comes from a good character. The book recalls Buddha, Jesus, Sankara, and Vivekananda as people remembered for their character, rather than merely for their intellectual accomplishments.\n\nCharacter is compared to a flower’s fragrance. Position, riches, and scholarship lose their value when this essential quality is absent. The section distinguishes an enduring, pure character from behaviour that changes with social fashion. It presents spiritual effort as necessary for developing this lasting strength and connects its enduring nature with the Atma.",
         "qa": [
           {
-            "q": "Can character change?",
-            "a": "Yes. Deliberately improving habitual thoughts and actions reshapes character."
+            "q": "What does the section identify as spiritual power?",
+            "a": "Good character. Character supplies the enduring strength emphasised in the opening teaching."
+          },
+          {
+            "q": "What image illustrates character?",
+            "a": "The fragrance of a flower. Fragrance expresses the essential quality that gives a flower its value."
+          },
+          {
+            "q": "Why are the great teachers mentioned remembered?",
+            "a": "For their character. Their example supports the section’s emphasis on lived goodness."
+          },
+          {
+            "q": "What is insufficient without good character?",
+            "a": "Wealth, position, and learning. External accomplishments do not replace the strength of character."
+          },
+          {
+            "q": "How is flawless character distinguished from social fashions?",
+            "a": "It remains constant. The book associates its enduring quality with the Atma."
           }
         ],
         "quiz": [
           {
-            "q": "Which practice builds character?",
+            "q": "What does the section identify as spiritual power?",
+            "options": [
+              "Good character",
+              "Social rank",
+              "Accumulated wealth",
+              "Mere scholarship"
+            ],
+            "correct": 0,
+            "explanation": "Character supplies the enduring strength emphasised in the opening teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          },
+          {
+            "q": "What image illustrates character?",
+            "options": [
+              "The height of a mountain",
+              "The fragrance of a flower",
+              "The current of a river",
+              "The weight of gold"
+            ],
+            "correct": 1,
+            "explanation": "Fragrance expresses the essential quality that gives a flower its value.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          },
+          {
+            "q": "Why are the great teachers mentioned remembered?",
+            "options": [
+              "For their property",
+              "For their political offices",
+              "For their character",
+              "For their clothing"
+            ],
+            "correct": 2,
+            "explanation": "Their example supports the section’s emphasis on lived goodness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          },
+          {
+            "q": "What is insufficient without good character?",
+            "options": [
+              "Truthfulness",
+              "Compassion",
+              "Spiritual effort",
+              "Wealth, position, and learning"
+            ],
+            "correct": 3,
+            "explanation": "External accomplishments do not replace the strength of character.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          },
+          {
+            "q": "How is flawless character distinguished from social fashions?",
+            "options": [
+              "It remains constant",
+              "It follows every new fashion",
+              "It depends on public applause",
+              "It disappears with education"
+            ],
+            "correct": 0,
+            "explanation": "The book associates its enduring quality with the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          }
+        ]
+      },
+      {
+        "id": "chapter-02",
+        "title": "Reshape character by cultivating noble qualities",
+        "chapter": "Section 2 · Reshape character by cultivating noble qualities",
+        "chapterNumber": 2,
+        "pdfStartPage": 8,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/prema-vahini.pdf#page=8",
+        "sourceLabel": "Section 2, PDF pages 8–9",
+        "summary": "Love, patience, forbearance, steadfastness, and charity are presented as qualities worth cultivating. Repeated actions leave impressions that shape habits, outlook, and character. Character is therefore something that can be consciously reshaped. The examples of Angulimala and Rathnakara illustrate the possibility of a profound change in a person’s life.\n\nService, renunciation, devotion, prayer, and reasoning help redirect established tendencies. Spiritual reading has a place in this process only when it leads to practice. The section explains that the purpose of spiritual writing, including Sanathana Sarathi, is to improve character. Displaying erudition or winning recognition does not fulfil that purpose.",
+        "qa": [
+          {
+            "q": "What helps form character through repetition?",
+            "a": "Daily actions and habits. Repeated actions leave impressions that shape outlook and behaviour."
+          },
+          {
+            "q": "Which quality is specifically encouraged?",
+            "a": "Forbearance. Forbearance belongs to the noble qualities listed in the section."
+          },
+          {
+            "q": "What do Angulimala and Rathnakara illustrate?",
+            "a": "Character can be transformed. Their examples support the possibility of moral transformation."
+          },
+          {
+            "q": "What is the stated purpose of spiritual writing?",
+            "a": "Reshaping character. The writing is intended to encourage a better way of living."
+          },
+          {
+            "q": "What must accompany reading?",
+            "a": "Practice. Reading fulfils its purpose when its teachings are put into action."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What helps form character through repetition?",
+            "options": [
+              "A person’s name alone",
+              "Clothing alone",
+              "Birthplace alone",
+              "Daily actions and habits"
+            ],
+            "correct": 3,
+            "explanation": "Repeated actions leave impressions that shape outlook and behaviour.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "Which quality is specifically encouraged?",
+            "options": [
+              "Forbearance",
+              "Envy",
+              "Conceit",
+              "Impatience"
+            ],
+            "correct": 0,
+            "explanation": "Forbearance belongs to the noble qualities listed in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "What do Angulimala and Rathnakara illustrate?",
+            "options": [
+              "Habits can never change",
+              "Character can be transformed",
+              "Learning makes practice unnecessary",
+              "Wealth guarantees goodness"
+            ],
+            "correct": 1,
+            "explanation": "Their examples support the possibility of moral transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "What is the stated purpose of spiritual writing?",
+            "options": [
+              "Displaying scholarship",
+              "Seeking fame",
+              "Reshaping character",
+              "Entertaining rivalry"
+            ],
+            "correct": 2,
+            "explanation": "The writing is intended to encourage a better way of living.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "What must accompany reading?",
+            "options": [
+              "Boasting",
+              "Argument for its own sake",
+              "Neglect of conduct",
+              "Practice"
+            ],
+            "correct": 3,
+            "explanation": "Reading fulfils its purpose when its teachings are put into action.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "Read life histories of saints and sages",
+        "chapter": "Section 3 · Read life histories of saints and sages",
+        "chapterNumber": 3,
+        "pdfStartPage": 9,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/prema-vahini.pdf#page=9",
+        "sourceLabel": "Section 3, PDF page 9",
+        "summary": "The section questions the assumption that abundant books, schools, and teachers automatically produce wisdom. Desire, anger, envy, and selfishness can still obscure a person’s spiritual understanding. Collecting information without changing one’s inner life leaves this obstruction in place. The reader is urged to discriminate when choosing what to study.\n\nA book’s attractive binding, title, or pictures are not a sufficient guide to its value. Reading merely for passing pleasure can scatter the mind rather than bring peace. The recommended reading includes the lives of saints and sages and works that encourage contemplation of God. Their value lies in the direction they give to practice and character.",
+        "qa": [
+          {
+            "q": "What does a large collection of books fail to guarantee?",
+            "a": "Wisdom. The section separates the possession of books from spiritual understanding."
+          },
+          {
+            "q": "Which tendency is described as obscuring understanding?",
+            "a": "Envy. Envy appears among the inner obstacles to wisdom."
+          },
+          {
+            "q": "What should guide the selection of books?",
+            "a": "Discrimination. The reader should consider a book’s spiritual value."
+          },
+          {
+            "q": "Which reading is recommended?",
+            "a": "Lives of saints and sages. Such lives encourage contemplation and the practice of noble qualities."
+          },
+          {
+            "q": "What can aimless reading produce?",
+            "a": "Confusion instead of peace. Reading needs a clear purpose and a connection with practice."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does a large collection of books fail to guarantee?",
+            "options": [
+              "Printed pages",
+              "Different titles",
+              "Wisdom",
+              "Reading opportunities"
+            ],
+            "correct": 2,
+            "explanation": "The section separates the possession of books from spiritual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF page 9"
+          },
+          {
+            "q": "Which tendency is described as obscuring understanding?",
+            "options": [
+              "Patience",
+              "Charity",
+              "Truthfulness",
+              "Envy"
+            ],
+            "correct": 3,
+            "explanation": "Envy appears among the inner obstacles to wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF page 9"
+          },
+          {
+            "q": "What should guide the selection of books?",
+            "options": [
+              "Discrimination",
+              "Attractive bindings alone",
+              "Pictures alone",
+              "Titles alone"
+            ],
+            "correct": 0,
+            "explanation": "The reader should consider a book’s spiritual value.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF page 9"
+          },
+          {
+            "q": "Which reading is recommended?",
+            "options": [
+              "Works selected only for their covers",
+              "Lives of saints and sages",
+              "Anything that increases envy",
+              "Reading chosen solely for passing excitement"
+            ],
+            "correct": 1,
+            "explanation": "Such lives encourage contemplation and the practice of noble qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF page 9"
+          },
+          {
+            "q": "What can aimless reading produce?",
+            "options": [
+              "Automatic realisation",
+              "Freedom from all habits",
+              "Confusion instead of peace",
+              "Perfect concentration without effort"
+            ],
+            "correct": 2,
+            "explanation": "Reading needs a clear purpose and a connection with practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF page 9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Cultivate one-pointedness and equal vision",
+        "chapter": "Section 4 · Cultivate one-pointedness and equal vision",
+        "chapterNumber": 4,
+        "pdfStartPage": 9,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/prema-vahini.pdf#page=9",
+        "sourceLabel": "Section 4, PDF pages 9–10",
+        "summary": "One-pointedness and an impartial outlook are presented as important spiritual qualities. The way a person sees the world depends upon the condition of the mind. The illustration of coloured glasses explains how one’s own viewpoint can alter what seems to be outside. Love and faith should therefore extend equally to others.\n\nThe section also considers the role of teachers in directing physical, mental, and intellectual powers. Constant criticism of others distracts from this work. Sages were human beings who developed themselves through a method of living and practice. Their example is an invitation to follow that discipline, rather than to spend one’s attention searching for their faults.",
+        "qa": [
+          {
+            "q": "Which pair of qualities is emphasised?",
+            "a": "One-pointedness and equal vision. Steadiness and impartiality support spiritual progress."
+          },
+          {
+            "q": "What do coloured glasses illustrate?",
+            "a": "Outlook colours one’s experience of the world. The example directs attention to the observer’s own viewpoint."
+          },
+          {
+            "q": "How should love be extended?",
+            "a": "Equally to all. Equal vision is linked with an inclusive attitude of love."
+          },
+          {
+            "q": "What should teachers help direct?",
+            "a": "Physical, mental, and intellectual powers. Education is connected with the development of the person’s capacities."
+          },
+          {
+            "q": "What response to the sages is encouraged?",
+            "a": "Following their method of practice. Their human example shows a path that others can follow."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which pair of qualities is emphasised?",
+            "options": [
+              "Pride and rivalry",
+              "One-pointedness and equal vision",
+              "Wealth and status",
+              "Suspicion and argument"
+            ],
+            "correct": 1,
+            "explanation": "Steadiness and impartiality support spiritual progress.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 4, PDF pages 9–10"
+          },
+          {
+            "q": "What do coloured glasses illustrate?",
+            "options": [
+              "The world changes with clothing",
+              "Learning depends on eyesight alone",
+              "Outlook colours one’s experience of the world",
+              "All external objects are identical in shape"
+            ],
+            "correct": 2,
+            "explanation": "The example directs attention to the observer’s own viewpoint.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 4, PDF pages 9–10"
+          },
+          {
+            "q": "How should love be extended?",
+            "options": [
+              "Only to admirers",
+              "Only to relatives",
+              "Only to scholars",
+              "Equally to all"
+            ],
+            "correct": 3,
+            "explanation": "Equal vision is linked with an inclusive attitude of love.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 4, PDF pages 9–10"
+          },
+          {
+            "q": "What should teachers help direct?",
+            "options": [
+              "Physical, mental, and intellectual powers",
+              "Only the desire for possessions",
+              "Only outward appearance",
+              "Only competitive pride"
+            ],
+            "correct": 0,
+            "explanation": "Education is connected with the development of the person’s capacities.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 4, PDF pages 9–10"
+          },
+          {
+            "q": "What response to the sages is encouraged?",
+            "options": [
+              "Searching continually for their faults",
+              "Following their method of practice",
+              "Treating discipline as unnecessary",
+              "Assuming their example cannot help anyone"
+            ],
+            "correct": 1,
+            "explanation": "Their human example shows a path that others can follow.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=9",
+            "sourceLabel": "Section 4, PDF pages 9–10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "First search and correct faults within yourself",
+        "chapter": "Section 5 · First search and correct faults within yourself",
+        "chapterNumber": 5,
+        "pdfStartPage": 10,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/prema-vahini.pdf#page=10",
+        "sourceLabel": "Section 5, PDF page 10",
+        "summary": "The first task of spiritual practice is to discover and correct one’s own faults. Attention that is continually turned toward the failings of others misses this essential work. The section compares a well-lived day, followed by refreshing sleep, with a well-used life that reaches a peaceful completion.\n\nThe value of life depends upon how time is used, rather than its length alone. Even people with apparently similar circumstances may develop very differently because their habits differ. Habits shape behaviour, and behaviour shapes character. This connection makes self-examination practical: changing the repeated patterns of daily life changes the direction in which a person grows.",
+        "qa": [
+          {
+            "q": "What is the first task described?",
+            "a": "Correcting one’s own faults. Spiritual effort begins with honest self-examination."
+          },
+          {
+            "q": "What is compared with a peaceful completion of life?",
+            "a": "Refreshing sleep after a well-lived day. The comparison links daily conduct with the quality of life’s completion."
+          },
+          {
+            "q": "What matters more than the length of life alone?",
+            "a": "Wise use of time. A short life can be used meaningfully through proper effort."
+          },
+          {
+            "q": "Why may people in similar conditions develop differently?",
+            "a": "Their habits differ. Habits help account for different patterns of development."
+          },
+          {
+            "q": "What does repeated behaviour help shape?",
+            "a": "Character. The section connects habits, behaviour, and character."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the first task described?",
+            "options": [
+              "Correcting one’s own faults",
+              "Cataloguing everyone else’s faults",
+              "Seeking public praise",
+              "Comparing possessions"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual effort begins with honest self-examination.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What is compared with a peaceful completion of life?",
+            "options": [
+              "Winning an argument",
+              "Refreshing sleep after a well-lived day",
+              "Buying a new house",
+              "Receiving a title"
+            ],
+            "correct": 1,
+            "explanation": "The comparison links daily conduct with the quality of life’s completion.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What matters more than the length of life alone?",
+            "options": [
+              "Social reputation",
+              "The number of possessions",
+              "Wise use of time",
+              "The number of journeys"
+            ],
+            "correct": 2,
+            "explanation": "A short life can be used meaningfully through proper effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "Why may people in similar conditions develop differently?",
+            "options": [
+              "Their conditions force identical results",
+              "Character has no connection with conduct",
+              "Time has no influence on action",
+              "Their habits differ"
+            ],
+            "correct": 3,
+            "explanation": "Habits help account for different patterns of development.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What does repeated behaviour help shape?",
+            "options": [
+              "Character",
+              "Only physical height",
+              "Only a person’s name",
+              "Only the weather"
+            ],
+            "correct": 0,
+            "explanation": "The section connects habits, behaviour, and character.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Life is a selfless loving sacrifice",
+        "chapter": "Section 6 · Life is a selfless loving sacrifice",
+        "chapterNumber": 6,
+        "pdfStartPage": 10,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/prema-vahini.pdf#page=10",
+        "sourceLabel": "Section 6, PDF page 10",
+        "summary": "Life is described as more than a succession of eating, working, and sleeping. It can become a yajna, a loving sacrifice in which each action is offered to God. A day spent in this spirit gives a different meaning even to rest. The central obstacle is identifying the self entirely with the body.\n\nPossessions, power, and social position cannot make the body permanent or prevent death. The appropriate response is to purify body, mind, and spirit through service to all. The body should be maintained as an instrument for this service. Caring for it has a purpose, but mistaking it for one’s true identity obscures that purpose.",
+        "qa": [
+          {
+            "q": "What can the whole of life become?",
+            "a": "A selfless loving sacrifice. Yajna gives everyday action the character of an offering."
+          },
+          {
+            "q": "Which identification is questioned?",
+            "a": "Identifying the self wholly with the body. The section distinguishes the instrument of service from the true Self."
+          },
+          {
+            "q": "What cannot prevent death?",
+            "a": "Possessions and power. The book stresses the impermanence of worldly security."
+          },
+          {
+            "q": "How should body, mind, and spirit be purified?",
+            "a": "Through service to all. Service gives practical expression to a dedicated life."
+          },
+          {
+            "q": "Why should the body be preserved?",
+            "a": "To serve as an instrument of service. Care of the body is related to its useful purpose."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What can the whole of life become?",
+            "options": [
+              "A search for status alone",
+              "A collection of possessions alone",
+              "An escape from every duty",
+              "A selfless loving sacrifice"
+            ],
+            "correct": 3,
+            "explanation": "Yajna gives everyday action the character of an offering.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 6, PDF page 10"
+          },
+          {
+            "q": "Which identification is questioned?",
+            "options": [
+              "Identifying the self wholly with the body",
+              "Recognising a duty to serve",
+              "Valuing purity",
+              "Offering action to God"
+            ],
+            "correct": 0,
+            "explanation": "The section distinguishes the instrument of service from the true Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 6, PDF page 10"
+          },
+          {
+            "q": "What cannot prevent death?",
+            "options": [
+              "No worldly possession is discussed",
+              "Possessions and power",
+              "Only poverty",
+              "Only manual work"
+            ],
+            "correct": 1,
+            "explanation": "The book stresses the impermanence of worldly security.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 6, PDF page 10"
+          },
+          {
+            "q": "How should body, mind, and spirit be purified?",
+            "options": [
+              "Through pride in rank",
+              "Through neglect of others",
+              "Through service to all",
+              "Through accumulation alone"
+            ],
+            "correct": 2,
+            "explanation": "Service gives practical expression to a dedicated life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 6, PDF page 10"
+          },
+          {
+            "q": "Why should the body be preserved?",
+            "options": [
+              "To make it immortal",
+              "To establish superiority",
+              "To replace spiritual understanding",
+              "To serve as an instrument of service"
+            ],
+            "correct": 3,
+            "explanation": "Care of the body is related to its useful purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=10",
+            "sourceLabel": "Section 6, PDF page 10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Thou art That (Thath-twam-asi)",
+        "chapter": "Section 7 · Thou art That (Thath-twam-asi)",
+        "chapterNumber": 7,
+        "pdfStartPage": 11,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/prema-vahini.pdf#page=11",
+        "sourceLabel": "Section 7, PDF page 11",
+        "summary": "This section explains Thath-twam-asi through the identity of the individual with the indestructible Atma. The body has been given as an instrument for the welfare of the world. It should be watched over and protected so that the duties for which it is needed can be fulfilled.\n\nThe illustration of winter clothing clarifies the body’s instrumental role. Warm clothing is useful while the cold lasts; its usefulness depends upon the need it serves. In the same way, the body is to be understood in relation to its purpose, rather than mistaken for the lasting Self. The teaching joins knowledge of the Atma with responsible service.",
+        "qa": [
+          {
+            "q": "What does Thath-twam-asi express here?",
+            "a": "Identity with the indestructible Atma. The section explains the saying through the enduring Self."
+          },
+          {
+            "q": "For what purpose is the body given?",
+            "a": "The welfare of the world. The body is presented as a God-given instrument of service."
+          },
+          {
+            "q": "How should the body be treated while its duty remains?",
+            "a": "Protected from injury. Its care enables the fulfilment of its purpose."
+          },
+          {
+            "q": "Which illustration is used?",
+            "a": "Clothing worn in winter. The usefulness of winter clothing illustrates an instrument serving a need."
+          },
+          {
+            "q": "What is described as indestructible?",
+            "a": "The Atma. The distinction between Atma and body is central to the section."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Thath-twam-asi express here?",
+            "options": [
+              "Identity with possessions",
+              "The permanence of clothing",
+              "Identity with the indestructible Atma",
+              "The superiority of status"
+            ],
+            "correct": 2,
+            "explanation": "The section explains the saying through the enduring Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "For what purpose is the body given?",
+            "options": [
+              "Endless self-display",
+              "Avoidance of every duty",
+              "Competition for recognition",
+              "The welfare of the world"
+            ],
+            "correct": 3,
+            "explanation": "The body is presented as a God-given instrument of service.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "How should the body be treated while its duty remains?",
+            "options": [
+              "Protected from injury",
+              "Deliberately damaged",
+              "Ignored entirely",
+              "Worshipped as the only reality"
+            ],
+            "correct": 0,
+            "explanation": "Its care enables the fulfilment of its purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "Which illustration is used?",
+            "options": [
+              "A ship crossing an ocean",
+              "Clothing worn in winter",
+              "A seed becoming a tree",
+              "A lamp in a temple"
+            ],
+            "correct": 1,
+            "explanation": "The usefulness of winter clothing illustrates an instrument serving a need.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "What is described as indestructible?",
+            "options": [
+              "The body",
+              "Winter clothing",
+              "The Atma",
+              "Worldly possessions"
+            ],
+            "correct": 2,
+            "explanation": "The distinction between Atma and body is central to the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Consecrate every act as worship of the Lord",
+        "chapter": "Section 8 · Consecrate every act as worship of the Lord",
+        "chapterNumber": 8,
+        "pdfStartPage": 11,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/prema-vahini.pdf#page=11",
+        "sourceLabel": "Section 8, PDF page 11",
+        "summary": "The section presents creation as the materials of worship, the individual as the worshipper, and God as the one worshipped. The things used in worship are changing and impermanent, but every action can still become an offering. The devotee is encouraged to welcome opportunities for service with joy.\n\nActions throughout the day should have the purity of fresh flowers placed in worship. Consecration is therefore not confined to a particular ceremony or hour. When service becomes continuous, the divisions expressed by “mine” and “yours” begin to disappear. Daily life acquires unity through its common purpose of serving and worshipping the Lord.",
+        "qa": [
+          {
+            "q": "What is compared to the materials of worship?",
+            "a": "Creation. The whole created world is placed within the image of worship."
+          },
+          {
+            "q": "Who is the worshipper in this image?",
+            "a": "The individual. The individual offers actions and materials to the Lord."
+          },
+          {
+            "q": "What opportunities should be welcomed joyfully?",
+            "a": "Opportunities for service. Service is treated as an occasion for worship."
+          },
+          {
+            "q": "What should daily actions resemble in purity?",
+            "a": "Fresh flowers offered in worship. The flower image emphasises the quality of the offering."
+          },
+          {
+            "q": "What distinctions diminish through continuous service?",
+            "a": "Mine and yours. Dedicated service weakens possessiveness and separation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is compared to the materials of worship?",
+            "options": [
+              "Personal pride",
+              "Creation",
+              "Argument",
+              "Social status"
+            ],
+            "correct": 1,
+            "explanation": "The whole created world is placed within the image of worship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 8, PDF page 11"
+          },
+          {
+            "q": "Who is the worshipper in this image?",
+            "options": [
+              "Only the flowers",
+              "Only the sky",
+              "The individual",
+              "Only the earth"
+            ],
+            "correct": 2,
+            "explanation": "The individual offers actions and materials to the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 8, PDF page 11"
+          },
+          {
+            "q": "What opportunities should be welcomed joyfully?",
+            "options": [
+              "Opportunities for boasting",
+              "Opportunities for quarrelling",
+              "Opportunities for avoiding duty",
+              "Opportunities for service"
+            ],
+            "correct": 3,
+            "explanation": "Service is treated as an occasion for worship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 8, PDF page 11"
+          },
+          {
+            "q": "What should daily actions resemble in purity?",
+            "options": [
+              "Fresh flowers offered in worship",
+              "Hoarded coins",
+              "Worn-out garments",
+              "Clouds of dust"
+            ],
+            "correct": 0,
+            "explanation": "The flower image emphasises the quality of the offering.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 8, PDF page 11"
+          },
+          {
+            "q": "What distinctions diminish through continuous service?",
+            "options": [
+              "Morning and evening on a clock",
+              "Mine and yours",
+              "Different flower colours",
+              "The names of the seasons"
+            ],
+            "correct": 1,
+            "explanation": "Dedicated service weakens possessiveness and separation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 8, PDF page 11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Fill every deed with service, devotion, wisdom",
+        "chapter": "Section 9 · Fill every deed with service, devotion, wisdom",
+        "chapterNumber": 9,
+        "pdfStartPage": 11,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/prema-vahini.pdf#page=11",
+        "sourceLabel": "Section 9, PDF pages 11–12",
+        "summary": "Action, devotion, and wisdom are presented as an integrated whole. They should not be treated as isolated stages that exclude one another. The sweet called Mysore paak supplies the illustration: its sweetness, weight, and shape belong to the same piece. Eating it affects these aspects together rather than separately.\n\nIn the same way, a deed can contain service, love, and understanding at once. The section connects this unity with the identity of the individual, the Atma, and the Supreme. It calls for the practice of this understanding, rather than verbal discussion alone. Remembrance of the Lord’s name accompanies the joy of such integrated action.",
+        "qa": [
+          {
+            "q": "Which three are brought together?",
+            "a": "Action, devotion, and wisdom. Karma, bhakthi, and jnana are shown as aspects of one integrated practice."
+          },
+          {
+            "q": "Which sweet supplies the illustration?",
+            "a": "Mysore paak. Its qualities illustrate inseparable aspects of a single thing."
+          },
+          {
+            "q": "Which features of the sweet are considered?",
+            "a": "Sweetness, weight, and shape. These features belong to the same piece and change together when it is eaten."
+          },
+          {
+            "q": "What should fill every deed?",
+            "a": "Service, devotion, and wisdom. The teaching is meant to unite these qualities in action."
+          },
+          {
+            "q": "What is required beyond speaking about this unity?",
+            "a": "Putting it into practice. The section directs attention from words to lived understanding."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which three are brought together?",
+            "options": [
+              "Action, devotion, and wisdom",
+              "Wealth, rank, and fame",
+              "Sleep, anger, and pride",
+              "Argument, doubt, and envy"
+            ],
+            "correct": 0,
+            "explanation": "Karma, bhakthi, and jnana are shown as aspects of one integrated practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 9, PDF pages 11–12"
+          },
+          {
+            "q": "Which sweet supplies the illustration?",
+            "options": [
+              "No food is mentioned",
+              "Mysore paak",
+              "Only milk",
+              "Only fruit"
+            ],
+            "correct": 1,
+            "explanation": "Its qualities illustrate inseparable aspects of a single thing.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 9, PDF pages 11–12"
+          },
+          {
+            "q": "Which features of the sweet are considered?",
+            "options": [
+              "Price, age, and colour only",
+              "Heat, sound, and smell only",
+              "Sweetness, weight, and shape",
+              "Origin, owner, and wrapper"
+            ],
+            "correct": 2,
+            "explanation": "These features belong to the same piece and change together when it is eaten.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 9, PDF pages 11–12"
+          },
+          {
+            "q": "What should fill every deed?",
+            "options": [
+              "Anxiety over praise",
+              "Competition and jealousy",
+              "Concern for appearances alone",
+              "Service, devotion, and wisdom"
+            ],
+            "correct": 3,
+            "explanation": "The teaching is meant to unite these qualities in action.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 9, PDF pages 11–12"
+          },
+          {
+            "q": "What is required beyond speaking about this unity?",
+            "options": [
+              "Putting it into practice",
+              "Collecting more titles",
+              "Winning debates",
+              "Avoiding remembrance of God"
+            ],
+            "correct": 0,
+            "explanation": "The section directs attention from words to lived understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=11",
+            "sourceLabel": "Section 9, PDF pages 11–12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "I and you, we, should become He",
+        "chapter": "Section 10 · I and you, we, should become He",
+        "chapterNumber": 10,
+        "pdfStartPage": 12,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/prema-vahini.pdf#page=12",
+        "sourceLabel": "Section 10, PDF page 12",
+        "summary": "The offering of action to God brings personal good, higher good, and the highest good together. The section describes a movement from the separation of “I” and “you” to “we,” and from “we” to identity with Him. Individual life, nature, and the supreme Lord are considered in this light.\n\nOm Tat Sat is connected with the identity of the individual and the universal. This understanding is not intended to remain an occasional thought. Spiritual practice should be continuous. The relationship of the sun and its rays illustrates inseparability: the rays cannot be understood as independent of their source. The teaching calls for this connected awareness throughout life.",
+        "qa": [
+          {
+            "q": "Into what should “I” and “you” first be brought?",
+            "a": "We. The section uses this progression to describe the overcoming of separation."
+          },
+          {
+            "q": "What is the further movement described for “we”?",
+            "a": "Identity with Him. The movement points toward unity with the supreme Lord."
+          },
+          {
+            "q": "Which expression is associated with individual and universal identity?",
+            "a": "Om Tat Sat. The section uses this sacred expression in explaining unity."
+          },
+          {
+            "q": "How should spiritual practice continue?",
+            "a": "Constantly. Continuity is part of the section’s instruction."
+          },
+          {
+            "q": "Which image illustrates inseparability?",
+            "a": "The sun and its rays. The rays are inseparable from their source."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Into what should “I” and “you” first be brought?",
+            "options": [
+              "Mine alone",
+              "Rival groups",
+              "Separate possessions",
+              "We"
+            ],
+            "correct": 3,
+            "explanation": "The section uses this progression to describe the overcoming of separation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 10, PDF page 12"
+          },
+          {
+            "q": "What is the further movement described for “we”?",
+            "options": [
+              "Identity with Him",
+              "Greater personal pride",
+              "Isolation from everyone",
+              "Dependence on praise"
+            ],
+            "correct": 0,
+            "explanation": "The movement points toward unity with the supreme Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 10, PDF page 12"
+          },
+          {
+            "q": "Which expression is associated with individual and universal identity?",
+            "options": [
+              "A statement about social rank",
+              "Om Tat Sat",
+              "A rule about clothing",
+              "A description of wealth"
+            ],
+            "correct": 1,
+            "explanation": "The section uses this sacred expression in explaining unity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 10, PDF page 12"
+          },
+          {
+            "q": "How should spiritual practice continue?",
+            "options": [
+              "Only when praised",
+              "Only after all worldly tasks end",
+              "Constantly",
+              "Only during argument"
+            ],
+            "correct": 2,
+            "explanation": "Continuity is part of the section’s instruction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 10, PDF page 12"
+          },
+          {
+            "q": "Which image illustrates inseparability?",
+            "options": [
+              "Two unrelated stones",
+              "A broken vessel",
+              "A closed book",
+              "The sun and its rays"
+            ],
+            "correct": 3,
+            "explanation": "The rays are inseparable from their source.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 10, PDF page 12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Shed attachment to worldly pleasures, develop attachment to God",
+        "chapter": "Section 11 · Shed attachment to worldly pleasures, develop attachment to God",
+        "chapterNumber": 11,
+        "pdfStartPage": 12,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/prema-vahini.pdf#page=12",
+        "sourceLabel": "Section 11, PDF page 12",
+        "summary": "A moral life and the fulfilment of duty help cleanse the heart. When effort becomes tiring, the aspirant is encouraged to pray for strength. The Lord’s guidance is compared with a teacher watching a pupil learn to write. Growth involves the pupil’s effort as well as this helping presence.\n\nGood deeds and service weaken attachment to worldly pleasures and foster attachment to God. The image of sunlight outside a closed door suggests that help is near even when it is not admitted. When the door opens, the light enters. Discrimination directs the person toward prayer, while wisdom sustains remembrance of the Lord.",
+        "qa": [
+          {
+            "q": "What helps cleanse the heart?",
+            "a": "A moral life and the fulfilment of duty. The section links purity with conduct and duty."
+          },
+          {
+            "q": "What should an aspirant seek in prayer when tired?",
+            "a": "Strength. Prayer supports continued spiritual effort."
+          },
+          {
+            "q": "Which educational image is used?",
+            "a": "A teacher watching a pupil write. The image illustrates guidance during the learner’s effort."
+          },
+          {
+            "q": "What does the closed-door illustration involve?",
+            "a": "Sunlight waiting to enter. Opening the door allows the already-present light to enter."
+          },
+          {
+            "q": "Which activities help redirect attachment toward God?",
+            "a": "Good deeds and service. These actions accompany the lessening of attachment to passing pleasures."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What helps cleanse the heart?",
+            "options": [
+              "Neglect of responsibility",
+              "Attachment to praise",
+              "A moral life and the fulfilment of duty",
+              "Rivalry"
+            ],
+            "correct": 2,
+            "explanation": "The section links purity with conduct and duty.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 11, PDF page 12"
+          },
+          {
+            "q": "What should an aspirant seek in prayer when tired?",
+            "options": [
+              "Superiority over others",
+              "Escape from all good deeds",
+              "More reasons to complain",
+              "Strength"
+            ],
+            "correct": 3,
+            "explanation": "Prayer supports continued spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 11, PDF page 12"
+          },
+          {
+            "q": "Which educational image is used?",
+            "options": [
+              "A teacher watching a pupil write",
+              "A pupil selling books",
+              "A school without teachers",
+              "A contest for prizes"
+            ],
+            "correct": 0,
+            "explanation": "The image illustrates guidance during the learner’s effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 11, PDF page 12"
+          },
+          {
+            "q": "What does the closed-door illustration involve?",
+            "options": [
+              "A river drying up",
+              "Sunlight waiting to enter",
+              "A mountain moving",
+              "A lamp losing its flame"
+            ],
+            "correct": 1,
+            "explanation": "Opening the door allows the already-present light to enter.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 11, PDF page 12"
+          },
+          {
+            "q": "Which activities help redirect attachment toward God?",
+            "options": [
+              "Hoarding and boasting",
+              "Criticism and envy",
+              "Good deeds and service",
+              "Neglect and indifference"
+            ],
+            "correct": 2,
+            "explanation": "These actions accompany the lessening of attachment to passing pleasures.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 11, PDF page 12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Good character, virtue is wisdom",
+        "chapter": "Section 12 · Good character, virtue is wisdom",
+        "chapterNumber": 12,
+        "pdfStartPage": 12,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/prema-vahini.pdf#page=12",
+        "sourceLabel": "Section 12, PDF pages 12–13",
+        "summary": "Wisdom is more than intellectual possession. What is understood must be absorbed into life, just as food must be chewed, digested, and assimilated before it becomes strength. Good conduct and virtue show that this assimilation has occurred. Food itself supports the body so that the body can fulfil its service.\n\nThe section gives three purposes of action. Yajna relates action to worship of God through the world. Dana serves peace and justice in society. Tapas concerns the coordination and discipline of the body. These purposes bring ordinary activity within spiritual life. Even work such as tending a garden can take on the character of worship when performed with this understanding.",
+        "qa": [
+          {
+            "q": "How is the assimilation of wisdom illustrated?",
+            "a": "By food becoming strength through digestion. Knowledge must be absorbed into conduct as food is absorbed by the body."
+          },
+          {
+            "q": "What demonstrates wisdom in life?",
+            "a": "Good character and virtue. The section emphasises lived understanding."
+          },
+          {
+            "q": "Which purpose is associated with yajna?",
+            "a": "Worship of God through the world. Yajna gives action a worshipful direction."
+          },
+          {
+            "q": "What is associated with dana?",
+            "a": "Peace and justice in society. Giving is related to the welfare of society."
+          },
+          {
+            "q": "What is associated with tapas?",
+            "a": "Bodily coordination and discipline. Tapas brings the instrument of action under proper control."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is the assimilation of wisdom illustrated?",
+            "options": [
+              "By storing food without eating",
+              "By food becoming strength through digestion",
+              "By counting books",
+              "By changing clothes"
+            ],
+            "correct": 1,
+            "explanation": "Knowledge must be absorbed into conduct as food is absorbed by the body.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 12, PDF pages 12–13"
+          },
+          {
+            "q": "What demonstrates wisdom in life?",
+            "options": [
+              "Intellectual display alone",
+              "Rank alone",
+              "Good character and virtue",
+              "Possessions alone"
+            ],
+            "correct": 2,
+            "explanation": "The section emphasises lived understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 12, PDF pages 12–13"
+          },
+          {
+            "q": "Which purpose is associated with yajna?",
+            "options": [
+              "Personal rivalry",
+              "Neglect of the body",
+              "Accumulation for its own sake",
+              "Worship of God through the world"
+            ],
+            "correct": 3,
+            "explanation": "Yajna gives action a worshipful direction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 12, PDF pages 12–13"
+          },
+          {
+            "q": "What is associated with dana?",
+            "options": [
+              "Peace and justice in society",
+              "Mere argument",
+              "Bodily appearance alone",
+              "The rejection of service"
+            ],
+            "correct": 0,
+            "explanation": "Giving is related to the welfare of society.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 12, PDF pages 12–13"
+          },
+          {
+            "q": "What is associated with tapas?",
             "options": [
               "Seeking applause",
-              "Repeating kind actions",
-              "Collecting titles",
-              "Displaying wealth"
+              "Bodily coordination and discipline",
+              "Avoiding all effort",
+              "Hoarding wealth"
             ],
             "correct": 1,
-            "explanation": "The correct choice identifies an action repeated in daily life.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "An impatient volunteer wants a lasting change. What should she practise?",
-            "options": [
-              "Pause before each reply",
-              "Avoid every difficult visitor",
-              "Read only on weekends",
-              "Wait for calmer visitors"
-            ],
-            "correct": 0,
-            "explanation": "A repeated pause gives her a practical opportunity to replace an established reaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A student kept a kindness habit for six days, then forgot. What next?",
-            "options": [
-              "Wait until next month",
-              "Choose an unrelated goal",
-              "Resume at the next opportunity",
-              "Count the whole effort lost"
-            ],
-            "correct": 2,
-            "explanation": "Returning promptly preserves learning without turning one missed opportunity into a permanent excuse.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Two helpers have equal skills. Which detail best demonstrates dependable character?",
-            "options": [
-              "Both know the programme history",
-              "Both have impressive qualifications",
-              "Both attend prominent events",
-              "Both treat unnoticed workers respectfully"
-            ],
-            "correct": 3,
-            "explanation": "Ordinary respectful conduct provides evidence that extends beyond credentials or public appearances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A child asks how to become more generous. Which starting task is most useful?",
-            "options": [
-              "Share materials consistently this week",
-              "Memorise famous donors' names",
-              "Design an award for generosity",
-              "Wait until earning money"
-            ],
-            "correct": 0,
-            "explanation": "A manageable daily action lets the child practise generosity within present circumstances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Someone is courteous publicly but dismissive at home. What deserves attention?",
-            "options": [
-              "Their public speaking technique",
-              "Their conduct across both settings",
-              "Their knowledge of etiquette history",
-              "Their choice of formal clothing"
-            ],
-            "correct": 1,
-            "explanation": "Comparing settings reveals whether courtesy is becoming a habit beyond situations that attract recognition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A committee wants to recognise patience. Which evidence should it seek?",
-            "options": [
-              "Fluent descriptions of patience",
-              "A long membership record",
-              "Calm responses during repeated delays",
-              "Attendance at a patience workshop"
-            ],
-            "correct": 2,
-            "explanation": "Repeated behaviour under inconvenience shows whether the quality is entering everyday conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Ravi notices he interrupts people. Which plan is easiest to evaluate?",
-            "options": [
-              "Become better sometime soon",
-              "Read every book on conversation",
-              "Avoid expressing any opinion",
-              "Let each speaker finish today"
-            ],
-            "correct": 3,
-            "explanation": "A specific action makes improvement observable in the situations where the habit appears.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A helper performs one generous act, then demands special treatment. What needs work?",
-            "options": [
-              "Making generosity a consistent disposition",
-              "Announcing the generous act clearly",
-              "Increasing the value of the gift",
-              "Explaining the helper's seniority"
-            ],
-            "correct": 0,
-            "explanation": "The later demand exposes a gap between an isolated gesture and reliable everyday behaviour.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A busy parent wants to teach kindness. Which example offers daily learning?",
-            "options": [
-              "Describe kindness only at festivals",
-              "Speak respectfully during disagreements",
-              "Reward impressive vocabulary about kindness",
-              "Keep children from every disagreement"
-            ],
-            "correct": 1,
-            "explanation": "Children can observe how a valued quality operates during ordinary, imperfect interactions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "An organiser becomes irritable when tired. Which reflection can guide improvement?",
-            "options": [
-              "Compare everyone else's mistakes",
-              "Review only successful events",
-              "Identify when irritation starts",
-              "Assume tiredness removes responsibility"
-            ],
-            "correct": 2,
-            "explanation": "Recognising the trigger creates room for a deliberate response before irritation becomes hurtful behaviour.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A learner knows many teachings but often breaks promises. What is the clearest next step?",
-            "options": [
-              "Collect more study certificates",
-              "Give a talk on reliability",
-              "Make larger promises publicly",
-              "Keep one realistic promise reliably"
-            ],
-            "correct": 3,
-            "explanation": "A modest promise kept consistently connects learning with the behaviour that currently needs improvement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A friend improves slowly after years of harsh speech. What assessment is fairest?",
-            "options": [
-              "Notice sustained small changes",
-              "Require instant flawless behaviour",
-              "Judge only the latest compliment",
-              "Ignore changes until publicly recognised"
-            ],
-            "correct": 0,
-            "explanation": "A pattern of small improvements offers better evidence than demanding immediate perfection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A team logs helpful actions. Which review best supports character development?",
-            "options": [
-              "Rank members by personal popularity",
-              "Discuss what made kindness easier",
-              "Publish only the highest totals",
-              "Compare the value of members' possessions"
-            ],
-            "correct": 1,
-            "explanation": "Exploring practical conditions helps participants repeat useful conduct rather than compete for status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A generous habit has become mechanical. How could someone renew its meaning?",
-            "options": [
-              "Increase gifts without reflection",
-              "Ask for more visible gratitude",
-              "Attend to the recipient's situation",
-              "Replace it with public discussion"
-            ],
-            "correct": 2,
-            "explanation": "Considering the person affected restores attention to the human purpose of the action.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Meera receives praise for being patient. What would best sustain her progress?",
-            "options": [
-              "Seek situations with larger audiences",
-              "Treat patience as permanently mastered",
-              "Explain why others are less patient",
-              "Continue practising when unnoticed"
-            ],
-            "correct": 3,
-            "explanation": "Continuing beyond praise tests whether patience has become dependable rather than audience dependent.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A student copies a respected mentor's clothing. What would better develop similar character?",
-            "options": [
-              "Practise the mentor's considerate conduct",
-              "Match the mentor's handwriting",
-              "Use the mentor's favourite colour",
-              "Collect photographs of the mentor"
-            ],
-            "correct": 0,
-            "explanation": "Observable conduct offers a practical example to follow beyond copying external preferences.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Someone wants fewer angry replies online. Which habit targets the problem directly?",
-            "options": [
-              "Count received reactions each evening",
-              "Reread replies before sending",
-              "Write longer profile descriptions",
-              "Follow only popular accounts"
-            ],
-            "correct": 1,
-            "explanation": "Reviewing the actual response introduces a checkpoint at the moment the unwanted habit operates.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A volunteer refuses a glamorous role to fulfil an earlier promise. What is illustrated?",
-            "options": [
-              "Lack of interest in learning",
-              "Preference for public recognition",
-              "Reliability during an inconvenient choice",
-              "Certainty that leadership is unhelpful"
-            ],
-            "correct": 2,
-            "explanation": "Keeping an existing commitment supplies concrete evidence of reliability when an attractive alternative appears.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A family reviews its week. Which question most encourages character growth?",
-            "options": [
-              "Who received the most praise?",
-              "Whose schedule looked most impressive?",
-              "Who explained our values best?",
-              "Where could we respond more patiently?"
-            ],
-            "correct": 3,
-            "explanation": "A shared practical question directs attention toward behaviour everyone can examine and improve.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "Tapas brings the instrument of action under proper control.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=12",
+            "sourceLabel": "Section 12, PDF pages 12–13"
           }
         ]
       },
       {
-        "id": "prema-study",
-        "title": "Learning through practice",
-        "chapter": "Noble Qualities from the Path for the Aspirant",
-        "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-        "summary": "Spiritual reading becomes fruitful when its lessons enter daily conduct. Understanding grows through sincere application.",
+        "id": "chapter-13",
+        "title": "Reach God by the path of truth and discrimination",
+        "chapter": "Section 13 · Reach God by the path of truth and discrimination",
+        "chapterNumber": 13,
+        "pdfStartPage": 13,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/prema-vahini.pdf#page=13",
+        "sourceLabel": "Section 13, PDF pages 13–14",
+        "summary": "The path described begins with an ethical foundation and discrimination between what is true and what is false. Keeping a pearl while discarding its shell illustrates the ability to retain what is valuable. Personal effort and divine grace work together, while understanding requires a distinction between the body and the Atma.\n\nPurity is cultivated through duties and through care over the quality and quantity of food that sustains service. The teaching must also be experienced. A person cannot learn swimming merely by remaining outside the water; the learner enters it with suitable support. Similarly, practice reveals the value of spiritual instruction, and those who have followed the path can explain it from experience.",
         "qa": [
           {
-            "q": "How can reading become useful?",
-            "a": "Choose a lesson and practise it in ordinary situations."
+            "q": "What does keeping the pearl and discarding the shell illustrate?",
+            "a": "Discrimination. The example concerns retaining what is valuable and rejecting what is not."
+          },
+          {
+            "q": "Which two are joined in spiritual progress?",
+            "a": "Personal effort and divine grace. The section does not reduce progress to words alone."
+          },
+          {
+            "q": "What distinction must be understood?",
+            "a": "Body and Atma. The body is distinguished from the enduring Self."
+          },
+          {
+            "q": "What does the swimming example emphasise?",
+            "a": "The need for actual practice. Entering the water illustrates learning through experience."
+          },
+          {
+            "q": "What aspects of food are considered?",
+            "a": "Quality and quantity. Food should support purity and the strength needed for service."
           }
         ],
         "quiz": [
           {
-            "q": "What completes spiritual reading?",
+            "q": "What does keeping the pearl and discarding the shell illustrate?",
             "options": [
-              "More shelves",
-              "Faster reading",
-              "Daily application",
-              "Public praise"
-            ],
-            "correct": 2,
-            "explanation": "The selected response connects reading with something the learner actually does.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "After reading about patience, what is a useful experiment at tomorrow's meeting?",
-            "options": [
-              "Read the passage twice aloud",
-              "Bring another book on patience",
-              "Let a slow speaker finish",
-              "Count how often patience is mentioned"
-            ],
-            "correct": 2,
-            "explanation": "The meeting supplies a concrete setting in which the reader can try the lesson.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A reading group enjoys discussion but reports little change. What should it add?",
-            "options": [
-              "Longer opening introductions",
-              "A larger list of recommended books",
-              "More detailed attendance certificates",
-              "One small practice between meetings"
-            ],
-            "correct": 3,
-            "explanation": "An agreed experiment connects discussion with lived situations that members can revisit together.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A learner highlights every paragraph. What would make the next review more useful?",
-            "options": [
-              "Describe one action actually attempted",
-              "Choose a new highlighting colour",
-              "Count all highlighted sentences",
-              "Compare the thickness of notebooks"
+              "Discrimination",
+              "Accumulation",
+              "Rivalry",
+              "Indifference"
             ],
             "correct": 0,
-            "explanation": "Reviewing an attempted action reveals what the learner understood well enough to put into use.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "The example concerns retaining what is valuable and rejecting what is not.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=13",
+            "sourceLabel": "Section 13, PDF pages 13–14"
           },
           {
-            "q": "An evening lesson concerns gentle speech. Which journal entry demonstrates application?",
+            "q": "Which two are joined in spiritual progress?",
             "options": [
-              "I finished twelve pages today",
-              "I softened my reply during disagreement",
-              "I located three editions online",
-              "I admired the chapter's presentation"
+              "Pride and envy",
+              "Personal effort and divine grace",
+              "Wealth and fame",
+              "Argument and suspicion"
             ],
             "correct": 1,
-            "explanation": "The entry records a change in conduct within a real interaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "The section does not reduce progress to words alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=13",
+            "sourceLabel": "Section 13, PDF pages 13–14"
           },
           {
-            "q": "A participant cannot remember a chapter word for word. What still shows useful learning?",
+            "q": "What distinction must be understood?",
             "options": [
-              "Reciting its publication details",
-              "Naming every chapter in order",
-              "Applying its central lesson accurately",
-              "Copying the longest paragraph neatly"
+              "Two kinds of clothing only",
+              "Rich and poor as spiritual ranks",
+              "Body and Atma",
+              "Different social titles"
             ],
             "correct": 2,
-            "explanation": "Accurate application can demonstrate understanding without requiring perfect recall of the wording.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "The body is distinguished from the enduring Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=13",
+            "sourceLabel": "Section 13, PDF pages 13–14"
           },
           {
-            "q": "A group studies generosity. Which follow-up makes the learning concrete?",
+            "q": "What does the swimming example emphasise?",
             "options": [
-              "Plan a debate about book covers",
-              "Compare members' reading speeds",
-              "Collect more quotations for display",
-              "Share an available resource thoughtfully"
+              "The sufficiency of watching from shore",
+              "The uselessness of all support",
+              "The value of avoiding experience",
+              "The need for actual practice"
             ],
             "correct": 3,
-            "explanation": "A considered act of sharing turns the subject into something participants can experience directly.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "Entering the water illustrates learning through experience.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=13",
+            "sourceLabel": "Section 13, PDF pages 13–14"
           },
           {
-            "q": "A reader finds a teaching difficult to practise at work. What helps?",
+            "q": "What aspects of food are considered?",
             "options": [
-              "Choose a smaller relevant action",
-              "Pretend the lesson was mastered",
-              "Stop noticing difficult situations",
-              "Wait for an entirely easy workplace"
+              "Quality and quantity",
+              "Price alone",
+              "Colour alone",
+              "The container alone"
             ],
             "correct": 0,
-            "explanation": "A smaller action preserves the connection to practice while making the challenge manageable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "Two people read equally much. Which evidence better reveals practical learning?",
-            "options": [
-              "How quickly they turned pages",
-              "How they handled a recent conflict",
-              "How many bookmarks they used",
-              "How attractive their notes appeared"
-            ],
-            "correct": 1,
-            "explanation": "A recent response shows how reading influenced a situation that required an actual choice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A facilitator wants a useful opening question next week. Which is best?",
-            "options": [
-              "How expensive was your edition?",
-              "Which cover did you prefer?",
-              "What happened when you tried it?",
-              "Who owns the oldest copy?"
-            ],
-            "correct": 2,
-            "explanation": "Asking about experience invites members to connect the previous lesson with their own conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A reader gives excellent advice but repeatedly ignores it. What should the reader do?",
-            "options": [
-              "Give the advice more forcefully",
-              "Find a more appreciative audience",
-              "Add more quotations to the advice",
-              "Practise one advised behaviour personally"
-            ],
-            "correct": 3,
-            "explanation": "Trying the advice personally exposes practical difficulties and reduces the gap between speech and conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A learner has only ten minutes after reading. What is a useful use of them?",
-            "options": [
-              "Plan where to practise today's lesson",
-              "List unrelated books to purchase",
-              "Compare several printing styles",
-              "Rewrite the title decoratively"
-            ],
-            "correct": 0,
-            "explanation": "A brief concrete plan can prepare the learner to recognise the next opportunity for application.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A study group proposes twenty commitments. What adjustment improves follow-through?",
-            "options": [
-              "Increase the number to thirty",
-              "Select one realistic shared practice",
-              "Keep every commitment deliberately vague",
-              "Replace practice with a reading race"
-            ],
-            "correct": 1,
-            "explanation": "A focused commitment is easier to attempt, observe, and discuss honestly at the next meeting.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A learner's first attempt at considerate speech goes badly. What next?",
-            "options": [
-              "Conclude the lesson has no value",
-              "Hide the experience from discussion",
-              "Examine the attempt and try again",
-              "Replace practice with memorisation alone"
-            ],
-            "correct": 2,
-            "explanation": "Reviewing the attempt makes difficulty part of learning instead of a reason to abandon it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A reading session ends with a summary. Which closing prompt adds value?",
-            "options": [
-              "How many pages remain unread?",
-              "Which title sounds most impressive?",
-              "Who can speak the longest?",
-              "Where will you try this today?"
-            ],
-            "correct": 3,
-            "explanation": "The prompt asks the learner to connect understanding with a specific upcoming situation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "An organiser measures learning only by pages completed. What additional measure is useful?",
-            "options": [
-              "Examples of thoughtful changes in conduct",
-              "The number of decorative headings",
-              "The weight of each participant's book",
-              "The size of the meeting room"
-            ],
-            "correct": 0,
-            "explanation": "Concrete examples reveal whether reading is influencing choices beyond the reading session.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A person reads about fairness before assigning chores. What is the relevant next step?",
-            "options": [
-              "Finish another chapter before deciding",
-              "Consider everyone's capacity when assigning work",
-              "Quote the lesson after assigning randomly",
-              "Ask who knows the lesson best"
-            ],
-            "correct": 1,
-            "explanation": "The immediate decision offers a practical opportunity to apply consideration rather than merely discuss it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A learner practised listening once. How can the next week deepen the lesson?",
-            "options": [
-              "Assume listening is now fully mastered",
-              "Repeat only the written definition",
-              "Wait for a formal examination",
-              "Try it in another ordinary conversation"
-            ],
-            "correct": 3,
-            "explanation": "Trying the same lesson in another setting tests whether understanding transfers into everyday life.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "A group wants notes that support action. Which format is most useful?",
-            "options": [
-              "Lesson, attempted action, observed result",
-              "Title, cover colour, purchase price",
-              "Page count, reading speed, shelf location",
-              "Font size, binding style, paper weight"
-            ],
-            "correct": 0,
-            "explanation": "Recording an action and its result makes the notes useful for reflection and improvement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
-          },
-          {
-            "q": "After studying gratitude, someone writes a thoughtful thank-you to an overlooked helper. What occurred?",
-            "options": [
-              "Reading was replaced by scholarship",
-              "A lesson became a concrete action",
-              "The topic became a competition",
-              "The helper completed the reader's practice"
-            ],
-            "correct": 1,
-            "explanation": "The message applies an idea to a real relationship where appreciation can be expressed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — Noble Qualities from the Path for the Aspirant"
+            "explanation": "Food should support purity and the strength needed for service.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=13",
+            "sourceLabel": "Section 13, PDF pages 13–14"
           }
         ]
       },
       {
-        "id": "prema-service",
-        "title": "Devotion in service",
-        "chapter": "The Harvest of a Sadhaka",
-        "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-        "summary": "Remembering God, serving others, and extending equal love belong together. Examine personal faults and welcome correction.",
+        "id": "chapter-14",
+        "title": "Meditate on God as truth and love",
+        "chapter": "Section 14 · Meditate on God as truth and love",
+        "chapterNumber": 14,
+        "pdfStartPage": 14,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/prema-vahini.pdf#page=14",
+        "sourceLabel": "Section 14, PDF page 14",
+        "summary": "God is presented as truth and love, and the devotee is directed to meditate on the form chosen for worship. The company of devotees helps strengthen this effort. Such association fosters discrimination, detachment, and inner peace, preparing the mind for deeper absorption in the Divine.\n\nTruth must govern speech and action, with one’s abilities placed in its service. This may be difficult at first, but the section insists that truth ultimately prevails. Realisation is therefore connected with the way a person lives, not simply with what is professed. Meditation, good company, and truthful conduct are presented as mutually supporting parts of the same spiritual movement.",
         "qa": [
           {
-            "q": "How should correction be received?",
-            "a": "Reflect honestly and improve the behaviour that needs attention."
+            "q": "As what is God presented?",
+            "a": "Truth and love. These qualities provide the basis for meditation in the section."
+          },
+          {
+            "q": "On which form should the devotee meditate?",
+            "a": "The chosen form of God. The instruction refers to the form selected for worship."
+          },
+          {
+            "q": "What company is recommended?",
+            "a": "The company of devotees. Devotee association strengthens spiritual effort."
+          },
+          {
+            "q": "What should govern speech and action?",
+            "a": "Truth. Truthfulness is to be lived through one’s abilities and conduct."
+          },
+          {
+            "q": "What does the section say about the early practice of truth?",
+            "a": "It may be difficult, but truth prevails. Perseverance connects truthful conduct with realisation."
           }
         ],
         "quiz": [
           {
-            "q": "What supports sincere service?",
+            "q": "As what is God presented?",
             "options": [
-              "Recognition",
-              "Competition",
-              "Reward",
-              "Awareness of divinity"
+              "Wealth and status",
+              "Argument and victory",
+              "Fear and rivalry",
+              "Truth and love"
             ],
             "correct": 3,
-            "explanation": "The answer keeps attention on a sincere purpose beyond personal recognition.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "These qualities provide the basis for meditation in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 14, PDF page 14"
           },
           {
-            "q": "A volunteer notices a quiet newcomer being overlooked. What best expresses inclusive service?",
+            "q": "On which form should the devotee meditate?",
             "options": [
-              "Attend only to regular participants",
-              "Wait until the newcomer earns recognition",
-              "Offer help only during announcements",
-              "Ask what assistance the newcomer needs"
+              "The chosen form of God",
+              "A different form every moment",
+              "Only an imagined possession",
+              "Only one’s public image"
+            ],
+            "correct": 0,
+            "explanation": "The instruction refers to the form selected for worship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 14, PDF page 14"
+          },
+          {
+            "q": "What company is recommended?",
+            "options": [
+              "Company chosen for flattery",
+              "The company of devotees",
+              "Company that cultivates envy",
+              "Company devoted only to dispute"
+            ],
+            "correct": 1,
+            "explanation": "Devotee association strengthens spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 14, PDF page 14"
+          },
+          {
+            "q": "What should govern speech and action?",
+            "options": [
+              "Convenience alone",
+              "Public applause",
+              "Truth",
+              "Personal rivalry"
+            ],
+            "correct": 2,
+            "explanation": "Truthfulness is to be lived through one’s abilities and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 14, PDF page 14"
+          },
+          {
+            "q": "What does the section say about the early practice of truth?",
+            "options": [
+              "It never requires effort",
+              "It matters only in speech",
+              "It should be abandoned at the first obstacle",
+              "It may be difficult, but truth prevails"
             ],
             "correct": 3,
-            "explanation": "A direct invitation makes room for someone whose needs might otherwise remain unnoticed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Perseverance connects truthful conduct with realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 14, PDF page 14"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Eschew selfishness, conceit, and pride",
+        "chapter": "Section 15 · Eschew selfishness, conceit, and pride",
+        "chapterNumber": 15,
+        "pdfStartPage": 14,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/prema-vahini.pdf#page=14",
+        "sourceLabel": "Section 15, PDF page 14",
+        "summary": "Selfish habits produce discontent because the wish for more power or possession has no natural end. The section reminds the reader that omnipotence belongs to God. Wealth, learning, and talents should not become grounds for claiming independent greatness; their ultimate source is the Lord.\n\nTruth, kindness, love, patience, forbearance, and gratitude are to be developed without ego. Egotism is compared to a mist that hides the sun and to a screen that conceals what is already near. Removing it allows the joy of the divine presence to be recognised. The task is therefore an inward change of attitude, rather than a further enlargement of personal importance.",
+        "qa": [
+          {
+            "q": "What results from selfish habits?",
+            "a": "Discontent. Selfish craving repeatedly seeks more and remains unsatisfied."
           },
           {
-            "q": "A helper is corrected for speaking sharply. What response best supports improvement?",
-            "options": [
-              "Listen and reconsider the interaction",
-              "Explain why seniority settles the matter",
-              "Avoid the person permanently",
-              "List the other person's shortcomings"
-            ],
-            "correct": 0,
-            "explanation": "Considering the actual interaction allows useful feedback to guide a change in behaviour.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "q": "To whom does omnipotence belong in the teaching?",
+            "a": "God. The section contrasts divine power with personal conceit."
           },
           {
-            "q": "A service team expects photographs but none are taken. What should guide its effort?",
-            "options": [
-              "The likelihood of later publicity",
-              "The work still needed by recipients",
-              "The number of spectators present",
-              "The organiser's position in photographs"
-            ],
-            "correct": 1,
-            "explanation": "Recipient needs remain relevant even when the opportunity for public recognition disappears.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "q": "How should talents and learning be regarded?",
+            "a": "As ultimately derived from the Lord. This attitude counters pride in personal attainments."
           },
           {
-            "q": "A donor offers identical supplies to everyone, though needs differ. What improves the service?",
+            "q": "What is compared to mist hiding the sun?",
+            "a": "Egotism. Ego obscures the recognition of divine joy."
+          },
+          {
+            "q": "Which quality belongs to the virtues encouraged?",
+            "a": "Gratitude. Gratitude accompanies truth, kindness, love, and patience."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What results from selfish habits?",
             "options": [
-              "Measure fairness only by identical parcels",
-              "Choose recipients by personal friendship",
-              "Ask about needs before distributing",
-              "Keep the supplies until thanked publicly"
+              "Lasting satisfaction through greed",
+              "Automatic humility",
+              "Discontent",
+              "Freedom from desire"
             ],
             "correct": 2,
-            "explanation": "Listening helps equal respect produce assistance suited to the people receiving it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Selfish craving repeatedly seeks more and remains unsatisfied.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 15, PDF page 14"
           },
           {
-            "q": "A volunteer finds an unnoticed error in their work. What is the best response?",
+            "q": "To whom does omnipotence belong in the teaching?",
             "options": [
-              "Leave it because nobody complained",
-              "Mention only the team's successful work",
-              "Wait for someone else to discover it",
-              "Correct it and inform affected people"
+              "Every wealthy person",
+              "Every scholar",
+              "Every ruler",
+              "God"
             ],
             "correct": 3,
-            "explanation": "Taking responsibility protects those affected and turns self-examination into a useful repair.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "The section contrasts divine power with personal conceit.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 15, PDF page 14"
           },
           {
-            "q": "A team serves familiar and unfamiliar visitors. Which approach best expresses equal regard?",
+            "q": "How should talents and learning be regarded?",
             "options": [
-              "Use the same respectful welcome",
-              "Reserve explanations for familiar visitors",
-              "Offer priority according to compliments",
-              "Let recognition determine courtesy"
+              "As ultimately derived from the Lord",
+              "As proof of independent superiority",
+              "As reasons to reject gratitude",
+              "As substitutes for kindness"
             ],
             "correct": 0,
-            "explanation": "A consistent welcome prevents personal familiarity from deciding who receives basic consideration.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "This attitude counters pride in personal attainments.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 15, PDF page 14"
           },
           {
-            "q": "A helper starts resenting another volunteer's praise. What reflection is most useful?",
+            "q": "What is compared to mist hiding the sun?",
             "options": [
-              "Compete for a more visible assignment",
-              "Return attention to the shared task",
-              "Question every compliment publicly",
-              "Withdraw help until equally praised"
+              "Gratitude",
+              "Egotism",
+              "Forbearance",
+              "Charity"
             ],
             "correct": 1,
-            "explanation": "Refocusing on the task reduces the influence of comparisons on the service being offered.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Ego obscures the recognition of divine joy.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 15, PDF page 14"
           },
           {
-            "q": "Someone apologises but continues the same dismissive behaviour. What is still needed?",
+            "q": "Which quality belongs to the virtues encouraged?",
             "options": [
-              "A more elaborate explanation",
-              "Another public apology photograph",
-              "A concrete change in future interactions",
-              "A description of good intentions"
+              "Conceit",
+              "Envy",
+              "Gratitude",
+              "Greed"
             ],
             "correct": 2,
-            "explanation": "Future behaviour determines whether the apology has led to a meaningful improvement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Gratitude accompanies truth, kindness, love, and patience.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 15, PDF page 14"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Avoid argumentation and exhibition of scholarship",
+        "chapter": "Section 16 · Avoid argumentation and exhibition of scholarship",
+        "chapterNumber": 16,
+        "pdfStartPage": 14,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/prema-vahini.pdf#page=14",
+        "sourceLabel": "Section 16, PDF pages 14–15",
+        "summary": "Ego can undermine years of discipline. Scholarship and spiritual power without realisation are compared with a wall that lacks a foundation. Scriptures are intended to guide daily practice, not merely to supply material for intellectual display. Knowing a prediction of rain is not the same as obtaining water from the page on which it is printed.\n\nThe section warns against the conceit of supposing that one knows everything. Instructions must be followed if their destination is to be reached. Another illustration contrasts the confused noise of a distant market with the understandable transactions heard on approaching it. Practice brings a clarity that distant argument and the display of learning cannot provide.",
+        "qa": [
+          {
+            "q": "What can undermine years of discipline?",
+            "a": "Ego. Spiritual effort is vulnerable when conceit is allowed to grow."
           },
           {
-            "q": "A service group has limited supplies. Which decision process shows equal concern?",
+            "q": "What illustrates learning without a sound spiritual basis?",
+            "a": "A wall without a foundation. The missing foundation represents the absence of realisation."
+          },
+          {
+            "q": "Why is an almanac mentioned?",
+            "a": "A rain prediction cannot itself supply water. Information must not be confused with the experience it describes."
+          },
+          {
+            "q": "What attitude is specifically warned against?",
+            "a": "Thinking one knows everything. Intellectual pride obstructs genuine understanding."
+          },
+          {
+            "q": "What does approaching the market illustrate?",
+            "a": "Practice makes what seemed confused clearer. Direct engagement reveals the meaning behind distant commotion."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What can undermine years of discipline?",
             "options": [
-              "Favour those who know organisers",
-              "Reward the most enthusiastic praise",
-              "Choose whoever promises future donations",
-              "Use transparent need-based criteria"
+              "Humility",
+              "Ego",
+              "Truthfulness",
+              "Forbearance"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual effort is vulnerable when conceit is allowed to grow.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 16, PDF pages 14–15"
+          },
+          {
+            "q": "What illustrates learning without a sound spiritual basis?",
+            "options": [
+              "A well-rooted tree",
+              "A clear spring",
+              "A wall without a foundation",
+              "A properly guided journey"
+            ],
+            "correct": 2,
+            "explanation": "The missing foundation represents the absence of realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 16, PDF pages 14–15"
+          },
+          {
+            "q": "Why is an almanac mentioned?",
+            "options": [
+              "It replaces all spiritual practice",
+              "It proves reading is forbidden",
+              "It guarantees realisation",
+              "A rain prediction cannot itself supply water"
             ],
             "correct": 3,
-            "explanation": "Clear criteria help the group respond fairly when it cannot meet every request.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Information must not be confused with the experience it describes.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 16, PDF pages 14–15"
           },
           {
-            "q": "A volunteer dislikes a visitor's manner. What remains appropriate?",
+            "q": "What attitude is specifically warned against?",
             "options": [
-              "Provide respectful help within the role",
-              "Make help depend on personal liking",
-              "Ask others to ignore the visitor",
-              "Offer help only after an apology"
+              "Thinking one knows everything",
+              "Admitting the need for practice",
+              "Learning with humility",
+              "Following a useful instruction"
             ],
             "correct": 0,
-            "explanation": "Respectful assistance can remain consistent even when a personal interaction feels uncomfortable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Intellectual pride obstructs genuine understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 16, PDF pages 14–15"
           },
           {
-            "q": "A leader notices a junior's useful suggestion. How should the leader respond?",
+            "q": "What does approaching the market illustrate?",
             "options": [
-              "Reject it because of junior status",
-              "Consider it on its merits",
-              "Accept it only if uncredited",
-              "Delay it until a senior repeats it"
+              "Distance always gives the fullest understanding",
+              "Practice makes what seemed confused clearer",
+              "Noise is the goal of study",
+              "Every transaction must be avoided"
             ],
             "correct": 1,
-            "explanation": "Evaluating the suggestion itself makes cooperation possible beyond differences in status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Direct engagement reveals the meaning behind distant commotion.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=14",
+            "sourceLabel": "Section 16, PDF pages 14–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Avoid doubters and ignorant people",
+        "chapter": "Section 17 · Avoid doubters and ignorant people",
+        "chapterNumber": 17,
+        "pdfStartPage": 15,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/prema-vahini.pdf#page=15",
+        "sourceLabel": "Section 17, PDF page 15",
+        "summary": "The devotee is called to remain grounded in truth, righteousness, love, and peace, regardless of praise or blame and gain or loss. Even divine incarnations have faced criticism. The existence of criticism is therefore not a reason to abandon faith or the search for truth.\n\nFor the aspirant, unproductive argument and the company of people who continually unsettle conviction can become distractions. The section recommends the company of devotees as an early support. Once truth has been experienced and understanding is firm, the person can help others more widely. Its emphasis is on protecting developing steadiness rather than spending spiritual effort on endless disputes.",
+        "qa": [
+          {
+            "q": "Which qualities should ground the devotee?",
+            "a": "Truth, righteousness, love, and peace. These are the qualities named as the devotee’s foundation."
           },
           {
-            "q": "A helper wants to combine reflection with service. Which practice fits?",
-            "options": [
-              "Count how often their name appeared",
-              "Compare compliments received by teammates",
-              "Review whether actions respected each person",
-              "Judge recipients by how grateful they seemed"
-            ],
-            "correct": 2,
-            "explanation": "Reviewing treatment of people connects inner reflection with the quality of outward service.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "q": "How should praise and blame affect steadfastness?",
+            "a": "Neither should dislodge it. The teaching calls for steadiness amid changing reactions."
           },
           {
-            "q": "A volunteer learns that their assumption embarrassed a recipient. What next?",
+            "q": "Who, according to the section, has also faced criticism?",
+            "a": "Divine incarnations. Criticism is not treated as proof that the spiritual path is false."
+          },
+          {
+            "q": "What association is recommended early in practice?",
+            "a": "Company of devotees. Supportive association helps the aspirant become steady."
+          },
+          {
+            "q": "When can the person help others more widely?",
+            "a": "After truth has been experienced and understanding is firm. Established understanding supplies a firmer basis for helping others."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which qualities should ground the devotee?",
             "options": [
-              "Acknowledge it and ask respectfully",
-              "Insist the intention cancels the impact",
-              "Explain the recipient to other volunteers",
-              "Avoid asking questions in future"
+              "Truth, righteousness, love, and peace",
+              "Fame, wealth, rank, and power",
+              "Suspicion, envy, anger, and pride",
+              "Argument, display, rivalry, and fear"
             ],
             "correct": 0,
-            "explanation": "Acknowledgment and respectful inquiry help repair the interaction without defending the mistaken assumption.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "These are the qualities named as the devotee’s foundation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 17, PDF page 15"
           },
           {
-            "q": "A group completes a successful event. Which debrief supports continuing service?",
+            "q": "How should praise and blame affect steadfastness?",
             "options": [
-              "Compare whose role looked most impressive",
-              "Discuss unmet needs and useful improvements",
-              "Rank recipients by enthusiasm",
-              "Review only praise posted publicly"
+              "Praise alone should determine it",
+              "Neither should dislodge it",
+              "Blame should end all practice",
+              "Both should replace faith"
             ],
             "correct": 1,
-            "explanation": "Examining remaining needs keeps attention on improving assistance after the celebration ends.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "The teaching calls for steadiness amid changing reactions.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 17, PDF page 15"
           },
           {
-            "q": "A helper promises more time than they can give. What best serves recipients?",
+            "q": "Who, according to the section, has also faced criticism?",
             "options": [
-              "Keep the promise and hope",
-              "Avoid discussing availability",
-              "Offer a realistic commitment and keep it",
-              "Make additional promises to reassure everyone"
+              "Only people without learning",
+              "Only the poor",
+              "Divine incarnations",
+              "No spiritual figure"
             ],
             "correct": 2,
-            "explanation": "A reliable commitment lets others plan and reduces disruption caused by unrealistic assurances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Criticism is not treated as proof that the spiritual path is false.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 17, PDF page 15"
           },
           {
-            "q": "A volunteer has the wrong skills for a request. What is the most helpful response?",
+            "q": "What association is recommended early in practice?",
             "options": [
-              "Pretend expertise to avoid embarrassment",
-              "Reject the request without explanation",
-              "Take over to retain personal credit",
-              "Connect the person with suitable assistance"
+              "Company devoted to unsettling faith",
+              "Company centred on flattery",
+              "Company that seeks quarrels",
+              "Company of devotees"
             ],
             "correct": 3,
-            "explanation": "Finding suitable help prioritises the person's need over the volunteer's wish to appear capable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Supportive association helps the aspirant become steady.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 17, PDF page 15"
           },
           {
-            "q": "A recipient declines an offered activity. How can a helper preserve respect?",
+            "q": "When can the person help others more widely?",
             "options": [
-              "Listen and offer appropriate alternatives",
-              "Treat refusal as ingratitude",
-              "Continue without asking again",
-              "Make other help conditional on joining"
+              "After truth has been experienced and understanding is firm",
+              "Before any effort at understanding",
+              "Only after gaining wealth",
+              "Only after winning every dispute"
             ],
             "correct": 0,
-            "explanation": "Listening acknowledges the recipient as a participant whose preferences matter in the interaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Established understanding supplies a firmer basis for helping others.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 17, PDF page 15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Develop devotion and faith",
+        "chapter": "Section 18 · Develop devotion and faith",
+        "chapterNumber": 18,
+        "pdfStartPage": 15,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/prema-vahini.pdf#page=15",
+        "sourceLabel": "Section 18, PDF pages 15–16",
+        "summary": "Three responses to difficulty are distinguished. Some people never begin because they fear obstacles. Others begin but stop when obstacles appear. The highest response is to persevere with courage and calmness. The section associates this steadfastness with the devotee who values lasting happiness above temporary attractions.\n\nIt also sets out a relationship among love, faith, wisdom, and supreme devotion. Love gives rise to faith; faith supports wisdom; and wisdom leads toward the highest devotion through which the Lord is attained. These qualities are not presented as unrelated possessions. They form a connected growth of spiritual life, supported by the determination to continue when the path becomes difficult.",
+        "qa": [
+          {
+            "q": "What characterises the first of the three types described?",
+            "a": "Not beginning because of fear. Fear prevents this type from making a start."
           },
           {
-            "q": "A volunteer sees another person's mistake and remembers making it before. What helps?",
+            "q": "What characterises the middle type?",
+            "a": "Beginning but stopping at obstacles. Initial effort is not sustained when trouble comes."
+          },
+          {
+            "q": "What characterises the highest type?",
+            "a": "Courageous and calm perseverance. Steadfast effort is associated with the devotee."
+          },
+          {
+            "q": "What gives rise to faith in the sequence described?",
+            "a": "Love. The section places love at the beginning of this spiritual growth."
+          },
+          {
+            "q": "What follows wisdom in that sequence?",
+            "a": "Supreme devotion. Wisdom supports the highest devotion directed toward the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What characterises the first of the three types described?",
             "options": [
-              "Use the mistake to gain status",
-              "Offer correction with humility",
-              "Discuss it widely before speaking privately",
-              "Pretend mistakes never need attention"
+              "Persevering through every obstacle",
+              "Completing every task",
+              "Possessing perfect devotion",
+              "Not beginning because of fear"
+            ],
+            "correct": 3,
+            "explanation": "Fear prevents this type from making a start.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 18, PDF pages 15–16"
+          },
+          {
+            "q": "What characterises the middle type?",
+            "options": [
+              "Beginning but stopping at obstacles",
+              "Never encountering difficulty",
+              "Persisting with complete calm",
+              "Refusing to begin at all"
+            ],
+            "correct": 0,
+            "explanation": "Initial effort is not sustained when trouble comes.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 18, PDF pages 15–16"
+          },
+          {
+            "q": "What characterises the highest type?",
+            "options": [
+              "Dependence on applause",
+              "Courageous and calm perseverance",
+              "Avoidance of all effort",
+              "Abandonment at the first setback"
             ],
             "correct": 1,
-            "explanation": "Humility allows necessary correction without turning another person's difficulty into personal advantage.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "Steadfast effort is associated with the devotee.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 18, PDF pages 15–16"
           },
           {
-            "q": "A team wants to honour an anonymous helper. What best respects the helper's preference?",
+            "q": "What gives rise to faith in the sequence described?",
             "options": [
-              "Publish the name as a surprise",
-              "Withhold thanks until publicity is accepted",
-              "Express thanks without revealing identity",
-              "Make identification a future condition"
+              "Envy",
+              "Wealth",
+              "Love",
+              "Argument"
             ],
             "correct": 2,
-            "explanation": "Respecting the stated preference keeps appreciation connected to care for the person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/premavahini.html",
-            "sourceLabel": "Prema Vahini — The Harvest of a Sadhaka"
+            "explanation": "The section places love at the beginning of this spiritual growth.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 18, PDF pages 15–16"
+          },
+          {
+            "q": "What follows wisdom in that sequence?",
+            "options": [
+              "Greater conceit",
+              "A desire for status",
+              "Abandonment of faith",
+              "Supreme devotion"
+            ],
+            "correct": 3,
+            "explanation": "Wisdom supports the highest devotion directed toward the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=15",
+            "sourceLabel": "Section 18, PDF pages 15–16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Cultivate love through two methods",
+        "chapter": "Section 19 · Cultivate love through two methods",
+        "chapterNumber": 19,
+        "pdfStartPage": 16,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/prema-vahini.pdf#page=16",
+        "sourceLabel": "Section 19, PDF page 16",
+        "summary": "Two methods are given for developing love. The first is to overlook other people’s faults while taking one’s own seriously enough to repent and improve. This nurtures fellow-feeling and forbearance. The second is to remember that God is everywhere, seeing and hearing all, so that speech and action become truthful and right.\n\nThe body is treated as a temple, and the wider world is also related to the Lord. Mind, speech, and body each have a discipline: freedom from attachment and hatred, freedom from falsehood, and freedom from violence. Peace and joy are to be discovered within. Seeking them through accumulating desires instead brings sorrow.",
+        "qa": [
+          {
+            "q": "What is the first method for cultivating love?",
+            "a": "Overlook others’ faults and correct one’s own. Repentance and self-correction foster forbearance."
+          },
+          {
+            "q": "What remembrance forms the second method?",
+            "a": "God is omnipresent. Awareness of the divine presence encourages truthful conduct."
+          },
+          {
+            "q": "What discipline is prescribed for speech?",
+            "a": "Avoid falsehood. Truthful speech is one of the three disciplines."
+          },
+          {
+            "q": "What discipline is prescribed for the body?",
+            "a": "Avoid violence. Bodily action should not cause harm."
+          },
+          {
+            "q": "Where are peace and joy to be found?",
+            "a": "Within. The section contrasts inward joy with the sorrow produced by desire."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the first method for cultivating love?",
+            "options": [
+              "Hide one’s faults and expose others’",
+              "Seek constant praise",
+              "Overlook others’ faults and correct one’s own",
+              "Avoid all self-examination"
+            ],
+            "correct": 2,
+            "explanation": "Repentance and self-correction foster forbearance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 19, PDF page 16"
+          },
+          {
+            "q": "What remembrance forms the second method?",
+            "options": [
+              "Wealth is permanent",
+              "Reputation never changes",
+              "Every desire must be satisfied",
+              "God is omnipresent"
+            ],
+            "correct": 3,
+            "explanation": "Awareness of the divine presence encourages truthful conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 19, PDF page 16"
+          },
+          {
+            "q": "What discipline is prescribed for speech?",
+            "options": [
+              "Avoid falsehood",
+              "Increase argument",
+              "Praise oneself",
+              "Conceal every mistake"
+            ],
+            "correct": 0,
+            "explanation": "Truthful speech is one of the three disciplines.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 19, PDF page 16"
+          },
+          {
+            "q": "What discipline is prescribed for the body?",
+            "options": [
+              "Seek comfort at any cost",
+              "Avoid violence",
+              "Display superiority",
+              "Neglect service"
+            ],
+            "correct": 1,
+            "explanation": "Bodily action should not cause harm.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 19, PDF page 16"
+          },
+          {
+            "q": "Where are peace and joy to be found?",
+            "options": [
+              "Only in possessions",
+              "Only in public recognition",
+              "Within",
+              "Only in satisfying new desires"
+            ],
+            "correct": 2,
+            "explanation": "The section contrasts inward joy with the sorrow produced by desire.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 19, PDF page 16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "See the macrocosm in the microcosm",
+        "chapter": "Section 20 · See the macrocosm in the microcosm",
+        "chapterNumber": 20,
+        "pdfStartPage": 16,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/prema-vahini.pdf#page=16",
+        "sourceLabel": "Section 20, PDF pages 16–17",
+        "summary": "The section explains worship through an image by relating the small representation to the universal Divine. The fullness of the Divine is not diminished by being approached through such a form. Comparisons and images can make a vast meaning accessible, just as a simile can clarify the meaning of poetry.\n\nJoy in a form depends on the loving relationship established with it, rather than its outward appearance alone. A mother’s love for her child illustrates this point. The teaching then extends the principle beyond a single image: establishing a relationship of divine love with all brings joy. The particular form becomes a means of recognising a wider spiritual relationship.",
+        "qa": [
+          {
+            "q": "What relationship explains image worship here?",
+            "a": "The macrocosm in the microcosm. The small representation provides an approach to the universal Divine."
+          },
+          {
+            "q": "What happens to divine fullness in the image?",
+            "a": "It is not diminished. The section affirms fullness in the form used for worship."
+          },
+          {
+            "q": "What literary device supplies a comparison?",
+            "a": "A simile. A simile makes meaning accessible through a familiar image."
+          },
+          {
+            "q": "Whose relationship illustrates joy through love?",
+            "a": "A mother’s relationship with her child. Affection explains a joy that outward appearance alone cannot account for."
+          },
+          {
+            "q": "What wider relationship is encouraged?",
+            "a": "Divine love and kinship with all. The teaching extends loving recognition throughout life."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What relationship explains image worship here?",
+            "options": [
+              "Wealth in social rank",
+              "The macrocosm in the microcosm",
+              "Argument in scholarship",
+              "Strength in possession"
+            ],
+            "correct": 1,
+            "explanation": "The small representation provides an approach to the universal Divine.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 20, PDF pages 16–17"
+          },
+          {
+            "q": "What happens to divine fullness in the image?",
+            "options": [
+              "It is divided into incomplete pieces",
+              "It disappears",
+              "It is not diminished",
+              "It becomes merely material wealth"
+            ],
+            "correct": 2,
+            "explanation": "The section affirms fullness in the form used for worship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 20, PDF pages 16–17"
+          },
+          {
+            "q": "What literary device supplies a comparison?",
+            "options": [
+              "A financial account",
+              "A calendar",
+              "A legal decree",
+              "A simile"
+            ],
+            "correct": 3,
+            "explanation": "A simile makes meaning accessible through a familiar image.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 20, PDF pages 16–17"
+          },
+          {
+            "q": "Whose relationship illustrates joy through love?",
+            "options": [
+              "A mother’s relationship with her child",
+              "A merchant’s relationship with a price list",
+              "A ruler’s relationship with a crown",
+              "A traveller’s relationship with a ticket"
+            ],
+            "correct": 0,
+            "explanation": "Affection explains a joy that outward appearance alone cannot account for.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 20, PDF pages 16–17"
+          },
+          {
+            "q": "What wider relationship is encouraged?",
+            "options": [
+              "Attachment only to appearance",
+              "Divine love and kinship with all",
+              "Competition with other devotees",
+              "Love restricted to possessions"
+            ],
+            "correct": 1,
+            "explanation": "The teaching extends loving recognition throughout life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=16",
+            "sourceLabel": "Section 20, PDF pages 16–17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "Listen, contemplate, and sing God’s name",
+        "chapter": "Section 21 · Listen, contemplate, and sing God’s name",
+        "chapterNumber": 21,
+        "pdfStartPage": 17,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/prema-vahini.pdf#page=17",
+        "sourceLabel": "Section 21, PDF page 17",
+        "summary": "Reading and hearing sacred teaching should be joined with singing and listening to the Lord’s name. The name is compared with medicine for the cycle of birth and death, working through both inward remembrance and outward expression. These practices direct the person toward the divine presence.\n\nThe grace of God, the teacher, and devotees still requires cooperation from one’s own inner consciousness. The claim to independent doership must be removed, and the urge to attain God must be cultivated. The section also uses light to explain purity: different people may employ the same light for different purposes, but their uses do not stain the light itself. The Lord’s name likewise remains unblemished.",
+        "qa": [
+          {
+            "q": "What should accompany reading and hearing sacred teaching?",
+            "a": "Singing and listening to God’s name. The section joins inward and outward forms of remembrance."
+          },
+          {
+            "q": "To what is the name compared?",
+            "a": "Medicine. The comparison concerns the spiritual ailment of birth and death."
+          },
+          {
+            "q": "What must cooperate with grace?",
+            "a": "One’s own inner consciousness. Inner willingness is necessary alongside received help."
+          },
+          {
+            "q": "What attitude must be rooted out?",
+            "a": "The ego of independent doership. Doership is an obstacle addressed in the section."
+          },
+          {
+            "q": "What does the light illustration explain?",
+            "a": "Different uses do not stain the light itself. The illustration supports the unblemished nature of the Lord’s name."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should accompany reading and hearing sacred teaching?",
+            "options": [
+              "Singing and listening to God’s name",
+              "Pride in memorisation",
+              "Avoidance of contemplation",
+              "Competition for praise"
+            ],
+            "correct": 0,
+            "explanation": "The section joins inward and outward forms of remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 21, PDF page 17"
+          },
+          {
+            "q": "To what is the name compared?",
+            "options": [
+              "A crown",
+              "Medicine",
+              "A weapon for argument",
+              "A store of coins"
+            ],
+            "correct": 1,
+            "explanation": "The comparison concerns the spiritual ailment of birth and death.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 21, PDF page 17"
+          },
+          {
+            "q": "What must cooperate with grace?",
+            "options": [
+              "Social status",
+              "Outward appearance alone",
+              "One’s own inner consciousness",
+              "Possessions"
+            ],
+            "correct": 2,
+            "explanation": "Inner willingness is necessary alongside received help.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 21, PDF page 17"
+          },
+          {
+            "q": "What attitude must be rooted out?",
+            "options": [
+              "Gratitude",
+              "Devotion",
+              "The wish to understand",
+              "The ego of independent doership"
+            ],
+            "correct": 3,
+            "explanation": "Doership is an obstacle addressed in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 21, PDF page 17"
+          },
+          {
+            "q": "What does the light illustration explain?",
+            "options": [
+              "Different uses do not stain the light itself",
+              "Light belongs only to the learned",
+              "Light has no purpose",
+              "Every use changes its essential purity"
+            ],
+            "correct": 0,
+            "explanation": "The illustration supports the unblemished nature of the Lord’s name.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 21, PDF page 17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Seek knowledge of the Eternal Truth",
+        "chapter": "Section 22 · Seek knowledge of the Eternal Truth",
+        "chapterNumber": 22,
+        "pdfStartPage": 17,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/prema-vahini.pdf#page=17",
+        "sourceLabel": "Section 22, PDF pages 17–18",
+        "summary": "Worldly skills and inventions can provide comfort, but they do not by themselves secure complete and lasting peace. The section directs attention to the knowledge of eternal truth, described as the knowledge through which the whole can be understood. Spiritual education addresses the root of the problem rather than its many outward effects.\n\nCutting a root instead of repeatedly plucking leaves illustrates this approach. The seers gained understanding through disciplined effort and grace. A lamp that illuminates a house while leaving its own base dark provides another warning: outward achievement can coexist with neglect of the spiritual treasure within. The reader is urged to seek that knowledge actively rather than blame fate.",
+        "qa": [
+          {
+            "q": "What do worldly skills fail to guarantee?",
+            "a": "Complete and lasting peace. Their benefits are distinguished from knowledge of eternal truth."
+          },
+          {
+            "q": "What kind of knowledge is sought?",
+            "a": "Knowledge of the Eternal Truth. Spiritual education is the central concern of the section."
+          },
+          {
+            "q": "What does cutting the root illustrate?",
+            "a": "Addressing the cause rather than scattered effects. Root and leaves distinguish fundamental understanding from partial remedies."
+          },
+          {
+            "q": "How did the seers gain understanding?",
+            "a": "Through disciplined effort and grace. Their knowledge is described as experiential."
+          },
+          {
+            "q": "What does darkness beneath a lamp warn against?",
+            "a": "Neglecting inner wisdom amid outward illumination. The image concerns a neglected spiritual source close at hand."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do worldly skills fail to guarantee?",
+            "options": [
+              "Useful tools",
+              "Practical comfort",
+              "Technical ability",
+              "Complete and lasting peace"
+            ],
+            "correct": 3,
+            "explanation": "Their benefits are distinguished from knowledge of eternal truth.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 22, PDF pages 17–18"
+          },
+          {
+            "q": "What kind of knowledge is sought?",
+            "options": [
+              "Knowledge of the Eternal Truth",
+              "Knowledge only of possessions",
+              "Skill in flattery",
+              "The art of rivalry"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual education is the central concern of the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 22, PDF pages 17–18"
+          },
+          {
+            "q": "What does cutting the root illustrate?",
+            "options": [
+              "Avoiding all effort",
+              "Addressing the cause rather than scattered effects",
+              "Destroying useful learning",
+              "Collecting more distractions"
+            ],
+            "correct": 1,
+            "explanation": "Root and leaves distinguish fundamental understanding from partial remedies.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 22, PDF pages 17–18"
+          },
+          {
+            "q": "How did the seers gain understanding?",
+            "options": [
+              "Through fame alone",
+              "Through wealth alone",
+              "Through disciplined effort and grace",
+              "Through argument alone"
+            ],
+            "correct": 2,
+            "explanation": "Their knowledge is described as experiential.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 22, PDF pages 17–18"
+          },
+          {
+            "q": "What does darkness beneath a lamp warn against?",
+            "options": [
+              "Lighting a room",
+              "Studying with care",
+              "Serving others",
+              "Neglecting inner wisdom amid outward illumination"
+            ],
+            "correct": 3,
+            "explanation": "The image concerns a neglected spiritual source close at hand.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=17",
+            "sourceLabel": "Section 22, PDF pages 17–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Don’t neglect the study of Sanskrit and Vedic culture",
+        "chapter": "Section 23 · Don’t neglect the study of Sanskrit and Vedic culture",
+        "chapterNumber": 23,
+        "pdfStartPage": 18,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/prema-vahini.pdf#page=18",
+        "sourceLabel": "Section 23, PDF page 18",
+        "summary": "The section calls for attention to the spiritual inheritance preserved in Sanskrit and the Vedic tradition. Earlier seekers studied, practised, and recorded their experience. Merely honouring their books while neglecting their contents leaves that inheritance unused. The text also expresses concern over the loss and neglect of manuscripts.\n\nIt does not reject worldly education or the happiness it can provide, but distinguishes their temporary benefits from enduring spiritual peace. The Upanishads and knowledge of Brahman are presented as resources for that deeper search. Education should bring virtue into bloom rather than simply add information. Study therefore needs both understanding and the cultivation of a good life.",
+        "qa": [
+          {
+            "q": "What inheritance does the section urge readers to study?",
+            "a": "Sanskrit and Vedic culture. The concern is the preservation and use of spiritual knowledge."
+          },
+          {
+            "q": "What did earlier seekers do with their understanding?",
+            "a": "Studied, practised, and recorded it. Their records grew from lived spiritual effort."
+          },
+          {
+            "q": "What is inadequate in the treatment of sacred books?",
+            "a": "Honouring them without studying their contents. Reverence alone does not make their wisdom part of life."
+          },
+          {
+            "q": "How are worldly education’s benefits described?",
+            "a": "Useful but temporary. The section distinguishes temporary benefit from lasting spiritual peace."
+          },
+          {
+            "q": "What should education cultivate?",
+            "a": "Virtue. The blossoming of virtue gives learning its proper value."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What inheritance does the section urge readers to study?",
+            "options": [
+              "Only modern fashions",
+              "Only commercial methods",
+              "Sanskrit and Vedic culture",
+              "Only public ceremonies"
+            ],
+            "correct": 2,
+            "explanation": "The concern is the preservation and use of spiritual knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 23, PDF page 18"
+          },
+          {
+            "q": "What did earlier seekers do with their understanding?",
+            "options": [
+              "Kept only the book covers",
+              "Rejected all experience",
+              "Used it only for display",
+              "Studied, practised, and recorded it"
+            ],
+            "correct": 3,
+            "explanation": "Their records grew from lived spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 23, PDF page 18"
+          },
+          {
+            "q": "What is inadequate in the treatment of sacred books?",
+            "options": [
+              "Honouring them without studying their contents",
+              "Reading them thoughtfully",
+              "Practising their teachings",
+              "Preserving their text"
+            ],
+            "correct": 0,
+            "explanation": "Reverence alone does not make their wisdom part of life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 23, PDF page 18"
+          },
+          {
+            "q": "How are worldly education’s benefits described?",
+            "options": [
+              "Entirely nonexistent",
+              "Useful but temporary",
+              "Identical to final realisation",
+              "A replacement for all virtue"
+            ],
+            "correct": 1,
+            "explanation": "The section distinguishes temporary benefit from lasting spiritual peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 23, PDF page 18"
+          },
+          {
+            "q": "What should education cultivate?",
+            "options": [
+              "Conceit",
+              "Rivalry",
+              "Virtue",
+              "Information without character"
+            ],
+            "correct": 2,
+            "explanation": "The blossoming of virtue gives learning its proper value.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 23, PDF page 18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "Don’t mistake appearance for reality",
+        "chapter": "Section 24 · Don’t mistake appearance for reality",
+        "chapterNumber": 24,
+        "pdfStartPage": 18,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/prema-vahini.pdf#page=18",
+        "sourceLabel": "Section 24, PDF pages 18–19",
+        "summary": "Mistaking appearance for reality is compared with taking a shadow to be the substance. Sensory impressions, memory, and conclusions about objects are not the same as spiritual wisdom. Even familiarity with a statement such as Aham Brahmasmi does not, by itself, amount to realisation of its meaning.\n\nWords learned from a scripture or teacher must be fulfilled in experience. The section describes a gradual process in which the faithful performance of duties purifies the person and devotion develops like a seed becoming a flower and ripening fruit. Understanding the world, the individual, and Brahman therefore requires more than explaining terms. The teaching must mature through a transformed life.",
+        "qa": [
+          {
+            "q": "What error is illustrated by confusing shadow and substance?",
+            "a": "Mistaking appearance for reality. The image distinguishes seeming knowledge from genuine understanding."
+          },
+          {
+            "q": "What does familiarity with Aham Brahmasmi not ensure?",
+            "a": "Realisation of its meaning. Verbal mastery alone is insufficient."
+          },
+          {
+            "q": "What must fulfil words learned from a teacher?",
+            "a": "Experience. The section asks for lived understanding."
+          },
+          {
+            "q": "What helps purify the person?",
+            "a": "Faithful performance of duties. Purification prepares the growth of devotion."
+          },
+          {
+            "q": "Which growth image is used?",
+            "a": "Seed, flower, and ripening fruit. The image explains spiritual maturation rather than instant verbal attainment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What error is illustrated by confusing shadow and substance?",
+            "options": [
+              "Practising truthfulness",
+              "Mistaking appearance for reality",
+              "Learning with humility",
+              "Performing duty"
+            ],
+            "correct": 1,
+            "explanation": "The image distinguishes seeming knowledge from genuine understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 24, PDF pages 18–19"
+          },
+          {
+            "q": "What does familiarity with Aham Brahmasmi not ensure?",
+            "options": [
+              "The ability to repeat words",
+              "Recognition of the expression",
+              "Realisation of its meaning",
+              "Knowledge that the statement exists"
+            ],
+            "correct": 2,
+            "explanation": "Verbal mastery alone is insufficient.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 24, PDF pages 18–19"
+          },
+          {
+            "q": "What must fulfil words learned from a teacher?",
+            "options": [
+              "Display",
+              "Rivalry",
+              "Mere repetition without practice",
+              "Experience"
+            ],
+            "correct": 3,
+            "explanation": "The section asks for lived understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 24, PDF pages 18–19"
+          },
+          {
+            "q": "What helps purify the person?",
+            "options": [
+              "Faithful performance of duties",
+              "Neglect of conduct",
+              "Pride in terminology",
+              "Dependence on appearances"
+            ],
+            "correct": 0,
+            "explanation": "Purification prepares the growth of devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 24, PDF pages 18–19"
+          },
+          {
+            "q": "Which growth image is used?",
+            "options": [
+              "Stone, metal, and glass",
+              "Seed, flower, and ripening fruit",
+              "Cloud, thunder, and snow",
+              "Sand, shell, and wave"
+            ],
+            "correct": 1,
+            "explanation": "The image explains spiritual maturation rather than instant verbal attainment.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=18",
+            "sourceLabel": "Section 24, PDF pages 18–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "Understand that the objective world is as unreal as the dream world",
+        "chapter": "Section 25 · Understand that the objective world is as unreal as the dream world",
+        "chapterNumber": 25,
+        "pdfStartPage": 19,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/prema-vahini.pdf#page=19",
+        "sourceLabel": "Section 25, PDF page 19",
+        "summary": "The section examines the relation of the world to Brahman through examples of a pot and its clay, and a snake mistakenly perceived in a rope. It teaches that changing appearances should not be confused with the underlying reality. Dream and deep sleep are also used to question the apparent independence of the experienced world.\n\nThe Atma is described as unaffected by bodily conditions, like the sky remaining untouched by the substance in which it is reflected. Three forms of karma are named: accumulated karma, karma already commencing, and future karma. The text also affirms the power of divine grace. Its purpose is to encourage courageous practice by placing temporary suffering within this account of reality.",
+        "qa": [
+          {
+            "q": "What illustrates the relation of an effect to its material cause?",
+            "a": "A pot and clay. The pot cannot be separated from the clay of which it is made."
+          },
+          {
+            "q": "What illustrates a mistaken appearance?",
+            "a": "A snake perceived in a rope. The example concerns superimposition on an underlying reality."
+          },
+          {
+            "q": "What is described as unaffected by bodily conditions?",
+            "a": "The Atma. The reflection analogy explains the Atma’s freedom from such changes."
+          },
+          {
+            "q": "What does sanchitha refer to?",
+            "a": "Accumulated karma. The section distinguishes three forms of karma."
+          },
+          {
+            "q": "What power does the section affirm alongside its discussion of karma?",
+            "a": "Divine grace. Grace is presented as capable of overcoming the binding force discussed."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates the relation of an effect to its material cause?",
+            "options": [
+              "A pot and clay",
+              "A crown and a title",
+              "A road and a traveller",
+              "A book and its price"
+            ],
+            "correct": 0,
+            "explanation": "The pot cannot be separated from the clay of which it is made.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=19",
+            "sourceLabel": "Section 25, PDF page 19"
+          },
+          {
+            "q": "What illustrates a mistaken appearance?",
+            "options": [
+              "A flower giving fragrance",
+              "A snake perceived in a rope",
+              "A lamp giving light",
+              "A tree bearing fruit"
+            ],
+            "correct": 1,
+            "explanation": "The example concerns superimposition on an underlying reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=19",
+            "sourceLabel": "Section 25, PDF page 19"
+          },
+          {
+            "q": "What is described as unaffected by bodily conditions?",
+            "options": [
+              "Every bodily sensation",
+              "All possessions",
+              "The Atma",
+              "Social standing"
+            ],
+            "correct": 2,
+            "explanation": "The reflection analogy explains the Atma’s freedom from such changes.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=19",
+            "sourceLabel": "Section 25, PDF page 19"
+          },
+          {
+            "q": "What does sanchitha refer to?",
+            "options": [
+              "Future karma alone",
+              "Karma already commencing alone",
+              "The absence of all action",
+              "Accumulated karma"
+            ],
+            "correct": 3,
+            "explanation": "The section distinguishes three forms of karma.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=19",
+            "sourceLabel": "Section 25, PDF page 19"
+          },
+          {
+            "q": "What power does the section affirm alongside its discussion of karma?",
+            "options": [
+              "Divine grace",
+              "Personal status",
+              "Public approval",
+              "Mere argument"
+            ],
+            "correct": 0,
+            "explanation": "Grace is presented as capable of overcoming the binding force discussed.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=19",
+            "sourceLabel": "Section 25, PDF page 19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "The journey of life depends on inborn desires",
+        "chapter": "Section 26 · The journey of life depends on inborn desires",
+        "chapterNumber": 26,
+        "pdfStartPage": 20,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/prema-vahini.pdf#page=20",
+        "sourceLabel": "Section 26, PDF page 20",
+        "summary": "Physical and mental actions leave impressions in the mind. These impressions contribute to character and to the tendencies that guide life. Forgetting an action does not mean that it has left no effect. The section recalls childhood writing on a slate to illustrate how experiences may pass from conscious memory while still contributing to development.\n\nLooking back over a day, one usually remembers a few striking moments of pleasure or pain rather than every small event. The same principle applies over a lifetime. Strong impressions remain as a kind of accumulated capital. The section therefore directs attention to the lasting tendencies produced by the many acts that seem, at the time, to be insignificant.",
+        "qa": [
+          {
+            "q": "What do actions leave in the mind?",
+            "a": "Impressions. These impressions contribute to tendencies and character."
+          },
+          {
+            "q": "Does forgetting an action mean it had no effect?",
+            "a": "No, its influence may remain. Memory and lasting influence are distinguished."
+          },
+          {
+            "q": "Which childhood activity supplies an example?",
+            "a": "Writing on a slate. Forgotten early activity can still have contributed to development."
+          },
+          {
+            "q": "What is usually retained in a review of a day?",
+            "a": "A few striking moments. Strong experiences stand out from numerous ordinary events."
+          },
+          {
+            "q": "To what are lasting impressions compared?",
+            "a": "Accumulated capital. The comparison emphasises what remains from many experiences."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do actions leave in the mind?",
+            "options": [
+              "Only empty spaces",
+              "No influence at all",
+              "A fixed social title",
+              "Impressions"
+            ],
+            "correct": 3,
+            "explanation": "These impressions contribute to tendencies and character.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 26, PDF page 20"
+          },
+          {
+            "q": "Does forgetting an action mean it had no effect?",
+            "options": [
+              "No, its influence may remain",
+              "Yes, every effect disappears",
+              "Yes, unless someone praises it",
+              "Only physical acts have effects"
+            ],
+            "correct": 0,
+            "explanation": "Memory and lasting influence are distinguished.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 26, PDF page 20"
+          },
+          {
+            "q": "Which childhood activity supplies an example?",
+            "options": [
+              "Building a ship",
+              "Writing on a slate",
+              "Planting a forest",
+              "Making a crown"
+            ],
+            "correct": 1,
+            "explanation": "Forgotten early activity can still have contributed to development.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 26, PDF page 20"
+          },
+          {
+            "q": "What is usually retained in a review of a day?",
+            "options": [
+              "Every detail equally",
+              "Only other people’s names",
+              "A few striking moments",
+              "Nothing under any conditions"
+            ],
+            "correct": 2,
+            "explanation": "Strong experiences stand out from numerous ordinary events.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 26, PDF page 20"
+          },
+          {
+            "q": "To what are lasting impressions compared?",
+            "options": [
+              "Discarded clothing only",
+              "A passing shadow with no effect",
+              "An empty vessel",
+              "Accumulated capital"
+            ],
+            "correct": 3,
+            "explanation": "The comparison emphasises what remains from many experiences.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 26, PDF page 20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-27",
+        "title": "Direct your life to acquire your last moment’s mental tendency",
+        "chapter": "Section 27 · Direct your life to acquire your last moment’s mental tendency",
+        "chapterNumber": 27,
+        "pdfStartPage": 20,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/prema-vahini.pdf#page=20",
+        "sourceLabel": "Section 27, PDF pages 20–21",
+        "summary": "The section compares the dominant tendency at life’s end with the balance remaining in a merchant’s accounts. Many earlier actions may no longer be remembered, yet they have contributed to that result. The final tendency is therefore prepared through long practice, rather than manufactured at the last instant.\n\nGood company, truthfulness, goodwill, and thoughts of God help form the desired direction. Birth is compared with receiving a ticket for a journey whose end is certain. Each action shapes character like a chisel, and even a gentle word can support someone in distress. The teaching calls for purity of the senses and speech throughout life, recognising that repeated deeds have lasting consequences.",
+        "qa": [
+          {
+            "q": "What illustrates the final dominant tendency?",
+            "a": "A merchant’s remaining balance. The balance represents the cumulative outcome of many transactions."
+          },
+          {
+            "q": "How is the last mental tendency prepared?",
+            "a": "Through sustained practice during life. Earlier actions help form the final direction of the mind."
+          },
+          {
+            "q": "What does the journey-ticket image emphasise?",
+            "a": "The certainty of life’s end after birth. The image urges timely spiritual effort."
+          },
+          {
+            "q": "What is compared to a chisel shaping character?",
+            "a": "Each action. Repeated deeds give character its form."
+          },
+          {
+            "q": "What supportive power is attributed to gentle words?",
+            "a": "They can help someone in distress. The section gives significance even to seemingly small acts of kindness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates the final dominant tendency?",
+            "options": [
+              "A newly painted wall",
+              "A passing cloud alone",
+              "A merchant’s remaining balance",
+              "A flower’s colour"
+            ],
+            "correct": 2,
+            "explanation": "The balance represents the cumulative outcome of many transactions.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 27, PDF pages 20–21"
+          },
+          {
+            "q": "How is the last mental tendency prepared?",
+            "options": [
+              "By ignoring all earlier conduct",
+              "By a title received at birth",
+              "By possessions alone",
+              "Through sustained practice during life"
+            ],
+            "correct": 3,
+            "explanation": "Earlier actions help form the final direction of the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 27, PDF pages 20–21"
+          },
+          {
+            "q": "What does the journey-ticket image emphasise?",
+            "options": [
+              "The certainty of life’s end after birth",
+              "The permanence of the body",
+              "The uselessness of action",
+              "The need for wealth"
+            ],
+            "correct": 0,
+            "explanation": "The image urges timely spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 27, PDF pages 20–21"
+          },
+          {
+            "q": "What is compared to a chisel shaping character?",
+            "options": [
+              "Only physical appearance",
+              "Each action",
+              "Only family name",
+              "Only social rank"
+            ],
+            "correct": 1,
+            "explanation": "Repeated deeds give character its form.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 27, PDF pages 20–21"
+          },
+          {
+            "q": "What supportive power is attributed to gentle words?",
+            "options": [
+              "They erase the need for truth",
+              "They replace all deeds",
+              "They can help someone in distress",
+              "They guarantee public fame"
+            ],
+            "correct": 2,
+            "explanation": "The section gives significance even to seemingly small acts of kindness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=20",
+            "sourceLabel": "Section 27, PDF pages 20–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-28",
+        "title": "Perform good deeds and saturate the mind with God",
+        "chapter": "Section 28 · Perform good deeds and saturate the mind with God",
+        "chapterNumber": 28,
+        "pdfStartPage": 21,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/prema-vahini.pdf#page=21",
+        "sourceLabel": "Section 28, PDF pages 21–22",
+        "summary": "The hands are to be engaged in service while the mind remains with the Lord. Outer duties and inward remembrance need not oppose one another. Streams that flow in a common direction reach the sea; scattered streams lose that united force. The image encourages a life whose activities share a spiritual destination.\n\nThe example of repeated hammer blows shows why apparently unsuccessful efforts should not be dismissed. The blow that finally breaks the stone depends on the earlier blows. Good actions likewise accumulate their effect. No sincere effort is wasted. The section encourages remembrance and divine love at every moment, directing the mind toward its spiritual fulfilment rather than dispersing it among conflicting aims.",
+        "qa": [
+          {
+            "q": "What should occupy the hands while the mind remembers God?",
+            "a": "Service. Outer duty and inner remembrance are brought together."
+          },
+          {
+            "q": "What do united streams illustrate?",
+            "a": "Activities directed toward one spiritual destination. Their common direction gives the image its meaning."
+          },
+          {
+            "q": "Why are earlier hammer blows important?",
+            "a": "They contribute to the final breaking of the stone. The apparent final success rests on cumulative effort."
+          },
+          {
+            "q": "How should sincere good deeds be regarded?",
+            "a": "None are wasted. Their effects accumulate even when not immediately visible."
+          },
+          {
+            "q": "What should saturate the mind?",
+            "a": "Thoughts of God. The section joins sustained remembrance with good action."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should occupy the hands while the mind remembers God?",
+            "options": [
+              "Boasting",
+              "Service",
+              "Idleness as the only practice",
+              "Quarrelling"
+            ],
+            "correct": 1,
+            "explanation": "Outer duty and inner remembrance are brought together.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=21",
+            "sourceLabel": "Section 28, PDF pages 21–22"
+          },
+          {
+            "q": "What do united streams illustrate?",
+            "options": [
+              "The need to scatter attention",
+              "The rejection of duty",
+              "Activities directed toward one spiritual destination",
+              "The value of rivalry"
+            ],
+            "correct": 2,
+            "explanation": "Their common direction gives the image its meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=21",
+            "sourceLabel": "Section 28, PDF pages 21–22"
+          },
+          {
+            "q": "Why are earlier hammer blows important?",
+            "options": [
+              "They have no effect",
+              "Only the last blow matters",
+              "They must all be forgotten as useless",
+              "They contribute to the final breaking of the stone"
+            ],
+            "correct": 3,
+            "explanation": "The apparent final success rests on cumulative effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=21",
+            "sourceLabel": "Section 28, PDF pages 21–22"
+          },
+          {
+            "q": "How should sincere good deeds be regarded?",
+            "options": [
+              "None are wasted",
+              "Only praised deeds count",
+              "Only the latest deed counts",
+              "They prevent all further effort"
+            ],
+            "correct": 0,
+            "explanation": "Their effects accumulate even when not immediately visible.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=21",
+            "sourceLabel": "Section 28, PDF pages 21–22"
+          },
+          {
+            "q": "What should saturate the mind?",
+            "options": [
+              "Concern for applause",
+              "Thoughts of God",
+              "Comparison of possessions",
+              "Fear of criticism"
+            ],
+            "correct": 1,
+            "explanation": "The section joins sustained remembrance with good action.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=21",
+            "sourceLabel": "Section 28, PDF pages 21–22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-29",
+        "title": "Be engaged in good actions, with God in your thoughts",
+        "chapter": "Section 29 · Be engaged in good actions, with God in your thoughts",
+        "chapterNumber": 29,
+        "pdfStartPage": 22,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/prema-vahini.pdf#page=22",
+        "sourceLabel": "Section 29, PDF page 22",
+        "summary": "The Lord’s protection is illustrated by a mother helping her child learn to walk. Another image compares the person to a kite whose guiding string is held by the Lord. Divine love and grace sustain the relationship, while good impressions strengthen the connection on the devotee’s side.\n\nGood actions, worship, remembrance, and devotional singing all support this life. Love is to be extended equally, without divisions that obstruct duty toward others. The section presents constant thought of the Lord together with action as a direct spiritual path. Its emphasis is on maintaining this inward relationship while fulfilling the good work that life offers.",
+        "qa": [
+          {
+            "q": "Which family image illustrates divine protection?",
+            "a": "A mother helping a child walk. The image joins care with the learner’s developing effort."
+          },
+          {
+            "q": "Who holds the kite’s guiding string?",
+            "a": "The Lord. The string represents a sustaining relationship of love and grace."
+          },
+          {
+            "q": "What strengthens the bond described?",
+            "a": "Good impressions. Good samskaras reinforce the devotee’s connection."
+          },
+          {
+            "q": "How should love be extended?",
+            "a": "Equally, without divisive distinctions. Inclusive love is connected with the fulfilment of duty."
+          },
+          {
+            "q": "What two things form the path emphasised here?",
+            "a": "Good action and constant thought of God. Inner remembrance accompanies outward activity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which family image illustrates divine protection?",
+            "options": [
+              "A mother helping a child walk",
+              "A child collecting toys",
+              "A family counting wealth",
+              "A parent seeking praise"
+            ],
+            "correct": 0,
+            "explanation": "The image joins care with the learner’s developing effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 29, PDF page 22"
+          },
+          {
+            "q": "Who holds the kite’s guiding string?",
+            "options": [
+              "Public opinion",
+              "The Lord",
+              "Personal pride",
+              "Worldly possessions"
+            ],
+            "correct": 1,
+            "explanation": "The string represents a sustaining relationship of love and grace.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 29, PDF page 22"
+          },
+          {
+            "q": "What strengthens the bond described?",
+            "options": [
+              "Envy",
+              "Neglect of duty",
+              "Good impressions",
+              "Conceit"
+            ],
+            "correct": 2,
+            "explanation": "Good samskaras reinforce the devotee’s connection.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 29, PDF page 22"
+          },
+          {
+            "q": "How should love be extended?",
+            "options": [
+              "Only to admirers",
+              "Only to the wealthy",
+              "Only to one’s own group",
+              "Equally, without divisive distinctions"
+            ],
+            "correct": 3,
+            "explanation": "Inclusive love is connected with the fulfilment of duty.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 29, PDF page 22"
+          },
+          {
+            "q": "What two things form the path emphasised here?",
+            "options": [
+              "Good action and constant thought of God",
+              "Withdrawal from duty and pride",
+              "Wealth and rank",
+              "Argument and applause"
+            ],
+            "correct": 0,
+            "explanation": "Inner remembrance accompanies outward activity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 29, PDF page 22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-30",
+        "title": "Eternal Religion: the divine mother of humanity",
+        "chapter": "Section 30 · Eternal Religion: the divine mother of humanity",
+        "chapterNumber": 30,
+        "pdfStartPage": 22,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/prema-vahini.pdf#page=22",
+        "sourceLabel": "Section 30, PDF pages 22–23",
+        "summary": "Sanathana Dharma is portrayed as a mother whose care extends across humanity. The section uses images of the world as the Lord’s body and Bharath as an eye to express its view of India’s spiritual inheritance. These images introduce a teaching centred on truth, tolerance, and the common destination of different religious paths.\n\nRivers reaching one ocean illustrate this unity. A person’s spiritual worth is connected with truthful speech, freedom from anger and envy, and a loving heart, rather than a religious label alone. The term Bharathiya is given a spiritual significance in this discussion. The emphasis is on the qualities by which the universal spirit of the Eternal Religion is lived.",
+        "qa": [
+          {
+            "q": "How is Sanathana Dharma portrayed?",
+            "a": "As a mother of humanity. The maternal image expresses its inclusive spiritual role."
+          },
+          {
+            "q": "What illustrates different paths reaching one destination?",
+            "a": "Rivers entering one ocean. The image explains religious unity in the section."
+          },
+          {
+            "q": "Which quality belongs to the spiritual character described?",
+            "a": "Truthful speech. Conduct is more important than a label alone."
+          },
+          {
+            "q": "What kind of heart is encouraged?",
+            "a": "A loving heart. Love is central to the universal religious outlook described."
+          },
+          {
+            "q": "How is Bharathiya understood in this discussion?",
+            "a": "In a spiritual sense connected with noble qualities. The section connects the term with truth, tolerance, and love."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is Sanathana Dharma portrayed?",
+            "options": [
+              "As a private possession",
+              "As a worldly office",
+              "As a material reward",
+              "As a mother of humanity"
+            ],
+            "correct": 3,
+            "explanation": "The maternal image expresses its inclusive spiritual role.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 30, PDF pages 22–23"
+          },
+          {
+            "q": "What illustrates different paths reaching one destination?",
+            "options": [
+              "Rivers entering one ocean",
+              "Competing crowns",
+              "Separate locked rooms",
+              "Unrelated coins"
+            ],
+            "correct": 0,
+            "explanation": "The image explains religious unity in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 30, PDF pages 22–23"
+          },
+          {
+            "q": "Which quality belongs to the spiritual character described?",
+            "options": [
+              "Envy",
+              "Truthful speech",
+              "Anger",
+              "Sectarian pride"
+            ],
+            "correct": 1,
+            "explanation": "Conduct is more important than a label alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 30, PDF pages 22–23"
+          },
+          {
+            "q": "What kind of heart is encouraged?",
+            "options": [
+              "A heart ruled by rivalry",
+              "A heart seeking revenge",
+              "A loving heart",
+              "A heart fixed on rank"
+            ],
+            "correct": 2,
+            "explanation": "Love is central to the universal religious outlook described.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 30, PDF pages 22–23"
+          },
+          {
+            "q": "How is Bharathiya understood in this discussion?",
+            "options": [
+              "Only as a measure of wealth",
+              "Only as an academic title",
+              "As a form of clothing",
+              "In a spiritual sense connected with noble qualities"
+            ],
+            "correct": 3,
+            "explanation": "The section connects the term with truth, tolerance, and love.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=22",
+            "sourceLabel": "Section 30, PDF pages 22–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-31",
+        "title": "Bharath is the home of the Eternal Universal Religion",
+        "chapter": "Section 31 · Bharath is the home of the Eternal Universal Religion",
+        "chapterNumber": 31,
+        "pdfStartPage": 23,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/prema-vahini.pdf#page=23",
+        "sourceLabel": "Section 31, PDF page 23",
+        "summary": "The section presents Bharath as the home of a spiritual inheritance preserved in the Vedas, scriptures, and Upanishads. It describes teachers, commentators, and selfless yogis as channels through which experienced wisdom has flowed outward. The emphasis falls on knowledge lived and transmitted, rather than on the possession of texts alone.\n\nAn analogy with goods made in one place and used elsewhere explains the importance the passage gives to recognising a tradition’s source. This recognition is joined with gratitude and the practice of its values. Love, equality, and selfless conduct are the qualities through which the inheritance is honoured. The discussion presents the book’s understanding of Bharath’s spiritual role.",
+        "qa": [
+          {
+            "q": "Which inheritance is highlighted?",
+            "a": "The Vedas, scriptures, and Upanishads. These are presented as repositories of spiritual wisdom."
+          },
+          {
+            "q": "Who are described as transmitting this wisdom?",
+            "a": "Teachers, commentators, and selfless yogis. The passage stresses transmission through spiritual understanding."
+          },
+          {
+            "q": "What kind of knowledge is emphasised?",
+            "a": "Experienced and lived wisdom. Practice gives the inheritance its living force."
+          },
+          {
+            "q": "What does the example of goods used elsewhere explain?",
+            "a": "Recognition of their source. The analogy concerns remembering where an inheritance originated."
+          },
+          {
+            "q": "Which response honours the inheritance?",
+            "a": "Gratitude and the practice of love and equality. Recognition is meant to lead to noble living."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which inheritance is highlighted?",
+            "options": [
+              "Only commercial records",
+              "Only political titles",
+              "The Vedas, scriptures, and Upanishads",
+              "Only material inventions"
+            ],
+            "correct": 2,
+            "explanation": "These are presented as repositories of spiritual wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 31, PDF page 23"
+          },
+          {
+            "q": "Who are described as transmitting this wisdom?",
+            "options": [
+              "Only wealthy rulers",
+              "Only traders",
+              "Only people seeking fame",
+              "Teachers, commentators, and selfless yogis"
+            ],
+            "correct": 3,
+            "explanation": "The passage stresses transmission through spiritual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 31, PDF page 23"
+          },
+          {
+            "q": "What kind of knowledge is emphasised?",
+            "options": [
+              "Experienced and lived wisdom",
+              "Memorisation for display alone",
+              "Information without conduct",
+              "Knowledge used only for rivalry"
+            ],
+            "correct": 0,
+            "explanation": "Practice gives the inheritance its living force.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 31, PDF page 23"
+          },
+          {
+            "q": "What does the example of goods used elsewhere explain?",
+            "options": [
+              "The rejection of all other places",
+              "Recognition of their source",
+              "The permanence of possessions",
+              "The superiority of wealth"
+            ],
+            "correct": 1,
+            "explanation": "The analogy concerns remembering where an inheritance originated.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 31, PDF page 23"
+          },
+          {
+            "q": "Which response honours the inheritance?",
+            "options": [
+              "Boasting without conduct",
+              "Neglect of its teachings",
+              "Gratitude and the practice of love and equality",
+              "Envy of others"
+            ],
+            "correct": 2,
+            "explanation": "Recognition is meant to lead to noble living.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 31, PDF page 23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-32",
+        "title": "Eternal Vedic religion is the heritage of all mankind",
+        "chapter": "Section 32 · Eternal Vedic religion is the heritage of all mankind",
+        "chapterNumber": 32,
+        "pdfStartPage": 23,
+        "pdfEndPage": 24,
+        "sourceUrl": "assets/prema-vahini.pdf#page=23",
+        "sourceLabel": "Section 32, PDF pages 23–24",
+        "summary": "The section distinguishes the substance of a spiritual teaching from the attraction of outward fashion. Its food illustration contrasts actual taste with merely enjoying an aroma. In the same way, living the tested truth of a tradition matters more than being drawn to appearances or discussing it from a distance.\n\nGuidance helps the seeker enter this experience. The Eternal Religion is presented as a heritage of all humanity, not a possession bounded by caste, creed, or sex. Those who realise truth are worthy of honour regardless of such distinctions. The reader is urged toward resolution and practice rather than prolonged disputation, so that the teaching becomes an experienced source of strength.",
+        "qa": [
+          {
+            "q": "What contrast is made through the food illustration?",
+            "a": "Actual taste and mere aroma. The image distinguishes experience from an indirect attraction."
+          },
+          {
+            "q": "To whom is the heritage said to belong?",
+            "a": "All humanity. The section explicitly gives the inheritance a universal scope."
+          },
+          {
+            "q": "On what basis should realised people be honoured?",
+            "a": "Their realisation, beyond social distinctions. Holiness is not confined by caste, creed, or sex."
+          },
+          {
+            "q": "What helps a seeker enter spiritual experience?",
+            "a": "Guidance. Guidance supports the movement from appearance to practice."
+          },
+          {
+            "q": "What should replace prolonged disputation?",
+            "a": "Resolution and practice. The section directs the reader toward lived truth."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What contrast is made through the food illustration?",
+            "options": [
+              "Price and quantity",
+              "Actual taste and mere aroma",
+              "Colour and weight",
+              "Cooking and serving times"
+            ],
+            "correct": 1,
+            "explanation": "The image distinguishes experience from an indirect attraction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 32, PDF pages 23–24"
+          },
+          {
+            "q": "To whom is the heritage said to belong?",
+            "options": [
+              "Only one caste",
+              "Only one sex",
+              "All humanity",
+              "Only wealthy households"
+            ],
+            "correct": 2,
+            "explanation": "The section explicitly gives the inheritance a universal scope.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 32, PDF pages 23–24"
+          },
+          {
+            "q": "On what basis should realised people be honoured?",
+            "options": [
+              "Their wealth alone",
+              "Their clothing alone",
+              "Their family name alone",
+              "Their realisation, beyond social distinctions"
+            ],
+            "correct": 3,
+            "explanation": "Holiness is not confined by caste, creed, or sex.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 32, PDF pages 23–24"
+          },
+          {
+            "q": "What helps a seeker enter spiritual experience?",
+            "options": [
+              "Guidance",
+              "Outward fashion alone",
+              "Disputation alone",
+              "Pride in labels"
+            ],
+            "correct": 0,
+            "explanation": "Guidance supports the movement from appearance to practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 32, PDF pages 23–24"
+          },
+          {
+            "q": "What should replace prolonged disputation?",
+            "options": [
+              "Indifference",
+              "Resolution and practice",
+              "Rivalry",
+              "Boasting"
+            ],
+            "correct": 1,
+            "explanation": "The section directs the reader toward lived truth.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=23",
+            "sourceLabel": "Section 32, PDF pages 23–24"
+          }
+        ]
+      },
+      {
+        "id": "chapter-33",
+        "title": "Divine personalities predominate in Bharath",
+        "chapter": "Section 33 · Divine personalities predominate in Bharath",
+        "chapterNumber": 33,
+        "pdfStartPage": 24,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/prema-vahini.pdf#page=24",
+        "sourceLabel": "Section 33, PDF pages 24–25",
+        "summary": "The section recalls spiritually great people from varied social backgrounds. Their examples support the teaching that practice and grace, rather than caste alone, determine spiritual attainment. Regular discipline and selfless conduct are emphasised, while the pursuit of power and reputation is criticised as a cause of decline.\n\nAn image of the sea withdrawing during a disturbance and returning afterwards describes how good people may stand apart from a period of injustice. The passage warns against mistaking temporary authority and self-glorification for lasting growth. It calls for the recovery of qualities such as restraint, reverence, equal love, and concern for others. Its account of social decline is framed by this spiritual assessment of conduct.",
+        "qa": [
+          {
+            "q": "What do examples from varied social backgrounds demonstrate?",
+            "a": "Spiritual attainment is not limited by caste. The passage stresses practice and grace."
+          },
+          {
+            "q": "What kind of discipline is emphasised?",
+            "a": "Regular spiritual discipline. Steady practice supports the qualities praised."
+          },
+          {
+            "q": "What image describes good people withdrawing during turmoil?",
+            "a": "The sea withdrawing and returning. The image concerns temporary withdrawal during disturbance."
+          },
+          {
+            "q": "What is described as unable to last?",
+            "a": "Self-glorification and temporary authority. The section warns against confusing these with genuine growth."
+          },
+          {
+            "q": "Which quality belongs to the recovery urged?",
+            "a": "Concern for others. Noble conduct is the response to the decline described."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do examples from varied social backgrounds demonstrate?",
+            "options": [
+              "Spiritual attainment is not limited by caste",
+              "Wealth is the only requirement",
+              "Practice is unnecessary",
+              "Fame proves realisation"
+            ],
+            "correct": 0,
+            "explanation": "The passage stresses practice and grace.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=24",
+            "sourceLabel": "Section 33, PDF pages 24–25"
+          },
+          {
+            "q": "What kind of discipline is emphasised?",
+            "options": [
+              "Occasional display alone",
+              "Regular spiritual discipline",
+              "Argument without conduct",
+              "Pursuit of titles"
+            ],
+            "correct": 1,
+            "explanation": "Steady practice supports the qualities praised.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=24",
+            "sourceLabel": "Section 33, PDF pages 24–25"
+          },
+          {
+            "q": "What image describes good people withdrawing during turmoil?",
+            "options": [
+              "A crown increasing in size",
+              "A book changing its cover",
+              "The sea withdrawing and returning",
+              "A coin losing its mark"
+            ],
+            "correct": 2,
+            "explanation": "The image concerns temporary withdrawal during disturbance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=24",
+            "sourceLabel": "Section 33, PDF pages 24–25"
+          },
+          {
+            "q": "What is described as unable to last?",
+            "options": [
+              "Truth",
+              "Equal love",
+              "Selfless service",
+              "Self-glorification and temporary authority"
+            ],
+            "correct": 3,
+            "explanation": "The section warns against confusing these with genuine growth.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=24",
+            "sourceLabel": "Section 33, PDF pages 24–25"
+          },
+          {
+            "q": "Which quality belongs to the recovery urged?",
+            "options": [
+              "Concern for others",
+              "Impatient envy",
+              "Selfish greed",
+              "Deception"
+            ],
+            "correct": 0,
+            "explanation": "Noble conduct is the response to the decline described.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=24",
+            "sourceLabel": "Section 33, PDF pages 24–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-34",
+        "title": "Awake, arise, and tread the path of love and devotion",
+        "chapter": "Section 34 · Awake, arise, and tread the path of love and devotion",
+        "chapterNumber": 34,
+        "pdfStartPage": 25,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/prema-vahini.pdf#page=25",
+        "sourceLabel": "Section 34, PDF page 25",
+        "summary": "This section calls for the restoration of Rama-rajya through truth, righteousness, and peace. Love, forbearance, and truth are compared with water that can extinguish the fires of ignorance, injustice, envy, and unrest. Each person must begin by recognising personal faults instead of provoking quarrels through criticism of others.\n\nPast wrongdoing is not a reason for despair. Sincere repentance, prayer, good deeds, and brotherly love open a renewed direction. Sanathana Sarathi is described as supporting this effort. The image of shared divine parentage encourages mutual respect: what another person loves should not be mocked. A common spiritual family must be expressed through understanding and affectionate conduct.",
+        "qa": [
+          {
+            "q": "Which qualities characterise the Rama-rajya invoked here?",
+            "a": "Truth, righteousness, and peace. These qualities define the kingdom the section urges readers to establish."
+          },
+          {
+            "q": "What is compared with water quenching destructive fires?",
+            "a": "Love, forbearance, and truth. These qualities counter ignorance, injustice, and unrest."
+          },
+          {
+            "q": "What is the response urged toward past wrongdoing?",
+            "a": "Repentance and renewed good action. The teaching gives a path of prayer, service, and brotherly love."
+          },
+          {
+            "q": "What publication is described as supporting this work?",
+            "a": "Sanathana Sarathi. The publication is linked with the effort to restore righteous living."
+          },
+          {
+            "q": "How should another person’s cherished ideal be treated?",
+            "a": "With respect rather than ridicule. Shared spiritual parentage calls for mutual understanding."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which qualities characterise the Rama-rajya invoked here?",
+            "options": [
+              "Wealth, rivalry, and rank",
+              "Pride, anger, and envy",
+              "Argument, display, and power",
+              "Truth, righteousness, and peace"
+            ],
+            "correct": 3,
+            "explanation": "These qualities define the kingdom the section urges readers to establish.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 34, PDF page 25"
+          },
+          {
+            "q": "What is compared with water quenching destructive fires?",
+            "options": [
+              "Love, forbearance, and truth",
+              "Criticism and blame",
+              "Fame and authority",
+              "Possessions and comfort"
+            ],
+            "correct": 0,
+            "explanation": "These qualities counter ignorance, injustice, and unrest.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 34, PDF page 25"
+          },
+          {
+            "q": "What is the response urged toward past wrongdoing?",
+            "options": [
+              "Despair without effort",
+              "Repentance and renewed good action",
+              "Concealment and pride",
+              "Blaming everyone else"
+            ],
+            "correct": 1,
+            "explanation": "The teaching gives a path of prayer, service, and brotherly love.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 34, PDF page 25"
+          },
+          {
+            "q": "What publication is described as supporting this work?",
+            "options": [
+              "A commercial catalogue",
+              "An almanac",
+              "Sanathana Sarathi",
+              "A travel guide"
+            ],
+            "correct": 2,
+            "explanation": "The publication is linked with the effort to restore righteous living.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 34, PDF page 25"
+          },
+          {
+            "q": "How should another person’s cherished ideal be treated?",
+            "options": [
+              "As an occasion for mockery",
+              "As proof of inferiority",
+              "With automatic hostility",
+              "With respect rather than ridicule"
+            ],
+            "correct": 3,
+            "explanation": "Shared spiritual parentage calls for mutual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 34, PDF page 25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-35",
+        "title": "The Universal Soul is One and Only One",
+        "chapter": "Section 35 · The Universal Soul is One and Only One",
+        "chapterNumber": 35,
+        "pdfStartPage": 25,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/prema-vahini.pdf#page=25",
+        "sourceLabel": "Section 35, PDF pages 25–26",
+        "summary": "The supreme Lord is presented as the indwelling Soul of everything. The section cites Prahlada’s assurance that the seeker does not need to search far away: the divine presence is already near and is found wherever one looks. This affirms universality rather than confinement to a particular location.\n\nDescriptions that assign God a particular form or characteristic can assist ordinary understanding, but they do not exhaust the Absolute. The complete reality cannot be fully captured by imagination, speech, or a limited description. The distinction is between useful conceptions and the fullness to which they point. The section prepares the reader to approach chosen forms without denying divine presence elsewhere.",
+        "qa": [
+          {
+            "q": "What is Paramatma described as?",
+            "a": "The universal indwelling Soul. The Lord is said to be immanent in everything."
+          },
+          {
+            "q": "Which devotee’s assurance is recalled?",
+            "a": "Prahlada’s. Prahlada affirms the Lord’s presence wherever one seeks."
+          },
+          {
+            "q": "Must the seeker search far away for the Lord?",
+            "a": "No, the Lord is already near. The teaching rejects confinement of the divine presence to a distant place."
+          },
+          {
+            "q": "What limitation applies to descriptions of divine form?",
+            "a": "They do not exhaust the Absolute. Useful descriptions cannot contain the complete reality."
+          },
+          {
+            "q": "What does Purna refer to here?",
+            "a": "The Complete. The section discusses the impossibility of fully describing this completeness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is Paramatma described as?",
+            "options": [
+              "A presence restricted to one room",
+              "A social title",
+              "The universal indwelling Soul",
+              "A material possession"
+            ],
+            "correct": 2,
+            "explanation": "The Lord is said to be immanent in everything.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 35, PDF pages 25–26"
+          },
+          {
+            "q": "Which devotee’s assurance is recalled?",
+            "options": [
+              "Sabari’s",
+              "Lakshmana’s",
+              "Kunthi’s",
+              "Prahlada’s"
+            ],
+            "correct": 3,
+            "explanation": "Prahlada affirms the Lord’s presence wherever one seeks.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 35, PDF pages 25–26"
+          },
+          {
+            "q": "Must the seeker search far away for the Lord?",
+            "options": [
+              "No, the Lord is already near",
+              "Yes, distance alone is required",
+              "Only beyond every inhabited place",
+              "Only where no life exists"
+            ],
+            "correct": 0,
+            "explanation": "The teaching rejects confinement of the divine presence to a distant place.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 35, PDF pages 25–26"
+          },
+          {
+            "q": "What limitation applies to descriptions of divine form?",
+            "options": [
+              "They make practice impossible",
+              "They do not exhaust the Absolute",
+              "They eliminate all meaning",
+              "They prove the Lord absent elsewhere"
+            ],
+            "correct": 1,
+            "explanation": "Useful descriptions cannot contain the complete reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 35, PDF pages 25–26"
+          },
+          {
+            "q": "What does Purna refer to here?",
+            "options": [
+              "A worldly reward",
+              "A bodily sense",
+              "The Complete",
+              "A social rank"
+            ],
+            "correct": 2,
+            "explanation": "The section discusses the impossibility of fully describing this completeness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=25",
+            "sourceLabel": "Section 35, PDF pages 25–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-36",
+        "title": "Be universal in outlook",
+        "chapter": "Section 36 · Be universal in outlook",
+        "chapterNumber": 36,
+        "pdfStartPage": 26,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/prema-vahini.pdf#page=26",
+        "sourceLabel": "Section 36, PDF pages 26–27",
+        "summary": "Devotees may rightly worship a chosen divine form, but should not claim that only their own name and form are true while those cherished by others are worthless. The section asks for recognition that another person’s ideal can be equally dear and sacred. A particular form provides an approach to the Universal.\n\nThe taste shared by a drop and the ocean illustrates the identity of the divine essence. The attributeless and formless is called Brahman; the same reality appears through names and forms such as Rama, Krishna, Vishnu, and Siva. Worship through a form can reveal the subtle omnipresence it represents. Hatred of other forms obstructs the fuller understanding toward which practice is directed.",
+        "qa": [
+          {
+            "q": "What claim should a devotee avoid?",
+            "a": "Only one’s own chosen name and form are valid. Exclusiveness contradicts the universal outlook urged."
+          },
+          {
+            "q": "How should others’ divine ideals be regarded?",
+            "a": "As dear and sacred to them. Mutual respect accompanies devotion to one’s own ideal."
+          },
+          {
+            "q": "What do the ocean and a drop share in the illustration?",
+            "a": "Their essential taste. The comparison explains identity of essence despite different scale."
+          },
+          {
+            "q": "What name is used for the attributeless and formless?",
+            "a": "Brahman. The same reality is also approached through divine forms."
+          },
+          {
+            "q": "What can systematic worship through a form reveal?",
+            "a": "The subtle omnipresence of the Divine. Spiritual practice leads beyond a narrow understanding of the symbol."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What claim should a devotee avoid?",
+            "options": [
+              "One’s chosen form is dear",
+              "Only one’s own chosen name and form are valid",
+              "Worship can support practice",
+              "Others cherish their ideals"
+            ],
+            "correct": 1,
+            "explanation": "Exclusiveness contradicts the universal outlook urged.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=26",
+            "sourceLabel": "Section 36, PDF pages 26–27"
+          },
+          {
+            "q": "How should others’ divine ideals be regarded?",
+            "options": [
+              "As automatically worthless",
+              "As reasons for hatred",
+              "As dear and sacred to them",
+              "As mere social rewards"
+            ],
+            "correct": 2,
+            "explanation": "Mutual respect accompanies devotion to one’s own ideal.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=26",
+            "sourceLabel": "Section 36, PDF pages 26–27"
+          },
+          {
+            "q": "What do the ocean and a drop share in the illustration?",
+            "options": [
+              "Their size",
+              "Their location",
+              "Their outward extent",
+              "Their essential taste"
+            ],
+            "correct": 3,
+            "explanation": "The comparison explains identity of essence despite different scale.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=26",
+            "sourceLabel": "Section 36, PDF pages 26–27"
+          },
+          {
+            "q": "What name is used for the attributeless and formless?",
+            "options": [
+              "Brahman",
+              "A social office",
+              "A bodily appetite",
+              "A material ornament"
+            ],
+            "correct": 0,
+            "explanation": "The same reality is also approached through divine forms.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=26",
+            "sourceLabel": "Section 36, PDF pages 26–27"
+          },
+          {
+            "q": "What can systematic worship through a form reveal?",
+            "options": [
+              "The need to hate other forms",
+              "The subtle omnipresence of the Divine",
+              "The permanence of all objects",
+              "The superiority of possessions"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual practice leads beyond a narrow understanding of the symbol.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=26",
+            "sourceLabel": "Section 36, PDF pages 26–27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-37",
+        "title": "Incarnations reveal the universal form of the Lord",
+        "chapter": "Section 37 · Incarnations reveal the universal form of the Lord",
+        "chapterNumber": 37,
+        "pdfStartPage": 27,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/prema-vahini.pdf#page=27",
+        "sourceLabel": "Section 37, PDF page 27",
+        "summary": "The attributeless Lord is described as taking name and form to make spiritual truth accessible through concrete experience. Divine incarnations give devotees an opportunity to experience joy and recognise the Lord as the inner Atma of all creation. Krishna’s revelation of the whole creation within His form to Arjuna illustrates this purpose.\n\nThe section then considers love, the lover, and the beloved. Each is meaningful through its relation to the others, and love is the element present throughout. This shared essence is identified with the universal divine presence. The teaching invites recognition that all is an embodiment of the Lord, rather than treating love and its participants as ultimately separate realities.",
+        "qa": [
+          {
+            "q": "Why does the attributeless Lord assume name and form?",
+            "a": "To make spiritual truth accessible through experience. Incarnation offers concrete experience of the Divine."
+          },
+          {
+            "q": "What did Krishna reveal within His form?",
+            "a": "The entire creation. The example demonstrates the universal Lord in a visible form."
+          },
+          {
+            "q": "To whom was this revelation given in the section’s example?",
+            "a": "Arjuna. Arjuna’s experience illustrates recognition of Krishna’s universality."
+          },
+          {
+            "q": "Which three are considered together?",
+            "a": "Love, lover, and beloved. Their relationship reveals love as the common principle."
+          },
+          {
+            "q": "What is the chief ingredient in all three?",
+            "a": "Love. Love is identified with the universal divine presence."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does the attributeless Lord assume name and form?",
+            "options": [
+              "To make spiritual truth accessible through experience",
+              "To seek worldly status",
+              "To deny the universal presence",
+              "To replace love with argument"
+            ],
+            "correct": 0,
+            "explanation": "Incarnation offers concrete experience of the Divine.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 37, PDF page 27"
+          },
+          {
+            "q": "What did Krishna reveal within His form?",
+            "options": [
+              "Only one village",
+              "The entire creation",
+              "Only a single weapon",
+              "Only a written text"
+            ],
+            "correct": 1,
+            "explanation": "The example demonstrates the universal Lord in a visible form.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 37, PDF page 27"
+          },
+          {
+            "q": "To whom was this revelation given in the section’s example?",
+            "options": [
+              "Sabari",
+              "Narada",
+              "Arjuna",
+              "Angulimala"
+            ],
+            "correct": 2,
+            "explanation": "Arjuna’s experience illustrates recognition of Krishna’s universality.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 37, PDF page 27"
+          },
+          {
+            "q": "Which three are considered together?",
+            "options": [
+              "Wealth, owner, and price",
+              "Book, cover, and title",
+              "Body, clothing, and ornament",
+              "Love, lover, and beloved"
+            ],
+            "correct": 3,
+            "explanation": "Their relationship reveals love as the common principle.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 37, PDF page 27"
+          },
+          {
+            "q": "What is the chief ingredient in all three?",
+            "options": [
+              "Love",
+              "Fear",
+              "Possession",
+              "Rivalry"
+            ],
+            "correct": 0,
+            "explanation": "Love is identified with the universal divine presence.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 37, PDF page 27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-38",
+        "title": "Nondualism teaches the highest knowledge: the unity of all",
+        "chapter": "Section 38 · Nondualism teaches the highest knowledge: the unity of all",
+        "chapterNumber": 38,
+        "pdfStartPage": 27,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/prema-vahini.pdf#page=27",
+        "sourceLabel": "Section 38, PDF pages 27–28",
+        "summary": "Love appears under different names according to its direction, including affection for children and devotion to God. The section teaches that its essence remains the same. It then explains nondualism through unity, dualism through the relation of the individual and Brahman, and qualified nondualism through nature, the individual, and Brahman.\n\nThese explanations are brought together through two illustrations. A child, student, and householder are stages of the same person. Milk, butter, and buttermilk differ while retaining a common colour in the comparison used here. The unchanging element points toward Brahman without qualities. The section’s purpose is to disclose a common spiritual reality beneath differences of expression and philosophical description.",
+        "qa": [
+          {
+            "q": "What remains unchanged when love receives different names?",
+            "a": "Its essence. Affection and devotion are presented as expressions of the same essential love."
+          },
+          {
+            "q": "Which teaching emphasises the unity of all?",
+            "a": "Nondualism. A-dwaitha is explained through this highest knowledge of unity."
+          },
+          {
+            "q": "Which pair is used to explain dualism?",
+            "a": "The individual and Brahman. The section describes the lover and the Loved through this pair."
+          },
+          {
+            "q": "Which three are used to explain qualified nondualism?",
+            "a": "Nature, the individual, and Brahman. The threefold relationship is part of the section’s explanation."
+          },
+          {
+            "q": "What does the child-student-householder example show?",
+            "a": "Different stages belong to the same person. The illustration supports unity beneath changing conditions."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What remains unchanged when love receives different names?",
+            "options": [
+              "Its outward direction",
+              "Its relationship in every case",
+              "Its terminology",
+              "Its essence"
+            ],
+            "correct": 3,
+            "explanation": "Affection and devotion are presented as expressions of the same essential love.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 38, PDF pages 27–28"
+          },
+          {
+            "q": "Which teaching emphasises the unity of all?",
+            "options": [
+              "Nondualism",
+              "A theory of social rank",
+              "Mere sensory desire",
+              "Intellectual pride"
+            ],
+            "correct": 0,
+            "explanation": "A-dwaitha is explained through this highest knowledge of unity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 38, PDF pages 27–28"
+          },
+          {
+            "q": "Which pair is used to explain dualism?",
+            "options": [
+              "Food and clothing",
+              "The individual and Brahman",
+              "Wealth and fame",
+              "Speech and hearing"
+            ],
+            "correct": 1,
+            "explanation": "The section describes the lover and the Loved through this pair.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 38, PDF pages 27–28"
+          },
+          {
+            "q": "Which three are used to explain qualified nondualism?",
+            "options": [
+              "Childhood, wealth, and old age",
+              "Body, ornament, and title",
+              "Nature, the individual, and Brahman",
+              "Anger, envy, and pride"
+            ],
+            "correct": 2,
+            "explanation": "The threefold relationship is part of the section’s explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 38, PDF pages 27–28"
+          },
+          {
+            "q": "What does the child-student-householder example show?",
+            "options": [
+              "Each stage is an unrelated person",
+              "Only childhood has value",
+              "Change destroys every continuity",
+              "Different stages belong to the same person"
+            ],
+            "correct": 3,
+            "explanation": "The illustration supports unity beneath changing conditions.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=27",
+            "sourceLabel": "Section 38, PDF pages 27–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-39",
+        "title": "Have firm faith in the unity of Self and Cosmic Lord",
+        "chapter": "Section 39 · Have firm faith in the unity of Self and Cosmic Lord",
+        "chapterNumber": 39,
+        "pdfStartPage": 28,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/prema-vahini.pdf#page=28",
+        "sourceLabel": "Section 39, PDF page 28",
+        "summary": "Devotion begins with the relationship between worshipper and worshipped. Admiration of divine qualities leads the worshipper to cultivate them. As discipline deepens, the sense of separation diminishes. The aspirant is asked to hold firm faith in the unity of the individual Self and the supreme Lord, with realisation as the central wish.\n\nKunthi’s prayer places the Lord’s presence above comfort, illustrating devotion that continues through joy and sorrow. The section also compares the realised devotee and the liberated soul: both are free from ego and possessiveness, filled with compassion, and moved to benefit the world. Their activity springs from spiritual bliss rather than personal desire. Contentment follows the understanding of reality.",
+        "qa": [
+          {
+            "q": "What is called the seed of devotion?",
+            "a": "The attitude of worshipper and worshipped. Devotion begins with this relationship."
+          },
+          {
+            "q": "What does admiration of divine qualities lead the worshipper to do?",
+            "a": "Cultivate those qualities. This effort is described as spiritual discipline."
+          },
+          {
+            "q": "What happens to the sense of separation as practice matures?",
+            "a": "It diminishes. Attainment is described as freedom from this distinction."
+          },
+          {
+            "q": "What does Kunthi’s prayer value above comfort?",
+            "a": "The Lord’s presence. Her prayer illustrates unwavering devotion through distress."
+          },
+          {
+            "q": "What moves the realised devotee to help the world?",
+            "a": "Compassion and spiritual bliss. The section describes activity free from the demands of ego."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is called the seed of devotion?",
+            "options": [
+              "The wish for fame",
+              "The accumulation of possessions",
+              "The attitude of worshipper and worshipped",
+              "The fear of criticism"
+            ],
+            "correct": 2,
+            "explanation": "Devotion begins with this relationship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 39, PDF page 28"
+          },
+          {
+            "q": "What does admiration of divine qualities lead the worshipper to do?",
+            "options": [
+              "Avoid all discipline",
+              "Seek superiority",
+              "Reject good conduct",
+              "Cultivate those qualities"
+            ],
+            "correct": 3,
+            "explanation": "This effort is described as spiritual discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 39, PDF page 28"
+          },
+          {
+            "q": "What happens to the sense of separation as practice matures?",
+            "options": [
+              "It diminishes",
+              "It must always increase",
+              "It becomes material wealth",
+              "It replaces compassion"
+            ],
+            "correct": 0,
+            "explanation": "Attainment is described as freedom from this distinction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 39, PDF page 28"
+          },
+          {
+            "q": "What does Kunthi’s prayer value above comfort?",
+            "options": [
+              "Public honour",
+              "The Lord’s presence",
+              "Political power",
+              "Freedom from every responsibility"
+            ],
+            "correct": 1,
+            "explanation": "Her prayer illustrates unwavering devotion through distress.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 39, PDF page 28"
+          },
+          {
+            "q": "What moves the realised devotee to help the world?",
+            "options": [
+              "Personal ambition",
+              "Possessiveness",
+              "Compassion and spiritual bliss",
+              "Fear of losing status"
+            ],
+            "correct": 2,
+            "explanation": "The section describes activity free from the demands of ego.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 39, PDF page 28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-40",
+        "title": "Start spiritual practise at the earliest moment",
+        "chapter": "Section 40 · Start spiritual practise at the earliest moment",
+        "chapterNumber": 40,
+        "pdfStartPage": 28,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/prema-vahini.pdf#page=28",
+        "sourceLabel": "Section 40, PDF pages 28–29",
+        "summary": "The body is necessary as an instrument through which the individual can discover its true nature, yet its duration is uncertain. The section distinguishes the body, subject to death, from the individual soul. This uncertainty is a reason to begin spiritual practice immediately, while the opportunity is present.\n\nOrdinary tasks are often postponed from one day to another, but this habit should not govern spiritual discipline. A moment that has passed cannot be recovered, and a future moment is not yet in one’s possession. The present is therefore the available time for effort. The teaching urges readiness to turn toward the Divine without waiting for a supposedly more convenient day.",
+        "qa": [
+          {
+            "q": "What role is assigned to the body?",
+            "a": "A vehicle for discovering one’s true nature. Its usefulness makes the present opportunity valuable."
+          },
+          {
+            "q": "What is uncertain about the body?",
+            "a": "How long it will last. Uncertainty about its duration gives urgency to practice."
+          },
+          {
+            "q": "When should spiritual practice begin?",
+            "a": "In the present moment. The section rejects postponement of spiritual effort."
+          },
+          {
+            "q": "Can an elapsed moment be recovered?",
+            "a": "No. Time already passed is beyond one’s grasp."
+          },
+          {
+            "q": "What does the section say about the approaching moment?",
+            "a": "It is not yet ours. Only the present provides an available opportunity for practice."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What role is assigned to the body?",
+            "options": [
+              "A permanent possession",
+              "A vehicle for discovering one’s true nature",
+              "The final spiritual goal",
+              "A substitute for the soul"
+            ],
+            "correct": 1,
+            "explanation": "Its usefulness makes the present opportunity valuable.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 40, PDF pages 28–29"
+          },
+          {
+            "q": "What is uncertain about the body?",
+            "options": [
+              "Whether it needs any care",
+              "Whether it has a worldly name",
+              "How long it will last",
+              "Whether it can perform any action"
+            ],
+            "correct": 2,
+            "explanation": "Uncertainty about its duration gives urgency to practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 40, PDF pages 28–29"
+          },
+          {
+            "q": "When should spiritual practice begin?",
+            "options": [
+              "Only tomorrow",
+              "Only after old age arrives",
+              "Only after every worldly aim is completed",
+              "In the present moment"
+            ],
+            "correct": 3,
+            "explanation": "The section rejects postponement of spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 40, PDF pages 28–29"
+          },
+          {
+            "q": "Can an elapsed moment be recovered?",
+            "options": [
+              "No",
+              "Yes, through possessions",
+              "Yes, through social rank",
+              "Yes, simply by regretting it"
+            ],
+            "correct": 0,
+            "explanation": "Time already passed is beyond one’s grasp.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 40, PDF pages 28–29"
+          },
+          {
+            "q": "What does the section say about the approaching moment?",
+            "options": [
+              "It is guaranteed to everyone",
+              "It is not yet ours",
+              "It replaces the need for present effort",
+              "It can be stored"
+            ],
+            "correct": 1,
+            "explanation": "Only the present provides an available opportunity for practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=28",
+            "sourceLabel": "Section 40, PDF pages 28–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-41",
+        "title": "Seek the vision of the Divine, not death",
+        "chapter": "Section 41 · Seek the vision of the Divine, not death",
+        "chapterNumber": 41,
+        "pdfStartPage": 29,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/prema-vahini.pdf#page=29",
+        "sourceLabel": "Section 41, PDF page 29",
+        "summary": "The section warns against treating the body and passing pleasures as the whole purpose of life. When time is consumed in routine enjoyment and spiritual effort is postponed, old age may arrive without the strength or preparation needed for the search. Human life is compared with a precious diamond that should not be treated as a worthless coin.\n\nBeginning spiritual preparation only at the end is likened to digging a well after a house has caught fire. The help is needed before the crisis. The aspirant should therefore begin contemplation now and persevere toward the vision of the Divine. Physical stamina supports this work, so the body deserves necessary care, while excessive attention to it can become another obstacle.",
+        "qa": [
+          {
+            "q": "What is human life compared with?",
+            "a": "An invaluable diamond. The comparison stresses the value of the human opportunity."
+          },
+          {
+            "q": "What illustrates preparation begun too late?",
+            "a": "Digging a well when a house is on fire. Spiritual preparation should precede the final crisis."
+          },
+          {
+            "q": "What should the aspirant seek?",
+            "a": "The vision of the Divine. The section directs aspiration toward divine realisation."
+          },
+          {
+            "q": "Why is bodily care still necessary?",
+            "a": "Physical stamina supports practice. The body is maintained as an instrument for spiritual effort."
+          },
+          {
+            "q": "What caution accompanies that care?",
+            "a": "Excessive attention to the body can be harmful. Necessary care is distinguished from overindulgence."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is human life compared with?",
+            "options": [
+              "An invaluable diamond",
+              "A worthless stone by nature",
+              "A permanent palace",
+              "An endless store of time"
+            ],
+            "correct": 0,
+            "explanation": "The comparison stresses the value of the human opportunity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 41, PDF page 29"
+          },
+          {
+            "q": "What illustrates preparation begun too late?",
+            "options": [
+              "Watering a planted seed",
+              "Digging a well when a house is on fire",
+              "Preparing a field before sowing",
+              "Lighting a lamp at dusk"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual preparation should precede the final crisis.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 41, PDF page 29"
+          },
+          {
+            "q": "What should the aspirant seek?",
+            "options": [
+              "Death as a goal",
+              "Bodily pleasure alone",
+              "The vision of the Divine",
+              "Fame alone"
+            ],
+            "correct": 2,
+            "explanation": "The section directs aspiration toward divine realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 41, PDF page 29"
+          },
+          {
+            "q": "Why is bodily care still necessary?",
+            "options": [
+              "The body is permanent",
+              "Care replaces contemplation",
+              "Appearance is the highest goal",
+              "Physical stamina supports practice"
+            ],
+            "correct": 3,
+            "explanation": "The body is maintained as an instrument for spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 41, PDF page 29"
+          },
+          {
+            "q": "What caution accompanies that care?",
+            "options": [
+              "Excessive attention to the body can be harmful",
+              "All bodily care must cease",
+              "Only expensive care has value",
+              "Care eliminates the need for discipline"
+            ],
+            "correct": 0,
+            "explanation": "Necessary care is distinguished from overindulgence.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 41, PDF page 29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-42",
+        "title": "Walk the path of spirituality and liberation",
+        "chapter": "Section 42 · Walk the path of spirituality and liberation",
+        "chapterNumber": 42,
+        "pdfStartPage": 29,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/prema-vahini.pdf#page=29",
+        "sourceLabel": "Section 42, PDF pages 29–30",
+        "summary": "Human birth is presented as a rare opportunity. The body is compared with a traveller’s lodging, the mind with its watchman, and the individual soul with a pilgrim bound for liberation. Remembrance of the Lord’s name is the reliable companion for this journey, giving enthusiasm and reducing weariness once its sweetness is experienced.\n\nRighteousness is essential to the practice. Reverence for right conduct and fear of wrongdoing support devotion and worship. The section also warns against thoughtless imitation through the image of sheep following one another into a pit. The aspirant should examine what is good and harmful before acting, remembering that the limited span of life calls for discrimination rather than careless conformity.",
+        "qa": [
+          {
+            "q": "What represents the pilgrim in the lodging illustration?",
+            "a": "The individual soul. The soul is described as travelling toward liberation."
+          },
+          {
+            "q": "What represents the watchman?",
+            "a": "The mind. The body, mind, and soul have distinct roles in the image."
+          },
+          {
+            "q": "What is the pilgrim’s destination?",
+            "a": "Liberation. The journey is directed toward Moksha-puri."
+          },
+          {
+            "q": "What is the reliable companion on this journey?",
+            "a": "Remembrance of God’s name. The sweetness of remembrance sustains enthusiastic practice."
+          },
+          {
+            "q": "What does the image of sheep falling into a pit warn against?",
+            "a": "Acting without discrimination. Following others blindly can lead to harm."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What represents the pilgrim in the lodging illustration?",
+            "options": [
+              "The body",
+              "The watchman",
+              "The lodging itself",
+              "The individual soul"
+            ],
+            "correct": 3,
+            "explanation": "The soul is described as travelling toward liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 42, PDF pages 29–30"
+          },
+          {
+            "q": "What represents the watchman?",
+            "options": [
+              "The mind",
+              "The destination",
+              "The road",
+              "The body’s clothing"
+            ],
+            "correct": 0,
+            "explanation": "The body, mind, and soul have distinct roles in the image.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 42, PDF pages 29–30"
+          },
+          {
+            "q": "What is the pilgrim’s destination?",
+            "options": [
+              "Social fame",
+              "Liberation",
+              "Material luxury",
+              "Victory in debate"
+            ],
+            "correct": 1,
+            "explanation": "The journey is directed toward Moksha-puri.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 42, PDF pages 29–30"
+          },
+          {
+            "q": "What is the reliable companion on this journey?",
+            "options": [
+              "Pride in possessions",
+              "Thoughtless imitation",
+              "Remembrance of God’s name",
+              "Desire for rank"
+            ],
+            "correct": 2,
+            "explanation": "The sweetness of remembrance sustains enthusiastic practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 42, PDF pages 29–30"
+          },
+          {
+            "q": "What does the image of sheep falling into a pit warn against?",
+            "options": [
+              "Thoughtful examination",
+              "Righteous conduct",
+              "Steady remembrance",
+              "Acting without discrimination"
+            ],
+            "correct": 3,
+            "explanation": "Following others blindly can lead to harm.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=29",
+            "sourceLabel": "Section 42, PDF pages 29–30"
+          }
+        ]
+      },
+      {
+        "id": "chapter-43",
+        "title": "Let go the ego in order to reach the goal",
+        "chapter": "Section 43 · Let go the ego in order to reach the goal",
+        "chapterNumber": 43,
+        "pdfStartPage": 30,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/prema-vahini.pdf#page=30",
+        "sourceLabel": "Section 43, PDF page 30",
+        "summary": "Blossoms ready to be gathered by the gardener illustrate cheerful spiritual readiness. The section asks the aspirant to remember the Lord without being overwhelmed by fear at the passing of others. It describes the soul through the image of a bird in a nine-holed vessel and teaches that the disappearance of ego removes enmity.\n\nSpeech should be gentle, pleasant, and true; soft words mixed with falsehood still lead to trouble. Purity of heart is indispensable. A fish remains in water without losing its smell, illustrating why outward immersion in discipline cannot remove tendencies while ego persists. The feelings of “I” and “mine,” likes and dislikes, and the six passions must yield to sincere worship and inward purification.",
+        "qa": [
+          {
+            "q": "What do the blossoms illustrate?",
+            "a": "Cheerful readiness. Their readiness is used as an image for the aspirant."
+          },
+          {
+            "q": "What is likened to a bird in a nine-holed vessel?",
+            "a": "The individual soul. The vessel image describes embodied life."
+          },
+          {
+            "q": "What happens to enmity when ego disappears?",
+            "a": "All are seen as friends. Egotism is presented as the source of divisive feeling."
+          },
+          {
+            "q": "What must accompany gentle speech?",
+            "a": "Truth. Softness without truth can still cause misery."
+          },
+          {
+            "q": "What does the fish remaining in water illustrate?",
+            "a": "External practice alone cannot remove tendencies while ego remains. The example stresses the need for a pure heart."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do the blossoms illustrate?",
+            "options": [
+              "Pride in appearance",
+              "Avoidance of growth",
+              "Cheerful readiness",
+              "Fear of the gardener"
+            ],
+            "correct": 2,
+            "explanation": "Their readiness is used as an image for the aspirant.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 43, PDF page 30"
+          },
+          {
+            "q": "What is likened to a bird in a nine-holed vessel?",
+            "options": [
+              "A social title",
+              "A book",
+              "A possession",
+              "The individual soul"
+            ],
+            "correct": 3,
+            "explanation": "The vessel image describes embodied life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 43, PDF page 30"
+          },
+          {
+            "q": "What happens to enmity when ego disappears?",
+            "options": [
+              "All are seen as friends",
+              "Enmity must increase",
+              "Only strangers become enemies",
+              "Friendship becomes impossible"
+            ],
+            "correct": 0,
+            "explanation": "Egotism is presented as the source of divisive feeling.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 43, PDF page 30"
+          },
+          {
+            "q": "What must accompany gentle speech?",
+            "options": [
+              "Flattery at any cost",
+              "Truth",
+              "Falsehood",
+              "Concealed hostility"
+            ],
+            "correct": 1,
+            "explanation": "Softness without truth can still cause misery.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 43, PDF page 30"
+          },
+          {
+            "q": "What does the fish remaining in water illustrate?",
+            "options": [
+              "Water automatically grants wisdom",
+              "Bodily location guarantees purity",
+              "External practice alone cannot remove tendencies while ego remains",
+              "Discipline has no possible value"
+            ],
+            "correct": 2,
+            "explanation": "The example stresses the need for a pure heart.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 43, PDF page 30"
+          }
+        ]
+      },
+      {
+        "id": "chapter-44",
+        "title": "Pursue the path of good and Godliness",
+        "chapter": "Section 44 · Pursue the path of good and Godliness",
+        "chapterNumber": 44,
+        "pdfStartPage": 30,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/prema-vahini.pdf#page=30",
+        "sourceLabel": "Section 44, PDF pages 30–31",
+        "summary": "An animal carrying sandalwood may bear its weight without appreciating its fragrance. The section uses this contrast to distinguish carrying the burden of learning from absorbing the essence of truth. A spiritual aspirant should receive the goodness within sacred teaching instead of using scholarship mainly for argument or public admiration.\n\nLove is described as the great instrument of remembrance, protected by discrimination as a blade is protected by its sheath. Those who have experienced the essence of the Vedas, scriptures, and Upanishads recognise its unity and have little need for disputation. The passage connects this understanding with the divine response to the form and feeling through which a devotee approaches God.",
+        "qa": [
+          {
+            "q": "What does carrying sandalwood without appreciating its scent illustrate?",
+            "a": "Learning without absorbing its essence. The distinction is between a burden of information and experienced truth."
+          },
+          {
+            "q": "What should the aspirant seek in sacred teaching?",
+            "a": "Its pure essence. Understanding should nourish goodness and Godliness."
+          },
+          {
+            "q": "What is the principal instrument of remembrance?",
+            "a": "Love. Love sustains remembrance of the Lord."
+          },
+          {
+            "q": "What protects that instrument in the comparison?",
+            "a": "Discrimination. Discrimination is compared with a protective sheath."
+          },
+          {
+            "q": "What do those who experience the scriptures’ essence recognise?",
+            "a": "Its unity. Direct understanding reduces the desire for disputation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does carrying sandalwood without appreciating its scent illustrate?",
+            "options": [
+              "Perfect realisation",
+              "Learning without absorbing its essence",
+              "The rejection of all study",
+              "The value of social rank"
+            ],
+            "correct": 1,
+            "explanation": "The distinction is between a burden of information and experienced truth.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 44, PDF pages 30–31"
+          },
+          {
+            "q": "What should the aspirant seek in sacred teaching?",
+            "options": [
+              "Material for endless dispute",
+              "Reasons for boasting",
+              "Its pure essence",
+              "Praise from onlookers"
+            ],
+            "correct": 2,
+            "explanation": "Understanding should nourish goodness and Godliness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 44, PDF pages 30–31"
+          },
+          {
+            "q": "What is the principal instrument of remembrance?",
+            "options": [
+              "Rivalry",
+              "Pride",
+              "Possessions",
+              "Love"
+            ],
+            "correct": 3,
+            "explanation": "Love sustains remembrance of the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 44, PDF pages 30–31"
+          },
+          {
+            "q": "What protects that instrument in the comparison?",
+            "options": [
+              "Discrimination",
+              "Conceit",
+              "Anger",
+              "Public approval"
+            ],
+            "correct": 0,
+            "explanation": "Discrimination is compared with a protective sheath.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 44, PDF pages 30–31"
+          },
+          {
+            "q": "What do those who experience the scriptures’ essence recognise?",
+            "options": [
+              "The need for constant quarrelling",
+              "Its unity",
+              "The worthlessness of conduct",
+              "The supremacy of reputation"
+            ],
+            "correct": 1,
+            "explanation": "Direct understanding reduces the desire for disputation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=30",
+            "sourceLabel": "Section 44, PDF pages 30–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-45",
+        "title": "Practise single-minded devotion and equanimity",
+        "chapter": "Section 45 · Practise single-minded devotion and equanimity",
+        "chapterNumber": 45,
+        "pdfStartPage": 31,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/prema-vahini.pdf#page=31",
+        "sourceLabel": "Section 45, PDF page 31",
+        "summary": "Chanting, meditation, and devotional singing are directed toward one-pointedness. The aim is a steady mind, equanimity, and freedom from likes and dislikes, rather than increased skill in argument. When this concentration is established, the inner significance of the disciplines becomes clear.\n\nThe aspirant should recognise personal faults and avoid repeating them. Difficulties, defeats, and disturbances are not to be allowed to displace the goal. The concentration already gained must be protected. Thoughts that bring enthusiasm and joy support this effort, whereas continually manufacturing doubts about every matter wastes valuable time. The section directs spiritual energy toward steady practice and inward balance.",
+        "qa": [
+          {
+            "q": "What common aim is assigned to chanting, meditation, and devotional singing?",
+            "a": "One-pointedness. The practices help establish a steady spiritual focus."
+          },
+          {
+            "q": "Which attitude should accompany concentration?",
+            "a": "Equanimity. Balance and freedom from likes and dislikes are emphasised."
+          },
+          {
+            "q": "What should an aspirant do about personal faults?",
+            "a": "Recognise them and avoid repeating them. Self-correction is part of protecting spiritual progress."
+          },
+          {
+            "q": "How should difficulties affect the spiritual goal?",
+            "a": "They should not displace it. The section urges perseverance through disturbances."
+          },
+          {
+            "q": "What kind of thought supports practice?",
+            "a": "Thought that brings enthusiasm and joy. Positive spiritual energy helps sustain concentration."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What common aim is assigned to chanting, meditation, and devotional singing?",
+            "options": [
+              "One-pointedness",
+              "Argumentative skill",
+              "Public fame",
+              "Material display"
+            ],
+            "correct": 0,
+            "explanation": "The practices help establish a steady spiritual focus.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 45, PDF page 31"
+          },
+          {
+            "q": "Which attitude should accompany concentration?",
+            "options": [
+              "Jealousy",
+              "Equanimity",
+              "Hostility",
+              "Conceit"
+            ],
+            "correct": 1,
+            "explanation": "Balance and freedom from likes and dislikes are emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 45, PDF page 31"
+          },
+          {
+            "q": "What should an aspirant do about personal faults?",
+            "options": [
+              "Hide them through argument",
+              "Blame others for them",
+              "Recognise them and avoid repeating them",
+              "Treat them as virtues"
+            ],
+            "correct": 2,
+            "explanation": "Self-correction is part of protecting spiritual progress.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 45, PDF page 31"
+          },
+          {
+            "q": "How should difficulties affect the spiritual goal?",
+            "options": [
+              "They should immediately end practice",
+              "They should become the only focus",
+              "They should justify hostility",
+              "They should not displace it"
+            ],
+            "correct": 3,
+            "explanation": "The section urges perseverance through disturbances.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 45, PDF page 31"
+          },
+          {
+            "q": "What kind of thought supports practice?",
+            "options": [
+              "Thought that brings enthusiasm and joy",
+              "Continual needless doubt",
+              "Resentment",
+              "Obsession with praise"
+            ],
+            "correct": 0,
+            "explanation": "Positive spiritual energy helps sustain concentration.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 45, PDF page 31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-46",
+        "title": "Eschew conceit and doubt",
+        "chapter": "Section 46 · Eschew conceit and doubt",
+        "chapterNumber": 46,
+        "pdfStartPage": 31,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/prema-vahini.pdf#page=31",
+        "sourceLabel": "Section 46, PDF pages 31–32",
+        "summary": "The conceit of knowing everything and persistent doubt about reality are identified as chief enemies of the aspirant. The section asks the seeker to become firmly established in truth. Coloured spectacles illustrate how an inner condition can determine the way the world appears: a distorted outlook makes difference and fault seem everywhere.\n\nThe Lord is described as looking for goodness rather than judging people by wealth, family, caste, status, or sex. Righteous feeling is the qualification emphasised. The aspirant is therefore urged to cultivate goodness and to live in joy and love. The teaching shifts attention from outward classification and fault-finding to the purification of one’s own attitude.",
+        "qa": [
+          {
+            "q": "Which two enemies are singled out?",
+            "a": "Conceit and doubt. The conceit of complete knowledge and destabilising doubt obstruct practice."
+          },
+          {
+            "q": "What do coloured spectacles illustrate?",
+            "a": "Inner outlook colours perception. The example explains how one’s own condition shapes what is seen."
+          },
+          {
+            "q": "What does the Lord seek in people according to the section?",
+            "a": "Goodness. Righteous feeling is the criterion emphasised."
+          },
+          {
+            "q": "Which is not presented as a qualification for grace?",
+            "a": "Social status. The text rejects status-based judgement."
+          },
+          {
+            "q": "In what spirit should the aspirant live and act?",
+            "a": "Joy and love. These qualities accompany the goodness the section recommends."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two enemies are singled out?",
+            "options": [
+              "Patience and charity",
+              "Truth and love",
+              "Discipline and devotion",
+              "Conceit and doubt"
+            ],
+            "correct": 3,
+            "explanation": "The conceit of complete knowledge and destabilising doubt obstruct practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 46, PDF pages 31–32"
+          },
+          {
+            "q": "What do coloured spectacles illustrate?",
+            "options": [
+              "Inner outlook colours perception",
+              "Wealth determines truth",
+              "Different objects have no names",
+              "Study is unnecessary"
+            ],
+            "correct": 0,
+            "explanation": "The example explains how one’s own condition shapes what is seen.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 46, PDF pages 31–32"
+          },
+          {
+            "q": "What does the Lord seek in people according to the section?",
+            "options": [
+              "Wealth",
+              "Goodness",
+              "High social status",
+              "Flattery"
+            ],
+            "correct": 1,
+            "explanation": "Righteous feeling is the criterion emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 46, PDF pages 31–32"
+          },
+          {
+            "q": "Which is not presented as a qualification for grace?",
+            "options": [
+              "Goodness",
+              "Righteous feeling",
+              "Social status",
+              "Love"
+            ],
+            "correct": 2,
+            "explanation": "The text rejects status-based judgement.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 46, PDF pages 31–32"
+          },
+          {
+            "q": "In what spirit should the aspirant live and act?",
+            "options": [
+              "Suspicion and hostility",
+              "Pride and envy",
+              "Fear and rivalry",
+              "Joy and love"
+            ],
+            "correct": 3,
+            "explanation": "These qualities accompany the goodness the section recommends.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=31",
+            "sourceLabel": "Section 46, PDF pages 31–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-47",
+        "title": "Be humane, not demonic",
+        "chapter": "Section 47 · Be humane, not demonic",
+        "chapterNumber": 47,
+        "pdfStartPage": 32,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/prema-vahini.pdf#page=32",
+        "sourceLabel": "Section 47, PDF page 32",
+        "summary": "The section defines genuine humanity through love, mercy, truthfulness, and peace. Peace and joy are described as treasures within the mind, like valuables hidden beneath earth or sea. Turning inward allows these qualities to be discovered and expressed. Love in this sense is pure, unselfish, and continuous.\n\nThe contrast between human and demonic is a contrast of character, not physical form. Cruelty, selfishness, and injustice contradict the humanity that love expresses. Kind and truthful conduct gives visible expression to inner goodness and spiritual joy. The passage uses the terms manava and danava to sharpen this moral distinction and insists that appearance alone cannot establish a person’s spiritual character.",
+        "qa": [
+          {
+            "q": "What defines genuine humanity in the section?",
+            "a": "Love, mercy, truthfulness, and peace. Character is the decisive concern."
+          },
+          {
+            "q": "Where are peace and joy described as hidden?",
+            "a": "Within the activities of the mind. Turning inward is compared with discovering hidden treasure."
+          },
+          {
+            "q": "What kind of love is intended?",
+            "a": "Pure, unselfish, and continuous. The section gives love an enduring and unselfish meaning."
+          },
+          {
+            "q": "What distinguishes human from demonic in this discussion?",
+            "a": "Qualities and conduct. The passage explicitly places character above outward form."
+          },
+          {
+            "q": "Which conduct expresses inner goodness?",
+            "a": "Kind and truthful action. Such action manifests the love the section describes."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What defines genuine humanity in the section?",
+            "options": [
+              "Physical form alone",
+              "Wealth alone",
+              "Love, mercy, truthfulness, and peace",
+              "Public titles"
+            ],
+            "correct": 2,
+            "explanation": "Character is the decisive concern.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 47, PDF page 32"
+          },
+          {
+            "q": "Where are peace and joy described as hidden?",
+            "options": [
+              "Only in distant places",
+              "Only in possessions",
+              "Only in public praise",
+              "Within the activities of the mind"
+            ],
+            "correct": 3,
+            "explanation": "Turning inward is compared with discovering hidden treasure.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 47, PDF page 32"
+          },
+          {
+            "q": "What kind of love is intended?",
+            "options": [
+              "Pure, unselfish, and continuous",
+              "Intermittent affection based only on gain",
+              "Possessiveness",
+              "Rivalry disguised as concern"
+            ],
+            "correct": 0,
+            "explanation": "The section gives love an enduring and unselfish meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 47, PDF page 32"
+          },
+          {
+            "q": "What distinguishes human from demonic in this discussion?",
+            "options": [
+              "Bodily shape alone",
+              "Qualities and conduct",
+              "Clothing alone",
+              "Age alone"
+            ],
+            "correct": 1,
+            "explanation": "The passage explicitly places character above outward form.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 47, PDF page 32"
+          },
+          {
+            "q": "Which conduct expresses inner goodness?",
+            "options": [
+              "Cruelty",
+              "Deception",
+              "Kind and truthful action",
+              "Injustice"
+            ],
+            "correct": 2,
+            "explanation": "Such action manifests the love the section describes.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 47, PDF page 32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-48",
+        "title": "Develop the characteristics of genuine devotees",
+        "chapter": "Section 48 · Develop the characteristics of genuine devotees",
+        "chapterNumber": 48,
+        "pdfStartPage": 32,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/prema-vahini.pdf#page=32",
+        "sourceLabel": "Section 48, PDF pages 32–33",
+        "summary": "In Rama’s answer to Narada, the Lord’s servants are loving, truthful, merciful, righteous, and unselfish. They practise moderation, do good to others, and prefer hearing of others’ virtues to receiving flattery. Aspirants are those who work to acquire this character. Faith, patience, discipline, kindness, and sincere love make a person dear to the Lord.\n\nGenuine devotees combine discrimination, detachment, humility, and wisdom with constant remembrance of the Lord. Divine protection is compared with a mother’s care, a cow’s protection of her calf, and the eyelids’ guarding of the eyes. The section describes devotion to form as a necessary foundation before devotion to the formless, using the growth from dependent infancy to maturity as its explanation.",
+        "qa": [
+          {
+            "q": "Who asks Rama about devotees and aspirants?",
+            "a": "Narada. Rama’s answer supplies the character descriptions in this section."
+          },
+          {
+            "q": "What do the Lord’s servants prefer to flattery?",
+            "a": "Hearing praise of others’ good qualities. Their lack of selfishness appears in this preference."
+          },
+          {
+            "q": "Who is called a spiritual aspirant here?",
+            "a": "One endeavouring to acquire the described noble character. Aspiration is connected with cultivating the qualities Rama describes."
+          },
+          {
+            "q": "What illustrates the Lord’s protective care?",
+            "a": "Eyelids guarding the eyes. The section also uses the examples of mother and cow."
+          },
+          {
+            "q": "What foundation precedes devotion to the formless?",
+            "a": "Devotion to form. The text explains the progression through the image of growing maturity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who asks Rama about devotees and aspirants?",
+            "options": [
+              "Arjuna",
+              "Narada",
+              "Kunthi",
+              "Sabari"
+            ],
+            "correct": 1,
+            "explanation": "Rama’s answer supplies the character descriptions in this section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 48, PDF pages 32–33"
+          },
+          {
+            "q": "What do the Lord’s servants prefer to flattery?",
+            "options": [
+              "Hearing attacks on others",
+              "Receiving more titles",
+              "Hearing praise of others’ good qualities",
+              "Avoiding all kindness"
+            ],
+            "correct": 2,
+            "explanation": "Their lack of selfishness appears in this preference.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 48, PDF pages 32–33"
+          },
+          {
+            "q": "Who is called a spiritual aspirant here?",
+            "options": [
+              "Anyone wearing a particular ornament",
+              "Anyone seeking applause",
+              "Anyone claiming complete knowledge",
+              "One endeavouring to acquire the described noble character"
+            ],
+            "correct": 3,
+            "explanation": "Aspiration is connected with cultivating the qualities Rama describes.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 48, PDF pages 32–33"
+          },
+          {
+            "q": "What illustrates the Lord’s protective care?",
+            "options": [
+              "Eyelids guarding the eyes",
+              "A wall without a foundation",
+              "A merchant’s balance",
+              "A closed door"
+            ],
+            "correct": 0,
+            "explanation": "The section also uses the examples of mother and cow.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 48, PDF pages 32–33"
+          },
+          {
+            "q": "What foundation precedes devotion to the formless?",
+            "options": [
+              "The pursuit of fame",
+              "Devotion to form",
+              "Rejection of every discipline",
+              "Intellectual pride"
+            ],
+            "correct": 1,
+            "explanation": "The text explains the progression through the image of growing maturity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=32",
+            "sourceLabel": "Section 48, PDF pages 32–33"
+          }
+        ]
+      },
+      {
+        "id": "chapter-49",
+        "title": "Surrender completely to the Lord",
+        "chapter": "Section 49 · Surrender completely to the Lord",
+        "chapterNumber": 49,
+        "pdfStartPage": 33,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/prema-vahini.pdf#page=33",
+        "sourceLabel": "Section 49, PDF page 33",
+        "summary": "The devotee’s growth is compared with an infant in the mother’s lap becoming mature and able to rely on its strength. Yet the source of strength remains the same mother. The section uses this to connect dependence on the Lord with the freedom of a realised person, rather than treating them as unrelated conditions.\n\nOne-pointed devotion and the correction of character belong together. The devotee places life within the Lord’s will and allows action to follow that surrender. Names such as servant, dear one, and one-pointed devotee should be matched by the corresponding conduct. Complete surrender is therefore a lived relationship, not merely a description a person chooses to claim.",
+        "qa": [
+          {
+            "q": "What image explains spiritual growth?",
+            "a": "An infant growing into maturity. Growth develops strength without changing its ultimate source."
+          },
+          {
+            "q": "What remains the source of strength in the image?",
+            "a": "The mother. The analogy connects the devotee’s strength with the Lord."
+          },
+          {
+            "q": "What should accompany one-pointed devotion?",
+            "a": "The correction of character. Devotion is expressed through personal transformation."
+          },
+          {
+            "q": "Whose will guides the surrendered devotee?",
+            "a": "The Lord’s. The devotee’s actions are placed within the divine will."
+          },
+          {
+            "q": "What must match a spiritual name or role one claims?",
+            "a": "Corresponding conduct. The section requires the relationship to be lived."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What image explains spiritual growth?",
+            "options": [
+              "An infant growing into maturity",
+              "A coin increasing in weight",
+              "A mountain changing location",
+              "A book losing its pages"
+            ],
+            "correct": 0,
+            "explanation": "Growth develops strength without changing its ultimate source.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 49, PDF page 33"
+          },
+          {
+            "q": "What remains the source of strength in the image?",
+            "options": [
+              "Public praise",
+              "The mother",
+              "Material wealth",
+              "Argument"
+            ],
+            "correct": 1,
+            "explanation": "The analogy connects the devotee’s strength with the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 49, PDF page 33"
+          },
+          {
+            "q": "What should accompany one-pointed devotion?",
+            "options": [
+              "Pride in labels",
+              "Neglect of conduct",
+              "The correction of character",
+              "Dependence on flattery"
+            ],
+            "correct": 2,
+            "explanation": "Devotion is expressed through personal transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 49, PDF page 33"
+          },
+          {
+            "q": "Whose will guides the surrendered devotee?",
+            "options": [
+              "The demand for fame",
+              "The urge to compete",
+              "The wish to boast",
+              "The Lord’s"
+            ],
+            "correct": 3,
+            "explanation": "The devotee’s actions are placed within the divine will.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 49, PDF page 33"
+          },
+          {
+            "q": "What must match a spiritual name or role one claims?",
+            "options": [
+              "Corresponding conduct",
+              "Expensive clothing",
+              "A public title",
+              "A large audience"
+            ],
+            "correct": 0,
+            "explanation": "The section requires the relationship to be lived.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 49, PDF page 33"
+          }
+        ]
+      },
+      {
+        "id": "chapter-50",
+        "title": "The nine paths of devotion",
+        "chapter": "Section 50 · The nine paths of devotion",
+        "chapterNumber": 50,
+        "pdfStartPage": 33,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/prema-vahini.pdf#page=33",
+        "sourceLabel": "Section 50, PDF pages 33–34",
+        "summary": "Spiritual bliss comes through practice rather than reading and repetition alone. The meeting of Rama and Sabari illustrates devotion independent of caste, status, or sex. Sabari’s concern about her ability to praise Him is answered by Rama’s affirmation that His relationship is one of devotion, not social standing.\n\nRama names nine paths: listening to divine stories, singing the name, remembering God, serving the holy feet, reverence toward nature and life, worship, servitude, friendship, and surrender to the Self. Sincere practice of any one can lead to Him. Sabari’s opportunity to see, touch, and converse with Rama is presented as the fruit of devotion already lived, rather than merely words spoken on that day.",
+        "qa": [
+          {
+            "q": "Who receives Rama’s teaching on the nine paths?",
+            "a": "Sabari. The teaching arises during Rama’s acceptance of her offering."
+          },
+          {
+            "q": "What determines the relationship Rama emphasises?",
+            "a": "Devotion. Rama answers Sabari’s concern by affirming the kinship of devotion."
+          },
+          {
+            "q": "What is sravanam?",
+            "a": "Listening to stories about God. It is the first path named in the list."
+          },
+          {
+            "q": "What is Atma-nivedanam?",
+            "a": "Surrender to the Self. It is one of the nine forms of devotion listed."
+          },
+          {
+            "q": "How many of the nine paths must be sincerely practised to reach the Lord?",
+            "a": "Any one can lead to Him. Rama affirms the efficacy of sincere practice of any one path."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who receives Rama’s teaching on the nine paths?",
+            "options": [
+              "Arjuna",
+              "Kunthi",
+              "Prahlada",
+              "Sabari"
+            ],
+            "correct": 3,
+            "explanation": "The teaching arises during Rama’s acceptance of her offering.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 50, PDF pages 33–34"
+          },
+          {
+            "q": "What determines the relationship Rama emphasises?",
+            "options": [
+              "Devotion",
+              "Caste alone",
+              "Wealth alone",
+              "Public status"
+            ],
+            "correct": 0,
+            "explanation": "Rama answers Sabari’s concern by affirming the kinship of devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 50, PDF pages 33–34"
+          },
+          {
+            "q": "What is sravanam?",
+            "options": [
+              "Seeking fame",
+              "Listening to stories about God",
+              "Physical travel alone",
+              "Giving up truth"
+            ],
+            "correct": 1,
+            "explanation": "It is the first path named in the list.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 50, PDF pages 33–34"
+          },
+          {
+            "q": "What is Atma-nivedanam?",
+            "options": [
+              "Singing only",
+              "Listening only",
+              "Surrender to the Self",
+              "Friendship only"
+            ],
+            "correct": 2,
+            "explanation": "It is one of the nine forms of devotion listed.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 50, PDF pages 33–34"
+          },
+          {
+            "q": "How many of the nine paths must be sincerely practised to reach the Lord?",
+            "options": [
+              "All nine must begin on the same day",
+              "None requires practice",
+              "Only the first is valid",
+              "Any one can lead to Him"
+            ],
+            "correct": 3,
+            "explanation": "Rama affirms the efficacy of sincere practice of any one path.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=33",
+            "sourceLabel": "Section 50, PDF pages 33–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-51",
+        "title": "Devotion is of two kinds: effortful devotion and self-surrender",
+        "chapter": "Section 51 · Devotion is of two kinds: effortful devotion and self-surrender",
+        "chapterNumber": 51,
+        "pdfStartPage": 34,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/prema-vahini.pdf#page=34",
+        "sourceLabel": "Section 51, PDF pages 34–35",
+        "summary": "The section distinguishes devotion through sustained effort from complete self-surrender. A young monkey clinging to its mother illustrates the first: the devotee holds firmly to the Lord’s name through trials, ridicule, and discouragement. Prahlada is its example. Devotion should remain uninterrupted, like oil flowing from one vessel into another.\n\nA kitten carried by its mother illustrates surrender. The devotee entrusts every burden to the Lord. Lakshmana’s fourteen years of service to Rama exemplify this path, with his own wishes subordinated to service. Love is present in both approaches, though their practice differs. The section gives special emphasis to the completeness of surrender, in which the Lord is regarded as the devotee’s whole support and purpose.",
+        "qa": [
+          {
+            "q": "What illustrates devotion through sustained effort?",
+            "a": "A young monkey clinging to its mother. The child’s grip represents the devotee’s perseverance."
+          },
+          {
+            "q": "Who exemplifies that effortful devotion?",
+            "a": "Prahlada. Prahlada is named in connection with holding firmly through tests."
+          },
+          {
+            "q": "What illustrates self-surrender?",
+            "a": "A kitten carried by its mother. The kitten entrusts its safety to the mother."
+          },
+          {
+            "q": "Who exemplifies surrender through fourteen years of service?",
+            "a": "Lakshmana. His service to Rama illustrates placing one’s whole will in the Lord."
+          },
+          {
+            "q": "What does the flow of oil illustrate?",
+            "a": "Uninterrupted devotion. Devotion should continue without breaks."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates devotion through sustained effort?",
+            "options": [
+              "A kitten being carried",
+              "A pot being filled",
+              "A young monkey clinging to its mother",
+              "A lamp being lit"
+            ],
+            "correct": 2,
+            "explanation": "The child’s grip represents the devotee’s perseverance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=34",
+            "sourceLabel": "Section 51, PDF pages 34–35"
+          },
+          {
+            "q": "Who exemplifies that effortful devotion?",
+            "options": [
+              "Lakshmana",
+              "Sabari",
+              "Kunthi",
+              "Prahlada"
+            ],
+            "correct": 3,
+            "explanation": "Prahlada is named in connection with holding firmly through tests.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=34",
+            "sourceLabel": "Section 51, PDF pages 34–35"
+          },
+          {
+            "q": "What illustrates self-surrender?",
+            "options": [
+              "A kitten carried by its mother",
+              "A bird building a nest",
+              "A fish swimming",
+              "A tree bearing fruit"
+            ],
+            "correct": 0,
+            "explanation": "The kitten entrusts its safety to the mother.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=34",
+            "sourceLabel": "Section 51, PDF pages 34–35"
+          },
+          {
+            "q": "Who exemplifies surrender through fourteen years of service?",
+            "options": [
+              "Narada",
+              "Lakshmana",
+              "Arjuna",
+              "Angulimala"
+            ],
+            "correct": 1,
+            "explanation": "His service to Rama illustrates placing one’s whole will in the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=34",
+            "sourceLabel": "Section 51, PDF pages 34–35"
+          },
+          {
+            "q": "What does the flow of oil illustrate?",
+            "options": [
+              "Changing the chosen name repeatedly",
+              "Accumulating possessions",
+              "Uninterrupted devotion",
+              "The need for argument"
+            ],
+            "correct": 2,
+            "explanation": "Devotion should continue without breaks.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=34",
+            "sourceLabel": "Section 51, PDF pages 34–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-52",
+        "title": "The course of life of a forest dweller",
+        "chapter": "Section 52 · The course of life of a forest dweller",
+        "chapterNumber": 52,
+        "pdfStartPage": 35,
+        "pdfEndPage": 36,
+        "sourceUrl": "assets/prema-vahini.pdf#page=35",
+        "sourceLabel": "Section 52, PDF pages 35–36",
+        "summary": "This section describes the traditional forest-dweller stage following household life. It discusses leaving home around the age of forty-five or fifty, making provision for a wife or taking her along within a celibate life, and adopting a greatly simplified routine. Food, clothing, and daily observances are regulated as part of renunciation.\n\nThe passage includes demanding historical ascetic rules, lunar observances, and seasonal austerities. It also calls for equal love toward everyone and for the study, understanding, and experience of Upanishadic statements. These are the book’s description of this particular discipline. The spiritual conclusion it presents is the dawning of true knowledge and liberation through sustained renunciation and experiential understanding.",
+        "qa": [
+          {
+            "q": "Which stage precedes the forest-dweller life described?",
+            "a": "Household life. The section places forest dwelling after the experiences of the householder."
+          },
+          {
+            "q": "Around what age does the text describe entering this stage?",
+            "a": "Forty-five or fifty. This is the age range stated in the traditional account."
+          },
+          {
+            "q": "What attitude toward all people is required?",
+            "a": "Equal pure love. Renunciation is joined with an equal loving outlook."
+          },
+          {
+            "q": "What is to be studied and experienced?",
+            "a": "Upanishadic statements. Their meaning is to become lived understanding."
+          },
+          {
+            "q": "What spiritual result does the section associate with this discipline?",
+            "a": "True knowledge leading to liberation. The prescribed life is presented as a path toward spiritual understanding."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which stage precedes the forest-dweller life described?",
+            "options": [
+              "Infancy alone",
+              "Household life",
+              "A period of public office",
+              "Military service"
+            ],
+            "correct": 1,
+            "explanation": "The section places forest dwelling after the experiences of the householder.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=35",
+            "sourceLabel": "Section 52, PDF pages 35–36"
+          },
+          {
+            "q": "Around what age does the text describe entering this stage?",
+            "options": [
+              "Ten or fifteen",
+              "Twenty or twenty-five",
+              "Forty-five or fifty",
+              "Ninety or one hundred"
+            ],
+            "correct": 2,
+            "explanation": "This is the age range stated in the traditional account.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=35",
+            "sourceLabel": "Section 52, PDF pages 35–36"
+          },
+          {
+            "q": "What attitude toward all people is required?",
+            "options": [
+              "Preference based on wealth",
+              "Hostility toward strangers",
+              "Attachment only to praise",
+              "Equal pure love"
+            ],
+            "correct": 3,
+            "explanation": "Renunciation is joined with an equal loving outlook.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=35",
+            "sourceLabel": "Section 52, PDF pages 35–36"
+          },
+          {
+            "q": "What is to be studied and experienced?",
+            "options": [
+              "Upanishadic statements",
+              "Only commercial accounts",
+              "Only family records",
+              "Only political instruction"
+            ],
+            "correct": 0,
+            "explanation": "Their meaning is to become lived understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=35",
+            "sourceLabel": "Section 52, PDF pages 35–36"
+          },
+          {
+            "q": "What spiritual result does the section associate with this discipline?",
+            "options": [
+              "A higher social title",
+              "True knowledge leading to liberation",
+              "Material luxury",
+              "Public fame"
+            ],
+            "correct": 1,
+            "explanation": "The prescribed life is presented as a path toward spiritual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=35",
+            "sourceLabel": "Section 52, PDF pages 35–36"
+          }
+        ]
+      },
+      {
+        "id": "chapter-53",
+        "title": "External and internal disciplines are necessary for one-pointed devotion",
+        "chapter": "Section 53 · External and internal disciplines are necessary for one-pointed devotion",
+        "chapterNumber": 53,
+        "pdfStartPage": 36,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/prema-vahini.pdf#page=36",
+        "sourceLabel": "Section 53, PDF pages 36–37",
+        "summary": "The section answers the objection that bodily rules cannot produce spiritual knowledge. External discipline helps weaken established tendencies and develop concentration. The experience of Upanishadic teaching then deepens this one-pointedness into understanding. Physical regulation and inward knowledge are thus presented as connected, rather than as competing alternatives.\n\nA steering wheel and the wheels of a vehicle illustrate the relation between outer control and inner movement. Purifying water provides another comparison for removing delusion from conduct. Once outward tendencies have been brought under control, the inner life can turn more readily toward Atmic bliss. The forest-dweller discipline is described as one effective path, while the text explicitly allows other paths through which divine grace is obtained.",
+        "qa": [
+          {
+            "q": "What objection does the section answer?",
+            "a": "That bodily disciplines cannot contribute to spiritual knowledge. It explains how external regulation supports concentration."
+          },
+          {
+            "q": "What do external disciplines help weaken?",
+            "a": "Established tendencies. This prepares the mind for one-pointed understanding."
+          },
+          {
+            "q": "What vehicle comparison is used?",
+            "a": "Steering wheel and wheels. The connected parts illustrate outer and inner control."
+          },
+          {
+            "q": "What must accompany regulation for knowledge to dawn?",
+            "a": "Experience of Upanishadic teaching. The teaching must be realised, not only repeated."
+          },
+          {
+            "q": "Is forest-dweller discipline described as the only possible path?",
+            "a": "No, other paths through which grace is obtained are allowed. The section explicitly avoids restricting liberation to this one method."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What objection does the section answer?",
+            "options": [
+              "That bodily disciplines cannot contribute to spiritual knowledge",
+              "That study requires a book",
+              "That service can involve action",
+              "That meditation involves attention"
+            ],
+            "correct": 0,
+            "explanation": "It explains how external regulation supports concentration.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=36",
+            "sourceLabel": "Section 53, PDF pages 36–37"
+          },
+          {
+            "q": "What do external disciplines help weaken?",
+            "options": [
+              "Truthfulness",
+              "Established tendencies",
+              "Compassion",
+              "Sincere devotion"
+            ],
+            "correct": 1,
+            "explanation": "This prepares the mind for one-pointed understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=36",
+            "sourceLabel": "Section 53, PDF pages 36–37"
+          },
+          {
+            "q": "What vehicle comparison is used?",
+            "options": [
+              "A sail and an anchor",
+              "A ticket and a station",
+              "Steering wheel and wheels",
+              "A bridge and a river"
+            ],
+            "correct": 2,
+            "explanation": "The connected parts illustrate outer and inner control.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=36",
+            "sourceLabel": "Section 53, PDF pages 36–37"
+          },
+          {
+            "q": "What must accompany regulation for knowledge to dawn?",
+            "options": [
+              "Mere pride in austerity",
+              "Public applause",
+              "The rejection of understanding",
+              "Experience of Upanishadic teaching"
+            ],
+            "correct": 3,
+            "explanation": "The teaching must be realised, not only repeated.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=36",
+            "sourceLabel": "Section 53, PDF pages 36–37"
+          },
+          {
+            "q": "Is forest-dweller discipline described as the only possible path?",
+            "options": [
+              "No, other paths through which grace is obtained are allowed",
+              "Yes, every other path is denied",
+              "Only social rank determines the path",
+              "No spiritual path is recognised"
+            ],
+            "correct": 0,
+            "explanation": "The section explicitly avoids restricting liberation to this one method.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=36",
+            "sourceLabel": "Section 53, PDF pages 36–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-54",
+        "title": "The four stages of liberation",
+        "chapter": "Section 54 · The four stages of liberation",
+        "chapterNumber": 54,
+        "pdfStartPage": 37,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/prema-vahini.pdf#page=37",
+        "sourceLabel": "Section 54, PDF page 37",
+        "summary": "Worship with steady consciousness and pure feeling is described as leading to inward union and the vision of the chosen divine form. The section explains salokya as abiding with the Lord, samipya as seeing His glory everywhere, and sarupya as becoming suffused with divine consciousness and likeness of form.\n\nA trace of difference still remains in these conditions. Sayujya is the complete disappearance of that difference in unity. This highest state is attributed to grace rather than something effort can demand as payment. The devotee may seek only loving service, yet the Lord can also grant knowledge of Brahman and union. Devotion and spiritual knowledge are therefore shown as converging in the final fulfilment.",
+        "qa": [
+          {
+            "q": "What does salokya mean in this account?",
+            "a": "Being always with the Lord. It is the first stage explained after the inward vision."
+          },
+          {
+            "q": "What does samipya involve here?",
+            "a": "Seeing the Lord’s glory in all that is seen. This is the section’s description of the second stage."
+          },
+          {
+            "q": "What characterises sarupya?",
+            "a": "Being suffused with God-consciousness and divine likeness. A trace of difference still remains at this stage."
+          },
+          {
+            "q": "What distinguishes sayujya?",
+            "a": "Complete disappearance of difference in unity. It is presented as the highest union."
+          },
+          {
+            "q": "To what is the highest union attributed?",
+            "a": "Divine grace. The Lord may grant it beyond what the devotee explicitly seeks."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does salokya mean in this account?",
+            "options": [
+              "Seeking material rank",
+              "Arguing about form",
+              "Forgetting worship",
+              "Being always with the Lord"
+            ],
+            "correct": 3,
+            "explanation": "It is the first stage explained after the inward vision.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 54, PDF page 37"
+          },
+          {
+            "q": "What does samipya involve here?",
+            "options": [
+              "Seeing the Lord’s glory in all that is seen",
+              "Collecting sacred objects only",
+              "Abandoning devotion",
+              "Seeking fame"
+            ],
+            "correct": 0,
+            "explanation": "This is the section’s description of the second stage.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 54, PDF page 37"
+          },
+          {
+            "q": "What characterises sarupya?",
+            "options": [
+              "Becoming wealthy",
+              "Being suffused with God-consciousness and divine likeness",
+              "Avoiding all remembrance",
+              "Increasing personal pride"
+            ],
+            "correct": 1,
+            "explanation": "A trace of difference still remains at this stage.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 54, PDF page 37"
+          },
+          {
+            "q": "What distinguishes sayujya?",
+            "options": [
+              "Greater social standing",
+              "More elaborate clothing",
+              "Complete disappearance of difference in unity",
+              "Dependence on public approval"
+            ],
+            "correct": 2,
+            "explanation": "It is presented as the highest union.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 54, PDF page 37"
+          },
+          {
+            "q": "To what is the highest union attributed?",
+            "options": [
+              "A reward that effort can demand",
+              "Caste alone",
+              "Scholarship alone",
+              "Divine grace"
+            ],
+            "correct": 3,
+            "explanation": "The Lord may grant it beyond what the devotee explicitly seeks.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 54, PDF page 37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-55",
+        "title": "Perform all actions in dedication to God",
+        "chapter": "Section 55 · Perform all actions in dedication to God",
+        "chapterNumber": 55,
+        "pdfStartPage": 37,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/prema-vahini.pdf#page=37",
+        "sourceLabel": "Section 55, PDF pages 37–38",
+        "summary": "The section identifies bodily appetites, particularly those of the tongue and sexuality, as powerful entrances for delusion. The world’s provisions should sustain the body without making appetite the purpose of life. The aspirant is asked to remember that life is for serving God and discovering the true Self.\n\nEating, walking, studying, dressing, and serving can all be undertaken as offerings. A farmer’s many tasks, from preparing the ground to storing the grain, share one purpose; similarly, varied experiences can be directed toward the Lord. Dedication changes the meaning of action and weakens the domination of desire. The section contrasts this unity of purpose with the sorrow that follows when appetites become supreme.",
+        "qa": [
+          {
+            "q": "Which two appetites are singled out as gates of delusion?",
+            "a": "Those of the tongue and sexuality. The section connects their domination with worldly desire."
+          },
+          {
+            "q": "What purpose should worldly provisions serve?",
+            "a": "Sustaining the body for its proper work. Bodily support should not obscure life’s spiritual purpose."
+          },
+          {
+            "q": "What purpose of birth should be remembered?",
+            "a": "Serving God and realising the true Self. This remembrance is to accompany ordinary action."
+          },
+          {
+            "q": "What illustrates many activities directed toward one purpose?",
+            "a": "A farmer’s work toward the harvest. The agricultural tasks share a common end."
+          },
+          {
+            "q": "In what spirit should ordinary actions be performed?",
+            "a": "Dedication to the Lord. The section includes eating, walking, studying, and serving in this dedication."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two appetites are singled out as gates of delusion?",
+            "options": [
+              "Reading and listening",
+              "Walking and speaking",
+              "Those of the tongue and sexuality",
+              "Giving and serving"
+            ],
+            "correct": 2,
+            "explanation": "The section connects their domination with worldly desire.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 55, PDF pages 37–38"
+          },
+          {
+            "q": "What purpose should worldly provisions serve?",
+            "options": [
+              "Making appetite the highest goal",
+              "Increasing pride",
+              "Replacing spiritual understanding",
+              "Sustaining the body for its proper work"
+            ],
+            "correct": 3,
+            "explanation": "Bodily support should not obscure life’s spiritual purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 55, PDF pages 37–38"
+          },
+          {
+            "q": "What purpose of birth should be remembered?",
+            "options": [
+              "Serving God and realising the true Self",
+              "Acquiring endless status",
+              "Winning every argument",
+              "Satisfying every desire"
+            ],
+            "correct": 0,
+            "explanation": "This remembrance is to accompany ordinary action.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 55, PDF pages 37–38"
+          },
+          {
+            "q": "What illustrates many activities directed toward one purpose?",
+            "options": [
+              "A dispute over titles",
+              "A farmer’s work toward the harvest",
+              "A collection of ornaments",
+              "A changing fashion"
+            ],
+            "correct": 1,
+            "explanation": "The agricultural tasks share a common end.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 55, PDF pages 37–38"
+          },
+          {
+            "q": "In what spirit should ordinary actions be performed?",
+            "options": [
+              "Rivalry",
+              "Resentment",
+              "Dedication to the Lord",
+              "Vanity"
+            ],
+            "correct": 2,
+            "explanation": "The section includes eating, walking, studying, and serving in this dedication.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=37",
+            "sourceLabel": "Section 55, PDF pages 37–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-56",
+        "title": "Perform good deeds, with constant remembrance of God",
+        "chapter": "Section 56 · Perform good deeds, with constant remembrance of God",
+        "chapterNumber": 56,
+        "pdfStartPage": 38,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/prema-vahini.pdf#page=38",
+        "sourceLabel": "Section 56, PDF page 38",
+        "summary": "A distracted or clouded heart may miss the joy of remembrance just as an unwell or distracted person may fail to enjoy food. Devotion is compared with a light in the heart, while greed and anger obscure its brightness. Spiritual practice therefore requires a change of habits and qualities, not mechanical repetition alone.\n\nA crane must become still to catch a fish; similarly, the aspirant needs inner steadiness to attain truth, righteousness, and peace. Control of speech and continuous remembrance help gather good qualities. The section contrasts the Kauravas’ wrongdoing amid favourable circumstances with the Pandavas’ good actions amid suffering, emphasising the direction of present conduct rather than judging wisdom by comfort or hardship alone.",
+        "qa": [
+          {
+            "q": "Why might remembrance fail to bring felt joy?",
+            "a": "The heart is clouded or distracted. The section connects the experience with the condition of the heart."
+          },
+          {
+            "q": "What is devotion compared with?",
+            "a": "A light in the heart. Greed and anger obscure this brightness."
+          },
+          {
+            "q": "Why is the crane’s stillness mentioned?",
+            "a": "It illustrates steadiness needed to attain truth and peace. The crane becomes still to catch fish."
+          },
+          {
+            "q": "What two practices help good qualities gather?",
+            "a": "Control of speech and constant remembrance. These practices direct and steady the aspirant."
+          },
+          {
+            "q": "How are the Pandavas described in the contrast?",
+            "a": "Doing good even while suffering. The example emphasises righteous action despite hardship."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why might remembrance fail to bring felt joy?",
+            "options": [
+              "The name has lost its purity",
+              "The heart is clouded or distracted",
+              "Wealth is insufficient",
+              "Public approval is absent"
+            ],
+            "correct": 1,
+            "explanation": "The section connects the experience with the condition of the heart.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=38",
+            "sourceLabel": "Section 56, PDF page 38"
+          },
+          {
+            "q": "What is devotion compared with?",
+            "options": [
+              "A heavy crown",
+              "A locked chest",
+              "A light in the heart",
+              "A dry branch"
+            ],
+            "correct": 2,
+            "explanation": "Greed and anger obscure this brightness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=38",
+            "sourceLabel": "Section 56, PDF page 38"
+          },
+          {
+            "q": "Why is the crane’s stillness mentioned?",
+            "options": [
+              "It proves movement is always wrong",
+              "It replaces all duty",
+              "It illustrates social rank",
+              "It illustrates steadiness needed to attain truth and peace"
+            ],
+            "correct": 3,
+            "explanation": "The crane becomes still to catch fish.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=38",
+            "sourceLabel": "Section 56, PDF page 38"
+          },
+          {
+            "q": "What two practices help good qualities gather?",
+            "options": [
+              "Control of speech and constant remembrance",
+              "Boasting and argument",
+              "Envy and comparison",
+              "Hoarding and flattery"
+            ],
+            "correct": 0,
+            "explanation": "These practices direct and steady the aspirant.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=38",
+            "sourceLabel": "Section 56, PDF page 38"
+          },
+          {
+            "q": "How are the Pandavas described in the contrast?",
+            "options": [
+              "Doing wrong because they were comfortable",
+              "Doing good even while suffering",
+              "Abandoning truth for pleasure",
+              "Rejecting the Lord"
+            ],
+            "correct": 1,
+            "explanation": "The example emphasises righteous action despite hardship.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=38",
+            "sourceLabel": "Section 56, PDF page 38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-57",
+        "title": "Awake, arise, and attain the Highest",
+        "chapter": "Section 57 · Awake, arise, and attain the Highest",
+        "chapterNumber": 57,
+        "pdfStartPage": 39,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/prema-vahini.pdf#page=39",
+        "sourceLabel": "Section 57, PDF page 39",
+        "summary": "The section calls for understanding eternal truth during this life. It invokes the Kathopanishad’s summons to awaken and directs those confused by doubt or illusion toward great people who can show the way. Deep yearning and disciplined practice are needed to turn guidance into personal understanding.\n\nHuman birth is presented as the result of many good actions and an opportunity that should not be thrown away. The warning from the Kenopanishad reinforces its value. Delaying effort is again compared with beginning a well after a house catches fire. The discriminating seeker studies the principles taught by experienced spiritual people and brings them, as far as possible, into direct experience.",
+        "qa": [
+          {
+            "q": "When should eternal truth be realised?",
+            "a": "During this life. The section stresses the present human opportunity."
+          },
+          {
+            "q": "Which Upanishad’s call to awaken is invoked?",
+            "a": "Kathopanishad. Its exhortation introduces the call to timely effort."
+          },
+          {
+            "q": "Whom should those confused by doubt approach?",
+            "a": "Great people who can show the spiritual path. Experienced guidance helps the seeker discriminate."
+          },
+          {
+            "q": "What should accompany deep yearning?",
+            "a": "Disciplined practice. Yearning must become sustained effort."
+          },
+          {
+            "q": "What should be done with the teachings of experienced seekers?",
+            "a": "Bring them into personal experience. Understanding is to be realised in life."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "When should eternal truth be realised?",
+            "options": [
+              "During this life",
+              "Only after every worldly desire is satisfied",
+              "Only in a distant future",
+              "Only when others approve"
+            ],
+            "correct": 0,
+            "explanation": "The section stresses the present human opportunity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 57, PDF page 39"
+          },
+          {
+            "q": "Which Upanishad’s call to awaken is invoked?",
+            "options": [
+              "No Upanishad is mentioned",
+              "Kathopanishad",
+              "Only a commercial manual",
+              "Only an almanac"
+            ],
+            "correct": 1,
+            "explanation": "Its exhortation introduces the call to timely effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 57, PDF page 39"
+          },
+          {
+            "q": "Whom should those confused by doubt approach?",
+            "options": [
+              "People chosen for flattery",
+              "Those seeking only fame",
+              "Great people who can show the spiritual path",
+              "Anyone who promises effortless status"
+            ],
+            "correct": 2,
+            "explanation": "Experienced guidance helps the seeker discriminate.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 57, PDF page 39"
+          },
+          {
+            "q": "What should accompany deep yearning?",
+            "options": [
+              "Endless postponement",
+              "Pride in terminology",
+              "Neglect of conduct",
+              "Disciplined practice"
+            ],
+            "correct": 3,
+            "explanation": "Yearning must become sustained effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 57, PDF page 39"
+          },
+          {
+            "q": "What should be done with the teachings of experienced seekers?",
+            "options": [
+              "Bring them into personal experience",
+              "Repeat them only for praise",
+              "Store them without thought",
+              "Use them solely in disputes"
+            ],
+            "correct": 0,
+            "explanation": "Understanding is to be realised in life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 57, PDF page 39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-58",
+        "title": "Dedicate yourself to the discovery of truth and contemplate the Everlasting",
+        "chapter": "Section 58 · Dedicate yourself to the discovery of truth and contemplate the Everlasting",
+        "chapterNumber": 58,
+        "pdfStartPage": 39,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/prema-vahini.pdf#page=39",
+        "sourceLabel": "Section 58, PDF page 39",
+        "summary": "The spiritual purpose of life is described as discovering truth and contemplating the everlasting Lord. Pursuing passing attractions as though they were permanent wastes this opportunity. Luxuries and captivating appearances are compared with scenes in a dream that eventually disappear. Their changeability distinguishes them from eternal truth.\n\nThe section cautions that worldly advancement and learning, when devoted to self-enlargement, do not establish spiritual progress. Truth retains its nature even when surrounded by illusion. The aspirant must therefore distinguish the changing objective world from the reality being sought. True living is identified with realisation of the Lord, and this purpose is to remain present throughout life.",
+        "qa": [
+          {
+            "q": "What is the spiritual purpose emphasised?",
+            "a": "Discovering truth and contemplating the everlasting Lord. The section directs time toward the enduring reality."
+          },
+          {
+            "q": "To what are passing attractions compared?",
+            "a": "Scenes in a dream. Their eventual disappearance shows their transience."
+          },
+          {
+            "q": "Why is the changing world distinguished from eternal truth?",
+            "a": "It continually appears, changes, and disappears. Changeability is the contrast used by the section."
+          },
+          {
+            "q": "What does outward advancement fail to establish by itself?",
+            "a": "Spiritual progress. The passage warns against confusing self-enlargement with realisation."
+          },
+          {
+            "q": "What is called true living?",
+            "a": "Realisation of the Lord. The spiritual goal gives life its true direction."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the spiritual purpose emphasised?",
+            "options": [
+              "Enlarging personal status alone",
+              "Satisfying every attraction",
+              "Winning admiration",
+              "Discovering truth and contemplating the everlasting Lord"
+            ],
+            "correct": 3,
+            "explanation": "The section directs time toward the enduring reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 58, PDF page 39"
+          },
+          {
+            "q": "To what are passing attractions compared?",
+            "options": [
+              "Scenes in a dream",
+              "An unchanging foundation",
+              "Eternal truth itself",
+              "A permanent possession"
+            ],
+            "correct": 0,
+            "explanation": "Their eventual disappearance shows their transience.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 58, PDF page 39"
+          },
+          {
+            "q": "Why is the changing world distinguished from eternal truth?",
+            "options": [
+              "It has no visible forms",
+              "It continually appears, changes, and disappears",
+              "It contains no activity",
+              "It never changes"
+            ],
+            "correct": 1,
+            "explanation": "Changeability is the contrast used by the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 58, PDF page 39"
+          },
+          {
+            "q": "What does outward advancement fail to establish by itself?",
+            "options": [
+              "Public recognition",
+              "Practical skill",
+              "Spiritual progress",
+              "Social standing"
+            ],
+            "correct": 2,
+            "explanation": "The passage warns against confusing self-enlargement with realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 58, PDF page 39"
+          },
+          {
+            "q": "What is called true living?",
+            "options": [
+              "Dependence on appearances",
+              "The pursuit of luxury alone",
+              "Continual comparison with others",
+              "Realisation of the Lord"
+            ],
+            "correct": 3,
+            "explanation": "The spiritual goal gives life its true direction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=39",
+            "sourceLabel": "Section 58, PDF page 39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-59",
+        "title": "To reach God, be free from external and internal illusions",
+        "chapter": "Section 59 · To reach God, be free from external and internal illusions",
+        "chapterNumber": 59,
+        "pdfStartPage": 40,
+        "pdfEndPage": 40,
+        "sourceUrl": "assets/prema-vahini.pdf#page=40",
+        "sourceLabel": "Section 59, PDF page 40",
+        "summary": "The section contrasts a person ruled by worldly desires with an aspirant whose remembrance of God is as continuous as the sea’s waves. Equal love, fortitude, charity, humility, and the understanding that everything belongs to the Lord mark the spiritual direction. Small discomforts and insults should not continually overturn that steadiness.\n\nRaw and cooked rice illustrate transformation: the hardness of the first gives way to softness in the second. The passage distinguishes external illusion from the subtler internal illusion and describes the Divine as free from both. Although God is present in every heart, practice is needed to recognise that presence. A mirror, necessary for seeing one’s own face, illustrates the role of spiritual means in self-discovery.",
+        "qa": [
+          {
+            "q": "What illustrates the aspirant’s continuous contemplation?",
+            "a": "The waves of the sea. The image stresses continuity of remembrance."
+          },
+          {
+            "q": "What attitude toward ownership is described?",
+            "a": "Everything belongs to the Lord. This attitude accompanies equal love and contentment."
+          },
+          {
+            "q": "What do raw and cooked rice illustrate?",
+            "a": "Transformation from hardness to softness. The example contrasts undeveloped and transformed conduct."
+          },
+          {
+            "q": "From which illusions is the Divine described as free?",
+            "a": "Both external and internal illusions. The section distinguishes the aspirant’s condition from complete freedom."
+          },
+          {
+            "q": "What does the mirror illustrate?",
+            "a": "The need for spiritual means to recognise what is already present. Practice assists the discovery of the divine presence within."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates the aspirant’s continuous contemplation?",
+            "options": [
+              "A changing fashion",
+              "A temporary title",
+              "The waves of the sea",
+              "A closed account"
+            ],
+            "correct": 2,
+            "explanation": "The image stresses continuity of remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 59, PDF page 40"
+          },
+          {
+            "q": "What attitude toward ownership is described?",
+            "options": [
+              "Everything exists only for personal gain",
+              "Possessions determine spiritual worth",
+              "Ownership ends the need for practice",
+              "Everything belongs to the Lord"
+            ],
+            "correct": 3,
+            "explanation": "This attitude accompanies equal love and contentment.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 59, PDF page 40"
+          },
+          {
+            "q": "What do raw and cooked rice illustrate?",
+            "options": [
+              "Transformation from hardness to softness",
+              "The permanence of all habits",
+              "The superiority of possessions",
+              "The uselessness of discipline"
+            ],
+            "correct": 0,
+            "explanation": "The example contrasts undeveloped and transformed conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 59, PDF page 40"
+          },
+          {
+            "q": "From which illusions is the Divine described as free?",
+            "options": [
+              "External illusion only",
+              "Both external and internal illusions",
+              "Internal illusion only",
+              "Neither kind"
+            ],
+            "correct": 1,
+            "explanation": "The section distinguishes the aspirant’s condition from complete freedom.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 59, PDF page 40"
+          },
+          {
+            "q": "What does the mirror illustrate?",
+            "options": [
+              "The need for outward beauty",
+              "The value of public praise",
+              "The need for spiritual means to recognise what is already present",
+              "The permanence of the body"
+            ],
+            "correct": 2,
+            "explanation": "Practice assists the discovery of the divine presence within.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 59, PDF page 40"
+          }
+        ]
+      },
+      {
+        "id": "chapter-60",
+        "title": "The harvest of the spiritual aspirant",
+        "chapter": "Section 60 · The harvest of the spiritual aspirant",
+        "chapterNumber": 60,
+        "pdfStartPage": 40,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/prema-vahini.pdf#page=40",
+        "sourceLabel": "Section 60, PDF pages 40–41",
+        "summary": "Fortitude, contentment, mercy, and patience receive special praise. The section then describes spiritual life as cultivation: the body is the field, good deeds are seeds, the heart is the farmer, and the Lord is the harvest. The image makes clear that a crop cannot be expected without cultivation.\n\nThe Lord’s presence in all things is compared with cream in milk and fire in fuel. Practice brings this presence into experience. Even before liberation is directly realised, remembrance of the name yields evident fruits: good company, truth, contentment, and control of the senses. These are described as gateways open to people in different stages and conditions of life.",
+        "qa": [
+          {
+            "q": "What represents the field in the cultivation image?",
+            "a": "The body. The body provides the field in which spiritual effort takes place."
+          },
+          {
+            "q": "What are the seeds?",
+            "a": "Good deeds. Good action is part of the cultivation required."
+          },
+          {
+            "q": "Who is represented as the farmer?",
+            "a": "The heart. The heart directs the cultivation of the Lord’s name."
+          },
+          {
+            "q": "What is the harvest?",
+            "a": "The Lord Himself. The agricultural image points toward divine attainment."
+          },
+          {
+            "q": "Which is one of the four evident fruits of remembrance?",
+            "a": "Control of the senses. The other fruits named are good company, truth, and contentment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What represents the field in the cultivation image?",
+            "options": [
+              "The harvest",
+              "The body",
+              "The seed",
+              "The farmer"
+            ],
+            "correct": 1,
+            "explanation": "The body provides the field in which spiritual effort takes place.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 60, PDF pages 40–41"
+          },
+          {
+            "q": "What are the seeds?",
+            "options": [
+              "Social titles",
+              "Possessions",
+              "Good deeds",
+              "Arguments"
+            ],
+            "correct": 2,
+            "explanation": "Good action is part of the cultivation required.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 60, PDF pages 40–41"
+          },
+          {
+            "q": "Who is represented as the farmer?",
+            "options": [
+              "The public",
+              "A ruler",
+              "An opponent",
+              "The heart"
+            ],
+            "correct": 3,
+            "explanation": "The heart directs the cultivation of the Lord’s name.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 60, PDF pages 40–41"
+          },
+          {
+            "q": "What is the harvest?",
+            "options": [
+              "The Lord Himself",
+              "Fame",
+              "Wealth",
+              "Victory in debate"
+            ],
+            "correct": 0,
+            "explanation": "The agricultural image points toward divine attainment.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 60, PDF pages 40–41"
+          },
+          {
+            "q": "Which is one of the four evident fruits of remembrance?",
+            "options": [
+              "Increased envy",
+              "Control of the senses",
+              "Desire for rank",
+              "Dependence on praise"
+            ],
+            "correct": 1,
+            "explanation": "The other fruits named are good company, truth, and contentment.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=40",
+            "sourceLabel": "Section 60, PDF pages 40–41"
+          }
+        ]
+      },
+      {
+        "id": "chapter-61",
+        "title": "The characteristics of the devotee and worldly person",
+        "chapter": "Section 61 · The characteristics of the devotee and worldly person",
+        "chapterNumber": 61,
+        "pdfStartPage": 41,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/prema-vahini.pdf#page=41",
+        "sourceLabel": "Section 61, PDF page 41",
+        "summary": "The section asks the reader to examine action carefully, because discrimination gives rise to renunciation. It strongly rejects anger, falsehood, theft, and miserliness. Moderation in food and sleep, together with love and fortitude, is described as supporting body and mind. Remembrance should be steady and free from hidden demands.\n\nDevotion is not established by clothing, festivals, implements, hairstyle, or ritual appearance. Its signs are inward purity, continuous contemplation of God, recognition of the unity of creation, detachment from sensory objects, equal love, and truthful speech. The Lord is not described as judging a devotee by caste or customary observance. The decisive issue is the quality of mind and conduct.",
+        "qa": [
+          {
+            "q": "What gives rise to renunciation?",
+            "a": "Examination and discrimination of action. Reflective understanding weakens attachment."
+          },
+          {
+            "q": "What is called the aspirant’s foremost enemy here?",
+            "a": "Anger. The section strongly warns against anger."
+          },
+          {
+            "q": "What moderation is recommended?",
+            "a": "Moderation in food and sleep. This is joined with love and fortitude in the discussion of upkeep."
+          },
+          {
+            "q": "What does not by itself establish devotion?",
+            "a": "Religious outward appearance. Clothing and ritual signs are distinguished from devotion’s real qualities."
+          },
+          {
+            "q": "Which is a sign of devotion named here?",
+            "a": "Continuous contemplation of God. The description centres on inward purity and conduct."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What gives rise to renunciation?",
+            "options": [
+              "Examination and discrimination of action",
+              "Mere change of clothing",
+              "Accumulation of possessions",
+              "Public applause"
+            ],
+            "correct": 0,
+            "explanation": "Reflective understanding weakens attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 61, PDF page 41"
+          },
+          {
+            "q": "What is called the aspirant’s foremost enemy here?",
+            "options": [
+              "Patience",
+              "Anger",
+              "Charity",
+              "Truthfulness"
+            ],
+            "correct": 1,
+            "explanation": "The section strongly warns against anger.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 61, PDF page 41"
+          },
+          {
+            "q": "What moderation is recommended?",
+            "options": [
+              "Moderation in truth",
+              "Moderation in kindness",
+              "Moderation in food and sleep",
+              "Moderation in honesty"
+            ],
+            "correct": 2,
+            "explanation": "This is joined with love and fortitude in the discussion of upkeep.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 61, PDF page 41"
+          },
+          {
+            "q": "What does not by itself establish devotion?",
+            "options": [
+              "A pure mind",
+              "Equal love",
+              "Truthful speech",
+              "Religious outward appearance"
+            ],
+            "correct": 3,
+            "explanation": "Clothing and ritual signs are distinguished from devotion’s real qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 61, PDF page 41"
+          },
+          {
+            "q": "Which is a sign of devotion named here?",
+            "options": [
+              "Continuous contemplation of God",
+              "Desire for fame",
+              "Pride in caste",
+              "Attachment to flattery"
+            ],
+            "correct": 0,
+            "explanation": "The description centres on inward purity and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 61, PDF page 41"
+          }
+        ]
+      },
+      {
+        "id": "chapter-62",
+        "title": "Consider the name of the Lord as the breath of life",
+        "chapter": "Section 62 · Consider the name of the Lord as the breath of life",
+        "chapterNumber": 62,
+        "pdfStartPage": 41,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/prema-vahini.pdf#page=41",
+        "sourceLabel": "Section 62, PDF page 41",
+        "summary": "Remembrance of the Lord’s name is especially praised as a path in the Kali age. The section names several devotees who attained through this practice and recalls Prahlada and Druva’s experience of the Lord’s presence. The name is to become as essential as the breath of life.\n\nThis remembrance is joined with good thoughts, good deeds, service, and equal love. Physical seclusion or breath control alone cannot show that undesirable qualities have been mastered. The contrast involving Ambarisha and Durvasa warns against combining the appearance of devotion with contrary conduct. The aim is an integrated spiritual life in which remembrance and character express the same sincerity.",
+        "qa": [
+          {
+            "q": "Which practice is especially praised?",
+            "a": "Remembrance of the Lord’s name. Nama-smarana is central to the section."
+          },
+          {
+            "q": "In which age is the name especially presented as the saving path?",
+            "a": "The Kali age. The passage explicitly refers to the Kali yuga."
+          },
+          {
+            "q": "To what should the name be compared in importance?",
+            "a": "The breath of life. The image calls for essential and continuous remembrance."
+          },
+          {
+            "q": "What should accompany remembrance?",
+            "a": "Service and equal love. The name is joined with good thought and conduct."
+          },
+          {
+            "q": "What does the Ambarisha-Durvasa contrast warn against?",
+            "a": "Devotional appearance combined with contrary behaviour. The section asks for consistency between devotion and conduct."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which practice is especially praised?",
+            "options": [
+              "Seeking public recognition",
+              "Endless disputation",
+              "Collecting possessions",
+              "Remembrance of the Lord’s name"
+            ],
+            "correct": 3,
+            "explanation": "Nama-smarana is central to the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 62, PDF page 41"
+          },
+          {
+            "q": "In which age is the name especially presented as the saving path?",
+            "options": [
+              "The Kali age",
+              "Only the first age",
+              "Only the Dwapara age",
+              "No age is mentioned"
+            ],
+            "correct": 0,
+            "explanation": "The passage explicitly refers to the Kali yuga.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 62, PDF page 41"
+          },
+          {
+            "q": "To what should the name be compared in importance?",
+            "options": [
+              "An occasional ornament",
+              "The breath of life",
+              "A social title",
+              "A passing fashion"
+            ],
+            "correct": 1,
+            "explanation": "The image calls for essential and continuous remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 62, PDF page 41"
+          },
+          {
+            "q": "What should accompany remembrance?",
+            "options": [
+              "Pride and rivalry",
+              "Neglect of good deeds",
+              "Service and equal love",
+              "Dependence on outward show"
+            ],
+            "correct": 2,
+            "explanation": "The name is joined with good thought and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 62, PDF page 41"
+          },
+          {
+            "q": "What does the Ambarisha-Durvasa contrast warn against?",
+            "options": [
+              "Sincere service",
+              "Equal love",
+              "Steady remembrance",
+              "Devotional appearance combined with contrary behaviour"
+            ],
+            "correct": 3,
+            "explanation": "The section asks for consistency between devotion and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=41",
+            "sourceLabel": "Section 62, PDF page 41"
+          }
+        ]
+      },
+      {
+        "id": "chapter-63",
+        "title": "Watch out for your own faults and cultivate the truthful and joyful",
+        "chapter": "Section 63 · Watch out for your own faults and cultivate the truthful and joyful",
+        "chapterNumber": 63,
+        "pdfStartPage": 42,
+        "pdfEndPage": 42,
+        "sourceUrl": "assets/prema-vahini.pdf#page=42",
+        "sourceLabel": "Section 63, PDF page 42",
+        "summary": "Even good action may contain unnoticed imperfections, just as light or fire may be accompanied by smoke. The seeker should consider consequences and reduce the harmful element. Respect and love must first be given to others rather than merely demanded from them. Advice is most convincing when the person giving it lives by it.\n\nWhen a fault is pointed out, the aspirant should examine and correct it instead of arguing, resenting the correction, or seeking revenge. The section also urges enthusiasm, joy, and steadiness amid praise and blame. Doubt, conceit, and discouragement obstruct practice. Its central instruction is honest self-correction supported by a cheerful, energetic commitment to the spiritual goal.",
+        "qa": [
+          {
+            "q": "What illustrates imperfections mixed with good action?",
+            "a": "Smoke accompanying fire or light. The example encourages care rather than complacency."
+          },
+          {
+            "q": "What should precede demanding respect from others?",
+            "a": "Showing them respect and love. The section asks the person to practise the treatment desired."
+          },
+          {
+            "q": "What gives advice its strongest force?",
+            "a": "Living by it. Example can teach without repeated instruction."
+          },
+          {
+            "q": "How should a pointed-out fault be handled?",
+            "a": "Examine it and correct one’s behaviour. Self-examination is preferred to defensive argument."
+          },
+          {
+            "q": "How should praise and blame affect the aspirant?",
+            "a": "Neither should inflate or deflate the person. Steadiness accompanies joyful self-correction."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates imperfections mixed with good action?",
+            "options": [
+              "A crown on a ruler",
+              "A ticket on a train",
+              "Smoke accompanying fire or light",
+              "A flower in a vase"
+            ],
+            "correct": 2,
+            "explanation": "The example encourages care rather than complacency.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 63, PDF page 42"
+          },
+          {
+            "q": "What should precede demanding respect from others?",
+            "options": [
+              "Criticising their faults",
+              "Seeking revenge",
+              "Claiming superiority",
+              "Showing them respect and love"
+            ],
+            "correct": 3,
+            "explanation": "The section asks the person to practise the treatment desired.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 63, PDF page 42"
+          },
+          {
+            "q": "What gives advice its strongest force?",
+            "options": [
+              "Living by it",
+              "Repeating it loudly",
+              "Giving it a grand title",
+              "Using it to win arguments"
+            ],
+            "correct": 0,
+            "explanation": "Example can teach without repeated instruction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 63, PDF page 42"
+          },
+          {
+            "q": "How should a pointed-out fault be handled?",
+            "options": [
+              "Bear a grudge",
+              "Examine it and correct one’s behaviour",
+              "Automatically deny it",
+              "Seek revenge"
+            ],
+            "correct": 1,
+            "explanation": "Self-examination is preferred to defensive argument.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 63, PDF page 42"
+          },
+          {
+            "q": "How should praise and blame affect the aspirant?",
+            "options": [
+              "Praise should create conceit",
+              "Blame should end all effort",
+              "Neither should inflate or deflate the person",
+              "Both should determine the goal"
+            ],
+            "correct": 2,
+            "explanation": "Steadiness accompanies joyful self-correction.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 63, PDF page 42"
+          }
+        ]
+      },
+      {
+        "id": "chapter-64",
+        "title": "Stick to the name and form of the Lord you adore",
+        "chapter": "Section 64 · Stick to the name and form of the Lord you adore",
+        "chapterNumber": 64,
+        "pdfStartPage": 42,
+        "pdfEndPage": 43,
+        "sourceUrl": "assets/prema-vahini.pdf#page=42",
+        "sourceLabel": "Section 64, PDF pages 42–43",
+        "summary": "The section recommends constancy in the divine name and form chosen for remembrance and meditation. Repeatedly changing them prevents the mind from becoming one-pointed. This fidelity must coexist with the conviction that all divine names and forms express the same Lord; it is not a reason for disliking other forms.\n\nWorldly loss and anxiety are described as temporary conditions that should not be confused with the inward practice meant to overcome them. Regularity of time and place also supports concentration. When travel makes the usual place impossible, the time can still be honoured, even through inward recollection of the practice. Persistent devotion thus accumulates spiritual strength and supports the realisation of the Atma.",
+        "qa": [
+          {
+            "q": "Why is repeated changing of the chosen name discouraged?",
+            "a": "It obstructs one-pointedness. Constancy helps the mind become steady."
+          },
+          {
+            "q": "What conviction should accompany fidelity to one form?",
+            "a": "All divine names and forms express the same Lord. Steadfast practice is joined with a universal understanding."
+          },
+          {
+            "q": "What should be kept distinct from inward practice?",
+            "a": "Temporary worldly losses and worries. The practice is not to be abandoned because of passing conditions."
+          },
+          {
+            "q": "What regularity is recommended where possible?",
+            "a": "Time and place of meditation. Regular habits support concentration."
+          },
+          {
+            "q": "During travel, what can still be preserved when place changes?",
+            "a": "The usual time and inward recollection. The text offers this as a way to maintain continuity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is repeated changing of the chosen name discouraged?",
+            "options": [
+              "It increases bodily strength",
+              "It obstructs one-pointedness",
+              "It removes every difficulty",
+              "It guarantees detachment"
+            ],
+            "correct": 1,
+            "explanation": "Constancy helps the mind become steady.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 64, PDF pages 42–43"
+          },
+          {
+            "q": "What conviction should accompany fidelity to one form?",
+            "options": [
+              "Every other form is worthless",
+              "Only one community can pray",
+              "All divine names and forms express the same Lord",
+              "Love should be restricted to one group"
+            ],
+            "correct": 2,
+            "explanation": "Steadfast practice is joined with a universal understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 64, PDF pages 42–43"
+          },
+          {
+            "q": "What should be kept distinct from inward practice?",
+            "options": [
+              "Love of the Lord",
+              "Remembrance",
+              "Meditation",
+              "Temporary worldly losses and worries"
+            ],
+            "correct": 3,
+            "explanation": "The practice is not to be abandoned because of passing conditions.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 64, PDF pages 42–43"
+          },
+          {
+            "q": "What regularity is recommended where possible?",
+            "options": [
+              "Time and place of meditation",
+              "The number of possessions",
+              "Public applause",
+              "A changing choice of name"
+            ],
+            "correct": 0,
+            "explanation": "Regular habits support concentration.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 64, PDF pages 42–43"
+          },
+          {
+            "q": "During travel, what can still be preserved when place changes?",
+            "options": [
+              "The exact physical location",
+              "The usual time and inward recollection",
+              "Every external circumstance",
+              "The train’s destination"
+            ],
+            "correct": 1,
+            "explanation": "The text offers this as a way to maintain continuity.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=42",
+            "sourceLabel": "Section 64, PDF pages 42–43"
+          }
+        ]
+      },
+      {
+        "id": "chapter-65",
+        "title": "Help ever, hurt never",
+        "chapter": "Section 65 · Help ever, hurt never",
+        "chapterNumber": 65,
+        "pdfStartPage": 43,
+        "pdfEndPage": 43,
+        "sourceUrl": "assets/prema-vahini.pdf#page=43",
+        "sourceLabel": "Section 65, PDF page 43",
+        "summary": "The section gives a concise account of human duty. Life should be conducted without causing pain to living beings. Some energy should be set aside for prayer, remembrance of the Lord’s name, and meditation. Truth, righteousness, peace, and helpful action are to become part of everyday living.\n\nThe aversion to harmful deeds should be as strong as the natural caution shown toward fire or a cobra. The determination often spent on acquiring wealth should instead be brought to good works, the happiness of others, and worship. The passage joins restraint from harm with positive service, presenting both as expressions of a properly directed human life.",
+        "qa": [
+          {
+            "q": "What is called a supreme duty?",
+            "a": "Avoid causing pain to living beings. Non-harm is central to the section."
+          },
+          {
+            "q": "For what should some energy be reserved?",
+            "a": "Prayer, remembrance, and meditation. The section includes these practices in human duty."
+          },
+          {
+            "q": "Which qualities should be joined with daily living?",
+            "a": "Truth, righteousness, and peace. Helpful works accompany these qualities."
+          },
+          {
+            "q": "What illustrates the caution to show toward harmful deeds?",
+            "a": "Caution toward fire or a cobra. The comparison emphasises strong avoidance of harm."
+          },
+          {
+            "q": "Where should determination usually spent on wealth be redirected?",
+            "a": "Good works, others’ happiness, and worship. Positive service completes the instruction to avoid harm."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is called a supreme duty?",
+            "options": [
+              "Avoid causing pain to living beings",
+              "Seek praise at any cost",
+              "Increase possessions endlessly",
+              "Win every disagreement"
+            ],
+            "correct": 0,
+            "explanation": "Non-harm is central to the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 65, PDF page 43"
+          },
+          {
+            "q": "For what should some energy be reserved?",
+            "options": [
+              "Boasting",
+              "Prayer, remembrance, and meditation",
+              "Rivalry",
+              "Fault-finding"
+            ],
+            "correct": 1,
+            "explanation": "The section includes these practices in human duty.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 65, PDF page 43"
+          },
+          {
+            "q": "Which qualities should be joined with daily living?",
+            "options": [
+              "Envy, anger, and pride",
+              "Fear, doubt, and conceit",
+              "Truth, righteousness, and peace",
+              "Fame, rank, and display"
+            ],
+            "correct": 2,
+            "explanation": "Helpful works accompany these qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 65, PDF page 43"
+          },
+          {
+            "q": "What illustrates the caution to show toward harmful deeds?",
+            "options": [
+              "Interest in a new ornament",
+              "Enjoyment of a feast",
+              "Pride in a title",
+              "Caution toward fire or a cobra"
+            ],
+            "correct": 3,
+            "explanation": "The comparison emphasises strong avoidance of harm.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 65, PDF page 43"
+          },
+          {
+            "q": "Where should determination usually spent on wealth be redirected?",
+            "options": [
+              "Good works, others’ happiness, and worship",
+              "Greater rivalry",
+              "More self-display",
+              "Less concern for others"
+            ],
+            "correct": 0,
+            "explanation": "Positive service completes the instruction to avoid harm.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 65, PDF page 43"
+          }
+        ]
+      },
+      {
+        "id": "chapter-66",
+        "title": "The Lord incarnates to promote goodness and universality",
+        "chapter": "Section 66 · The Lord incarnates to promote goodness and universality",
+        "chapterNumber": 66,
+        "pdfStartPage": 43,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/prema-vahini.pdf#page=43",
+        "sourceLabel": "Section 66, PDF pages 43–44",
+        "summary": "The Lord’s incarnation is explained as the strengthening of goodness already present in beings when it has weakened. The section refers to Krishna’s teaching about protecting holy seekers and restoring righteousness. It interprets the word sadhu broadly, beyond a single religion, caste, community, stage of life, or even species.\n\nThis universality is presented as a central feature of the Gita. Krishna’s willingness to be Arjuna’s charioteer illustrates His service to devotees. The discussion returns to character as the essential criterion, whether a person follows ordinary good living or more intensive spiritual discipline. The purpose of divine intervention is connected with nurturing these qualities throughout creation.",
+        "qa": [
+          {
+            "q": "Why does the Lord incarnate according to this section?",
+            "a": "To strengthen goodness and restore righteousness. Incarnation renews qualities that have declined."
+          },
+          {
+            "q": "Is goodness described as wholly absent before incarnation?",
+            "a": "No, it is already present but may have weakened. The Lord promotes an existing divine potential."
+          },
+          {
+            "q": "How is sadhu interpreted?",
+            "a": "Inclusively across communities and creatures. The section stresses the breadth of the term."
+          },
+          {
+            "q": "What act of Krishna illustrates service to devotees?",
+            "a": "Becoming Arjuna’s charioteer. The example expresses the Lord’s care for the devotee."
+          },
+          {
+            "q": "What is the important criterion for both ordinary and spiritual life?",
+            "a": "Quality of character. The passage returns to conduct as the measure that matters."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why does the Lord incarnate according to this section?",
+            "options": [
+              "To seek personal fame",
+              "To promote one social title",
+              "To reward possessions alone",
+              "To strengthen goodness and restore righteousness"
+            ],
+            "correct": 3,
+            "explanation": "Incarnation renews qualities that have declined.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 66, PDF pages 43–44"
+          },
+          {
+            "q": "Is goodness described as wholly absent before incarnation?",
+            "options": [
+              "No, it is already present but may have weakened",
+              "Yes, no being has any goodness",
+              "Only rulers possess it",
+              "Only scholars possess it"
+            ],
+            "correct": 0,
+            "explanation": "The Lord promotes an existing divine potential.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 66, PDF pages 43–44"
+          },
+          {
+            "q": "How is sadhu interpreted?",
+            "options": [
+              "As one caste alone",
+              "Inclusively across communities and creatures",
+              "As one profession alone",
+              "As one sex alone"
+            ],
+            "correct": 1,
+            "explanation": "The section stresses the breadth of the term.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 66, PDF pages 43–44"
+          },
+          {
+            "q": "What act of Krishna illustrates service to devotees?",
+            "options": [
+              "Seeking a worldly title",
+              "Refusing all action",
+              "Becoming Arjuna’s charioteer",
+              "Collecting possessions"
+            ],
+            "correct": 2,
+            "explanation": "The example expresses the Lord’s care for the devotee.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 66, PDF pages 43–44"
+          },
+          {
+            "q": "What is the important criterion for both ordinary and spiritual life?",
+            "options": [
+              "Public reputation alone",
+              "Wealth alone",
+              "Outward appearance alone",
+              "Quality of character"
+            ],
+            "correct": 3,
+            "explanation": "The passage returns to conduct as the measure that matters.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=43",
+            "sourceLabel": "Section 66, PDF pages 43–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-67",
+        "title": "Follow the sages of yore in contemplation of Brahman",
+        "chapter": "Section 67 · Follow the sages of yore in contemplation of Brahman",
+        "chapterNumber": 67,
+        "pdfStartPage": 44,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/prema-vahini.pdf#page=44",
+        "sourceLabel": "Section 67, PDF page 44",
+        "summary": "The section compares earlier contemplatives with seekers whose discipline has weakened. The difference is not simply a change in the name repeated or the meditation performed, but in purity and self-control. Fire needs fuel to shine; likewise, the intellect’s light of wisdom needs the continuing support of noble qualities.\n\nRenunciation, peace, truth, mercy, forbearance, and selfless service are named as this fuel. Fertile soil yielding good fruit provides a second image for the importance of a pure heart. The passage criticises absorption in reputation and institutional expansion when these obstruct contemplation. It calls for the recovery of inward discipline and the selfless spirit associated with the earlier sages.",
+        "qa": [
+          {
+            "q": "What explains the difference between the contemplatives discussed?",
+            "a": "The strength of self-control and purity. The section locates the difference in discipline."
+          },
+          {
+            "q": "What does wisdom need in the fire illustration?",
+            "a": "The fuel of noble qualities. Good qualities sustain the light of the intellect."
+          },
+          {
+            "q": "Which quality is named as this fuel?",
+            "a": "Selfless service. It appears with renunciation, peace, truth, mercy, and forbearance."
+          },
+          {
+            "q": "What does fertile soil illustrate?",
+            "a": "A pure heart capable of bearing spiritual fruit. The quality of the ground affects what can grow."
+          },
+          {
+            "q": "What can obstruct contemplation according to the warning?",
+            "a": "Pursuit of reputation and institutional expansion. These pursuits become obstacles when ambition displaces practice."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What explains the difference between the contemplatives discussed?",
+            "options": [
+              "A different sound of Om alone",
+              "Clothing alone",
+              "The strength of self-control and purity",
+              "Wealth alone"
+            ],
+            "correct": 2,
+            "explanation": "The section locates the difference in discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 67, PDF page 44"
+          },
+          {
+            "q": "What does wisdom need in the fire illustration?",
+            "options": [
+              "Public applause",
+              "Personal rivalry",
+              "More possessions",
+              "The fuel of noble qualities"
+            ],
+            "correct": 3,
+            "explanation": "Good qualities sustain the light of the intellect.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 67, PDF page 44"
+          },
+          {
+            "q": "Which quality is named as this fuel?",
+            "options": [
+              "Selfless service",
+              "Envy",
+              "Conceit",
+              "Greed"
+            ],
+            "correct": 0,
+            "explanation": "It appears with renunciation, peace, truth, mercy, and forbearance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 67, PDF page 44"
+          },
+          {
+            "q": "What does fertile soil illustrate?",
+            "options": [
+              "Social privilege",
+              "A pure heart capable of bearing spiritual fruit",
+              "Bodily appearance",
+              "A public institution’s size"
+            ],
+            "correct": 1,
+            "explanation": "The quality of the ground affects what can grow.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 67, PDF page 44"
+          },
+          {
+            "q": "What can obstruct contemplation according to the warning?",
+            "options": [
+              "Truthfulness",
+              "Forbearance",
+              "Pursuit of reputation and institutional expansion",
+              "Selfless service"
+            ],
+            "correct": 2,
+            "explanation": "These pursuits become obstacles when ambition displaces practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 67, PDF page 44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-68",
+        "title": "Seek solitude, meditate, and acquire one-pointedness",
+        "chapter": "Section 68 · Seek solitude, meditate, and acquire one-pointedness",
+        "chapterNumber": 68,
+        "pdfStartPage": 44,
+        "pdfEndPage": 45,
+        "sourceUrl": "assets/prema-vahini.pdf#page=44",
+        "sourceLabel": "Section 68, PDF pages 44–45",
+        "summary": "Those seeking steady contemplation are advised to practise meditation and repetition of the name at regular times, using solitude to develop one-pointedness. This inward work belongs with concern for the welfare of all beings and action free from attachment to its reward. Selfish needs should yield to a wider purpose.\n\nThe section compares spiritual centres with places of healing. Knowledge of Brahman treats ignorance, supported by peace, fortitude, and self-control. A teacher who merely supplies what followers want for the sake of popularity resembles a doctor ruled by a patient’s preferences. Genuine guidance requires experienced understanding and the courage to serve the person’s true good. Such leadership protects the virtues through which society can flourish.",
+        "qa": [
+          {
+            "q": "What helps develop one-pointedness?",
+            "a": "Regular meditation and repetition of the name. Solitude and regularity support the practices described."
+          },
+          {
+            "q": "What concern should accompany inward practice?",
+            "a": "The welfare of all beings. Contemplation is joined with selfless action."
+          },
+          {
+            "q": "What is compared with medicine for ignorance?",
+            "a": "Knowledge of Brahman. Peace, fortitude, and self-control accompany this spiritual remedy."
+          },
+          {
+            "q": "What does a doctor ruled by a patient’s preferences illustrate?",
+            "a": "A teacher seeking popularity rather than genuine good. The section criticises pleasing followers for name and fame."
+          },
+          {
+            "q": "What should guide action instead of attachment to reward?",
+            "a": "The welfare of the world. Selfless purpose is central to the prescribed life."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What helps develop one-pointedness?",
+            "options": [
+              "Constant pursuit of fame",
+              "Regular meditation and repetition of the name",
+              "Endless argument",
+              "Changing every discipline daily"
+            ],
+            "correct": 1,
+            "explanation": "Solitude and regularity support the practices described.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 68, PDF pages 44–45"
+          },
+          {
+            "q": "What concern should accompany inward practice?",
+            "options": [
+              "Personal recognition alone",
+              "Institutional size alone",
+              "The welfare of all beings",
+              "Rivalry with other seekers"
+            ],
+            "correct": 2,
+            "explanation": "Contemplation is joined with selfless action.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 68, PDF pages 44–45"
+          },
+          {
+            "q": "What is compared with medicine for ignorance?",
+            "options": [
+              "Flattery",
+              "Material luxury",
+              "Public status",
+              "Knowledge of Brahman"
+            ],
+            "correct": 3,
+            "explanation": "Peace, fortitude, and self-control accompany this spiritual remedy.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 68, PDF pages 44–45"
+          },
+          {
+            "q": "What does a doctor ruled by a patient’s preferences illustrate?",
+            "options": [
+              "A teacher seeking popularity rather than genuine good",
+              "Perfect guidance",
+              "Complete self-control",
+              "The absence of responsibility"
+            ],
+            "correct": 0,
+            "explanation": "The section criticises pleasing followers for name and fame.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 68, PDF pages 44–45"
+          },
+          {
+            "q": "What should guide action instead of attachment to reward?",
+            "options": [
+              "The search for applause",
+              "The welfare of the world",
+              "Personal rivalry",
+              "Fear of losing rank"
+            ],
+            "correct": 1,
+            "explanation": "Selfless purpose is central to the prescribed life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=44",
+            "sourceLabel": "Section 68, PDF pages 44–45"
+          }
+        ]
+      },
+      {
+        "id": "chapter-69",
+        "title": "Uproot internal and external foes and uphold righteousness",
+        "chapter": "Section 69 · Uproot internal and external foes and uphold righteousness",
+        "chapterNumber": 69,
+        "pdfStartPage": 45,
+        "pdfEndPage": 46,
+        "sourceUrl": "assets/prema-vahini.pdf#page=45",
+        "sourceLabel": "Section 69, PDF pages 45–46",
+        "summary": "Administrative authorities can restrain outward wrongdoing, but cannot by that power alone uproot the inner enemies of a person. Spiritual teaching, love of God, knowledge of the Lord, and holy company address these inward forces. The section presents external administration and spiritual guidance as responsibilities toward two dimensions of human life.\n\nBoth fail when entrusted authorities become dependent on the very forces they should restrain. Spiritual leaders likewise fail when pleasure, ambition, or fame displaces the welfare of the world. Peace requires both groups to act rightly with everyone’s good in view. The passage connects the decline of righteousness and growth of injustice with the Lord’s resolve to restore balance through incarnation.",
+        "qa": [
+          {
+            "q": "What can administrative authority primarily restrain?",
+            "a": "External wrongdoing. The section distinguishes outward power from inner transformation."
+          },
+          {
+            "q": "What helps uproot inner enemies?",
+            "a": "Good teaching, love of God, and holy company. These means address the inner life."
+          },
+          {
+            "q": "Who are described as guides of the internal state?",
+            "a": "Spiritual elders. The passage assigns them responsibility for inward welfare."
+          },
+          {
+            "q": "What undermines spiritual leadership?",
+            "a": "Pleasure and ambition replacing world welfare. The section parallels this failure with corrupt external authority."
+          },
+          {
+            "q": "What situation is connected with divine incarnation?",
+            "a": "Declining righteousness and rising injustice. The cited Gita teaching explains the Lord’s restorative purpose."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What can administrative authority primarily restrain?",
+            "options": [
+              "External wrongdoing",
+              "Every inward desire directly",
+              "All thought by decree",
+              "Spiritual ignorance through office alone"
+            ],
+            "correct": 0,
+            "explanation": "The section distinguishes outward power from inner transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=45",
+            "sourceLabel": "Section 69, PDF pages 45–46"
+          },
+          {
+            "q": "What helps uproot inner enemies?",
+            "options": [
+              "Social rank alone",
+              "Good teaching, love of God, and holy company",
+              "Police power alone",
+              "Wealth alone"
+            ],
+            "correct": 1,
+            "explanation": "These means address the inner life.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=45",
+            "sourceLabel": "Section 69, PDF pages 45–46"
+          },
+          {
+            "q": "Who are described as guides of the internal state?",
+            "options": [
+              "Merchants alone",
+              "Travellers alone",
+              "Spiritual elders",
+              "Soldiers alone"
+            ],
+            "correct": 2,
+            "explanation": "The passage assigns them responsibility for inward welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=45",
+            "sourceLabel": "Section 69, PDF pages 45–46"
+          },
+          {
+            "q": "What undermines spiritual leadership?",
+            "options": [
+              "Self-control",
+              "Compassion",
+              "Truthful guidance",
+              "Pleasure and ambition replacing world welfare"
+            ],
+            "correct": 3,
+            "explanation": "The section parallels this failure with corrupt external authority.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=45",
+            "sourceLabel": "Section 69, PDF pages 45–46"
+          },
+          {
+            "q": "What situation is connected with divine incarnation?",
+            "options": [
+              "Declining righteousness and rising injustice",
+              "Increasing kindness alone",
+              "Successful selfless service alone",
+              "The absence of all wrongdoing"
+            ],
+            "correct": 0,
+            "explanation": "The cited Gita teaching explains the Lord’s restorative purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=45",
+            "sourceLabel": "Section 69, PDF pages 45–46"
+          }
+        ]
+      },
+      {
+        "id": "chapter-70",
+        "title": "Pray to God for His incarnation",
+        "chapter": "Section 70 · Pray to God for His incarnation",
+        "chapterNumber": 70,
+        "pdfStartPage": 46,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/prema-vahini.pdf#page=46",
+        "sourceLabel": "Section 70, PDF pages 46–47",
+        "summary": "The prayers of the good are described as an invitation for divine intervention. As people approach worldly rulers for help, seekers turn inward to the Lord when truth, peace, charity, and devotion need renewal. Rama, Krishna, and Ramakrishna’s prayer to Kali are recalled within this account of prayer for the welfare of the world.\n\nPrayer should continue without despair when results are not immediate. The growth of truth, compassion, wisdom, and love is the sign the section asks readers to seek. Spiritual teaching is compared with repairing a road laid by earlier holy people. Divine will, seekers’ needs, and renewed guidance work together. Prayer is joined with service, mutual love, and respect as a constructive response to unrest.",
+        "qa": [
+          {
+            "q": "To what are the prayers of the good compared?",
+            "a": "An invitation for the Lord’s advent. Prayer seeks the renewal of spiritual welfare."
+          },
+          {
+            "q": "To whom is Ramakrishna described as praying?",
+            "a": "Goddess Kali. The passage recalls his prayer for someone to teach a renewing dharma."
+          },
+          {
+            "q": "What should happen if results are not immediate?",
+            "a": "Prayer should continue without despair. Perseverance is emphasised because the outcome is not fully known."
+          },
+          {
+            "q": "What does road repair illustrate?",
+            "a": "Renewing the teaching of earlier holy people. Good teaching clears and restores the path."
+          },
+          {
+            "q": "What should accompany prayer in response to unrest?",
+            "a": "Service, mutual love, and respect. The section ends with an active, constructive response."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To what are the prayers of the good compared?",
+            "options": [
+              "A demand for personal fame",
+              "A financial contract",
+              "A substitute for all goodness",
+              "An invitation for the Lord’s advent"
+            ],
+            "correct": 3,
+            "explanation": "Prayer seeks the renewal of spiritual welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=46",
+            "sourceLabel": "Section 70, PDF pages 46–47"
+          },
+          {
+            "q": "To whom is Ramakrishna described as praying?",
+            "options": [
+              "Goddess Kali",
+              "Arjuna",
+              "Sabari",
+              "Prahlada"
+            ],
+            "correct": 0,
+            "explanation": "The passage recalls his prayer for someone to teach a renewing dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=46",
+            "sourceLabel": "Section 70, PDF pages 46–47"
+          },
+          {
+            "q": "What should happen if results are not immediate?",
+            "options": [
+              "All prayer should cease",
+              "Prayer should continue without despair",
+              "Resentment should replace service",
+              "The spiritual aim should be discarded"
+            ],
+            "correct": 1,
+            "explanation": "Perseverance is emphasised because the outcome is not fully known.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=46",
+            "sourceLabel": "Section 70, PDF pages 46–47"
+          },
+          {
+            "q": "What does road repair illustrate?",
+            "options": [
+              "Accumulating wealth",
+              "Seeking public office",
+              "Renewing the teaching of earlier holy people",
+              "Rejecting all past guidance"
+            ],
+            "correct": 2,
+            "explanation": "Good teaching clears and restores the path.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=46",
+            "sourceLabel": "Section 70, PDF pages 46–47"
+          },
+          {
+            "q": "What should accompany prayer in response to unrest?",
+            "options": [
+              "Blame and revenge",
+              "Conceit and rivalry",
+              "Indifference",
+              "Service, mutual love, and respect"
+            ],
+            "correct": 3,
+            "explanation": "The section ends with an active, constructive response.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=46",
+            "sourceLabel": "Section 70, PDF pages 46–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-71",
+        "title": "With faith in human divinity, service to mankind becomes service to God",
+        "chapter": "Section 71 · With faith in human divinity, service to mankind becomes service to God",
+        "chapterNumber": 71,
+        "pdfStartPage": 47,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/prema-vahini.pdf#page=47",
+        "sourceLabel": "Section 71, PDF page 47",
+        "summary": "The saying that service to humanity is service to God requires more than repetition. The section explains that service fulfils this meaning when it is accompanied by faith in the divinity of people and contemplation of the Lord. Work done for personal reputation or its rewards does not meet the standard being described.\n\nAction along truth and righteousness, with God in mind, is recognised as selfless service. The passage also speaks of the sanctifying influence of uninterrupted contemplation. Those not established in that condition should prepare through purification of mind and reduction of desires. Understanding the unity of service to people and service to God grows from this inward transformation, rather than from a slogan alone.",
+        "qa": [
+          {
+            "q": "What is needed for service to humanity to become service to God in this teaching?",
+            "a": "Faith in human divinity and contemplation of the Lord. The inward attitude gives the service its spiritual meaning."
+          },
+          {
+            "q": "What is insufficient by itself?",
+            "a": "Repeating the slogan. Words alone do not establish the unity being described."
+          },
+          {
+            "q": "Which motive contradicts the service described?",
+            "a": "Seeking name and fame. Personal recognition and reward are rejected as its guiding aim."
+          },
+          {
+            "q": "Along what path should action proceed?",
+            "a": "Truth and righteousness. These qualities accompany action offered to the Lord."
+          },
+          {
+            "q": "How should those not established in uninterrupted contemplation prepare?",
+            "a": "Purify the mind and reduce desires. Inner preparation supports the realisation of the unity taught."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is needed for service to humanity to become service to God in this teaching?",
+            "options": [
+              "Public praise",
+              "A large budget alone",
+              "Faith in human divinity and contemplation of the Lord",
+              "A prestigious title"
+            ],
+            "correct": 2,
+            "explanation": "The inward attitude gives the service its spiritual meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 71, PDF page 47"
+          },
+          {
+            "q": "What is insufficient by itself?",
+            "options": [
+              "Truthful action",
+              "Faith in divinity",
+              "Selfless concern",
+              "Repeating the slogan"
+            ],
+            "correct": 3,
+            "explanation": "Words alone do not establish the unity being described.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 71, PDF page 47"
+          },
+          {
+            "q": "Which motive contradicts the service described?",
+            "options": [
+              "Seeking name and fame",
+              "Love",
+              "Truthfulness",
+              "Concern for others"
+            ],
+            "correct": 0,
+            "explanation": "Personal recognition and reward are rejected as its guiding aim.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 71, PDF page 47"
+          },
+          {
+            "q": "Along what path should action proceed?",
+            "options": [
+              "Rivalry and display",
+              "Truth and righteousness",
+              "Concealment and pride",
+              "Envy and anger"
+            ],
+            "correct": 1,
+            "explanation": "These qualities accompany action offered to the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 71, PDF page 47"
+          },
+          {
+            "q": "How should those not established in uninterrupted contemplation prepare?",
+            "options": [
+              "Increase attachment to praise",
+              "Abandon all good conduct",
+              "Purify the mind and reduce desires",
+              "Claim understanding without practice"
+            ],
+            "correct": 2,
+            "explanation": "Inner preparation supports the realisation of the unity taught.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 71, PDF page 47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-72",
+        "title": "Purify the mind by meditation and japa",
+        "chapter": "Section 72 · Purify the mind by meditation and japa",
+        "chapterNumber": 72,
+        "pdfStartPage": 47,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/prema-vahini.pdf#page=47",
+        "sourceLabel": "Section 72, PDF page 47",
+        "summary": "The previous teaching does not justify inactivity. Until the unity of service and divine contemplation is understood, the aspirant should meditate, repeat the Lord’s name, and work for others without attachment to results. These practices help quiet the mind’s changing feelings and fill it with awareness of the Divine.\n\nAn idle body does not guarantee an inactive mind; inward activity can continue to bind a person. Conversely, the section describes work performed with the mind fixed on God and truth as action without binding doership. Realisation of the Atma is not established by caste, monastic status, ritual, or scholarship alone. Steady contemplation and spiritual wisdom are presented as the essential basis of liberation.",
+        "qa": [
+          {
+            "q": "Does the preceding teaching permit mere inactivity?",
+            "a": "No. The section explicitly calls for continued practice and good works."
+          },
+          {
+            "q": "Which practices are prescribed for purifying the mind?",
+            "a": "Meditation and repetition of the name. These help fill the mind with divine awareness."
+          },
+          {
+            "q": "How should work for others be performed?",
+            "a": "Without attachment to results. Service accompanies inward practice."
+          },
+          {
+            "q": "Why is bodily inactivity insufficient?",
+            "a": "The mind may remain busy and binding. The distinction concerns the condition of the mind."
+          },
+          {
+            "q": "What is essential for the realisation discussed?",
+            "a": "Steady contemplation and spiritual wisdom. The section places inner understanding above external qualifications."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Does the preceding teaching permit mere inactivity?",
+            "options": [
+              "Yes, all service must cease",
+              "No",
+              "Yes, an idle body guarantees realisation",
+              "Only outward stillness matters"
+            ],
+            "correct": 1,
+            "explanation": "The section explicitly calls for continued practice and good works.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 72, PDF page 47"
+          },
+          {
+            "q": "Which practices are prescribed for purifying the mind?",
+            "options": [
+              "Boasting and debate",
+              "Hoarding and rivalry",
+              "Meditation and repetition of the name",
+              "Flattery and display"
+            ],
+            "correct": 2,
+            "explanation": "These help fill the mind with divine awareness.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 72, PDF page 47"
+          },
+          {
+            "q": "How should work for others be performed?",
+            "options": [
+              "Only for recognition",
+              "Only for profit",
+              "With resentment",
+              "Without attachment to results"
+            ],
+            "correct": 3,
+            "explanation": "Service accompanies inward practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 72, PDF page 47"
+          },
+          {
+            "q": "Why is bodily inactivity insufficient?",
+            "options": [
+              "The mind may remain busy and binding",
+              "The mind always stops with the body",
+              "No inward action is possible",
+              "Stillness guarantees wisdom"
+            ],
+            "correct": 0,
+            "explanation": "The distinction concerns the condition of the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 72, PDF page 47"
+          },
+          {
+            "q": "What is essential for the realisation discussed?",
+            "options": [
+              "Caste alone",
+              "Steady contemplation and spiritual wisdom",
+              "Ritual appearance alone",
+              "Scholarship alone"
+            ],
+            "correct": 1,
+            "explanation": "The section places inner understanding above external qualifications.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=47",
+            "sourceLabel": "Section 72, PDF page 47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-73",
+        "title": "Pray for the advent of divine personages!",
+        "chapter": "Section 73 · Pray for the advent of divine personages!",
+        "chapterNumber": 73,
+        "pdfStartPage": 48,
+        "pdfEndPage": 48,
+        "sourceUrl": "assets/prema-vahini.pdf#page=48",
+        "sourceLabel": "Section 73, PDF page 48",
+        "summary": "The final section states that contemplation of the omnipresent Lord is not confined to a special location or hour. Wherever the mind delights in the Divine becomes a holy place, and the moment of that contemplation is auspicious. The opportunity for remembrance is therefore available wherever sincere inward attention arises.\n\nThe passage then returns to the welfare of the world. Pure-hearted, disciplined people are described as a source of its prosperity. Readers are encouraged to pray for the coming of such people, to become worthy of the blessings of the great, and to turn attention beyond the day’s sufferings. The book closes by joining immediate contemplation with a hopeful prayer for universal good.",
+        "qa": [
+          {
+            "q": "Is contemplation of the omnipresent Lord limited to a special place?",
+            "a": "No. Divine omnipresence removes such a limitation."
+          },
+          {
+            "q": "What makes a place holy in this teaching?",
+            "a": "The mind’s delight in divine contemplation. The inward relationship gives the place its sacred significance."
+          },
+          {
+            "q": "What makes a moment auspicious here?",
+            "a": "Contemplation of the Divine. The section locates the opportunity in present spiritual attention."
+          },
+          {
+            "q": "What kind of people are described as helping the world prosper?",
+            "a": "Pure-hearted and disciplined people. Their spiritual character serves the welfare of the world."
+          },
+          {
+            "q": "For what should everyone pray from now onward?",
+            "a": "The advent of such divine and holy people. The closing appeal joins prayer with universal welfare."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Is contemplation of the omnipresent Lord limited to a special place?",
+            "options": [
+              "No",
+              "Yes, to one building only",
+              "Yes, to one country only",
+              "Yes, to a forest alone"
+            ],
+            "correct": 0,
+            "explanation": "Divine omnipresence removes such a limitation.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=48",
+            "sourceLabel": "Section 73, PDF page 48"
+          },
+          {
+            "q": "What makes a place holy in this teaching?",
+            "options": [
+              "Its price",
+              "The mind’s delight in divine contemplation",
+              "Its public fame alone",
+              "Its distance from home"
+            ],
+            "correct": 1,
+            "explanation": "The inward relationship gives the place its sacred significance.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=48",
+            "sourceLabel": "Section 73, PDF page 48"
+          },
+          {
+            "q": "What makes a moment auspicious here?",
+            "options": [
+              "A worldly reward",
+              "Public applause",
+              "Contemplation of the Divine",
+              "The completion of an argument"
+            ],
+            "correct": 2,
+            "explanation": "The section locates the opportunity in present spiritual attention.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=48",
+            "sourceLabel": "Section 73, PDF page 48"
+          },
+          {
+            "q": "What kind of people are described as helping the world prosper?",
+            "options": [
+              "Those seeking only fame",
+              "Those ruled by envy",
+              "Those devoted to rivalry",
+              "Pure-hearted and disciplined people"
+            ],
+            "correct": 3,
+            "explanation": "Their spiritual character serves the welfare of the world.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=48",
+            "sourceLabel": "Section 73, PDF page 48"
+          },
+          {
+            "q": "For what should everyone pray from now onward?",
+            "options": [
+              "The advent of such divine and holy people",
+              "Greater personal superiority",
+              "The defeat of every neighbour",
+              "Freedom from all responsibility"
+            ],
+            "correct": 0,
+            "explanation": "The closing appeal joins prayer with universal welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/prema-vahini.pdf#page=48",
+            "sourceLabel": "Section 73, PDF page 48"
           }
         ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "unitLabel": "section",
+    "studyNote": "Based solely on the supplied Prema Vahini PDF. Summaries and questions are study paraphrases; consult the linked section for the complete teaching.",
+    "coverage": "All 73 numbered sections in the supplied edition"
   },
   {
     "id": "dharma-vahini",
