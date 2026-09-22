@@ -12,7 +12,9 @@ Sutra Vahini follows the 12 numbered aphorism chapters of the supplied 61-page P
 
 Sathya Sai Vahini follows all 24 chapters of the supplied 133-page PDF, with fuller two-paragraph summaries, 120 questions and answers, and 120 quiz questions (five per chapter). The unchanged PDF is served at `dist/assets/sathya-sai-vahini.pdf`, with chapter links to PDF pages 10–118. Prefaces and glossary remain available in the original PDF.
 
-The other 10 works retain their existing 30 selected topics and 600 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 152 study entries, 640 Q&A, and 1,210 quiz questions. Bhagavatha, Ramakatha, Upanishad, Sutra, and Sathya Sai have complete numbered-chapter coverage.
+Sandeha Nivarini follows all 17 chapters of the supplied 77-page PDF, with two-paragraph summaries, 85 questions and answers, and 85 quiz questions (five per chapter). Source links use PDF pages 8–65 in the unchanged `dist/assets/sandeha-nivarini.pdf`. Prefaces and the glossary remain in the original PDF.
+
+The other 9 works retain their existing 27 selected topics and 540 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 166 study entries, 722 Q&A, and 1,235 quiz questions. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, and Sandeha Nivarini have complete numbered-chapter coverage.
 
 ## Features
 
@@ -34,7 +36,7 @@ The site requires no build process or external JavaScript dependencies. Serve `d
 
 ## Content policy
 
-Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, and Sathya Sai material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
+Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, and Sandeha Nivarini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
 ## Image sources
 

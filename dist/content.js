@@ -15016,897 +15016,1800 @@ window.VAHINI_BOOKS = [
     "id": "sandeha-nivarini",
     "title": "Sandeha Nivarini",
     "hindiTitle": "संदेह निवारिणी",
-    "subtitle": "Clarifying spiritual doubts",
-    "description": "Study inquiry, discernment, and inner symbolism.",
-    "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Sandeha.pdf",
+    "subtitle": "Dissolving Doubts",
+    "description": "Explore all 17 chapters of Bhagawan Sri Sathya Sai Baba’s Sandeha Nivarini, following the supplied book in order. Each chapter offers a fuller summary, questions and answers, and five quiz questions drawn from its teachings.",
+    "sourceUrl": "assets/sandeha-nivarini.pdf",
+    "pdfUrl": "assets/sandeha-nivarini.pdf",
     "topics": [
       {
-        "id": "inquiry",
-        "title": "Asking sincerely",
-        "chapter": "Dialogue I",
-        "summary": "Earnest questions help seekers understand spiritual guidance. Faith grows through thoughtful inquiry, study, practice, and a steady relationship with God.",
+        "id": "chapter-01",
+        "title": "Gurus and Mantras",
+        "chapter": "Chapter 1 · Gurus and Mantras",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+        "sourceLabel": "Chapter 1, PDF pages 8–10",
+        "summary": "The opening dialogue welcomes sincere questions about spiritual life. Swami explains that a disciple may ask a teacher about the meaning and validity of instruction, rather than obey without understanding. He directs the devotee first toward faith in the Self and in the Lord, and explains how disappointed worldly desires can weaken faith. Good company and a genuine teacher support progress, but choosing a guru requires patience and discrimination. Scriptures, understood with help and put into practice, can guide the seeker while the Supreme Self is approached as the true teacher.\n\nThe discussion then concerns a mantra accepted hastily from an unsuitable teacher. Swami distinguishes the teacher's failings from the sacred name itself and stresses examining qualifications before initiation. The example of Ekalavya illustrates the character and dedication developed through steadfast faith. The devotee is advised to repent of hasty decisions and persist in spiritual effort. The chapter distinguishes remembrance through many divine names from meditation on the name received in initiation. Its closing emphasis is on removing doubt and grief so that practice can become steady and fruitful.",
         "qa": [
           {
-            "q": "May a disciple ask questions?",
-            "a": "Yes. Questions should express a sincere desire to understand."
+            "q": "What kind of questioning does Swami welcome?",
+            "a": "Earnest inquiry with a desire to understand. The opening dialogue encourages sincere inquiry into spiritual matters."
+          },
+          {
+            "q": "In whom does Swami first ask the devotee to place faith?",
+            "a": "The Self and the Lord. This foundation is presented as protection from being disturbed by others' conduct."
+          },
+          {
+            "q": "What should precede receiving a mantra from a guru?",
+            "a": "Careful examination and the growth of trust. Both the teacher's and the disciple's qualifications require consideration."
+          },
+          {
+            "q": "Which disciple's story illustrates steadfast dedication?",
+            "a": "Ekalavya. The discussion highlights the character Ekalavya gained through his commitment."
+          },
+          {
+            "q": "What distinction is made between name-remembrance and initiated meditation?",
+            "a": "Many names may be remembered, while meditation retains the initiated name. The advice stresses steadiness rather than repeatedly abandoning one mantra for another."
           }
         ],
         "quiz": [
           {
-            "q": "A beginner hesitates to ask about an unfamiliar teaching. What should a facilitator encourage?",
+            "q": "What kind of questioning does Swami welcome?",
             "options": [
-              "Silent agreement without comprehension",
-              "Pretending to know the answer",
-              "A respectful question seeking understanding",
-              "Judging other beginners instead"
-            ],
-            "correct": 2,
-            "explanation": "Respectful questioning allows uncertainty to become an opportunity for meaningful shared learning.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A participant asks only to embarrass a teacher. What would improve the inquiry?",
-            "options": [
-              "Make the question more humiliating",
-              "Focus on the point needing clarification",
-              "Invite friends to applaud",
-              "Refuse to consider any answer"
-            ],
-            "correct": 1,
-            "explanation": "Clarification requires openness to learning rather than a predetermined effort to embarrass someone.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "Two explanations appear inconsistent. What is the best next step?",
-            "options": [
-              "Ask how the explanations relate",
-              "Choose the more flattering one",
-              "Declare both false immediately",
-              "Hide the inconsistency permanently"
+              "Earnest inquiry with a desire to understand",
+              "Questions asked only to display learning",
+              "Repetition without listening to answers",
+              "Argument intended to humiliate a teacher"
             ],
             "correct": 0,
-            "explanation": "Asking about the relationship investigates the difficulty without rushing to a conclusion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A learner cannot explain an instruction's purpose. What should they do?",
-            "options": [
-              "Repeat approval more loudly",
-              "Teach it as fully understood",
-              "Assume questions indicate disloyalty",
-              "Seek its meaning before claiming understanding"
-            ],
-            "correct": 3,
-            "explanation": "Seeking meaning prevents confident repetition from concealing a real gap in understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "Someone promises instant certainty in every matter. What is a careful response?",
-            "options": [
-              "Accept because the promise sounds comforting",
-              "Reject every future teacher",
-              "Examine the guidance without rushing commitment",
-              "Replace inquiry with personal attacks"
-            ],
-            "correct": 2,
-            "explanation": "Careful examination avoids both impulsive trust and an indiscriminate rejection of guidance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A group dismisses all questions as disrespectful. What needs correction?",
-            "options": [
-              "The existence of different learning needs",
-              "The confusion between sincerity and defiance",
-              "The availability of study materials",
-              "The practice of explaining terminology"
-            ],
-            "correct": 1,
-            "explanation": "Sincere inquiry can support respect by helping learners understand what they are studying.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A student asks a broad confusing question. What would make it clearer?",
-            "options": [
-              "Identify the specific point of uncertainty",
-              "Add several unrelated accusations",
-              "Use more impressive terminology",
-              "Ask others to guess the problem"
-            ],
-            "correct": 0,
-            "explanation": "A specific uncertainty gives the discussion a clearer purpose and a workable focus.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A participant receives an answer but remains unsure. What is appropriate?",
-            "options": [
-              "Pretend certainty to protect appearances",
-              "Repeat the original question aggressively",
-              "Tell others the answer was never given",
-              "Ask a focused follow-up respectfully"
-            ],
-            "correct": 3,
-            "explanation": "A focused follow-up helps resolve the remaining difficulty without dismissing the earlier explanation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A learner depends entirely on rumours about a teacher. What should they seek?",
-            "options": [
-              "More dramatic rumours",
-              "Proof of the teacher's popularity",
-              "Directly relevant evidence and careful study",
-              "Agreement from every acquaintance"
-            ],
-            "correct": 2,
-            "explanation": "Relevant evidence and study offer a stronger basis than repeated secondhand impressions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A mentor does not know an answer. Which response supports trust?",
-            "options": [
-              "Invent a confident explanation",
-              "Acknowledge uncertainty and investigate",
-              "Blame the questioner",
-              "Change the teaching without explanation"
-            ],
-            "correct": 1,
-            "explanation": "Acknowledged uncertainty protects honest inquiry better than an answer manufactured for authority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A student wants to understand before practising. What is a useful balance?",
-            "options": [
-              "Clarify enough to begin thoughtful application",
-              "Demand answers to every possible question",
-              "Avoid practice indefinitely",
-              "Start while ignoring all serious confusion"
-            ],
-            "correct": 0,
-            "explanation": "Useful clarification and thoughtful application can support each other without requiring exhaustive certainty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A forum question mixes concern and accusation. How could it improve?",
-            "options": [
-              "Increase the accusation's emotional force",
-              "Tag more people to pressure agreement",
-              "Treat disagreement as proof of dishonesty",
-              "State the concern without attacking character"
-            ],
-            "correct": 3,
-            "explanation": "A clearly stated concern invites examination without making personal attack the main activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "An elder offers advice that seems puzzling. What is a respectful response?",
-            "options": [
-              "Agree publicly and mock privately",
-              "Assume age removes all questions",
-              "Ask about its purpose and reasoning",
-              "Reject it solely because it is old"
-            ],
-            "correct": 2,
-            "explanation": "Asking purpose and reasoning keeps the conversation both respectful and intellectually sincere.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A learner discovers that they misunderstood an answer. What should happen?",
-            "options": [
-              "Defend it to preserve status",
-              "Correct the interpretation openly",
-              "Blame everyone who listened",
-              "Stop asking questions altogether"
-            ],
-            "correct": 1,
-            "explanation": "Open correction demonstrates that understanding matters more than preserving an earlier confident appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "A study circle wants better questions. Which practice helps?",
-            "options": [
-              "Let members name what remains unclear",
-              "Reward only difficult vocabulary",
-              "Discourage beginners from speaking",
-              "Measure quality by question length"
-            ],
-            "correct": 0,
-            "explanation": "Naming real uncertainty produces questions that are relevant to actual learning needs.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "Someone mistakes confidence for reliability. What should they examine?",
-            "options": [
-              "The speaker's volume",
-              "The size of the stage",
-              "The number of admirers",
-              "The substance and consistency of guidance"
-            ],
-            "correct": 3,
-            "explanation": "Examining substance and consistency is more informative than judging confidence or presentation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "Why does sincere questioning belong in learning?",
-            "options": [
-              "It proves the questioner is superior",
-              "It removes the need for practice",
-              "It seeks understanding rather than mere compliance",
-              "It guarantees immediate certainty"
-            ],
-            "correct": 2,
-            "explanation": "Questions can strengthen understanding without making the questioner superior or eliminating personal effort.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
-          },
-          {
-            "q": "What motive is emphasised for spiritual inquiry?",
-            "options": [
-              "A desire to humiliate",
-              "An earnest desire to know",
-              "A need for applause",
-              "A wish to win every exchange"
-            ],
-            "correct": 1,
-            "explanation": "The topic presents earnest understanding as the proper aim of asking questions.",
+            "explanation": "The opening dialogue encourages sincere inquiry into spiritual matters.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "A facilitator answers only influential members. What should change?",
+            "q": "In whom does Swami first ask the devotee to place faith?",
             "options": [
-              "Give sincere questions fair consideration",
-              "Rank questions by donor status",
-              "Ask newcomers to remain silent",
-              "Let reputation determine who may learn"
+              "Every impressive speaker",
+              "The Self and the Lord",
+              "Public opinion alone",
+              "Those who promise material rewards"
             ],
-            "correct": 0,
-            "explanation": "Fair consideration helps every learner pursue understanding without unnecessary barriers created by status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
+            "correct": 1,
+            "explanation": "This foundation is presented as protection from being disturbed by others' conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "After a discussion, a learner remembers only agreement. What would deepen learning?",
+            "q": "What should precede receiving a mantra from a guru?",
             "options": [
-              "Collect compliments on attendance",
-              "Assume agreement proves mastery",
-              "Repeat the teacher's name more often",
-              "Restate the idea and identify one application"
+              "Following the crowd without inquiry",
+              "Comparing the number of followers alone",
+              "Careful examination and the growth of trust",
+              "A demand for immediate worldly success"
+            ],
+            "correct": 2,
+            "explanation": "Both the teacher's and the disciple's qualifications require consideration.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
+          },
+          {
+            "q": "Which disciple's story illustrates steadfast dedication?",
+            "options": [
+              "Arjuna",
+              "Nachiketas",
+              "Sanjaya",
+              "Ekalavya"
             ],
             "correct": 3,
-            "explanation": "Restatement and application reveal whether agreement has developed into personal understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue I"
+            "explanation": "The discussion highlights the character Ekalavya gained through his commitment.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
+          },
+          {
+            "q": "What distinction is made between name-remembrance and initiated meditation?",
+            "options": [
+              "Many names may be remembered, while meditation retains the initiated name",
+              "Every meditation requires a newly chosen name",
+              "Neither practice may involve a divine name",
+              "The initiated name must change each month"
+            ],
+            "correct": 0,
+            "explanation": "The advice stresses steadiness rather than repeatedly abandoning one mantra for another.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html"
+        ]
       },
       {
-        "id": "discernment",
-        "title": "Seeing through confusion",
-        "chapter": "Dialogue VIII",
-        "summary": "Superimposition means mistaking one thing for another. Discrimination clears such confusion, like light revealing a rope mistaken for a snake.",
+        "id": "chapter-02",
+        "title": "Listen to Yourself, Not to Disbelievers",
+        "chapter": "Chapter 2 · Listen to Yourself, Not to Disbelievers",
+        "chapterNumber": 2,
+        "pdfStartPage": 11,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+        "sourceLabel": "Chapter 2, PDF pages 11–13",
+        "summary": "The devotee arrives distressed by criticism of Swami. The conversation begins with ways of settling a troubled mind, including remembrance of the divine name, devotional singing, and rest. Swami explains that those who understand self-inquiry avoid causing pain by ridiculing what others hold dear. He distinguishes loving remembrance from remembrance coloured by hostility and advises the devotee not to spend spiritual energy on trying to silence every accusation. Worldly education and social prominence are not the same as knowledge of the Atma.\n\nThe chapter identifies several motives behind fault-finding, including resentment, hearsay, and disappointed worldly expectations. The story of Bhasmasura illustrates how destructive conduct turns against its own source, while the blind men and the elephant illustrate partial understanding. The devotee is urged to use time for meaningful spiritual questions, strengthen faith, and correct personal faults. The comparison between noisy base metal and quiet gold supports the concluding praise of restraint. Devotion should diminish anger and pain; allowing hostile talk to occupy the mind works against that purpose.",
         "qa": [
           {
-            "q": "What removes the mistaken fear?",
-            "a": "Recognising the underlying reality through discrimination removes the confusion."
+            "q": "What is suggested when the mind is troubled?",
+            "a": "Divine name-remembrance or devotional singing. The opening advice directs the mind toward calm before further reflection."
+          },
+          {
+            "q": "What distinction is made about education?",
+            "a": "Worldly learning is not the same as knowledge of the Atma. The chapter distinguishes livelihood-related knowledge from self-knowledge."
+          },
+          {
+            "q": "Which story illustrates destructive conduct turning against its source?",
+            "a": "Bhasmasura. Bhasmasura ultimately places his destructive hand upon his own head."
+          },
+          {
+            "q": "What does the example of the blind men and the elephant illustrate?",
+            "a": "Partial understanding mistaken for the whole. The comparison cautions against conclusions drawn from incomplete understanding."
+          },
+          {
+            "q": "What should the devotee do instead of collecting others' faults?",
+            "a": "Remove personal faults and cultivate good qualities. The concluding advice redirects time and attention toward inner improvement."
           }
         ],
         "quiz": [
           {
-            "q": "A short message seems unfriendly to Kiran. What is the clearest first step?",
+            "q": "What is suggested when the mind is troubled?",
             "options": [
-              "Assume deliberate hostility",
-              "Retaliate with a colder message",
-              "Tell everyone the friendship has ended",
-              "Check the intended meaning before reacting"
+              "Repeating every hostile story",
+              "Immediately starting an argument",
+              "Seeking more occasions for anger",
+              "Divine name-remembrance or devotional singing"
             ],
             "correct": 3,
-            "explanation": "Checking meaning distinguishes the available evidence from an interpretation shaped by initial emotion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A shadow looks alarming at dusk. What would reduce mistaken certainty?",
-            "options": [
-              "Describe it more dramatically",
-              "Ask others to fear it",
-              "Examine it with better information",
-              "Avoid checking what it is"
-            ],
-            "correct": 2,
-            "explanation": "Better information tests the interpretation rather than strengthening an unexamined first impression.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A rumour spreads through a study group. What response shows discrimination?",
-            "options": [
-              "Repeat it with added details",
-              "Verify the claim before repeating it",
-              "Trust it because it is popular",
-              "Treat hesitation as proof of guilt"
-            ],
-            "correct": 1,
-            "explanation": "Verification prevents an uncertain report from gaining false authority through repeated circulation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A colleague is quiet during a meeting. Which inference is most cautious?",
-            "options": [
-              "Several explanations remain possible",
-              "They certainly despise the group",
-              "They have nothing valuable to offer",
-              "They are deliberately obstructing everyone"
-            ],
-            "correct": 0,
-            "explanation": "Recognising alternatives prevents limited behaviour from being treated as proof of a hidden motive.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A learner says fear proves danger. What correction is most accurate?",
-            "options": [
-              "Every fear accurately describes reality",
-              "Fear makes evidence unnecessary",
-              "Absence of fear guarantees safety",
-              "Fear is a response requiring examination"
-            ],
-            "correct": 3,
-            "explanation": "Examining the situation separates an emotional response from conclusions about what is happening.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A photograph lacks its surrounding context. What should a reader avoid?",
-            "options": [
-              "Asking when it was taken",
-              "Looking for reliable context",
-              "Treating one interpretation as established fact",
-              "Acknowledging what remains unknown"
-            ],
-            "correct": 2,
-            "explanation": "Missing context makes premature certainty especially likely and further checking particularly useful.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A devotee idealises someone after one kind act. What is a balanced view?",
-            "options": [
-              "Assume the person never makes mistakes",
-              "Appreciate the act without assuming everything",
-              "Grant unlimited authority immediately",
-              "Ignore all later contradictory evidence"
-            ],
-            "correct": 1,
-            "explanation": "Appreciation of one action does not establish complete knowledge of a person's character.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "Someone interprets disagreement as personal rejection. What could help?",
-            "options": [
-              "Separate the disputed idea from personal worth",
-              "Demand agreement as proof of friendship",
-              "End every disagreeing relationship",
-              "Assume all criticism expresses hatred"
-            ],
-            "correct": 0,
-            "explanation": "Separating ideas and worth creates room for disagreement without unnecessary personal injury.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A participant recognises that they misheard a sentence. What follows?",
-            "options": [
-              "Defend the original anger regardless",
-              "Accuse the speaker of changing reality",
-              "Repeat the mistaken version to friends",
-              "Revise the reaction in light of correction"
-            ],
-            "correct": 3,
-            "explanation": "Corrected information should influence the response rather than leave a mistaken judgment untouched.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A person labels a whole community after one encounter. What is the flaw?",
-            "options": [
-              "Every encounter describes everyone",
-              "Labels provide complete knowledge",
-              "A limited experience becomes an overgeneralisation",
-              "Strong emotion establishes group facts"
-            ],
-            "correct": 2,
-            "explanation": "One encounter cannot justify a sweeping conclusion about every member of a community.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A reader finds evidence contradicting a favourite interpretation. What shows discernment?",
-            "options": [
-              "Discard the evidence automatically",
-              "Reconsider the interpretation honestly",
-              "Attack whoever found it",
-              "Repeat the interpretation more confidently"
-            ],
-            "correct": 1,
-            "explanation": "Discernment remains open to correction instead of protecting a preferred conclusion at any cost.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A child sees a bent-looking pencil in water. What is the lesson for inquiry?",
-            "options": [
-              "Appearance can require further examination",
-              "Every appearance is useless",
-              "Questions always create confusion",
-              "First impressions are permanently correct"
-            ],
-            "correct": 0,
-            "explanation": "Examining conditions helps explain appearances without assuming they directly reveal every aspect of reality.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "An anxious planner imagines every possible failure. What distinction helps?",
-            "options": [
-              "Imagined outcomes have already occurred",
-              "Worry makes predictions certain",
-              "Planning requires accepting every fear",
-              "Possible outcomes differ from established events"
-            ],
-            "correct": 3,
-            "explanation": "Distinguishing possibilities from facts allows practical planning without treating imagination as established reality.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A confident speaker presents an interpretation without evidence. What is appropriate?",
-            "options": [
-              "Accept confidence as proof",
-              "Reject every statement they make",
-              "Ask what supports the conclusion",
-              "Assume uncertainty is dishonesty"
-            ],
-            "correct": 2,
-            "explanation": "Asking for support tests the conclusion while avoiding judgments based solely on presentation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A seeker notices a personal bias. What is the constructive response?",
-            "options": [
-              "Pretend bias affects only others",
-              "Account for it when examining the situation",
-              "Treat the bias as infallible insight",
-              "Stop examining all future situations"
-            ],
-            "correct": 1,
-            "explanation": "Recognising bias makes it possible to question how preferences shape personal interpretation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A reflection journal separates observations from guesses. Why is that useful?",
-            "options": [
-              "It makes assumptions easier to identify",
-              "It proves every observation complete",
-              "It removes the need for correction",
-              "It guarantees freedom from all bias"
-            ],
-            "correct": 0,
-            "explanation": "Separating categories helps reveal where interpretation extends beyond what was actually observed.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "In this topic, what is superimposition?",
-            "options": [
-              "Carefully verifying a fact",
-              "Explaining a word clearly",
-              "Remembering an agreed instruction",
-              "Mistaking one thing for another"
-            ],
-            "correct": 3,
-            "explanation": "The topic uses mistaken identification to explain how confusion can shape experience.",
+            "explanation": "The opening advice directs the mind toward calm before further reflection.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
           },
           {
-            "q": "What resolves the rope-and-snake mistake in the example?",
+            "q": "What distinction is made about education?",
             "options": [
-              "Arguing more passionately",
-              "Increasing the imagined danger",
-              "Recognising what is actually present",
-              "Counting how many people are afraid"
-            ],
-            "correct": 2,
-            "explanation": "Recognition corrects the interpretation that produced fear without needing to change the rope.",
-            "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A group receives an apology after a misunderstanding. What response fits discernment?",
-            "options": [
-              "Preserve the accusation unchanged",
-              "Update its view using the clarification",
-              "Invent an additional hidden offence",
-              "Refuse all future explanations"
-            ],
-            "correct": 1,
-            "explanation": "Clarification provides new information that a fair assessment should take into account.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
-          },
-          {
-            "q": "A familiar label prevents someone from noticing change. What would help?",
-            "options": [
-              "Observe the present situation afresh",
-              "Assume labels never become outdated",
-              "Ignore contrary behaviour",
-              "Ask others to repeat the label"
+              "Worldly learning is not the same as knowledge of the Atma",
+              "Social prominence always proves spiritual wisdom",
+              "All learning automatically removes resentment",
+              "Spiritual understanding depends only on employment"
             ],
             "correct": 0,
-            "explanation": "Fresh observation prevents an old interpretation from replacing attention to present evidence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue VIII"
+            "explanation": "The chapter distinguishes livelihood-related knowledge from self-knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "Which story illustrates destructive conduct turning against its source?",
+            "options": [
+              "Ekalavya",
+              "Bhasmasura",
+              "Sabari",
+              "Dhruva"
+            ],
+            "correct": 1,
+            "explanation": "Bhasmasura ultimately places his destructive hand upon his own head.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "What does the example of the blind men and the elephant illustrate?",
+            "options": [
+              "Complete knowledge through one fragment",
+              "The need to avoid every question",
+              "Partial understanding mistaken for the whole",
+              "The value of arguing without experience"
+            ],
+            "correct": 2,
+            "explanation": "The comparison cautions against conclusions drawn from incomplete understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "What should the devotee do instead of collecting others' faults?",
+            "options": [
+              "Repeat accusations to more people",
+              "Measure devotion by public praise",
+              "Abandon every spiritual exercise",
+              "Remove personal faults and cultivate good qualities"
+            ],
+            "correct": 3,
+            "explanation": "The concluding advice redirects time and attention toward inner improvement.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html"
+        ]
       },
       {
-        "id": "inner-ramayana",
-        "title": "The inward Ramayana",
-        "chapter": "Dialogue XIII",
-        "summary": "The Ramayana is also interpreted as an inward drama. Rama represents the Atma, witnessing the play unfolding within the heart.",
+        "id": "chapter-03",
+        "title": "The External World, Internal World, and Bhagavan",
+        "chapter": "Chapter 3 · The External World, Internal World, and Bhagavan",
+        "chapterNumber": 3,
+        "pdfStartPage": 14,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+        "sourceLabel": "Chapter 3, PDF pages 14–18",
+        "summary": "A contrast between the crowded surroundings and the quiet hall leads to inquiry into the external and internal worlds. Swami invites the questioner to reason out answers, explaining that this helps understanding become clear. The cinema screen and its changing pictures illustrate the enduring basis beneath changing names and forms. The devotee is directed toward what brings real understanding and fulfilment, rather than becoming absorbed in endless calculations about the origin and details of creation.\n\nThe dialogue discusses the world as experienced through the senses and introduces maya through its differing appearance in waking and deep sleep. God is compared to the magician behind the display. Divine names and forms express attributes and provide approaches to the same Lord; the devotee's purpose should be liberation and union with Him. The inseparability of God and divine nature is illustrated by sweetness in sugar and light in the sun. The chapter ends by introducing knowledge and ignorance, and insists that teaching must be digested through practice. Effort and prayer are required; passive reliance on destiny is insufficient.",
         "qa": [
           {
-            "q": "What does Rama represent here?",
-            "a": "Rama represents the Atma, the inner witnessing reality."
+            "q": "What teaching method does Swami use at the beginning?",
+            "a": "Helping the questioner reason out answers. The dialogue describes questioning as a way to make understanding clear."
+          },
+          {
+            "q": "What does the cinema screen represent in the comparison?",
+            "a": "The enduring basis of changing appearances. Pictures come and go while the screen remains their support."
+          },
+          {
+            "q": "What purpose should guide worship through any divine name and form?",
+            "a": "Liberation and union with the Lord. The chapter affirms many approaches while stressing a single spiritual aim."
+          },
+          {
+            "q": "What illustrates the inseparability of God and divine nature?",
+            "a": "Sweetness in sugar. Sweetness cannot be separated from the sugar whose nature it is."
+          },
+          {
+            "q": "What does Swami say about depending on destiny without effort?",
+            "a": "Effort and prayer are necessary. The closing instruction calls the devotee to begin active spiritual effort."
           }
         ],
         "quiz": [
           {
-            "q": "A facilitator introduces an inward reading of the Ramayana. What should be made clear?",
+            "q": "What teaching method does Swami use at the beginning?",
             "options": [
-              "The discussion explores spiritual symbolism",
-              "Every detail is a personal diagnosis",
-              "The discussion proves historical dates",
-              "Participants must report identical experiences"
-            ],
-            "correct": 0,
-            "explanation": "Clear framing distinguishes symbolic reflection from claims the exercise does not establish.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "In a reflection exercise, worry becomes a character on an inner stage. What helps?",
-            "options": [
-              "Assume worry defines the entire Self",
-              "Obey every worried prediction",
-              "Pretend the feeling cannot be noticed",
-              "Notice the worry without becoming its whole story"
-            ],
-            "correct": 3,
-            "explanation": "Observing the feeling creates distance from treating one mental event as the whole self.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "A student draws Rama at the centre of an inward diagram. What does that represent here?",
-            "options": [
-              "A competition for personal status",
-              "The loudest changing emotion",
-              "The witnessing Atma",
-              "A record of financial success"
+              "Requiring silence about every doubt",
+              "Giving unrelated stories without discussion",
+              "Helping the questioner reason out answers",
+              "Asking the devotee to memorise without understanding"
             ],
             "correct": 2,
-            "explanation": "The established symbolism places Rama with the inner witnessing reality in this interpretation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The dialogue describes questioning as a way to make understanding clear.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–18"
           },
           {
-            "q": "An actor plays several roles in a workshop. Which reflection fits the topic?",
+            "q": "What does the cinema screen represent in the comparison?",
             "options": [
-              "Every role permanently replaces identity",
-              "A role does not exhaust the person",
-              "Costume determines complete worth",
-              "A role removes responsibility for actions"
+              "A picture that disappears immediately",
+              "The changing external scene alone",
+              "The absence of any underlying reality",
+              "The enduring basis of changing appearances"
+            ],
+            "correct": 3,
+            "explanation": "Pictures come and go while the screen remains their support.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–18"
+          },
+          {
+            "q": "What purpose should guide worship through any divine name and form?",
+            "options": [
+              "Liberation and union with the Lord",
+              "Superiority over other devotees",
+              "Unlimited worldly possessions",
+              "The defeat of all other forms of worship"
+            ],
+            "correct": 0,
+            "explanation": "The chapter affirms many approaches while stressing a single spiritual aim.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–18"
+          },
+          {
+            "q": "What illustrates the inseparability of God and divine nature?",
+            "options": [
+              "A traveller leaving a house",
+              "Sweetness in sugar",
+              "Two unrelated stones",
+              "A discarded garment"
             ],
             "correct": 1,
-            "explanation": "The distinction helps explore how temporary roles need not define the whole person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "Sweetness cannot be separated from the sugar whose nature it is.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–18"
           },
           {
-            "q": "A participant says inner observation excuses angry conduct. What is the best correction?",
+            "q": "What does Swami say about depending on destiny without effort?",
             "options": [
-              "Observation can support more responsible choices",
-              "Witnessing requires approving every reaction",
-              "Symbolism cancels ordinary responsibility",
-              "Anger becomes harmless when renamed"
-            ],
-            "correct": 0,
-            "explanation": "Noticing anger can inform a better response rather than excuse harmful conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "A learner mistakes a metaphor for a literal map of the body. What helps?",
-            "options": [
-              "Invent physical locations for every character",
-              "Treat guesses as verified anatomy",
-              "Reject all reflective uses of stories",
-              "Return to the interpretation's symbolic purpose"
-            ],
-            "correct": 3,
-            "explanation": "The symbolic purpose concerns inward understanding rather than an anatomical claim about characters.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "A journaling exercise asks about today's inner drama. Which entry is most reflective?",
-            "options": [
-              "Everyone else played an inferior role",
-              "My preferences are always sacred commands",
-              "I noticed pride competing with patience",
-              "Only other people experience inner conflict"
+              "Remaining inactive guarantees grace",
+              "Destiny removes the need for practice",
+              "Effort and prayer are necessary",
+              "Understanding alone replaces all endeavour"
             ],
             "correct": 2,
-            "explanation": "Naming competing tendencies makes the exercise an honest examination of personal experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The closing instruction calls the devotee to begin active spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Awareness and its Lower Form",
+        "chapter": "Chapter 4 · Awareness and its Lower Form",
+        "chapterNumber": 4,
+        "pdfStartPage": 19,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+        "sourceLabel": "Chapter 4, PDF pages 19–21",
+        "summary": "The dialogue opens by asking whether previous teaching has been realised in thought, speech, and action. Swami compares his instruction to seeds whose successful growth brings a harvest of joy. Practising and benefiting from the teaching is described as the service the devotee can offer. The devotee compares grace hidden by ego and possessiveness to sunlight obscured by fog. Clear understanding supports practice, while mistaken interpretations obscure the intended truth. Swami also explains that understanding matures at different times and therefore requires patient, repeated teaching.\n\nAwareness, or chit, is then described as pure consciousness. Knowledge and ignorance, wisdom and its absence, and pure and impure consciousness express related distinctions. The contrast between prakriti and vikriti explains the original nature and its derived or lower form. Beneath apparent individual differences, the Lord is presented as the indivisible foundation of the whole. The discussion of the fullness mantra distinguishes unmanifest and manifest reality while affirming their underlying completeness. It concludes by asking the devotee to meditate on, practise, and assimilate what has been explained.",
+        "qa": [
+          {
+            "q": "What does Swami compare his teaching to?",
+            "a": "Seeds that should grow into a fruitful harvest. The harvest represents the joy arising when the teaching is practised."
           },
           {
-            "q": "A child asks whether the story can matter personally. What is a useful response?",
+            "q": "What obscures grace in the devotee's comparison with fog?",
+            "a": "The sense of I and mine. Ego and possessiveness are compared to a covering over sunlight."
+          },
+          {
+            "q": "What other name is given to chit?",
+            "a": "Pure consciousness. Awareness is explained through the expression suddha sathwa."
+          },
+          {
+            "q": "What does vikriti signify in the dialogue?",
+            "a": "A changed or derived form. The linguistic comparison helps explain the lower form associated with ignorance."
+          },
+          {
+            "q": "What do the unmanifest and manifest forms share in the fullness teaching?",
+            "a": "The one indivisible reality. The discussion explains both through the completeness of Brahman."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Swami compare his teaching to?",
             "options": [
-              "Require knowledge of every historical dispute",
-              "Explore how it prompts inward reflection",
-              "Say reflection belongs only to experts",
-              "Promise that one discussion ends all difficulties"
+              "Objects collected only for display",
+              "Seeds that should grow into a fruitful harvest",
+              "Words with no effect on life",
+              "A task completed by hearing once"
             ],
             "correct": 1,
-            "explanation": "An accessible reflective approach lets the story become relevant without demanding exhaustive prior scholarship.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The harvest represents the joy arising when the teaching is practised.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+            "sourceLabel": "Chapter 4, PDF pages 19–21"
           },
           {
-            "q": "A reader identifies completely with a passing disappointment. What question might help?",
+            "q": "What obscures grace in the devotee's comparison with fog?",
             "options": [
-              "Can I notice this feeling as an experience?",
-              "Does this feeling prove my permanent worth?",
-              "Must everyone agree with my disappointment?",
-              "How can I make this my only identity?"
-            ],
-            "correct": 0,
-            "explanation": "The question opens space between an experienced feeling and a total claim about identity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "A facilitator invents new symbolic meanings. How should they present them?",
-            "options": [
-              "Attribute them directly to Baba",
-              "Present them as verified chapter content",
-              "Claim every reader must accept them",
-              "Label them as optional original exercises"
-            ],
-            "correct": 3,
-            "explanation": "Transparent attribution keeps creative teaching separate from the source's established symbolic interpretation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
-          },
-          {
-            "q": "A participant thinks inward reading means ignoring the actual story. What is a balanced response?",
-            "options": [
-              "Reflection requires discarding the narrative",
-              "Only plot memorisation can have value",
-              "Symbolic reflection can accompany reading the narrative",
-              "Every interpretation replaces the original text"
+              "Sincere spiritual practice",
+              "Clear understanding",
+              "The sense of I and mine",
+              "Steady devotion"
             ],
             "correct": 2,
-            "explanation": "The two activities can complement each other without one erasing the other's purpose.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "Ego and possessiveness are compared to a covering over sunlight.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+            "sourceLabel": "Chapter 4, PDF pages 19–21"
           },
           {
-            "q": "A group stages a scene about conflicting impulses. What is the educational aim?",
+            "q": "What other name is given to chit?",
             "options": [
-              "Identify the least spiritual participant",
-              "Make inner choices easier to examine",
-              "Diagnose everyone's hidden motives",
-              "Prove the actors have attained perfection"
+              "Physical strength",
+              "Material possession",
+              "Bodily age",
+              "Pure consciousness"
+            ],
+            "correct": 3,
+            "explanation": "Awareness is explained through the expression suddha sathwa.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+            "sourceLabel": "Chapter 4, PDF pages 19–21"
+          },
+          {
+            "q": "What does vikriti signify in the dialogue?",
+            "options": [
+              "A changed or derived form",
+              "The absence of all relationship",
+              "The Supreme beyond every name",
+              "A new physical sense"
+            ],
+            "correct": 0,
+            "explanation": "The linguistic comparison helps explain the lower form associated with ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+            "sourceLabel": "Chapter 4, PDF pages 19–21"
+          },
+          {
+            "q": "What do the unmanifest and manifest forms share in the fullness teaching?",
+            "options": [
+              "Two independent ultimate sources",
+              "The one indivisible reality",
+              "A permanent separation from God",
+              "An absence of any spiritual basis"
             ],
             "correct": 1,
-            "explanation": "The scene provides material for reflection without establishing judgments about participants' spiritual status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The discussion explains both through the completeness of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=19",
+            "sourceLabel": "Chapter 4, PDF pages 19–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Thai! Thai! Thai! Dummy!",
+        "chapter": "Chapter 5 · Thai! Thai! Thai! Dummy!",
+        "chapterNumber": 5,
+        "pdfStartPage": 22,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+        "sourceLabel": "Chapter 5, PDF pages 22–26",
+        "summary": "Swami praises the devotee's eagerness to hear and reflect on spiritual teaching, distinguishing it from restless attachment to temporary worldly gains. The inquiry concerns the meaning of the true “I”. Instead of a long explanation, Swami offers a song that follows the life of a puppet-like body from birth through childhood, desire, pride, ageing, and death. The devotee is asked to consider each idea deeply, so that the song awakens discrimination and detachment rather than remaining a pleasant recitation.\n\nThe puppet image exposes the mistake of claiming independent doership while ignoring the divine power behind life. Anger, jealousy, bodily pride, and fear occupy the figure as it moves toward its end. The departure of the bird from its cage represents the end of bodily life, and the body's elements return to their sources. The song urges recognition of the opportunity for spiritual understanding. In the closing response, the devotee distinguishes the Self from body, intellect, mind, and memory, and recognises identification with these instruments as the source of delusion.",
+        "qa": [
+          {
+            "q": "What is the main question addressed through the song?",
+            "a": "The true nature of I. The song continues the devotee's inquiry into the Self."
           },
           {
-            "q": "A student says witnessing means feeling nothing. What is the best distinction?",
+            "q": "What does the puppet chiefly represent?",
+            "a": "The body and its worldly drama. Its changing life illustrates the limitations of bodily identification."
+          },
+          {
+            "q": "What error does the puppet make about its actions?",
+            "a": "It claims independent doership. The song contrasts its claim of I with the power directing the drama."
+          },
+          {
+            "q": "What does the bird leaving the cage represent?",
+            "a": "The departure of life from the body. This image marks the end of the bodily career in the song."
+          },
+          {
+            "q": "What does the devotee recognise in the closing response?",
+            "a": "The true Self is not body, intellect, mind, or memory. The song leads toward recognition of the Atma and detachment from its instruments."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the main question addressed through the song?",
             "options": [
-              "Noticing feelings differs from being defined by them",
-              "All emotions must disappear before reflection",
-              "Feeling sadness proves reflection impossible",
-              "Attention requires denying every emotion"
+              "The true nature of I",
+              "The number of worldly occupations",
+              "The history of a royal dynasty",
+              "The construction of a physical puppet theatre"
             ],
             "correct": 0,
-            "explanation": "Observation can include a feeling without turning it into the observer's entire identity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The song continues the devotee's inquiry into the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+            "sourceLabel": "Chapter 5, PDF pages 22–26"
           },
           {
-            "q": "A person plays parent, colleague, and volunteer. Which reflection fits the inward theme?",
+            "q": "What does the puppet chiefly represent?",
             "options": [
-              "One role determines permanent spiritual rank",
-              "Conflicting roles make reflection impossible",
-              "Only public roles deserve attention",
-              "Changing roles can be noticed from within"
+              "The changeless Atma alone",
+              "The body and its worldly drama",
+              "A scripture without meaning",
+              "A teacher's independent creation of souls"
             ],
-            "correct": 3,
-            "explanation": "Awareness of changing roles invites reflection on what is present across their differences.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "correct": 1,
+            "explanation": "Its changing life illustrates the limitations of bodily identification.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+            "sourceLabel": "Chapter 5, PDF pages 22–26"
           },
           {
-            "q": "Why use an inner-stage image in discussion?",
+            "q": "What error does the puppet make about its actions?",
             "options": [
-              "It proves every thought is historically factual",
-              "It identifies every person's hidden destiny",
-              "It helps examine changing tendencies and choices",
-              "It replaces the need for careful conduct"
+              "It always recognises the Lord behind life",
+              "It never develops pride",
+              "It claims independent doership",
+              "It understands every movement completely"
             ],
             "correct": 2,
-            "explanation": "The image supports reflective examination without making unsupported claims about history or destiny.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "explanation": "The song contrasts its claim of I with the power directing the drama.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+            "sourceLabel": "Chapter 5, PDF pages 22–26"
           },
           {
-            "q": "In the chapter's inward interpretation, what does Rama represent?",
+            "q": "What does the bird leaving the cage represent?",
             "options": [
-              "Personal wealth",
+              "The beginning of childhood play",
+              "The growth of material wealth",
+              "The acquisition of scholarly fame",
+              "The departure of life from the body"
+            ],
+            "correct": 3,
+            "explanation": "This image marks the end of the bodily career in the song.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+            "sourceLabel": "Chapter 5, PDF pages 22–26"
+          },
+          {
+            "q": "What does the devotee recognise in the closing response?",
+            "options": [
+              "The true Self is not body, intellect, mind, or memory",
+              "The body alone is the eternal Self",
+              "Jealousy proves spiritual maturity",
+              "Recitation makes reflection unnecessary"
+            ],
+            "correct": 0,
+            "explanation": "The song leads toward recognition of the Atma and detachment from its instruments.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=22",
+            "sourceLabel": "Chapter 5, PDF pages 22–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "The Internal and External Senses",
+        "chapter": "Chapter 6 · The Internal and External Senses",
+        "chapterNumber": 6,
+        "pdfStartPage": 27,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+        "sourceLabel": "Chapter 6, PDF pages 27–28",
+        "summary": "The devotee finds that insight gained from the puppet song is repeatedly obscured by attraction to objects. Swami explains that the mind follows tendencies and impulses, but its habits can change. Charcoal that becomes glowing red when fire enters it illustrates the transformation brought by spiritual wisdom and grace. The conversation then examines the organs of action and perception and their dependence on the mind. The mind is compared to a boat that provides passage between these activities and the Atma.\n\nFour inner functions are distinguished: mind grasps an object, intellect weighs considerations, memory or the subconscious understands through them, and ego introduces attachment. The teaching stresses pure speech and the conquest of ego as signs of a purified intellect and heart. Finally, Swami distinguishes all these changing functions from the observing Self. The devotee is the Atma that witnesses activity, rather than any one instrument. Awakening to this truth is compared with waking from a dream, when its joys and fears cease to define one's present reality.",
+        "qa": [
+          {
+            "q": "What normally draws the mind along in this chapter's explanation?",
+            "a": "Tendencies and impulses. The dialogue describes the mind as following vasanas."
+          },
+          {
+            "q": "What does charcoal becoming red in fire illustrate?",
+            "a": "The mind can be transformed by spiritual wisdom. The example answers the devotee's fear that wandering is unavoidable."
+          },
+          {
+            "q": "What is compared to a boat?",
+            "a": "The mind. The mind mediates the activity of the senses in the chapter's explanation."
+          },
+          {
+            "q": "What is the function of the intellect described here?",
+            "a": "Examining considerations for and against. The dialogue distinguishes this function from mind, memory, and ego."
+          },
+          {
+            "q": "Who is the true observer of these changing activities?",
+            "a": "The Atma. The conclusion identifies the devotee with the witnessing Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What normally draws the mind along in this chapter's explanation?",
+            "options": [
+              "The absence of all previous habits",
+              "The unchanging nature of a physical object",
+              "Complete freedom from attraction",
+              "Tendencies and impulses"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue describes the mind as following vasanas.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–28"
+          },
+          {
+            "q": "What does charcoal becoming red in fire illustrate?",
+            "options": [
+              "The mind can be transformed by spiritual wisdom",
+              "The mind's habits can never change",
+              "Knowledge increases darkness",
+              "The body is the only source of awareness"
+            ],
+            "correct": 0,
+            "explanation": "The example answers the devotee's fear that wandering is unavoidable.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–28"
+          },
+          {
+            "q": "What is compared to a boat?",
+            "options": [
+              "The physical tongue alone",
+              "The mind",
+              "A worldly possession",
+              "A discarded memory"
+            ],
+            "correct": 1,
+            "explanation": "The mind mediates the activity of the senses in the chapter's explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–28"
+          },
+          {
+            "q": "What is the function of the intellect described here?",
+            "options": [
+              "Grasping objects without evaluation",
+              "Claiming every action as its own",
+              "Examining considerations for and against",
+              "Producing the five elements"
+            ],
+            "correct": 2,
+            "explanation": "The dialogue distinguishes this function from mind, memory, and ego.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–28"
+          },
+          {
+            "q": "Who is the true observer of these changing activities?",
+            "options": [
+              "The body alone",
+              "The ego's claim of possession",
+              "A passing desire",
+              "The Atma"
+            ],
+            "correct": 3,
+            "explanation": "The conclusion identifies the devotee with the witnessing Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=27",
+            "sourceLabel": "Chapter 6, PDF pages 27–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Forty-six Maxims of Conduct",
+        "chapter": "Chapter 7 · Forty-six Maxims of Conduct",
+        "chapterNumber": 7,
+        "pdfStartPage": 29,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+        "sourceLabel": "Chapter 7, PDF pages 29–32",
+        "summary": "The devotee asks for essential guidance that can be remembered and practised. Swami explains that although spiritual paths share a goal, their disciplines cannot all be compressed into a single formula. He offers forty-six maxims as treasures to be lived. Divine love and truth stand at the beginning: love is to be directed toward the Lord and recognised in all, while truth is treated as indispensable to life. Kindness, self-sacrifice, sense-control, patience, and contentment support this foundation.\n\nThe maxims examine speech, bodily conduct, and habits of mind. They warn against falsehood, harmful talk, greed, anger, pride, and envy, and encourage rejoicing in another's happiness. Silence and divine remembrance help check anger. Service to those in need, sincere repentance, and correcting one's own faults receive special emphasis. Praise should not inflate the ego, and blame should not destroy steadiness. The final guidance concerns one-pointedness and perseverance in meditation and prayer. The devotee is asked to assimilate these teachings into daily conduct rather than merely admire or repeat them.",
+        "qa": [
+          {
+            "q": "How many maxims are offered?",
+            "a": "Forty-six. The chapter presents a numbered collection of forty-six instructions."
+          },
+          {
+            "q": "Which two are compared with the sustaining importance of breath?",
+            "a": "Divine love and truth. The opening maxims give love and truth a foundational place."
+          },
+          {
+            "q": "What response to another person's prosperity is encouraged?",
+            "a": "Happiness at their happiness. The maxims connect goodwill and sympathy with cultivating love for God."
+          },
+          {
+            "q": "What is advised when anger arises?",
+            "a": "Silence or remembrance of the Lord's name. The instruction warns against thoughts that further inflame anger."
+          },
+          {
+            "q": "Whose faults should receive one's main attention?",
+            "a": "One's own faults. Self-correction is valued above collecting faults in others."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How many maxims are offered?",
+            "options": [
+              "Twenty-four",
+              "Twelve",
+              "Forty-six",
+              "Seventeen"
+            ],
+            "correct": 2,
+            "explanation": "The chapter presents a numbered collection of forty-six instructions.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+            "sourceLabel": "Chapter 7, PDF pages 29–32"
+          },
+          {
+            "q": "Which two are compared with the sustaining importance of breath?",
+            "options": [
+              "Wealth and fame",
+              "Victory and authority",
+              "Pleasure and reputation",
+              "Divine love and truth"
+            ],
+            "correct": 3,
+            "explanation": "The opening maxims give love and truth a foundational place.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+            "sourceLabel": "Chapter 7, PDF pages 29–32"
+          },
+          {
+            "q": "What response to another person's prosperity is encouraged?",
+            "options": [
+              "Happiness at their happiness",
+              "Envy at their success",
+              "A wish to diminish their gain",
+              "Indifference to all their difficulties"
+            ],
+            "correct": 0,
+            "explanation": "The maxims connect goodwill and sympathy with cultivating love for God.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+            "sourceLabel": "Chapter 7, PDF pages 29–32"
+          },
+          {
+            "q": "What is advised when anger arises?",
+            "options": [
+              "Recalling more causes of resentment",
+              "Silence or remembrance of the Lord's name",
+              "Speaking more harshly",
+              "Encouraging others to quarrel"
+            ],
+            "correct": 1,
+            "explanation": "The instruction warns against thoughts that further inflame anger.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+            "sourceLabel": "Chapter 7, PDF pages 29–32"
+          },
+          {
+            "q": "Whose faults should receive one's main attention?",
+            "options": [
+              "Only the faults of strangers",
+              "Only the faults of critics",
+              "One's own faults",
+              "Everyone's faults except one's own"
+            ],
+            "correct": 2,
+            "explanation": "Self-correction is valued above collecting faults in others.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=29",
+            "sourceLabel": "Chapter 7, PDF pages 29–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "The Meaning of Superimposition",
+        "chapter": "Chapter 8 · The Meaning of Superimposition",
+        "chapterNumber": 8,
+        "pdfStartPage": 33,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+        "sourceLabel": "Chapter 8, PDF pages 33–35",
+        "summary": "The chapter begins by distinguishing duty from a desire for reward. When wrong has been done, the devotee is advised to seek the understanding and strength needed not to repeat it. The discussion then identifies doubt with failure to recognise one's Atmic nature and the divine reality within life. Adhyasa, or superimposition, means taking one thing for another. A rope mistaken for a snake illustrates how an error creates fear and how clear perception removes it.\n\nSwami applies this explanation to the relationship between nature and the Supreme Self. Yarn and cloth have different names and uses but cannot be separated in substance. The discussion also describes the light of the Atma reflected through intellect, mind, senses, and body. Identifying the Self with bodily characteristics or mental desires is another form of superimposition. The one underlying reality remains distinct from these imposed descriptions. In closing, Swami explains the purpose of these conversations: their illumination is to reach the devotee, then readers of Sanathana Sarathi, and contribute to peace and harmony.",
+        "qa": [
+          {
+            "q": "What should repentance seek after a wrong act?",
+            "a": "Discrimination and strength not to repeat it. The opening dialogue directs repentance toward genuine correction."
+          },
+          {
+            "q": "What does adhyasa mean?",
+            "a": "Taking one thing to be another. It is explained as superimposition."
+          },
+          {
+            "q": "Which example illustrates fear caused by superimposition?",
+            "a": "Mistaking a rope for a snake. Correct perception removes the fear created by the mistaken appearance."
+          },
+          {
+            "q": "What do yarn and cloth illustrate?",
+            "a": "The inseparability of nature and its divine basis. Different names and uses do not make their substance separate."
+          },
+          {
+            "q": "What is the source of the illumination reflected through intellect and mind?",
+            "a": "The Atma. The dialogue traces the reflected splendour back to the Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should repentance seek after a wrong act?",
+            "options": [
+              "A reward for admitting it",
+              "Discrimination and strength not to repeat it",
+              "Permission to repeat it freely",
+              "An excuse to blame someone else"
+            ],
+            "correct": 1,
+            "explanation": "The opening dialogue directs repentance toward genuine correction.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What does adhyasa mean?",
+            "options": [
+              "Seeing every object without interpretation",
+              "The physical destruction of an object",
+              "Taking one thing to be another",
+              "Memorising the names of objects"
+            ],
+            "correct": 2,
+            "explanation": "It is explained as superimposition.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "Which example illustrates fear caused by superimposition?",
+            "options": [
+              "Recognising sugar by its sweetness",
+              "Drawing water from a well",
+              "Lighting an ordinary lamp",
+              "Mistaking a rope for a snake"
+            ],
+            "correct": 3,
+            "explanation": "Correct perception removes the fear created by the mistaken appearance.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What do yarn and cloth illustrate?",
+            "options": [
+              "The inseparability of nature and its divine basis",
+              "Two substances with no connection",
+              "The independence of nature from the Supreme",
+              "The permanent reality of every outward name"
+            ],
+            "correct": 0,
+            "explanation": "Different names and uses do not make their substance separate.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          },
+          {
+            "q": "What is the source of the illumination reflected through intellect and mind?",
+            "options": [
+              "The physical body independently",
               "The Atma",
-              "A passing ambition",
-              "Public reputation"
+              "A passing desire",
+              "Social recognition"
             ],
             "correct": 1,
-            "explanation": "The chapter's established correspondence identifies Rama with the inner witnessing reality.",
+            "explanation": "The dialogue traces the reflected splendour back to the Self.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=33",
+            "sourceLabel": "Chapter 8, PDF pages 33–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "The Supreme Soul",
+        "chapter": "Chapter 9 · The Supreme Soul",
+        "chapterNumber": 9,
+        "pdfStartPage": 36,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+        "sourceLabel": "Chapter 9, PDF pages 36–39",
+        "summary": "The chapter challenges passive reliance on destiny. A fruit placed in one's hand still has to be squeezed and consumed; similarly, opportunity requires action. Swami describes activity as a characteristic of all nature, rather than of men alone. The distinction between Purusha and prakriti is spiritual, not simply a division of human beings by sex. The Supreme Soul is presented as the changeless, self-luminous witness, while nature is the realm of change and activity.\n\nThe sun reflected in water illustrates the distinction between the unaffected original and the changing reflection. Agitation belongs to the reflecting medium and its image, not to the sun itself. Liberation is explained through rivers entering the sea and losing their separate names and limitations. The devotee must relinquish the mental identification expressed as “I” and “mine”. Grace is compared to sunlight that shines continuously: the task is to remove the obstacles that block it. The closing counsel combines urgency in spiritual effort with patience, steadiness, and avoidance of extremes.",
+        "qa": [
+          {
+            "q": "What does the fruit-in-the-hand example teach?",
+            "a": "Opportunity must be used through action. Having the fruit does not provide its juice unless one acts."
           },
           {
-            "q": "Where is this symbolic Ramayana said to unfold?",
-            "options": [
-              "Within the heart",
-              "Only inside theatres",
-              "Only in royal courts",
-              "Only on written pages"
-            ],
-            "correct": 0,
-            "explanation": "The inward interpretation applies the narrative to the spiritual life within a person.",
-            "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "q": "What is the characteristic of the Supreme Soul described here?",
+            "a": "Changeless, self-luminous witnessing. The chapter distinguishes the witness from changing nature."
           },
           {
-            "q": "A reader notices jealousy while studying. Which use of symbolism is constructive?",
-            "options": [
-              "Declare it the whole truth of the Self",
-              "Blame the text for creating it",
-              "Invent a source quotation defending it",
-              "Treat it as a tendency to examine"
-            ],
-            "correct": 3,
-            "explanation": "Examining the tendency turns the reading toward honest reflection instead of blame or justification.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "q": "In the sun-and-water illustration, what becomes agitated?",
+            "a": "The reflection when the water moves. The image changes with the medium while the original remains unaffected."
           },
           {
-            "q": "A group discusses different personal reflections. What boundary preserves accuracy?",
-            "options": [
-              "Call every reflection an original teaching",
-              "Require everyone to share the same story",
-              "Separate reflections from claims about the chapter",
-              "Use agreement as proof of textual accuracy"
-            ],
-            "correct": 2,
-            "explanation": "The distinction permits personal insight while protecting the accuracy of source attribution.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "q": "What do rivers merging in the sea illustrate?",
+            "a": "The loss of separate limitation in liberation. The river's separate identity is used to explain union with Brahman."
           },
           {
-            "q": "A student finishes the symbolic exercise. What is a useful next step?",
-            "options": [
-              "Announce completion of all spiritual learning",
-              "Choose one thoughtful response to a real situation",
-              "Rank classmates by imagined attainment",
-              "Avoid any situation involving difficult feelings"
-            ],
-            "correct": 1,
-            "explanation": "A concrete response connects reflection with everyday responsibility rather than ending at discussion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html",
-            "sourceLabel": "Sandeha Nivarini — Dialogue XIII"
+            "q": "What blocks the rays of grace in the chapter's comparison?",
+            "a": "Delusion and the sense of I and mine. The seeker is urged to remove the obstacles rather than blame the sunlight."
           }
         ],
-        "sourceUrl": "https://vahini.org/downloads/sandehanivarini.html"
+        "quiz": [
+          {
+            "q": "What does the fruit-in-the-hand example teach?",
+            "options": [
+              "Opportunity must be used through action",
+              "Destiny makes every effort unnecessary",
+              "A result appears without any participation",
+              "Prayer requires rejecting all responsibility"
+            ],
+            "correct": 0,
+            "explanation": "Having the fruit does not provide its juice unless one acts.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–39"
+          },
+          {
+            "q": "What is the characteristic of the Supreme Soul described here?",
+            "options": [
+              "Constant alteration through every action",
+              "Changeless, self-luminous witnessing",
+              "Dependence on the body for existence",
+              "Birth followed inevitably by death"
+            ],
+            "correct": 1,
+            "explanation": "The chapter distinguishes the witness from changing nature.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–39"
+          },
+          {
+            "q": "In the sun-and-water illustration, what becomes agitated?",
+            "options": [
+              "The original sun itself",
+              "The source of all light permanently",
+              "The reflection when the water moves",
+              "The sky whenever a pot is touched"
+            ],
+            "correct": 2,
+            "explanation": "The image changes with the medium while the original remains unaffected.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–39"
+          },
+          {
+            "q": "What do rivers merging in the sea illustrate?",
+            "options": [
+              "The permanent preservation of every separate name",
+              "The creation of a second independent ocean",
+              "The need to retain every mental attachment",
+              "The loss of separate limitation in liberation"
+            ],
+            "correct": 3,
+            "explanation": "The river's separate identity is used to explain union with Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–39"
+          },
+          {
+            "q": "What blocks the rays of grace in the chapter's comparison?",
+            "options": [
+              "Delusion and the sense of I and mine",
+              "Steady spiritual effort",
+              "Patience and discrimination",
+              "The essential nature of the Atma"
+            ],
+            "correct": 0,
+            "explanation": "The seeker is urged to remove the obstacles rather than blame the sunlight.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=36",
+            "sourceLabel": "Chapter 9, PDF pages 36–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Reflections on Manifesting and Merging",
+        "chapter": "Chapter 10 · Reflections on Manifesting and Merging",
+        "chapterNumber": 10,
+        "pdfStartPage": 40,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+        "sourceLabel": "Chapter 10, PDF pages 40–44",
+        "summary": "The dialogue distinguishes the witnessing Self from the changing bodily “I” that claims experiences. Birth and death are discussed in relation to this limited identification, while liberation means the ending of separateness. Swami explains the reflected awareness associated with the mind and its inner instruments, and traces the appearance of multiplicity through qualities and elements. Inquiry reverses this movement by uncovering the underlying unity. Prayer, meditation, worship, and other disciplines prepare the mind for that inquiry.\n\nSilence receives careful treatment. Merely shutting the mouth while continuing to communicate restlessly is not the inner silence of illumination, although restrained speech can support concentration and practice. Affection, devotion, wisdom, and renunciation are compared with the growth and ripening of fruit. Their development requires sustained discipline rather than repetition of a slogan about oneness. The chapter also discusses the waking, dreaming, and deep-sleep states, the beyond-state called thuriya, and the distinction between merging in samadhi and the destruction of mistaken identification. The concluding instruction is to practise these teachings in daily life.",
+        "qa": [
+          {
+            "q": "What does inquiry chiefly seek to discover?",
+            "a": "The true Self beneath bodily identification. The dialogue repeatedly returns to the question of the real I."
+          },
+          {
+            "q": "What prepares an unripe mind for inquiry?",
+            "a": "Steady prayer, meditation, worship, and discipline. Preparatory practices develop the capacity for self-inquiry."
+          },
+          {
+            "q": "What is true silence identified with?",
+            "a": "Illumination of the soul. The chapter distinguishes inward silence from a merely external vow."
+          },
+          {
+            "q": "In the fruit comparison, what is the final sweet, juicy stage?",
+            "a": "Renunciation. Affection develops into devotion and wisdom, with renunciation as the ripened culmination."
+          },
+          {
+            "q": "What is thuriya described as beyond?",
+            "a": "Waking, dreaming, and deep sleep. The dialogue relates this state to the disappearance of limiting ego-consciousness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does inquiry chiefly seek to discover?",
+            "options": [
+              "A permanent separate ego",
+              "The number of all material objects",
+              "A new source of worldly status",
+              "The true Self beneath bodily identification"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue repeatedly returns to the question of the real I.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "What prepares an unripe mind for inquiry?",
+            "options": [
+              "Steady prayer, meditation, worship, and discipline",
+              "Merely declaring that no practice is needed",
+              "Collecting praise for spiritual knowledge",
+              "Avoiding every form of reflection"
+            ],
+            "correct": 0,
+            "explanation": "Preparatory practices develop the capacity for self-inquiry.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "What is true silence identified with?",
+            "options": [
+              "Only keeping the mouth closed",
+              "Illumination of the soul",
+              "Replacing speech with endless written messages",
+              "Refusing to listen to any teaching"
+            ],
+            "correct": 1,
+            "explanation": "The chapter distinguishes inward silence from a merely external vow.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "In the fruit comparison, what is the final sweet, juicy stage?",
+            "options": [
+              "Intellectual pride",
+              "Bodily attachment",
+              "Renunciation",
+              "Social recognition"
+            ],
+            "correct": 2,
+            "explanation": "Affection develops into devotion and wisdom, with renunciation as the ripened culmination.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          },
+          {
+            "q": "What is thuriya described as beyond?",
+            "options": [
+              "Only childhood and youth",
+              "Only speech and hearing",
+              "Study, travel, and employment",
+              "Waking, dreaming, and deep sleep"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue relates this state to the disappearance of limiting ego-consciousness.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=40",
+            "sourceLabel": "Chapter 10, PDF pages 40–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Obstructions of the Past, Present, and Future",
+        "chapter": "Chapter 11 · Obstructions of the Past, Present, and Future",
+        "chapterNumber": 11,
+        "pdfStartPage": 45,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+        "sourceLabel": "Chapter 11, PDF pages 45–47",
+        "summary": "The chapter examines the reality beneath names and forms through the terms asthi, bhathi, and priya: being, shining awareness, and lovableness. These point to the Atma's nature as being-awareness-bliss. The cinema illustration returns with a new emphasis. Light passing through a narrow opening produces distinct pictures, while unrestricted illumination suggests the indivisible reality recognised through self-knowledge. Attachment to names and forms is discussed as an obstruction inherited from the past.\n\nFour present obstructions are then listed: attachment to sense objects, cynical criticism, dull understanding, and conceit. Each has an appropriate response, including restraint, repeated listening, reflection, and assimilation of teaching. Future obstructions can arise when a desire disguises itself as a need. Discrimination helps recognise their approach. The discussion ends by distinguishing experience from the claim of doership: a wise person may undergo experiences without being bound by identifying as their independent author. Inquiry into the basis of knowing leads back to the true “I”, in which changing understandings need not disturb the seeker.",
+        "qa": [
+          {
+            "q": "What do asthi, bhathi, and priya signify?",
+            "a": "Being, shining awareness, and lovableness. The chapter relates these to the Atma's being-awareness-bliss."
+          },
+          {
+            "q": "What is identified as a past obstruction?",
+            "a": "Attachment to names and forms. Names and forms can obscure recognition of the one underlying being."
+          },
+          {
+            "q": "Which is one of the four present obstructions?",
+            "a": "Cynical criticism. The other three named are sense-attachment, dull understanding, and conceit."
+          },
+          {
+            "q": "What remedy is given for dullness of understanding?",
+            "a": "Listening repeatedly to the teaching. Repeated listening helps clarify what has not yet been grasped."
+          },
+          {
+            "q": "What distinguishes the wise person's experience of action?",
+            "a": "Absence of the binding claim of doership. The chapter explains that the sense of being the independent doer causes bondage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do asthi, bhathi, and priya signify?",
+            "options": [
+              "Birth, growth, and death",
+              "Action, reward, and punishment",
+              "Being, shining awareness, and lovableness",
+              "Body, food, and shelter"
+            ],
+            "correct": 2,
+            "explanation": "The chapter relates these to the Atma's being-awareness-bliss.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What is identified as a past obstruction?",
+            "options": [
+              "The light of self-knowledge",
+              "Unchanging spiritual reality",
+              "Freedom from separateness",
+              "Attachment to names and forms"
+            ],
+            "correct": 3,
+            "explanation": "Names and forms can obscure recognition of the one underlying being.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "Which is one of the four present obstructions?",
+            "options": [
+              "Cynical criticism",
+              "Compassion",
+              "Steady faith",
+              "Selfless service"
+            ],
+            "correct": 0,
+            "explanation": "The other three named are sense-attachment, dull understanding, and conceit.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What remedy is given for dullness of understanding?",
+            "options": [
+              "Refusing further explanation",
+              "Listening repeatedly to the teaching",
+              "Increasing pride in one's learning",
+              "Replacing inquiry with hearsay"
+            ],
+            "correct": 1,
+            "explanation": "Repeated listening helps clarify what has not yet been grasped.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          },
+          {
+            "q": "What distinguishes the wise person's experience of action?",
+            "options": [
+              "Complete dependence on public praise",
+              "The need to blame all results on others",
+              "Absence of the binding claim of doership",
+              "Identification with every passing thought"
+            ],
+            "correct": 2,
+            "explanation": "The chapter explains that the sense of being the independent doer causes bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=45",
+            "sourceLabel": "Chapter 11, PDF pages 45–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "The Gross and the Subtle",
+        "chapter": "Chapter 12 · The Gross and the Subtle",
+        "chapterNumber": 12,
+        "pdfStartPage": 48,
+        "pdfEndPage": 49,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+        "sourceLabel": "Chapter 12, PDF pages 48–49",
+        "summary": "Swami explains that gross and subtle forms are not confined to the mind: the visible can help illuminate an inward meaning. The heart is described as a vast inner firmament containing feelings, scenes, and possibilities. In this symbolism the intellect is its sun, while love is its moon, offering cooling and pleasing light. The discussion then interprets the Mahabharatha as a continuing inner conflict between good and harmful qualities.\n\nThe five Pandavas represent truth, righteousness, peace, love, and nonviolence, while the many Kauravas represent opposing tendencies. Pandu and Dhritharashtra stand for wise and unwise rule within the same heart. Thoughts, impressions, and senses participate in this struggle, and Krishna is the Atma, the witnessing charioteer. The body is compared with a city of bones in which these tendencies grow together. Peace is associated with going beyond the conflict of qualities. The chapter directs attention to removing the delusions and possessive identifications that keep the inner battle alive, rather than merely following its outward drama.",
+        "qa": [
+          {
+            "q": "What is the subtle sun in the firmament of the heart?",
+            "a": "The intellect. The intellect is compared to the source of illumination in the inward sky."
+          },
+          {
+            "q": "What is the subtle moon?",
+            "a": "Love. Its cooling light represents the pleasing influence of prema."
+          },
+          {
+            "q": "Which qualities do the five Pandavas represent?",
+            "a": "Truth, righteousness, peace, love, and nonviolence. The chapter identifies these five virtues with the Pandava brothers."
+          },
+          {
+            "q": "Who is Krishna in the inward interpretation?",
+            "a": "The Atma, witness and charioteer. Krishna represents the witnessing Self guiding the individual."
+          },
+          {
+            "q": "What keeps the inner conflict active?",
+            "a": "Delusions and the sense of I and mine. These are compared to subjects encouraging their rulers to wage war."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the subtle sun in the firmament of the heart?",
+            "options": [
+              "Anger",
+              "The intellect",
+              "Physical wealth",
+              "The body's bones"
+            ],
+            "correct": 1,
+            "explanation": "The intellect is compared to the source of illumination in the inward sky.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–49"
+          },
+          {
+            "q": "What is the subtle moon?",
+            "options": [
+              "Pride",
+              "Fear",
+              "Love",
+              "Desire for praise"
+            ],
+            "correct": 2,
+            "explanation": "Its cooling light represents the pleasing influence of prema.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–49"
+          },
+          {
+            "q": "Which qualities do the five Pandavas represent?",
+            "options": [
+              "Desire, anger, greed, envy, and pride",
+              "Wealth, fame, authority, strength, and comfort",
+              "Hearing, taste, sight, touch, and smell",
+              "Truth, righteousness, peace, love, and nonviolence"
+            ],
+            "correct": 3,
+            "explanation": "The chapter identifies these five virtues with the Pandava brothers.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–49"
+          },
+          {
+            "q": "Who is Krishna in the inward interpretation?",
+            "options": [
+              "The Atma, witness and charioteer",
+              "A passing hostile thought",
+              "The unwise ruler",
+              "The physical skeleton"
+            ],
+            "correct": 0,
+            "explanation": "Krishna represents the witnessing Self guiding the individual.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–49"
+          },
+          {
+            "q": "What keeps the inner conflict active?",
+            "options": [
+              "Freedom from all possessiveness",
+              "Delusions and the sense of I and mine",
+              "Complete transcendence of qualities",
+              "Undisturbed spiritual peace"
+            ],
+            "correct": 1,
+            "explanation": "These are compared to subjects encouraging their rulers to wage war.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=48",
+            "sourceLabel": "Chapter 12, PDF pages 48–49"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "The Ramayana in the Heart of Man",
+        "chapter": "Chapter 13 · The Ramayana in the Heart of Man",
+        "chapterNumber": 13,
+        "pdfStartPage": 50,
+        "pdfEndPage": 52,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+        "sourceLabel": "Chapter 13, PDF pages 50–52",
+        "summary": "The chapter interprets the Ramayana as an inward spiritual drama. Rama is the Atma appearing in embodied life, and Sita represents knowledge of Brahman. Separation from that knowledge leads into the forest of confusion. Lakshmana represents the accompanying mind. Vali is despair, Sugriva discrimination, and Hanuman courage. With courage and discrimination, the seeker crosses the ocean of delusion and overcomes the forces represented by Ravana and Kumbhakarna, passion and inertia. Vibhishana represents purity established in their place.\n\nThe reunion with Sita signifies knowledge confirmed in lived experience, and the coronation represents liberation while living. Further symbolism connects Dasaratha with the ten senses and his three queens with the three qualities. The four brothers also express divine values: Rama truth, Bharatha righteousness, Lakshmana love, and Satrughna peace. The dialogue explains that these different correspondences illuminate different aspects of the same spiritual struggle. The Ramayana therefore continues in each heart wherever the movement from delusion toward experienced self-knowledge is taking place.",
+        "qa": [
+          {
+            "q": "What does Sita represent in the inner Ramayana?",
+            "a": "Knowledge of Brahman. Losing Sita symbolises separation from spiritual knowledge; reunion points to realised understanding."
+          },
+          {
+            "q": "Which pair represents despair and discrimination?",
+            "a": "Vali and Sugriva. The chapter identifies Vali with despair and Sugriva with discrimination."
+          },
+          {
+            "q": "What does Hanuman represent?",
+            "a": "Courage. Courage helps the seeker overcome despair and cross the ocean of delusion."
+          },
+          {
+            "q": "Which quality does Vibhishana represent?",
+            "a": "Purity. His coronation symbolises the establishment of the sathwic quality."
+          },
+          {
+            "q": "Which brother is identified with righteousness in the four-values interpretation?",
+            "a": "Bharatha. Bharatha's refusal to claim a crown belonging to another illustrates dharma."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Sita represent in the inner Ramayana?",
+            "options": [
+              "Knowledge of Brahman",
+              "Despair",
+              "Bodily pride",
+              "The ten senses"
+            ],
+            "correct": 0,
+            "explanation": "Losing Sita symbolises separation from spiritual knowledge; reunion points to realised understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+            "sourceLabel": "Chapter 13, PDF pages 50–52"
+          },
+          {
+            "q": "Which pair represents despair and discrimination?",
+            "options": [
+              "Rama and Lakshmana",
+              "Vali and Sugriva",
+              "Ravana and Kumbhakarna",
+              "Bharatha and Satrughna"
+            ],
+            "correct": 1,
+            "explanation": "The chapter identifies Vali with despair and Sugriva with discrimination.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+            "sourceLabel": "Chapter 13, PDF pages 50–52"
+          },
+          {
+            "q": "What does Hanuman represent?",
+            "options": [
+              "Inertia",
+              "Greed",
+              "Courage",
+              "Confusion"
+            ],
+            "correct": 2,
+            "explanation": "Courage helps the seeker overcome despair and cross the ocean of delusion.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+            "sourceLabel": "Chapter 13, PDF pages 50–52"
+          },
+          {
+            "q": "Which quality does Vibhishana represent?",
+            "options": [
+              "Passion",
+              "Sloth",
+              "Jealousy",
+              "Purity"
+            ],
+            "correct": 3,
+            "explanation": "His coronation symbolises the establishment of the sathwic quality.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+            "sourceLabel": "Chapter 13, PDF pages 50–52"
+          },
+          {
+            "q": "Which brother is identified with righteousness in the four-values interpretation?",
+            "options": [
+              "Bharatha",
+              "Rama",
+              "Lakshmana",
+              "Satrughna"
+            ],
+            "correct": 0,
+            "explanation": "Bharatha's refusal to claim a crown belonging to another illustrates dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=50",
+            "sourceLabel": "Chapter 13, PDF pages 50–52"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "The Bhagavatha: the Description of Atma",
+        "chapter": "Chapter 14 · The Bhagavatha: the Description of Atma",
+        "chapterNumber": 14,
+        "pdfStartPage": 53,
+        "pdfEndPage": 55,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+        "sourceLabel": "Chapter 14, PDF pages 53–55",
+        "summary": "The devotee asks whether the Bhagavatha can be interpreted in the same way as the two epics. Swami distinguishes its central subject: the Atma that witnesses everything and is beyond qualities, senses, and mind. Its accounts of divine manifestations describe forms assumed for particular purposes, while their underlying reality remains without beginning or end. The Ramayana and Mahabharatha provide moral guidance through their narratives; the Bhagavatha especially directs the aspirant toward the nature and glory of the Lord.\n\nThe relationship between Lord, Bhagavatha, and devotee is illustrated through king, crown prince, and heir apparent. Devotion is then compared to the sugar common to different sweets: it is essential within spiritual paths that may have different names. Good qualities become firm when supported by remembrance and devotion. Service is examined with the same care. Seeing God in the person served gives meaning to service as worship, while a desire for fame or reward undermines that attitude. The chapter ends by reaffirming the Bhagavatha's concern with the limitless Atma and the path of devotion.",
+        "qa": [
+          {
+            "q": "What is the Bhagavatha's central subject in this chapter?",
+            "a": "The Atma beyond qualities, senses, and mind. It is described as an account of the witnessing reality and its manifestations."
+          },
+          {
+            "q": "Why is the Bhagavatha said to have no final ending in this sense?",
+            "a": "Its subject is the beginningless and endless Lord. The statement concerns the eternal reality it describes."
+          },
+          {
+            "q": "What illustrates the relationship between Lord, Bhagavatha, and devotee?",
+            "a": "King, crown prince, and heir apparent. The comparison explains their closely related spiritual positions."
+          },
+          {
+            "q": "What does sugar in different sweets represent?",
+            "a": "Devotion common to spiritual paths. Different practices require the sweetness of devotion."
+          },
+          {
+            "q": "What makes service to people an offering to God?",
+            "a": "Recognising the divine presence in those served. The chapter distinguishes genuine recognition from outward claims made for fame."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the Bhagavatha's central subject in this chapter?",
+            "options": [
+              "Only the organisation of kingdoms",
+              "Only rules for outward ceremony",
+              "A history with no spiritual significance",
+              "The Atma beyond qualities, senses, and mind"
+            ],
+            "correct": 3,
+            "explanation": "It is described as an account of the witnessing reality and its manifestations.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+            "sourceLabel": "Chapter 14, PDF pages 53–55"
+          },
+          {
+            "q": "Why is the Bhagavatha said to have no final ending in this sense?",
+            "options": [
+              "Its subject is the beginningless and endless Lord",
+              "Its printed pages cannot be counted",
+              "No story in it has any conclusion",
+              "Its text changes every day"
+            ],
+            "correct": 0,
+            "explanation": "The statement concerns the eternal reality it describes.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+            "sourceLabel": "Chapter 14, PDF pages 53–55"
+          },
+          {
+            "q": "What illustrates the relationship between Lord, Bhagavatha, and devotee?",
+            "options": [
+              "Sun, cloud, and mountain",
+              "King, crown prince, and heir apparent",
+              "Farmer, field, and fence",
+              "River, boat, and bridge"
+            ],
+            "correct": 1,
+            "explanation": "The comparison explains their closely related spiritual positions.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+            "sourceLabel": "Chapter 14, PDF pages 53–55"
+          },
+          {
+            "q": "What does sugar in different sweets represent?",
+            "options": [
+              "The need for identical outward forms",
+              "The superiority of material enjoyment",
+              "Devotion common to spiritual paths",
+              "Knowledge without love"
+            ],
+            "correct": 2,
+            "explanation": "Different practices require the sweetness of devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+            "sourceLabel": "Chapter 14, PDF pages 53–55"
+          },
+          {
+            "q": "What makes service to people an offering to God?",
+            "options": [
+              "Seeking public honour for every deed",
+              "Repeating a slogan while retaining selfish motives",
+              "Measuring service only by rewards",
+              "Recognising the divine presence in those served"
+            ],
+            "correct": 3,
+            "explanation": "The chapter distinguishes genuine recognition from outward claims made for fame.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=53",
+            "sourceLabel": "Chapter 14, PDF pages 53–55"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Gurus and Ashrams",
+        "chapter": "Chapter 15 · Gurus and Ashrams",
+        "chapterNumber": 15,
+        "pdfStartPage": 56,
+        "pdfEndPage": 59,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+        "sourceLabel": "Chapter 15, PDF pages 56–59",
+        "summary": "The devotee raises concerns about teachers whose conduct contradicts their claims of renunciation. Swami defines a renunciant by freedom from desire and dedication to God, rather than dress or a shaven head. Genuine guides still exist, but the seeker must discriminate. A teacher's responsibility is the disciple's spiritual progress and inward joy. Pressure for money, threats, and preoccupation with institutional fame are firmly rejected as signs of true guidance.\n\nThe chapter lists positive qualities to look for: equal love, freedom from greed and revenge, openness to sincere seekers, and commitment to truth, righteousness, peace, and love. A teacher should welcome correction and practise what is taught. If a suitable guide is not available, the devotee can meditate on God within, sing His name, and study helpful devotional works. The wrongdoing of an individual does not destroy the ideal of renunciation itself. The closing emphasis returns to one's own discipline and conduct, and to repentance demonstrated by not repeating a recognised wrong.",
+        "qa": [
+          {
+            "q": "What defines a true renunciant in the chapter?",
+            "a": "Freedom from desires and dedication to God. Outward appearance is distinguished from the inward reality of renunciation."
+          },
+          {
+            "q": "What should be a guru's main concern?",
+            "a": "The disciples' spiritual progress and inward joy. The disciple's welfare is placed above institutional ambition."
+          },
+          {
+            "q": "How does Swami describe threatening disciples to obtain money?",
+            "a": "Wrong conduct incompatible with true guidance. The chapter rejects intimidation and exploitation."
+          },
+          {
+            "q": "Which quality is listed for a genuine guru?",
+            "a": "Equal love toward all. Freedom from greed, anger, and partiality accompanies this love."
+          },
+          {
+            "q": "What shows that repentance is sincere?",
+            "a": "Not repeating the recognised wrong. The conclusion identifies correction of conduct as a sign of moral strength."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What defines a true renunciant in the chapter?",
+            "options": [
+              "Orange clothing alone",
+              "A shaven head alone",
+              "Freedom from desires and dedication to God",
+              "A large institutional reputation"
+            ],
+            "correct": 2,
+            "explanation": "Outward appearance is distinguished from the inward reality of renunciation.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+            "sourceLabel": "Chapter 15, PDF pages 56–59"
+          },
+          {
+            "q": "What should be a guru's main concern?",
+            "options": [
+              "Extracting money through pressure",
+              "Increasing personal prestige",
+              "Preventing every question",
+              "The disciples' spiritual progress and inward joy"
+            ],
+            "correct": 3,
+            "explanation": "The disciple's welfare is placed above institutional ambition.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+            "sourceLabel": "Chapter 15, PDF pages 56–59"
+          },
+          {
+            "q": "How does Swami describe threatening disciples to obtain money?",
+            "options": [
+              "Wrong conduct incompatible with true guidance",
+              "A necessary sign of spiritual authority",
+              "Proof of complete renunciation",
+              "A substitute for teaching"
+            ],
+            "correct": 0,
+            "explanation": "The chapter rejects intimidation and exploitation.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+            "sourceLabel": "Chapter 15, PDF pages 56–59"
+          },
+          {
+            "q": "Which quality is listed for a genuine guru?",
+            "options": [
+              "Revenge against criticism",
+              "Equal love toward all",
+              "Preference only for those who praise",
+              "Delight in others' defamation"
+            ],
+            "correct": 1,
+            "explanation": "Freedom from greed, anger, and partiality accompanies this love.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+            "sourceLabel": "Chapter 15, PDF pages 56–59"
+          },
+          {
+            "q": "What shows that repentance is sincere?",
+            "options": [
+              "Defending the wrong with more arguments",
+              "Blaming every critic",
+              "Not repeating the recognised wrong",
+              "Depending only on reputation"
+            ],
+            "correct": 2,
+            "explanation": "The conclusion identifies correction of conduct as a sign of moral strength.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=56",
+            "sourceLabel": "Chapter 15, PDF pages 56–59"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Meditation",
+        "chapter": "Chapter 16 · Meditation",
+        "chapterNumber": 16,
+        "pdfStartPage": 60,
+        "pdfEndPage": 62,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+        "sourceLabel": "Chapter 16, PDF pages 60–62",
+        "summary": "Progress in meditation is explained through concentration, not through collecting unusual sights, sounds, or lights. Such experiences can scatter attention and encourage conceit. The aspirant is advised to remain with the chosen divine form and examine the mind's steadiness rather than calculate a fixed schedule for attainment. Faith, devotion, discipline, and grace matter; elapsed time alone cannot determine the result. The practice should keep a stable time, aim, and attitude.\n\nThe train journey illustrates the danger of mistaking an intermediate station for the destination. Guidance must be understood in relation to the seeker's actual path, and the words of the Lord and scriptures provide a dependable foundation. The chapter urges seeking the principle underlying everything rather than isolated experiences. It also distinguishes gratitude toward parents, respect for the teacher, and worship of the all-pervading Lord. A guru points out the way, but should not automatically be treated as all-powerful. Inner conviction and outward practice must agree if meditation is to develop stability.",
+        "qa": [
+          {
+            "q": "What is the chief sign of progress in meditation given here?",
+            "a": "Increasing concentration. The chapter makes one-pointedness the principal measure."
+          },
+          {
+            "q": "How should distracting sights and sounds be treated during meditation?",
+            "a": "As obstacles that should not draw attention from the divine form. Their danger is scattered attention and increased ego."
+          },
+          {
+            "q": "What does leaving a train at an intermediate station illustrate?",
+            "a": "Mistaking an experience along the way for the goal. The comparison urges persistence toward the intended destination."
+          },
+          {
+            "q": "What should remain steady in the aspirant's practice?",
+            "a": "Its time, aim, and attitude. The chapter stresses discipline rather than anxiety about results."
+          },
+          {
+            "q": "What role is assigned to the guru?",
+            "a": "Showing the path and caring for spiritual progress. Respect and gratitude are appropriate, while universal sovereignty belongs to the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the chief sign of progress in meditation given here?",
+            "options": [
+              "An increasing number of unusual sounds",
+              "Increasing concentration",
+              "Public recognition of one's experiences",
+              "The ability to describe many visions"
+            ],
+            "correct": 1,
+            "explanation": "The chapter makes one-pointedness the principal measure.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–62"
+          },
+          {
+            "q": "How should distracting sights and sounds be treated during meditation?",
+            "options": [
+              "As a reason to abandon the chosen form",
+              "As guaranteed proof of final realisation",
+              "As obstacles that should not draw attention from the divine form",
+              "As experiences that must be collected"
+            ],
+            "correct": 2,
+            "explanation": "Their danger is scattered attention and increased ego.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–62"
+          },
+          {
+            "q": "What does leaving a train at an intermediate station illustrate?",
+            "options": [
+              "Completing the journey successfully",
+              "The uselessness of every guide",
+              "The need to change destinations continually",
+              "Mistaking an experience along the way for the goal"
+            ],
+            "correct": 3,
+            "explanation": "The comparison urges persistence toward the intended destination.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–62"
+          },
+          {
+            "q": "What should remain steady in the aspirant's practice?",
+            "options": [
+              "Its time, aim, and attitude",
+              "The demand for a new vision each day",
+              "The desire for comparison with others",
+              "The expectation of a fixed deadline for grace"
+            ],
+            "correct": 0,
+            "explanation": "The chapter stresses discipline rather than anxiety about results.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–62"
+          },
+          {
+            "q": "What role is assigned to the guru?",
+            "options": [
+              "Automatically replacing parents and the universal Lord",
+              "Showing the path and caring for spiritual progress",
+              "Granting worldly rewards on demand",
+              "Requiring every seeker to worship personal fame"
+            ],
+            "correct": 1,
+            "explanation": "Respect and gratitude are appropriate, while universal sovereignty belongs to the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=60",
+            "sourceLabel": "Chapter 16, PDF pages 60–62"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "The Power of Ignorance",
+        "chapter": "Chapter 17 · The Power of Ignorance",
+        "chapterNumber": 17,
+        "pdfStartPage": 63,
+        "pdfEndPage": 65,
+        "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+        "sourceLabel": "Chapter 17, PDF pages 63–65",
+        "summary": "The final dialogue asks why the objective world seems to overpower spiritual understanding. Swami explains ignorance as forgetting one's nondual nature and identifying as a separate, incomplete individual. Mistaking a tree stump for a person illustrates the fear produced by error. The chapter names two powers of ignorance: veiling hides reality, and projection places an unreal appearance upon it. Examples include silver imagined in mother-of-pearl, water in a mirage, and a snake imposed upon a rope.\n\nMind and its accumulated impressions present the panorama of names and forms. Waking and dreaming are discussed as differing forms of appearance, with the waking world described as the more stable illusion. Although ignorance is called beginningless, it can end through spiritual knowledge, just as darkness ends with light. The chapter cautions against treating Brahma, Vishnu, and Iswara as unrelated ultimate realities. Their distinct names express functions associated with the qualities. It closes by directing effort toward the path of realisation rather than endless speculation about origins beyond ordinary categories of time and cause.",
+        "qa": [
+          {
+            "q": "What is ignorance in the chapter's explanation?",
+            "a": "Forgetting one's nondual nature and identifying as a separate individual. The dialogue centres on misunderstanding the reality of the Self."
+          },
+          {
+            "q": "What are the two powers of ignorance?",
+            "a": "Veiling and projection. One conceals reality and the other superimposes an appearance upon it."
+          },
+          {
+            "q": "Which example illustrates projection?",
+            "a": "Seeing silver in mother-of-pearl. An imagined object is placed upon an existing basis."
+          },
+          {
+            "q": "How can beginningless ignorance end?",
+            "a": "Through spiritual knowledge. The chapter compares knowledge dispelling ignorance with light removing darkness."
+          },
+          {
+            "q": "How should Brahma, Vishnu, and Iswara be understood in the concluding explanation?",
+            "a": "As forms of the one Supreme Self associated with different functions. The chapter warns against taking the explanatory distinctions as final separation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is ignorance in the chapter's explanation?",
+            "options": [
+              "Forgetting one's nondual nature and identifying as a separate individual",
+              "The absence of material wealth",
+              "A temporary lack of worldly news",
+              "The inability to remember every book title"
+            ],
+            "correct": 0,
+            "explanation": "The dialogue centres on misunderstanding the reality of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+            "sourceLabel": "Chapter 17, PDF pages 63–65"
+          },
+          {
+            "q": "What are the two powers of ignorance?",
+            "options": [
+              "Hearing and speaking",
+              "Veiling and projection",
+              "Creation and commerce",
+              "Memory and physical strength"
+            ],
+            "correct": 1,
+            "explanation": "One conceals reality and the other superimposes an appearance upon it.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+            "sourceLabel": "Chapter 17, PDF pages 63–65"
+          },
+          {
+            "q": "Which example illustrates projection?",
+            "options": [
+              "Recognising a rope as a rope",
+              "Understanding truth through inquiry",
+              "Seeing silver in mother-of-pearl",
+              "Removing darkness with light"
+            ],
+            "correct": 2,
+            "explanation": "An imagined object is placed upon an existing basis.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+            "sourceLabel": "Chapter 17, PDF pages 63–65"
+          },
+          {
+            "q": "How can beginningless ignorance end?",
+            "options": [
+              "Only by preserving bodily identification",
+              "By multiplying speculative arguments alone",
+              "By denying every possibility of understanding",
+              "Through spiritual knowledge"
+            ],
+            "correct": 3,
+            "explanation": "The chapter compares knowledge dispelling ignorance with light removing darkness.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+            "sourceLabel": "Chapter 17, PDF pages 63–65"
+          },
+          {
+            "q": "How should Brahma, Vishnu, and Iswara be understood in the concluding explanation?",
+            "options": [
+              "As forms of the one Supreme Self associated with different functions",
+              "As three unrelated ultimate realities",
+              "As proof that the Atma has a beginning",
+              "As independent of every spiritual principle"
+            ],
+            "correct": 0,
+            "explanation": "The chapter warns against taking the explanatory distinctions as final separation.",
+            "type": "recall",
+            "sourceUrl": "assets/sandeha-nivarini.pdf#page=63",
+            "sourceLabel": "Chapter 17, PDF pages 63–65"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Sandeha Nivarini PDF. These study summaries and questions are paraphrases; consult the linked chapter for the full teaching.",
+    "coverage": "All 17 chapters in the supplied edition"
   },
   {
     "id": "sathya-sai",
