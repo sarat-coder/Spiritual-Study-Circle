@@ -4,7 +4,7 @@
   const $ = id => document.getElementById(id);
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const sourceLink = value => {
-    if (/^assets\/(?:bhagavatha-vahini|ramakatha-rasavahini-part-[12]|upanishad-vahini|sutra-vahini|sathya-sai-vahini|sandeha-nivarini|prema-vahini|prasnothara-vahini)\.pdf(?:#page=[1-9]\d{0,2})?$/.test(value)) return escape(value);
+    if (/^assets\/(?:bhagavatha-vahini|ramakatha-rasavahini-part-[12]|upanishad-vahini|sutra-vahini|sathya-sai-vahini|sandeha-nivarini|prema-vahini|prasnothara-vahini|prasanthi-vahini)\.pdf(?:#page=[1-9]\d{0,2})?$/.test(value)) return escape(value);
     try { const u = new URL(value); return u.protocol === 'https:' && ['vahini.org','www.vahini.org'].includes(u.hostname) ? escape(u.href) : 'https://www.vahini.org/downloads.html'; }
     catch { return 'https://www.vahini.org/downloads.html'; }
   };

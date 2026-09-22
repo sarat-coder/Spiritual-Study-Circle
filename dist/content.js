@@ -18214,899 +18214,3063 @@ window.VAHINI_BOOKS = [
   },
   {
     "id": "prashanthi-vahini",
-    "title": "Prashanthi Vahini",
+    "title": "Prasanthi Vahini",
     "hindiTitle": "प्रशांति वाहिनी",
-    "subtitle": "The bliss of supreme peace",
-    "description": "Explore equanimity, patient devotion, and inward stillness.",
-    "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Prasanthi.pdf",
+    "subtitle": "Stream of Supreme Peace",
+    "description": "Explore all 29 titled sections of Bhagawan Sri Sathya Sai Baba’s Prasanthi Vahini in the supplied edition’s order. Each section has a fuller English summary, five questions and answers, and five quiz questions based on its teaching. The section headings were added by this edition’s editors; the study numbers help you navigate them.",
+    "sourceUrl": "assets/prasanthi-vahini.pdf",
+    "pdfUrl": "assets/prasanthi-vahini.pdf",
     "topics": [
       {
-        "id": "prashanthi-peace",
-        "title": "Understanding lasting peace",
-        "chapter": "Pages 1–2",
-        "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-        "summary": "Supreme peace remains steady through changing circumstances. It should permeate feeling, speech, bodily expression, and action.",
+        "id": "chapter-01",
+        "title": "The meaning of peace",
+        "chapter": "Section 1 · The meaning of peace",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+        "sourceLabel": "Section 1, PDF pages 8–9",
+        "summary": "The opening section distinguishes supreme peace from the temporary relief felt when a desire is satisfied. Such relief lasts only until another worry appears. Prasanthi is an expanding peace, free from desire, anger, greed, and hatred. The cultivation of equanimity is therefore essential to the aspirant’s search for fulfilment.\n\nPeace is described as humanity’s innate nature and as an aspect of the Atma, without beginning or end. It supports discrimination, detachment, and clarity of understanding. For peace to become complete, it must appear consistently in thought, speech, posture, and action. It cannot depend on prosperity or disappear under adversity. A calm interval or the mere absence of anger is insufficient: supreme peace maintains the same even flow through changing circumstances. The section introduces the book as an explanation of this peace, its qualities, its value, and the path through which every sincere aspirant has the right to experience it.",
         "qa": [
           {
-            "q": "How is lasting peace recognised?",
-            "a": "It remains balanced during both difficulty and good fortune."
+            "q": "What is distinguished from genuine peace?",
+            "a": "Temporary relief after a worldly desire is satisfied. Relief between successive worries is not the unchanging peace described."
+          },
+          {
+            "q": "What meaning is given to pra in prasanthi?",
+            "a": "Expanding or enlarging. The term points toward a fuller and more extensive peace."
+          },
+          {
+            "q": "With what is peace’s innate nature associated?",
+            "a": "The Atma. The section describes peace as a phase of the Atma itself."
+          },
+          {
+            "q": "Where must peace appear consistently?",
+            "a": "Thought, speech, posture, and action. Uniform expression across life distinguishes complete peace."
+          },
+          {
+            "q": "How does supreme peace respond to prosperity and adversity?",
+            "a": "It remains steady through both. The section rejects a peace that fluctuates with circumstances."
           }
         ],
         "quiz": [
           {
-            "q": "What characterises Prashanthi?",
+            "q": "What is distinguished from genuine peace?",
             "options": [
-              "Temporary relief",
-              "Unbroken equanimity",
-              "Winning arguments",
-              "Constant excitement"
+              "Temporary relief after a worldly desire is satisfied",
+              "Steady equanimity",
+              "Freedom from hatred",
+              "Calmness through adversity"
             ],
-            "correct": 1,
-            "explanation": "The selected quality remains relevant when a person's surrounding circumstances change.",
+            "correct": 0,
+            "explanation": "Relief between successive worries is not the unchanging peace described.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF pages 8–9"
           },
           {
-            "q": "A learner is pleasant when praised but furious at mild criticism. What needs attention?",
+            "q": "What meaning is given to pra in prasanthi?",
             "options": [
-              "Only the critic's speaking style",
-              "Only the frequency of praise",
-              "Their dependence on favourable responses",
-              "Their ability to attract supporters"
-            ],
-            "correct": 2,
-            "explanation": "The contrast suggests that outward approval is strongly influencing the learner's response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A delayed gathering tests an organiser's calm. Which response best shows steadiness?",
-            "options": [
-              "Hide the delay until complaints begin",
-              "Blame the least experienced helper",
-              "Promise an impossible starting time",
-              "Explain the delay and address needs calmly"
-            ],
-            "correct": 3,
-            "explanation": "Calm explanation and practical help address the disruption without adding avoidable agitation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone says they are peaceful while speaking contemptuously. What should be examined?",
-            "options": [
-              "The mismatch between the claim and conduct",
-              "Whether the statement sounded confident",
-              "How often peace was mentioned",
-              "Whether listeners knew their qualifications"
-            ],
-            "correct": 0,
-            "explanation": "The actual interaction offers evidence that the spoken claim alone cannot settle.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A person feels relief after receiving a desired object. What should they avoid assuming?",
-            "options": [
-              "That relief can never be felt",
-              "That one pleasant moment establishes lasting steadiness",
-              "That the object has no practical use",
-              "That gratitude must be avoided"
+              "Concealing",
+              "Expanding or enlarging",
+              "Dividing",
+              "Forgetting"
             ],
             "correct": 1,
-            "explanation": "A single favourable event gives limited evidence about responses across changing circumstances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
+            "explanation": "The term points toward a fuller and more extensive peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF pages 8–9"
           },
           {
-            "q": "A team loses a friendly contest. Which response shows balanced participation?",
+            "q": "With what is peace’s innate nature associated?",
             "options": [
-              "Discredit the winners without evidence",
-              "Declare participation had no value",
-              "Accept the result and appreciate others' efforts",
-              "Refuse all future shared activities"
+              "Social position",
+              "Material success",
+              "The Atma",
+              "Physical appearance"
             ],
             "correct": 2,
-            "explanation": "Appreciation and acceptance preserve respectful participation when the preferred result does not occur.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
+            "explanation": "The section describes peace as a phase of the Atma itself.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF pages 8–9"
           },
           {
-            "q": "A learner wants to assess equanimity fairly. Which evidence is most useful?",
+            "q": "Where must peace appear consistently?",
             "options": [
-              "Only the most enjoyable afternoon",
-              "Only praise from close friends",
-              "Only the length of quiet sitting",
-              "Responses during both easy and difficult days"
+              "Speech alone",
+              "Ceremonies alone",
+              "Times of prosperity alone",
+              "Thought, speech, posture, and action"
             ],
             "correct": 3,
-            "explanation": "Different conditions provide a broader basis for assessment than a selected favourable moment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
+            "explanation": "Uniform expression across life distinguishes complete peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF pages 8–9"
           },
           {
-            "q": "A helper receives unexpected praise and immediately dismisses teammates. What deserves review?",
+            "q": "How does supreme peace respond to prosperity and adversity?",
             "options": [
-              "How success affected their treatment of others",
-              "Whether the praise was loud enough",
-              "How to secure a larger role",
-              "Whether teammates heard the compliment"
+              "It remains steady through both",
+              "It exists only in prosperity",
+              "It disappears whenever loss occurs",
+              "It changes with every desire"
             ],
             "correct": 0,
-            "explanation": "The change in treatment shows that a pleasant outcome can also disturb balanced conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A meeting becomes tense. Which action combines calm with responsibility?",
-            "options": [
-              "Pretend no issue exists",
-              "State the issue clearly without personal attacks",
-              "Agree to everything to end discomfort",
-              "Leave without explaining the unfinished decision"
-            ],
-            "correct": 1,
-            "explanation": "Clear respectful engagement addresses the issue while reducing unnecessary escalation in the interaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone calls silence peaceful while privately rehearsing revenge. What is missing?",
-            "options": [
-              "A quieter place to rehearse it",
-              "A longer explanation of the grievance",
-              "Attention to the continuing inner agitation",
-              "An audience to confirm the anger"
-            ],
-            "correct": 2,
-            "explanation": "Absence of spoken words does not establish that the person's inner response has become settled.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A participant stays courteous only with agreeable people. Where is useful practice?",
-            "options": [
-              "Only among those sharing every opinion",
-              "Only while writing about courtesy",
-              "Only after disagreement disappears",
-              "In a respectful interaction with disagreement"
-            ],
-            "correct": 3,
-            "explanation": "A disagreement tests whether courtesy can remain available beyond personally comfortable encounters.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "An unexpected change disrupts a family outing. What response best preserves steadiness?",
-            "options": [
-              "Acknowledge disappointment and consider alternatives",
-              "Insist the whole day is ruined",
-              "Blame whoever checked the weather",
-              "Pretend everyone must feel delighted"
-            ],
-            "correct": 0,
-            "explanation": "Acknowledging the disappointment leaves room for practical adjustment without exaggerating the setback.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner mistakes calmness for never addressing problems. Which example clarifies the difference?",
-            "options": [
-              "Ignore every concern indefinitely",
-              "Agree privately while complaining elsewhere",
-              "Raise a concern respectfully and propose a remedy",
-              "Delay action until irritation becomes overwhelming"
-            ],
-            "correct": 2,
-            "explanation": "A composed response can include clear action instead of avoiding the matter entirely.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A group celebrates success. What keeps the celebration balanced?",
-            "options": [
-              "Treat success as proof of superiority",
-              "Dismiss all remaining responsibilities",
-              "Assume future success is guaranteed",
-              "Appreciate the result without belittling others"
-            ],
-            "correct": 3,
-            "explanation": "Appreciation need not turn a favourable result into an inflated comparison with other people.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A participant notices their tone hardening during disagreement. What can they do immediately?",
-            "options": [
-              "Pause and restate the point respectfully",
-              "Repeat the same words more loudly",
-              "Accuse others of causing the tone",
-              "End all future discussion"
-            ],
-            "correct": 0,
-            "explanation": "A pause creates space to change the manner of engagement while still addressing the point.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner reports calm only when everything follows their plan. What question is useful?",
-            "options": [
-              "How can every person follow my preferences?",
-              "How do I respond when plans change?",
-              "Who should prevent all interruptions?",
-              "Can I avoid every uncertain situation?"
-            ],
-            "correct": 1,
-            "explanation": "The question examines steadiness in the circumstances that currently challenge it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "Two helpers face the same delay. One assists; one spreads blame. What differs most clearly?",
-            "options": [
-              "The objective length of the delay",
-              "The venue's address",
-              "Their responses to the shared situation",
-              "The number of chairs available"
-            ],
-            "correct": 2,
-            "explanation": "A shared circumstance can be met with different choices that affect the people nearby.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A person receives both praise and correction in a review. What is balanced listening?",
-            "options": [
-              "Accept praise and ignore every correction",
-              "Treat correction as cancelling every strength",
-              "Demand the reviewer choose only one",
-              "Consider both without exaggerating either"
-            ],
-            "correct": 3,
-            "explanation": "Considering both parts supports a more accurate response than reducing the review to one extreme.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner wants a practical reflection on peace. Which prompt fits?",
-            "options": [
-              "Did my tone remain respectful under pressure?",
-              "Was my schedule entirely pleasant?",
-              "Did everyone agree with my preferences?",
-              "Was I praised more than yesterday?"
-            ],
-            "correct": 0,
-            "explanation": "The prompt examines a response the learner can observe within changing conditions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
-          },
-          {
-            "q": "A disappointed organiser still thanks helpers and reviews improvements. What is illustrated?",
-            "options": [
-              "Indifference to the quality of the event",
-              "A steady response alongside practical learning",
-              "Proof that no disappointment occurred",
-              "A requirement to abandon future goals"
-            ],
-            "correct": 1,
-            "explanation": "Gratitude and review can coexist with disappointment without letting it govern the entire response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 1–2"
+            "explanation": "The section rejects a peace that fluctuates with circumstances.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=8",
+            "sourceLabel": "Section 1, PDF pages 8–9"
           }
         ]
       },
       {
-        "id": "prashanthi-prayer",
-        "title": "Patient devotion",
-        "chapter": "Pages 12–14",
-        "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-        "summary": "Prayer, remembrance, and devotional singing cultivate serenity. Patient faith supports practice while possessiveness obscures the joy within.",
+        "id": "chapter-02",
+        "title": "Peace, love, and the Atma",
+        "chapter": "Section 2 · Peace, love, and the Atma",
+        "chapterNumber": 2,
+        "pdfStartPage": 9,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+        "sourceLabel": "Section 2, PDF page 9",
+        "summary": "Love is presented as the means of attaining peace and bringing people into unity. The image of love as fuel and peace as its flame expresses their connection. Self-discipline, a pure heart, and control of the senses support lasting peace; greed and selfishness obscure it. Peace is therefore an inward quality rather than the product of favourable external conditions.\n\nThe section links peace with knowledge of the Atma, which removes illusion, doubt, and sorrow. The Atma is not merely an object to be known but the source of knowledge. It remains unchanged while body and mind undergo transformation. Words cannot fully describe it, and it must not be confused with the senses, intellect, vital airs, or bodily splendour. Truth, love, light, peace, wisdom, and bliss are presented as expressions through which Brahman can be approached. The teaching brings the search for peace back to understanding this enduring reality.",
         "qa": [
           {
-            "q": "What attitude supports prayer?",
-            "a": "Devotion joined with calm patience and trust in divine grace."
+            "q": "What is compared to the fuel that produces peace’s flame?",
+            "a": "Love. Love is described as the means of attaining peace."
+          },
+          {
+            "q": "What supports genuine supreme peace?",
+            "a": "Control of the senses. Sense control calms the waves of mental agitation."
+          },
+          {
+            "q": "What does knowledge of the Atma remove?",
+            "a": "Illusion, doubt, and sorrow. Understanding the Self brings the steadiest peace."
+          },
+          {
+            "q": "How is the Atma related to knowledge?",
+            "a": "It is its source and spring. The section distinguishes the knower’s underlying reality from objects of knowledge."
+          },
+          {
+            "q": "Why can words not fully describe the Atma?",
+            "a": "It is beyond the limited descriptions applied to objects. The passage uses negation to distinguish it from senses and bodily functions."
           }
         ],
         "quiz": [
           {
-            "q": "What obscures inner bliss?",
+            "q": "What is compared to the fuel that produces peace’s flame?",
+            "options": [
+              "Wealth",
+              "Argument",
+              "Desire",
+              "Love"
+            ],
+            "correct": 3,
+            "explanation": "Love is described as the means of attaining peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          },
+          {
+            "q": "What supports genuine supreme peace?",
+            "options": [
+              "Control of the senses",
+              "Unrestricted craving",
+              "Dependence on praise",
+              "Accumulation alone"
+            ],
+            "correct": 0,
+            "explanation": "Sense control calms the waves of mental agitation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          },
+          {
+            "q": "What does knowledge of the Atma remove?",
+            "options": [
+              "Truth, love, and wisdom",
+              "Illusion, doubt, and sorrow",
+              "Discipline and devotion",
+              "Compassion and clarity"
+            ],
+            "correct": 1,
+            "explanation": "Understanding the Self brings the steadiest peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          },
+          {
+            "q": "How is the Atma related to knowledge?",
+            "options": [
+              "It is only another sensory object",
+              "It depends on bodily splendour",
+              "It is its source and spring",
+              "It changes with every thought"
+            ],
+            "correct": 2,
+            "explanation": "The section distinguishes the knower’s underlying reality from objects of knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          },
+          {
+            "q": "Why can words not fully describe the Atma?",
+            "options": [
+              "It is a material object without a name",
+              "It is identical to speech alone",
+              "It changes too rapidly to exist",
+              "It is beyond the limited descriptions applied to objects"
+            ],
+            "correct": 3,
+            "explanation": "The passage uses negation to distinguish it from senses and bodily functions.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "Shaping the mind",
+        "chapter": "Section 3 · Shaping the mind",
+        "chapterNumber": 3,
+        "pdfStartPage": 9,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+        "sourceLabel": "Section 3, PDF pages 9–10",
+        "summary": "Bliss is described as innate and connected with purposeful living. Peace gives that life its order and must remain stable despite the mind’s wandering and the senses’ outward movement. It is more than a conclusion reached by argument: it is a discipline that must be personally experienced. A peaceful heart is also the setting in which pure love can arise.\n\nThe mind is compared with a clean sheet that becomes marked through thoughts, feelings, and actions. Desires and social pressures can obscure truth and disturb inward solitude. The mind must therefore be quietened and strengthened for the work of self-development. It is also called a battlefield on which good and bad contend. Just as iron can be shaped by iron, a higher, stronger mind must reshape the lower mind. The section invites the reader to use the book’s discipline as a cleansing stream that refreshes and redirects inward life.",
+        "qa": [
+          {
+            "q": "How is bliss related to living?",
+            "a": "It is connected with purposeful living. The section explicitly rejects treating bliss as lifeless or inactive."
+          },
+          {
+            "q": "What is the mind compared with at birth?",
+            "a": "A blank white sheet. Thoughts, feelings, and actions subsequently leave their marks."
+          },
+          {
+            "q": "Why is the mind called a battlefield?",
+            "a": "Good and bad contend within it. The comparison concerns competing moral and mental tendencies."
+          },
+          {
+            "q": "What does iron shaped by iron illustrate?",
+            "a": "The higher mind reshaping the lower mind. Personal uplift requires developing a stronger, better-directed mind."
+          },
+          {
+            "q": "What is the reader invited to receive from the book’s stream?",
+            "a": "Cleansing and the discipline of peace. The stream image describes inward refreshment and purification."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is bliss related to living?",
+            "options": [
+              "It requires complete inactivity",
+              "It depends only on possessions",
+              "It is connected with purposeful living",
+              "It is merely a passing entertainment"
+            ],
+            "correct": 2,
+            "explanation": "The section explicitly rejects treating bliss as lifeless or inactive.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "What is the mind compared with at birth?",
+            "options": [
+              "A finished sculpture",
+              "A locked treasury",
+              "A worn-out garment",
+              "A blank white sheet"
+            ],
+            "correct": 3,
+            "explanation": "Thoughts, feelings, and actions subsequently leave their marks.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "Why is the mind called a battlefield?",
+            "options": [
+              "Good and bad contend within it",
+              "It contains only physical weapons",
+              "It has no capacity for change",
+              "It exists only during conflict"
+            ],
+            "correct": 0,
+            "explanation": "The comparison concerns competing moral and mental tendencies.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "What does iron shaped by iron illustrate?",
+            "options": [
+              "Wealth producing wisdom",
+              "The higher mind reshaping the lower mind",
+              "Speech replacing practice",
+              "The body becoming permanent"
+            ],
+            "correct": 1,
+            "explanation": "Personal uplift requires developing a stronger, better-directed mind.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "What is the reader invited to receive from the book’s stream?",
+            "options": [
+              "Public status",
+              "Material rewards",
+              "Cleansing and the discipline of peace",
+              "Freedom from all responsibility"
+            ],
+            "correct": 2,
+            "explanation": "The stream image describes inward refreshment and purification.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Overcoming the disease of words devoid of experience",
+        "chapter": "Section 4 · Overcoming the disease of words devoid of experience",
+        "chapterNumber": 4,
+        "pdfStartPage": 10,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+        "sourceLabel": "Section 4, PDF pages 10–11",
+        "summary": "The section criticises advice that is not supported by the speaker’s conduct. A genuine aspirant acts and then speaks from experience. Listeners should therefore examine how a teacher lives, rather than rely on eloquence alone. Saying that everything is divine while treating some people as unholy exposes the same separation between words and practice.\n\nThree disciplines are given: distinguish the lasting from the temporary, sincerely experience what has been recognised as true, and persevere despite obstacles. The discussion also distinguishes visible outward change from subtler inward change. Work on daily conduct helps prepare understanding of the inner life. This work should satisfy conscience rather than seek admiration. Although the Lord values inward feeling, outward expression must not be neglected: peace should be experienced through thought, word, gesture, and deed. Real transformation appears in the small choices of everyday life, where discrimination can guide what is actually done.",
+        "qa": [
+          {
+            "q": "What is the disease named in this section?",
+            "a": "Advice without lived experience. Speaking about virtues without practising them misleads both speaker and listener."
+          },
+          {
+            "q": "What should a seeker examine before choosing a guide?",
+            "a": "The guide’s conduct. Behaviour shows whether advice is grounded in experience."
+          },
+          {
+            "q": "What is the first of the three disciplines described?",
+            "a": "Discrimination between the lasting and the temporary. Discrimination identifies what is worth pursuing."
+          },
+          {
+            "q": "For whose approval should the work be done?",
+            "a": "One’s own conscience. The section warns against practising merely to gain esteem."
+          },
+          {
+            "q": "How should inner peace be expressed?",
+            "a": "In thought, word, gesture, and deed. Outward conduct should correspond to inward feeling."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the disease named in this section?",
+            "options": [
+              "Thoughtful self-examination",
+              "Advice without lived experience",
+              "Patient discipline",
+              "Truthful conduct"
+            ],
+            "correct": 1,
+            "explanation": "Speaking about virtues without practising them misleads both speaker and listener.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+            "sourceLabel": "Section 4, PDF pages 10–11"
+          },
+          {
+            "q": "What should a seeker examine before choosing a guide?",
+            "options": [
+              "Eloquence alone",
+              "Reputation alone",
+              "The guide’s conduct",
+              "Clothing alone"
+            ],
+            "correct": 2,
+            "explanation": "Behaviour shows whether advice is grounded in experience.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+            "sourceLabel": "Section 4, PDF pages 10–11"
+          },
+          {
+            "q": "What is the first of the three disciplines described?",
+            "options": [
+              "Seeking applause",
+              "Avoiding all effort",
+              "Multiplying arguments",
+              "Discrimination between the lasting and the temporary"
+            ],
+            "correct": 3,
+            "explanation": "Discrimination identifies what is worth pursuing.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+            "sourceLabel": "Section 4, PDF pages 10–11"
+          },
+          {
+            "q": "For whose approval should the work be done?",
+            "options": [
+              "One’s own conscience",
+              "An admiring crowd",
+              "Flatterers",
+              "Rivals"
+            ],
+            "correct": 0,
+            "explanation": "The section warns against practising merely to gain esteem.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+            "sourceLabel": "Section 4, PDF pages 10–11"
+          },
+          {
+            "q": "How should inner peace be expressed?",
+            "options": [
+              "Only in private claims",
+              "In thought, word, gesture, and deed",
+              "Only in elaborate language",
+              "Only in a title"
+            ],
+            "correct": 1,
+            "explanation": "Outward conduct should correspond to inward feeling.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=10",
+            "sourceLabel": "Section 4, PDF pages 10–11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Spiritual exercise wins His grace",
+        "chapter": "Section 5 · Spiritual exercise wins His grace",
+        "chapterNumber": 5,
+        "pdfStartPage": 11,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+        "sourceLabel": "Section 5, PDF pages 11–12",
+        "summary": "Peace and devotion must be developed through one’s own effort, while divine grace remains fundamental. The section rejects the idea that spiritual discipline is therefore useless. Steady devotion is said to win grace, with Gajendra offered as an example. Peace gives strength to bear obstacles and provides the ground in which devotion expands and wisdom takes root.\n\nInquiry into the Self is joined with patience, faith, and awareness of the Lord’s presence everywhere. Anger must be overcome because it enslaves and clouds understanding. The lives of devotees such as Ramdas, Tukaram, Kabir, Thyagaraja, and Nandanar show how peace sustained them through difficulty. Bhishma’s endurance on the bed of arrows illustrates tranquil devotion. The aspirant is encouraged to study these lived examples and persevere in remembrance of the name. Peace does not have to be manufactured from nothing: anger and greed suppress a quality that is already within.",
+        "qa": [
+          {
+            "q": "Does dependence on grace make discipline fruitless?",
+            "a": "No, steady devotion and discipline have value. The section explicitly affirms the usefulness of spiritual effort."
+          },
+          {
+            "q": "Who is given as an example of devotion winning grace?",
+            "a": "Gajendra. Gajendra is named in the discussion of grace and unwavering devotion."
+          },
+          {
+            "q": "Which enemy clouds understanding and must be overcome?",
+            "a": "Anger. Anger is described as an enslaving force opposed to peace."
+          },
+          {
+            "q": "What does Bhishma illustrate?",
+            "a": "Tranquil devotion and patient endurance. His composure during suffering exemplifies the peace being taught."
+          },
+          {
+            "q": "What suppresses peace’s natural radiance?",
+            "a": "Anger and greed. Removing these obstructions allows innate peace to shine."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Does dependence on grace make discipline fruitless?",
+            "options": [
+              "No, steady devotion and discipline have value",
+              "Yes, all effort should cease",
+              "Only public rituals have value",
+              "Only scholarship can help"
+            ],
+            "correct": 0,
+            "explanation": "The section explicitly affirms the usefulness of spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
+          },
+          {
+            "q": "Who is given as an example of devotion winning grace?",
+            "options": [
+              "The unnamed king",
+              "Gajendra",
+              "Bruce",
+              "Maitreyi"
+            ],
+            "correct": 1,
+            "explanation": "Gajendra is named in the discussion of grace and unwavering devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
+          },
+          {
+            "q": "Which enemy clouds understanding and must be overcome?",
             "options": [
               "Patience",
-              "Remembrance",
-              "Possessiveness",
-              "Serenity"
+              "Compassion",
+              "Anger",
+              "Fortitude"
             ],
             "correct": 2,
-            "explanation": "The answer identifies the obstacle discussed in the related reading section.",
+            "explanation": "Anger is described as an enslaving force opposed to peace.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           },
           {
-            "q": "A devotee becomes impatient because a wish remains unfulfilled. What could reorient prayer?",
+            "q": "What does Bhishma illustrate?",
             "options": [
-              "Promise increasingly elaborate public gestures",
-              "Compare whose requests were granted faster",
-              "Treat delay as proof of personal rejection",
-              "Reflect calmly without demanding a timetable"
+              "Dependence on comfort",
+              "The pursuit of fame",
+              "Abandonment of remembrance",
+              "Tranquil devotion and patient endurance"
             ],
             "correct": 3,
-            "explanation": "A calmer orientation removes an unsupported timetable from the centre of the practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
+            "explanation": "His composure during suffering exemplifies the peace being taught.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           },
           {
-            "q": "A devotional group argues over who should lead singing. What would support its shared purpose?",
+            "q": "What suppresses peace’s natural radiance?",
             "options": [
-              "Choose a fair arrangement and sing cooperatively",
-              "Compete for the longest solo",
-              "Refuse participation without a leading role",
-              "Judge devotion by microphone time"
+              "Anger and greed",
+              "Truth and love",
+              "Faith and patience",
+              "Service and wisdom"
             ],
             "correct": 0,
-            "explanation": "A fair arrangement keeps the group's attention on its shared activity instead of competing claims.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "Someone prays for patience, then faces a slow conversation. What is a relevant opportunity?",
-            "options": [
-              "End the conversation to protect the prayer mood",
-              "Listen without rushing the speaker",
-              "Repeat the request while ignoring the speaker",
-              "Explain why slow speech is unacceptable"
-            ],
-            "correct": 1,
-            "explanation": "The conversation offers an immediate setting in which the requested quality can be practised.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A learner grows anxious comparing personal devotion with a friend's experiences. What helps?",
-            "options": [
-              "Request a ranking of both experiences",
-              "Copy the friend's descriptions as their own",
-              "Return attention to their own sincere practice",
-              "Assume the friend must be exaggerating"
-            ],
-            "correct": 2,
-            "explanation": "Personal attention reduces the pressure created by treating another person's experience as a timetable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A person says a successful event belongs entirely to them. What reflection may soften possessiveness?",
-            "options": [
-              "Repeat their own achievements more clearly",
-              "Restrict others' participation next time",
-              "Keep a private list of praise owed",
-              "Notice the many contributions involved"
-            ],
-            "correct": 3,
-            "explanation": "Recognising contributions broadens the account beyond a claim of exclusive personal ownership.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A prayer group has newcomers unfamiliar with its songs. What encourages participation?",
-            "options": [
-              "Offer patient guidance and clear materials",
-              "Expect immediate flawless participation",
-              "Give explanations only after the event",
-              "Treat mistakes as lack of sincerity"
-            ],
-            "correct": 0,
-            "explanation": "Patient guidance allows newcomers to participate without making familiarity a test of personal worth.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "Someone has a difficult day and finds prayer distracted. What is a measured response?",
-            "options": [
-              "Claim every earlier effort is cancelled",
-              "Acknowledge the difficulty and continue sincerely",
-              "Borrow a dramatic experience to describe",
-              "Demand immediate relief as proof"
-            ],
-            "correct": 1,
-            "explanation": "A sincere response can acknowledge the actual difficulty without turning it into a sweeping verdict.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A devotee treats every disappointment as a broken bargain. What assumption needs examination?",
-            "options": [
-              "That practical effort may still be needed",
-              "That disappointment can be acknowledged",
-              "That circumstances can remain uncertain",
-              "That practice guarantees each preferred outcome"
-            ],
-            "correct": 3,
-            "explanation": "The bargain assumes control over outcomes that the person has not actually been promised.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A group plans devotional singing during a tense period. Which preparation supports calm cooperation?",
-            "options": [
-              "Agree on a manageable shared format",
-              "Arrange a contest for greatest devotion",
-              "Rank participants by vocal confidence",
-              "Exclude anyone who cannot sing solo"
-            ],
-            "correct": 0,
-            "explanation": "A manageable format helps participants join together without introducing unnecessary competition or exclusion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "Someone wants to express trust while awaiting news. Which approach remains responsible?",
-            "options": [
-              "Abandon all practical responsibilities",
-              "Continue necessary tasks with patient attention",
-              "Invent reassuring news for others",
-              "Demand certainty from every conversation"
-            ],
-            "correct": 1,
-            "explanation": "Patient attention can accompany responsible action without pretending the unresolved outcome is already known.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A learner worries that an ordinary prayer feels less impressive than another's. What is useful?",
-            "options": [
-              "Add unfamiliar words for effect",
-              "Copy the other's emotional display",
-              "Attend to sincerity rather than appearance",
-              "Ask observers whose prayer sounded greater"
-            ],
-            "correct": 2,
-            "explanation": "Sincerity concerns the person's actual participation rather than the impression created for an audience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A group member insists that their preferred song must always be chosen. What supports harmony?",
-            "options": [
-              "Make agreement a test of loyalty",
-              "Withhold cooperation until everyone yields",
-              "Describe all alternatives as insincere",
-              "Discuss preferences while allowing fair participation"
-            ],
-            "correct": 3,
-            "explanation": "A fair discussion gives preferences room without making one person's wish control the gathering.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A devotee wants joy but resents others using shared materials. What should be examined?",
-            "options": [
-              "The sense of personal ownership over shared items",
-              "Only the materials' decoration",
-              "Only the order of devotional songs",
-              "How publicly their devotion is recognised"
-            ],
-            "correct": 0,
-            "explanation": "The practical dispute reveals an attachment that can be considered within the person's ongoing practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A learner feels restless while waiting for an important result. What is an appropriate aim for prayer?",
-            "options": [
-              "Guarantee a particular result by tomorrow",
-              "Seek a steadier response while uncertainty remains",
-              "Eliminate the need to follow instructions",
-              "Prove superiority to other applicants"
-            ],
-            "correct": 1,
-            "explanation": "Seeking steadiness concerns the response available now rather than a claim to control the result.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A facilitator hears someone claim that prayer must always produce immediate calm. What is a careful reply?",
-            "options": [
-              "Every difficult session proves insincerity",
-              "Calm can be guaranteed by louder repetition",
-              "Experiences vary; practise without imposing that demand",
-              "Someone else can certify the person's experience"
-            ],
-            "correct": 2,
-            "explanation": "A careful response avoids turning one expected feeling into an inflexible judgment of sincerity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A volunteer's preferred plan is rejected. What could express patient devotion in this situation?",
-            "options": [
-              "Withdraw care until the plan is restored",
-              "Demand public reassurance of their importance",
-              "Treat disagreement as rejection of faith",
-              "Remain courteous and help the agreed work"
-            ],
-            "correct": 3,
-            "explanation": "Continuing courteous cooperation separates the shared work from disappointment over a personal preference.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A learner asks how to reflect after devotional singing. Which question is useful?",
-            "options": [
-              "Did I become more considerate in the gathering?",
-              "Was my voice praised most often?",
-              "Did my favourite song always appear?",
-              "Did everyone notice my participation?"
-            ],
-            "correct": 0,
-            "explanation": "The question connects the activity with observable treatment of others in the same setting.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A person mistakes trust for refusing to ask practical questions. What is better?",
-            "options": [
-              "Guess every detail to appear confident",
-              "Seek needed information with a calm attitude",
-              "Leave others to solve resulting confusion",
-              "Avoid clarification even when instructions conflict"
-            ],
-            "correct": 1,
-            "explanation": "Calm inquiry allows responsible participation without treating uncertainty as something that must be hidden.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
-          },
-          {
-            "q": "A group waits longer than expected for a programme to begin. Which response supports serenity?",
-            "options": [
-              "Speculate loudly about everyone's motives",
-              "Demand personal recognition for waiting",
-              "Use the interval constructively without blaming volunteers",
-              "Treat the delay as cancelling the gathering's value"
-            ],
-            "correct": 2,
-            "explanation": "Constructive use of the interval prevents uncertainty from becoming unnecessary accusation or resentment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 12–14"
+            "explanation": "Removing these obstructions allows innate peace to shine.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           }
         ]
       },
       {
-        "id": "prashanthi-stillness",
-        "title": "Stillness beyond speech",
-        "chapter": "Pages 44–46",
-        "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-        "summary": "Learning about peace calls for lived experience. Genuine silence involves inward steadiness and freedom from restless sensory pursuit.",
+        "id": "chapter-06",
+        "title": "The need for an unruffled mind",
+        "chapter": "Section 6 · The need for an unruffled mind",
+        "chapterNumber": 6,
+        "pdfStartPage": 12,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+        "sourceLabel": "Section 6, PDF pages 12–13",
+        "summary": "A calm mind gives the aspirant strength, happiness, and the ability to meet difficulty intelligently. Its discipline may be hard at first, but perseverance matters. Bruce’s encouragement from a spider illustrates persistence after repeated failure. The section urges courage, purity, and attention to the present task rather than surrender to despair over what has passed.\n\nWhen losses occur, haste should give way to a calm examination of their causes and possible remedies. Peace sharpens judgement and foresight. This does not mean endlessly dwelling on old faults: the useful task is to identify the cause of failure and prevent its repetition. Agility and vigilance should accompany steadiness. Courage, sound counsel, and firmness strengthen the will. A joyful outlook, large-heartedness, consistent goodness, and freedom from agitation are described as signs that peace has taken root and that the aspirant’s inner strength is developing.",
         "qa": [
           {
-            "q": "Does silence mean only stopping speech?",
-            "a": "It also involves quieting mental agitation and recognising inner reality."
+            "q": "What quality gives clear strength in the face of difficulties?",
+            "a": "An unruffled mind. Calmness supports intelligent action."
+          },
+          {
+            "q": "From what did Bruce draw encouragement in the example?",
+            "a": "A spider. The story illustrates perseverance after unsuccessful attempts."
+          },
+          {
+            "q": "What should replace hasty action after a loss?",
+            "a": "Calm examination of causes and remedies. Peace makes practical judgement clearer."
+          },
+          {
+            "q": "What is useful about examining a failure?",
+            "a": "Preventing the same fault from recurring. Analysis should lead to correction rather than obsessive recollection."
+          },
+          {
+            "q": "Which is a sign that peace has taken root?",
+            "a": "A joyful, unagitated outlook. The section links peace with courage, goodness, and a strengthened will."
           }
         ],
         "quiz": [
           {
-            "q": "What deepens spiritual understanding?",
+            "q": "What quality gives clear strength in the face of difficulties?",
             "options": [
-              "Publicity",
-              "Imagination alone",
-              "Terminology alone",
-              "Lived practice"
+              "Hasty reaction",
+              "Repeated self-reproach",
+              "Fear of criticism",
+              "An unruffled mind"
             ],
             "correct": 3,
-            "explanation": "The correct response includes an actual attempt rather than knowing terminology alone.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Calmness supports intelligent action.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
           },
           {
-            "q": "Someone sits silently while mentally replaying an argument. What needs attention?",
+            "q": "From what did Bruce draw encouragement in the example?",
             "options": [
-              "The repeated inner commentary",
-              "Only the absence of speech",
-              "Only the room's appearance",
-              "How silent they look to others"
+              "A spider",
+              "A river",
+              "A mountain",
+              "A lamp"
             ],
             "correct": 0,
-            "explanation": "The inner commentary shows why outward quiet alone does not describe the person's whole experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "The story illustrates perseverance after unsuccessful attempts.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
           },
           {
-            "q": "A learner can define peace but struggles in a minor disagreement. What would deepen learning?",
+            "q": "What should replace hasty action after a loss?",
             "options": [
-              "Repeat the definition more confidently",
-              "Practise a calmer response in that interaction",
-              "Collect more synonyms for peace",
-              "Avoid noticing the disagreement"
+              "Immediate blame",
+              "Calm examination of causes and remedies",
+              "Abandonment of effort",
+              "Constant complaint"
             ],
             "correct": 1,
-            "explanation": "The interaction provides an actual opportunity to test and develop what has been understood verbally.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Peace makes practical judgement clearer.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
           },
           {
-            "q": "A participant imagines being perfectly calm someday. What makes the intention practical now?",
+            "q": "What is useful about examining a failure?",
             "options": [
-              "Describe the imagined future in greater detail",
-              "Announce complete calm before testing it",
-              "Observe one present reaction without adding commentary",
-              "Compare imaginary progress with friends"
+              "Reliving it without end",
+              "Establishing permanent self-condemnation",
+              "Preventing the same fault from recurring",
+              "Finding someone to resent"
             ],
             "correct": 2,
-            "explanation": "Present observation turns attention toward an experience available now rather than an imagined achievement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Analysis should lead to correction rather than obsessive recollection.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
           },
           {
-            "q": "A quiet retreat becomes a competition over who speaks least. What has changed?",
+            "q": "Which is a sign that peace has taken root?",
             "options": [
-              "Silence is being used for comparison",
-              "Every participant has become inwardly still",
-              "Speech counts now reveal complete understanding",
-              "Competition guarantees deeper reflection"
-            ],
-            "correct": 0,
-            "explanation": "A numerical comparison can occupy attention even while the outward rule of silence is observed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
-          {
-            "q": "A learner avoids speaking but checks messages continuously. What should they examine?",
-            "options": [
-              "Whether typing counts as speaking aloud",
-              "Whether attention is still chasing stimulation",
-              "Only the brightness of the screen",
-              "Only the number of spoken words"
-            ],
-            "correct": 1,
-            "explanation": "The pattern concerns where attention is going rather than merely how communication is produced.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
-          {
-            "q": "A person wants to understand inner agitation. Which observation is most relevant?",
-            "options": [
-              "Count the chairs in the room",
-              "List everyone else's preferred activities",
-              "Notice thoughts recurring after a disagreement",
-              "Measure the distance to the venue"
-            ],
-            "correct": 2,
-            "explanation": "Recurring thoughts offer direct information about the agitation the person wants to understand.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
-          {
-            "q": "A reader describes stillness using borrowed phrases. What additional evidence is useful?",
-            "options": [
-              "A more dramatic vocabulary",
-              "The number of people impressed",
-              "The length of the description",
-              "An honest account of their own experience"
+              "Increasing hostility",
+              "Dependence on applause",
+              "Continual panic",
+              "A joyful, unagitated outlook"
             ],
             "correct": 3,
-            "explanation": "An honest account distinguishes personal observation from the ability to repeat another person's language.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "The section links peace with courage, goodness, and a strengthened will.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Prayer",
+        "chapter": "Section 7 · Prayer",
+        "chapterNumber": 7,
+        "pdfStartPage": 13,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+        "sourceLabel": "Section 7, PDF pages 13–15",
+        "summary": "The aspirant may pray for peace and the virtues needed to develop it. Prayer remains necessary until surrender is complete. Droupadi’s appeal for refuge and Prahlada’s already-established trust illustrate different conditions of devotion. The person must continue to act as an instrument while praying with faith, rather than alternate between reliance and blame when circumstances change.\n\nPrayer can take the form of remembrance, repetition, meditation, or devotional singing, with the divine name central to each. Singing can inspire others and deepen love, but grace is to be awaited patiently. The section then explains the prayer from untruth to truth, darkness to light, and death to immortality. Its meaning is connected with moving beyond temporary objects, removing the ignorance that conceals the all-pervading Atma, and realising the lasting bliss of that awareness. Peace and prayer reinforce one another through patience, consistent conduct, and faith.",
+        "qa": [
+          {
+            "q": "What may the aspirant pray to receive?",
+            "a": "Peace and the virtues that support it. These qualities are the spiritual capital described in the section."
           },
           {
-            "q": "A participant believes an attractive setting guarantees peace. What limitation should be recognised?",
-            "options": [
-              "The setting alone cannot settle every inner reaction",
-              "Attractive places can never support reflection",
-              "Only unpleasant settings are useful",
-              "Inner experience is identical for all visitors"
-            ],
-            "correct": 0,
-            "explanation": "External conditions may be helpful without determining how each person's attention and reactions unfold.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "q": "Why is Prahlada described as not needing a separate appeal for protection?",
+            "a": "His surrender and awareness of the Lord were already complete. His condition illustrates established trust rather than occasional reliance."
           },
           {
-            "q": "A learner notices the urge to check every new sound. What is a useful experiment?",
-            "options": [
-              "Identify every sound before continuing",
-              "Let one ordinary sound pass without pursuing it",
-              "Treat the sound as a personal insult",
-              "Announce that all attention is impossible"
-            ],
-            "correct": 1,
-            "explanation": "The experiment gives the learner a small opportunity to observe an urge without automatically following it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "q": "What is central to the forms of prayer listed?",
+            "a": "The divine name. Remembrance, repetition, meditation, and singing are joined through the name."
           },
           {
-            "q": "Someone announces deep stillness but becomes upset when nobody responds. What deserves reflection?",
-            "options": [
-              "The audience's need for stronger wording",
-              "The announcement's visual design",
-              "The expectation attached to the announcement",
-              "The number of people in the room"
-            ],
-            "correct": 2,
-            "explanation": "The reaction suggests that a demand for acknowledgment has remained active alongside the claim.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "q": "What should accompany waiting for grace?",
+            "a": "Peace and patience. Serenity is described as necessary for spiritual practice to bear fruit."
           },
           {
-            "q": "A person plans to practise calm only after life becomes effortless. What is more workable?",
-            "options": [
-              "Wait until no interruptions are possible",
-              "Require everyone else to change first",
-              "Practise only in imagined circumstances",
-              "Begin with one manageable present situation"
-            ],
-            "correct": 3,
-            "explanation": "A manageable present situation makes practice possible without requiring an unrealistic absence of difficulty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
+            "q": "What does the prayer from darkness to light mean in this explanation?",
+            "a": "Removing ignorance that conceals the all-pervading Atma. The explanation concerns spiritual awareness rather than external light alone."
+          }
+        ],
+        "quiz": [
           {
-            "q": "A learner tries to force away every thought and becomes more tense. What gentler task is available?",
+            "q": "What may the aspirant pray to receive?",
             "options": [
-              "Notice the tension and return to the intended focus",
-              "Treat tension as proof of personal failure",
-              "Add stricter comparisons with others",
-              "Pretend no tension is occurring"
-            ],
-            "correct": 0,
-            "explanation": "Acknowledging the actual experience allows a practical adjustment instead of adding another layer of judgment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
-          {
-            "q": "A study group wants to discuss lived understanding. Which prompt fits?",
-            "options": [
-              "How many technical terms can you list?",
-              "What did you notice during your attempt?",
-              "Which member sounds most authoritative?",
-              "Who owns the rarest edition?"
-            ],
-            "correct": 1,
-            "explanation": "The prompt invites an account of experience rather than evidence of vocabulary or possession.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
-          },
-          {
-            "q": "Someone declines gossip while remaining courteous. What is the relevant distinction?",
-            "options": [
-              "They must stop every future conversation",
-              "They have proved permanent inward silence",
-              "They can avoid agitation without rejecting people",
-              "Courtesy makes every conversation equally useful"
+              "Superiority over other devotees",
+              "Permission to avoid all effort",
+              "Peace and the virtues that support it",
+              "Public recognition alone"
             ],
             "correct": 2,
-            "explanation": "The response changes participation in the conversation without requiring hostility toward the people involved.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "These qualities are the spiritual capital described in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF pages 13–15"
           },
           {
-            "q": "A learner continually plans how others will admire their quietness. What should they recognise?",
+            "q": "Why is Prahlada described as not needing a separate appeal for protection?",
             "options": [
-              "The plan proves complete inward calm",
-              "Public admiration is necessary for silence",
-              "Longer planning will settle every concern",
-              "Attention is occupied by imagined reactions"
+              "He depended on worldly power",
+              "He had no devotion",
+              "He sought only material gain",
+              "His surrender and awareness of the Lord were already complete"
             ],
             "correct": 3,
-            "explanation": "Imagined reactions are themselves active thoughts rather than evidence that attention has become settled.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "His condition illustrates established trust rather than occasional reliance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF pages 13–15"
           },
           {
-            "q": "A participant returns from reflection and listens carefully to a family member. What is being tested?",
+            "q": "What is central to the forms of prayer listed?",
             "options": [
-              "Whether inward practice informs a real interaction",
-              "Whether family conversations should be avoided",
-              "Whether silence requires permanent withdrawal",
-              "Whether the family member knows the terminology"
+              "The divine name",
+              "A particular social title",
+              "An audience",
+              "Material offerings alone"
             ],
             "correct": 0,
-            "explanation": "The ordinary conversation provides a concrete setting in which the effect of practice can be observed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Remembrance, repetition, meditation, and singing are joined through the name.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF pages 13–15"
           },
           {
-            "q": "A learner treats understanding as a collection of correct definitions. What can complement it?",
+            "q": "What should accompany waiting for grace?",
             "options": [
-              "A more decorative collection",
-              "A deliberate attempt followed by honest reflection",
-              "A ranking of definitions by length",
-              "A certificate for owning the collection"
+              "Haste and blame",
+              "Peace and patience",
+              "Anger and bargaining",
+              "Despair and inactivity"
             ],
             "correct": 1,
-            "explanation": "Attempt and reflection add experiential information that a collection of definitions cannot provide.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Serenity is described as necessary for spiritual practice to bear fruit.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF pages 13–15"
           },
           {
-            "q": "Someone wants a useful response to restless browsing during quiet time. What fits?",
+            "q": "What does the prayer from darkness to light mean in this explanation?",
             "options": [
-              "Open more tabs until interest is exhausted",
-              "Blame every website for the choice",
-              "Notice the impulse and choose whether to continue",
-              "Count browsing as complete stillness"
+              "Seeking worldly fame",
+              "Rejecting every duty",
+              "Removing ignorance that conceals the all-pervading Atma",
+              "Obtaining physical brightness alone"
             ],
             "correct": 2,
-            "explanation": "Noticing the impulse creates a decision point within a pattern that otherwise continues automatically.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "The explanation concerns spiritual awareness rather than external light alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF pages 13–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Dwelling in God",
+        "chapter": "Section 8 · Dwelling in God",
+        "chapterNumber": 8,
+        "pdfStartPage": 15,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+        "sourceLabel": "Section 8, PDF page 15",
+        "summary": "The true devotee’s attention is absorbed in the Lord. A frightened child becoming quiet in its mother’s lap illustrates the disappearance of anxiety in the divine presence. The child need not analyse the change to enjoy its security. Similarly, the seeker is urged to leave past troubles behind and find joy in thoughts of God.\n\nDevotion is described as both the way and its fulfilment. The bliss sought through practice is not newly created; it is already within, concealed by the screen of “I” and “mine.” Spiritual discipline removes this obstruction. The aspirant should not become frantic when the expected experience does not immediately appear, since peace supports even difficult inward work. The section ends by presenting peace as a mother equally available to all. Its care gives security beyond distinctions of age or status and prepares the person to rest in the joy of the Self.",
+        "qa": [
+          {
+            "q": "What illustrates security in the divine presence?",
+            "a": "A child resting in its mother’s lap. The child’s fear ends when it reaches the mother."
           },
           {
-            "q": "A person recognises calm briefly, then becomes distracted. What is an honest report?",
+            "q": "Is spiritual bliss described as newly created by practice?",
+            "a": "No, it is already within. Practice removes what conceals an already-existing reality."
+          },
+          {
+            "q": "What screen hides this bliss?",
+            "a": "The feelings of I and mine. Ego and possessiveness obstruct its recognition."
+          },
+          {
+            "q": "What helps when progress seems delayed?",
+            "a": "Cultivating peace. Peace supports the effort to remove the screen."
+          },
+          {
+            "q": "How is peace described in relation to people?",
+            "a": "As a mother equally available to all. The closing image stresses equal access and security."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates security in the divine presence?",
             "options": [
-              "Report uninterrupted calm to preserve the story",
-              "Treat the calm as never having happened",
-              "Claim another person's experience instead",
-              "Describe both the calm and the distraction"
+              "A king collecting wealth",
+              "A child resting in its mother’s lap",
+              "A traveller losing an address",
+              "A lamp in a storm"
+            ],
+            "correct": 1,
+            "explanation": "The child’s fear ends when it reaches the mother.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+            "sourceLabel": "Section 8, PDF page 15"
+          },
+          {
+            "q": "Is spiritual bliss described as newly created by practice?",
+            "options": [
+              "Yes, it begins only with public worship",
+              "Yes, it is produced by wealth",
+              "No, it is already within",
+              "No bliss can be experienced"
+            ],
+            "correct": 2,
+            "explanation": "Practice removes what conceals an already-existing reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+            "sourceLabel": "Section 8, PDF page 15"
+          },
+          {
+            "q": "What screen hides this bliss?",
+            "options": [
+              "Equal love",
+              "Patience",
+              "Sincere devotion",
+              "The feelings of I and mine"
             ],
             "correct": 3,
-            "explanation": "Including both observations gives a more accurate account than protecting an idealised description.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prashanthivahini.html",
-            "sourceLabel": "Prashanthi Vahini — Pages 44–46"
+            "explanation": "Ego and possessiveness obstruct its recognition.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+            "sourceLabel": "Section 8, PDF page 15"
+          },
+          {
+            "q": "What helps when progress seems delayed?",
+            "options": [
+              "Cultivating peace",
+              "Frantic anxiety",
+              "Giving up discipline immediately",
+              "Comparing oneself with others"
+            ],
+            "correct": 0,
+            "explanation": "Peace supports the effort to remove the screen.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+            "sourceLabel": "Section 8, PDF page 15"
+          },
+          {
+            "q": "How is peace described in relation to people?",
+            "options": [
+              "As a privilege of age",
+              "As a mother equally available to all",
+              "As a reward for status",
+              "As the possession of a few scholars"
+            ],
+            "correct": 1,
+            "explanation": "The closing image stresses equal access and security.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=15",
+            "sourceLabel": "Section 8, PDF page 15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "The Path of devotion",
+        "chapter": "Section 9 · The Path of devotion",
+        "chapterNumber": 9,
+        "pdfStartPage": 16,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+        "sourceLabel": "Section 9, PDF page 16",
+        "summary": "Devotion is presented as the most accessible and joyful path under the conditions discussed. Wisdom, action, and yoga have their difficulties, and action itself needs love and devotion to succeed. Yet devotion cannot be confined to one definition. Each seeker must experience it personally; another devotee’s life can offer guidance but cannot transfer the experience itself.\n\nSeveral images illuminate different aspects of this love. Maitreyi compares the devotee’s mind with a still lake. Kapila uses a river flowing without interruption toward the sea. The Devi Bhagavatham gives the image of oil flowing continuously between vessels, while Sankara compares the soul’s attraction to the Lord with iron drawn to a magnet. Ramanuja connects devotion with loving meditation. These descriptions arise from experience and need not exclude one another. The many streams of devotion share a goal: the individual’s union with the divine reality in bliss beyond what language can fully express.",
+        "qa": [
+          {
+            "q": "Which path is described as especially accessible here?",
+            "a": "Devotion. The section presents devotion as conducive to success and bliss."
+          },
+          {
+            "q": "What can another devotee’s experience chiefly provide?",
+            "a": "Guidance and encouragement. Devotion must be realised by the seeker personally."
+          },
+          {
+            "q": "What image is attributed to Maitreyi?",
+            "a": "A still lake. The still lake illustrates a mind free from agitation."
+          },
+          {
+            "q": "What does Kapila’s river illustrate?",
+            "a": "Unbroken movement toward the Lord. The river’s destination is the sea of divine grace."
+          },
+          {
+            "q": "What image does Sankara use?",
+            "a": "Iron drawn to a magnet. It expresses the soul’s attraction and firm attachment to the Lord."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which path is described as especially accessible here?",
+            "options": [
+              "Devotion",
+              "Argument alone",
+              "Mere inaction",
+              "Sensory enjoyment"
+            ],
+            "correct": 0,
+            "explanation": "The section presents devotion as conducive to success and bliss.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 9, PDF page 16"
+          },
+          {
+            "q": "What can another devotee’s experience chiefly provide?",
+            "options": [
+              "A replacement for personal experience",
+              "Guidance and encouragement",
+              "Automatic realisation without practice",
+              "A fixed measure of everyone’s joy"
+            ],
+            "correct": 1,
+            "explanation": "Devotion must be realised by the seeker personally.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 9, PDF page 16"
+          },
+          {
+            "q": "What image is attributed to Maitreyi?",
+            "options": [
+              "Iron drawn to a magnet",
+              "Flowing oil",
+              "A still lake",
+              "A mountain of sugar"
+            ],
+            "correct": 2,
+            "explanation": "The still lake illustrates a mind free from agitation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 9, PDF page 16"
+          },
+          {
+            "q": "What does Kapila’s river illustrate?",
+            "options": [
+              "Repeated change of goal",
+              "Attachment to reputation",
+              "The rejection of love",
+              "Unbroken movement toward the Lord"
+            ],
+            "correct": 3,
+            "explanation": "The river’s destination is the sea of divine grace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 9, PDF page 16"
+          },
+          {
+            "q": "What image does Sankara use?",
+            "options": [
+              "Iron drawn to a magnet",
+              "A letter without an address",
+              "A seed carried away",
+              "A bird in a cage"
+            ],
+            "correct": 0,
+            "explanation": "It expresses the soul’s attraction and firm attachment to the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 9, PDF page 16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Faith in oneself and in the scriptures",
+        "chapter": "Section 10 · Faith in oneself and in the scriptures",
+        "chapterNumber": 10,
+        "pdfStartPage": 16,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+        "sourceLabel": "Section 10, PDF pages 16–18",
+        "summary": "The section challenges discouragement about spiritual attainment and stresses faith both in oneself and in scripture. Such faith must appear in conduct, not merely in a claim. The means of explaining a teaching may be adapted to time, place, and the learner, while its underlying meaning remains intact. A pill placed in a banana illustrates changing the method without discarding the essential remedy.\n\nSimple language can make scripture accessible, practised, and understood. Those who teach or lead spiritual centres have a responsibility to embody its values and strengthen confidence through their own lives. Truthful and pleasant speech support both sacred learning and human welfare. Peace and fortitude make this practice possible. The section also links devotion with recognising the Divine in human form, referring to Krishna’s statement in the Gita. Its overall emphasis is on living faith: understanding the essential teaching, preserving it through suitable communication, and demonstrating its sweetness through action.",
+        "qa": [
+          {
+            "q": "Which two forms of faith are emphasised?",
+            "a": "Faith in oneself and in scripture. Both are to support spiritual effort and conduct."
+          },
+          {
+            "q": "What may change when a teaching is adapted?",
+            "a": "The means of presenting it. Adaptation is permitted without discarding the principle."
+          },
+          {
+            "q": "What illustrates preserving the essential while changing the method?",
+            "a": "A pill placed in a banana. The remedy remains while its presentation becomes acceptable."
+          },
+          {
+            "q": "Why is simple language recommended?",
+            "a": "It helps people understand and practise scripture. Accessibility allows the teaching to become lived experience."
+          },
+          {
+            "q": "What responsibility belongs to spiritual teachers and leaders?",
+            "a": "Demonstrating the teaching in their conduct. Their example can strengthen or undermine others’ faith."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two forms of faith are emphasised?",
+            "options": [
+              "Faith in wealth and rank",
+              "Faith in praise and fashion",
+              "Faith in argument and display",
+              "Faith in oneself and in scripture"
+            ],
+            "correct": 3,
+            "explanation": "Both are to support spiritual effort and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 10, PDF pages 16–18"
+          },
+          {
+            "q": "What may change when a teaching is adapted?",
+            "options": [
+              "The means of presenting it",
+              "Its fundamental ideal",
+              "Its essential meaning",
+              "Its underlying truth"
+            ],
+            "correct": 0,
+            "explanation": "Adaptation is permitted without discarding the principle.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 10, PDF pages 16–18"
+          },
+          {
+            "q": "What illustrates preserving the essential while changing the method?",
+            "options": [
+              "A letter without an address",
+              "A pill placed in a banana",
+              "A wave leaving the sea",
+              "A seed thrown away"
+            ],
+            "correct": 1,
+            "explanation": "The remedy remains while its presentation becomes acceptable.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 10, PDF pages 16–18"
+          },
+          {
+            "q": "Why is simple language recommended?",
+            "options": [
+              "It removes the need for conduct",
+              "It changes every ideal",
+              "It helps people understand and practise scripture",
+              "It replaces faith with entertainment"
+            ],
+            "correct": 2,
+            "explanation": "Accessibility allows the teaching to become lived experience.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 10, PDF pages 16–18"
+          },
+          {
+            "q": "What responsibility belongs to spiritual teachers and leaders?",
+            "options": [
+              "Seeking admiration alone",
+              "Quoting without practice",
+              "Encouraging dependence on status",
+              "Demonstrating the teaching in their conduct"
+            ],
+            "correct": 3,
+            "explanation": "Their example can strengthen or undermine others’ faith.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=16",
+            "sourceLabel": "Section 10, PDF pages 16–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "The spirituality of India",
+        "chapter": "Section 11 · The spirituality of India",
+        "chapterNumber": 11,
+        "pdfStartPage": 18,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+        "sourceLabel": "Section 11, PDF pages 18–19",
+        "summary": "This section presents the book’s view of India’s spiritual inheritance. It points to the Vedas, philosophical systems, Puranas, and commentaries, together with disciplines developed through the experience of sages. Questions about life, God, and what happens to the individual after death are central to the inquiry it honours. The passage also recalls Buddha and the teaching of nonviolence.\n\nIts purpose is an appeal to use this inheritance rather than merely praise or neglect it. The reader is called to begin actual practice, strengthen faith, and make peace a secure part of life. Spiritual literature has value through the experience and discipline it communicates. The closing exhortation returns from cultural appreciation to personal responsibility: the aspirant should not delay the work of discovering the bliss of the Self.",
+        "qa": [
+          {
+            "q": "Which body of literature is specifically mentioned?",
+            "a": "The four Vedas. The passage includes the Vedas among India’s spiritual resources."
+          },
+          {
+            "q": "How many principal philosophical systems are named?",
+            "a": "Six. The section refers to six principal darsanas."
+          },
+          {
+            "q": "Which teaching is associated with Buddhism here?",
+            "a": "Nonviolence. The passage recalls India’s role in spreading this teaching."
+          },
+          {
+            "q": "What response to spiritual inheritance is urged?",
+            "a": "Actual practice and strengthened faith. The appeal is to put the inheritance to use in life."
+          },
+          {
+            "q": "What does the closing exhortation ask the aspirant to make secure?",
+            "a": "Peace. The section ends with an invitation to peace and the bliss of the Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which body of literature is specifically mentioned?",
+            "options": [
+              "Only court histories",
+              "Only commercial records",
+              "The four Vedas",
+              "Only scientific manuals"
+            ],
+            "correct": 2,
+            "explanation": "The passage includes the Vedas among India’s spiritual resources.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+            "sourceLabel": "Section 11, PDF pages 18–19"
+          },
+          {
+            "q": "How many principal philosophical systems are named?",
+            "options": [
+              "Two",
+              "Eight",
+              "Twelve",
+              "Six"
+            ],
+            "correct": 3,
+            "explanation": "The section refers to six principal darsanas.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+            "sourceLabel": "Section 11, PDF pages 18–19"
+          },
+          {
+            "q": "Which teaching is associated with Buddhism here?",
+            "options": [
+              "Nonviolence",
+              "Accumulation of wealth",
+              "Public status",
+              "Sensory indulgence"
+            ],
+            "correct": 0,
+            "explanation": "The passage recalls India’s role in spreading this teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+            "sourceLabel": "Section 11, PDF pages 18–19"
+          },
+          {
+            "q": "What response to spiritual inheritance is urged?",
+            "options": [
+              "Praise without practice",
+              "Actual practice and strengthened faith",
+              "Neglect of the teaching",
+              "Dependence on ancestry alone"
+            ],
+            "correct": 1,
+            "explanation": "The appeal is to put the inheritance to use in life.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+            "sourceLabel": "Section 11, PDF pages 18–19"
+          },
+          {
+            "q": "What does the closing exhortation ask the aspirant to make secure?",
+            "options": [
+              "Social rank",
+              "Material power",
+              "Peace",
+              "Public recognition"
+            ],
+            "correct": 2,
+            "explanation": "The section ends with an invitation to peace and the bliss of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=18",
+            "sourceLabel": "Section 11, PDF pages 18–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Spiritual steps toward peace",
+        "chapter": "Section 12 · Spiritual steps toward peace",
+        "chapterNumber": 12,
+        "pdfStartPage": 19,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+        "sourceLabel": "Section 12, PDF pages 19–21",
+        "summary": "The section describes a gradual inward discipline: replace impure impulses with pure ones, then go beyond even these toward a mind no longer dependent on objects. Peace arises within and supports meditation and realisation. As identification with the body and ego diminishes, awareness of the Self’s bliss grows. Conduct should follow an awakened conscience rather than public opinion.\n\nThis inward direction is expressed through service, truthful company, courteous speech, kept promises, impartiality, and remembrance of the chosen divine name. The Lord’s name is compared with a mountain of sugar; different devotees approach its sweetness with different degrees of constancy. A distracted or clouded heart may fail to taste it, just as illness can obscure the taste of food. The still crane illustrates the quiet needed to receive truth, righteousness, peace, and love. The Pandavas and Kauravas then illustrate the importance of present conduct: hardship need not prevent good deeds, and comfort does not justify wrongdoing.",
+        "qa": [
+          {
+            "q": "What is the first step in dealing with impulses?",
+            "a": "Replace impure impulses with pure ones. The discipline proceeds gradually toward freedom from dependence on objects."
+          },
+          {
+            "q": "What should guide conduct instead of others’ opinions?",
+            "a": "An awakened conscience. The section directs the aspirant to the inner Self."
+          },
+          {
+            "q": "What is compared with a mountain of sugar?",
+            "a": "The Lord’s name. The image expresses the sweetness of sustained remembrance."
+          },
+          {
+            "q": "What does the still crane illustrate?",
+            "a": "The quiet needed for spiritual attainment. Inner turmoil obstructs the qualities the seeker hopes to receive."
+          },
+          {
+            "q": "How are the Pandavas described in the concluding contrast?",
+            "a": "Doing good while undergoing hardship. Their conduct illustrates the wise response to difficult circumstances."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the first step in dealing with impulses?",
+            "options": [
+              "Follow every impulse",
+              "Replace impure impulses with pure ones",
+              "Suppress all conscience",
+              "Seek public approval"
+            ],
+            "correct": 1,
+            "explanation": "The discipline proceeds gradually toward freedom from dependence on objects.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+            "sourceLabel": "Section 12, PDF pages 19–21"
+          },
+          {
+            "q": "What should guide conduct instead of others’ opinions?",
+            "options": [
+              "Fashion alone",
+              "Fear of losing rank",
+              "An awakened conscience",
+              "Desire for praise"
+            ],
+            "correct": 2,
+            "explanation": "The section directs the aspirant to the inner Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+            "sourceLabel": "Section 12, PDF pages 19–21"
+          },
+          {
+            "q": "What is compared with a mountain of sugar?",
+            "options": [
+              "Material wealth",
+              "Scholarship",
+              "Social status",
+              "The Lord’s name"
+            ],
+            "correct": 3,
+            "explanation": "The image expresses the sweetness of sustained remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+            "sourceLabel": "Section 12, PDF pages 19–21"
+          },
+          {
+            "q": "What does the still crane illustrate?",
+            "options": [
+              "The quiet needed for spiritual attainment",
+              "The value of restless craving",
+              "Dependence on physical strength",
+              "Avoidance of every duty"
+            ],
+            "correct": 0,
+            "explanation": "Inner turmoil obstructs the qualities the seeker hopes to receive.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+            "sourceLabel": "Section 12, PDF pages 19–21"
+          },
+          {
+            "q": "How are the Pandavas described in the concluding contrast?",
+            "options": [
+              "Doing wrong because they were comfortable",
+              "Doing good while undergoing hardship",
+              "Abandoning truth for gain",
+              "Depending only on reputation"
+            ],
+            "correct": 1,
+            "explanation": "Their conduct illustrates the wise response to difficult circumstances.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=19",
+            "sourceLabel": "Section 12, PDF pages 19–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Detachment and renunciation",
+        "chapter": "Section 13 · Detachment and renunciation",
+        "chapterNumber": 13,
+        "pdfStartPage": 21,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+        "sourceLabel": "Section 13, PDF pages 21–22",
+        "summary": "Liberation is connected with cleansing the inner life of binding impressions and desires. Passion is described as arising from delusion, while detachment belongs to purity and wisdom. Establishing detachment requires continued effort. A child learning to walk illustrates how the aspirant should rise after a fall and begin again; failures can become steps toward success.\n\nAttachment to the Atma or the Lord is said to loosen other bonds. The person who is inwardly unattached can love everyone with purity. Renunciation therefore does not simply mean leaving home, possessions, or a kingdom. It means recognising the Divine in everything and allowing distinctions of name and form to lose their binding power. A person can abandon outward possessions yet remain full of worldly thoughts. Peace is necessary for the deeper detachment that the section recommends, because it supports both perseverance and universal love.",
+        "qa": [
+          {
+            "q": "What does the child learning to walk illustrate?",
+            "a": "Rising and trying again after failure. Perseverance turns setbacks into steps toward attainment."
+          },
+          {
+            "q": "What bond is said to loosen other bonds?",
+            "a": "Attachment to the Atma or the Lord. The spiritual relationship frees the person from lesser attachments."
+          },
+          {
+            "q": "How do the truly unattached love?",
+            "a": "Purely and universally. Inward freedom supports love toward all."
+          },
+          {
+            "q": "What is insufficient by itself to establish renunciation?",
+            "a": "Leaving home and possessions. Outward departure can coexist with inward attachment."
+          },
+          {
+            "q": "What is the deeper meaning of detachment here?",
+            "a": "Experiencing the Divine in everything beyond binding names and forms. The section defines renunciation through understanding and experience."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the child learning to walk illustrate?",
+            "options": [
+              "Rising and trying again after failure",
+              "Waiting for effortless success",
+              "Rejecting all discipline",
+              "Comparing oneself with others"
+            ],
+            "correct": 0,
+            "explanation": "Perseverance turns setbacks into steps toward attainment.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+            "sourceLabel": "Section 13, PDF pages 21–22"
+          },
+          {
+            "q": "What bond is said to loosen other bonds?",
+            "options": [
+              "Attachment to rank",
+              "Attachment to the Atma or the Lord",
+              "Attachment to praise",
+              "Attachment to possessions"
+            ],
+            "correct": 1,
+            "explanation": "The spiritual relationship frees the person from lesser attachments.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+            "sourceLabel": "Section 13, PDF pages 21–22"
+          },
+          {
+            "q": "How do the truly unattached love?",
+            "options": [
+              "Only when rewarded",
+              "Only within one group",
+              "Purely and universally",
+              "With increasing possessiveness"
+            ],
+            "correct": 2,
+            "explanation": "Inward freedom supports love toward all.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+            "sourceLabel": "Section 13, PDF pages 21–22"
+          },
+          {
+            "q": "What is insufficient by itself to establish renunciation?",
+            "options": [
+              "Recognition of divine presence",
+              "Freedom from binding desire",
+              "Inward peace",
+              "Leaving home and possessions"
+            ],
+            "correct": 3,
+            "explanation": "Outward departure can coexist with inward attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+            "sourceLabel": "Section 13, PDF pages 21–22"
+          },
+          {
+            "q": "What is the deeper meaning of detachment here?",
+            "options": [
+              "Experiencing the Divine in everything beyond binding names and forms",
+              "Avoiding all people through dislike",
+              "Seeking another social title",
+              "Refusing every act of service"
+            ],
+            "correct": 0,
+            "explanation": "The section defines renunciation through understanding and experience.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=21",
+            "sourceLabel": "Section 13, PDF pages 21–22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Happiness through unity",
+        "chapter": "Section 14 · Happiness through unity",
+        "chapterNumber": 14,
+        "pdfStartPage": 22,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+        "sourceLabel": "Section 14, PDF page 22",
+        "summary": "One ocean may receive different names, but its underlying unity remains. Likewise, the Lord is approached through different names and spiritual paths. Rivers flowing from different directions all reach the sea. These images explain why the seeker should attend to the common destination rather than magnify distinctions.\n\nThe section teaches that happiness and peace require unity of outlook. Devotion, yoga, truth, righteousness, love, and peace can lead toward the ocean of divine grace, where divisions of name and form disappear. Comparing paths with hostility becomes an obstacle to the bliss being sought. Equal vision is therefore to be cultivated deliberately. Peace strengthens that vision and helps the aspirant recognise the unity underlying the many approaches to the Lord.",
+        "qa": [
+          {
+            "q": "What does the ocean with different names illustrate?",
+            "a": "One divine reality approached under various names. Different designations do not divide the ocean itself."
+          },
+          {
+            "q": "What do rivers from different directions share?",
+            "a": "Their destination in the sea. The image explains the common goal of varied disciplines."
+          },
+          {
+            "q": "What outlook obstructs happiness in this section?",
+            "a": "Dwelling on division and difference. Separation of outlook prevents the unity the teaching recommends."
+          },
+          {
+            "q": "What fades in the ocean of grace?",
+            "a": "Distinctions of name and form. The common fulfilment goes beyond these divisions."
+          },
+          {
+            "q": "What helps strengthen equal vision?",
+            "a": "Peace. Peace is described as the royal road toward the shared goal."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the ocean with different names illustrate?",
+            "options": [
+              "Separate ultimate realities with no connection",
+              "The superiority of geography",
+              "The need for rivalry",
+              "One divine reality approached under various names"
+            ],
+            "correct": 3,
+            "explanation": "Different designations do not divide the ocean itself.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 14, PDF page 22"
+          },
+          {
+            "q": "What do rivers from different directions share?",
+            "options": [
+              "Their destination in the sea",
+              "The same outward route",
+              "The same local name",
+              "The same starting point"
+            ],
+            "correct": 0,
+            "explanation": "The image explains the common goal of varied disciplines.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 14, PDF page 22"
+          },
+          {
+            "q": "What outlook obstructs happiness in this section?",
+            "options": [
+              "Equal vision",
+              "Dwelling on division and difference",
+              "Recognition of unity",
+              "Peacefulness"
+            ],
+            "correct": 1,
+            "explanation": "Separation of outlook prevents the unity the teaching recommends.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 14, PDF page 22"
+          },
+          {
+            "q": "What fades in the ocean of grace?",
+            "options": [
+              "Divine love",
+              "Peace",
+              "Distinctions of name and form",
+              "The reality of the Lord"
+            ],
+            "correct": 2,
+            "explanation": "The common fulfilment goes beyond these divisions.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 14, PDF page 22"
+          },
+          {
+            "q": "What helps strengthen equal vision?",
+            "options": [
+              "Jealous comparison",
+              "Hostility",
+              "Pride in labels",
+              "Peace"
+            ],
+            "correct": 3,
+            "explanation": "Peace is described as the royal road toward the shared goal.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 14, PDF page 22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Peace through truth, dharma, love, patience",
+        "chapter": "Section 15 · Peace through truth, dharma, love, patience",
+        "chapterNumber": 15,
+        "pdfStartPage": 22,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+        "sourceLabel": "Section 15, PDF pages 22–23",
+        "summary": "Peace in society begins with pure individual conduct and mutual tolerance within the family. Speech and action should avoid the intention to hurt, insult, or cause loss. Large-heartedness grows through devotion, humility, reverence for truth, and awareness of the consequences of wrongdoing. These qualities must be practised, not merely admired.\n\nKeeping the world physically at a distance does not remove inward desire. A seed carried away from its tree can still sprout; only a real change in the seed prevents its growth. In the same way, discrimination must transform the tendencies that disturb peace. Contentment, reduced craving, truth, righteousness, love, and patience make this possible without fleeing social responsibilities. The section connects personal practice with world peace: respect for others and freedom from envy grow when these qualities are lived. Anyone hoping to promote peace must first learn to experience it inwardly.",
+        "qa": [
+          {
+            "q": "What supports peace within the family?",
+            "a": "Mutual tolerance and pure conduct. The section links family harmony with the individual’s way of living."
+          },
+          {
+            "q": "What intention should be removed from speech and action?",
+            "a": "The wish to hurt or insult. Harmless and considerate conduct is central."
+          },
+          {
+            "q": "What does a seed carried away from its tree illustrate?",
+            "a": "External distance does not remove the capacity of desire to grow. Inner tendencies remain unless transformed."
+          },
+          {
+            "q": "Which four qualities are especially urged?",
+            "a": "Truth, dharma, love, and patience. These are to be cultivated and practised systematically."
+          },
+          {
+            "q": "What should someone promoting world peace first learn?",
+            "a": "To experience peace personally. The ability to guide others rests on lived peace."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What supports peace within the family?",
+            "options": [
+              "Competition for control",
+              "Fear of criticism",
+              "Mutual tolerance and pure conduct",
+              "Material display alone"
+            ],
+            "correct": 2,
+            "explanation": "The section links family harmony with the individual’s way of living.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 15, PDF pages 22–23"
+          },
+          {
+            "q": "What intention should be removed from speech and action?",
+            "options": [
+              "The wish to be truthful",
+              "The wish to serve",
+              "The wish to understand",
+              "The wish to hurt or insult"
+            ],
+            "correct": 3,
+            "explanation": "Harmless and considerate conduct is central.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 15, PDF pages 22–23"
+          },
+          {
+            "q": "What does a seed carried away from its tree illustrate?",
+            "options": [
+              "External distance does not remove the capacity of desire to grow",
+              "Moving always creates liberation",
+              "Every seed is already destroyed",
+              "Social duties are inherently harmful"
+            ],
+            "correct": 0,
+            "explanation": "Inner tendencies remain unless transformed.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 15, PDF pages 22–23"
+          },
+          {
+            "q": "Which four qualities are especially urged?",
+            "options": [
+              "Wealth, status, fame, and power",
+              "Truth, dharma, love, and patience",
+              "Anger, pride, envy, and greed",
+              "Fear, haste, doubt, and display"
+            ],
+            "correct": 1,
+            "explanation": "These are to be cultivated and practised systematically.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 15, PDF pages 22–23"
+          },
+          {
+            "q": "What should someone promoting world peace first learn?",
+            "options": [
+              "To gain political rank",
+              "To avoid everyone",
+              "To experience peace personally",
+              "To speak without acting"
+            ],
+            "correct": 2,
+            "explanation": "The ability to guide others rests on lived peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=22",
+            "sourceLabel": "Section 15, PDF pages 22–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "World peace and individual peace",
+        "chapter": "Section 16 · World peace and individual peace",
+        "chapterNumber": 16,
+        "pdfStartPage": 23,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+        "sourceLabel": "Section 16, PDF pages 23–25",
+        "summary": "Peace cannot simply be handed from one person to another. As one person’s meal does not satisfy another’s hunger, each must experience peace personally. Others can explain its value and show the path. Prayer contributes when it agrees with conduct; praying for peace while insulting or despising people contradicts the very aim of the prayer.\n\nThe body is compared with a temple whose purpose is the realisation of the Lord within. It should be cared for without mistaking the building for the deity. World peace and individual peace have a similar relationship: a peaceful world supports inner realisation, while inner peace informs constructive action. The section also distinguishes respect for the Self from pride in status or the body. Truth, pure love, selfless service, and remembrance express genuine self-respect. It ends by contrasting changing appearances with the enduring Atma, grounding lasting peace in what does not change.",
+        "qa": [
+          {
+            "q": "Why is eating used as an illustration?",
+            "a": "One person cannot experience peace on another’s behalf. Each must personally receive the benefit, though others can guide."
+          },
+          {
+            "q": "What must accompany prayer for peace?",
+            "a": "Conduct directed toward the same aim. Prayer and practice must agree."
+          },
+          {
+            "q": "What gives the body-temple its purpose?",
+            "a": "The Lord or Atma within. Care of the body should serve recognition of its indwelling reality."
+          },
+          {
+            "q": "What is genuine self-respect here?",
+            "a": "Respect for the Atma through truth, love, and service. The section distinguishes the Self from its temporary vehicle."
+          },
+          {
+            "q": "What is described as enduring amid change?",
+            "a": "The Atma. Lasting peace is grounded in the unchanging reality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is eating used as an illustration?",
+            "options": [
+              "Food replaces spiritual effort",
+              "One person cannot experience peace on another’s behalf",
+              "Only bodily satisfaction matters",
+              "Peace depends on a shared meal"
+            ],
+            "correct": 1,
+            "explanation": "Each must personally receive the benefit, though others can guide.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+            "sourceLabel": "Section 16, PDF pages 23–25"
+          },
+          {
+            "q": "What must accompany prayer for peace?",
+            "options": [
+              "Slander of others",
+              "Contempt for neighbours",
+              "Conduct directed toward the same aim",
+              "A wish for superiority"
+            ],
+            "correct": 2,
+            "explanation": "Prayer and practice must agree.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+            "sourceLabel": "Section 16, PDF pages 23–25"
+          },
+          {
+            "q": "What gives the body-temple its purpose?",
+            "options": [
+              "Its decoration alone",
+              "Its social status",
+              "Its outward size",
+              "The Lord or Atma within"
+            ],
+            "correct": 3,
+            "explanation": "Care of the body should serve recognition of its indwelling reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+            "sourceLabel": "Section 16, PDF pages 23–25"
+          },
+          {
+            "q": "What is genuine self-respect here?",
+            "options": [
+              "Respect for the Atma through truth, love, and service",
+              "Pride in wealth",
+              "Dependence on praise",
+              "Attachment to bodily appearance"
+            ],
+            "correct": 0,
+            "explanation": "The section distinguishes the Self from its temporary vehicle.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+            "sourceLabel": "Section 16, PDF pages 23–25"
+          },
+          {
+            "q": "What is described as enduring amid change?",
+            "options": [
+              "Social reputation",
+              "The Atma",
+              "Physical possessions",
+              "Every sensory experience"
+            ],
+            "correct": 1,
+            "explanation": "Lasting peace is grounded in the unchanging reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=23",
+            "sourceLabel": "Section 16, PDF pages 23–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Path of inquiry, discrimination, renunciation",
+        "chapter": "Section 17 · Path of inquiry, discrimination, renunciation",
+        "chapterNumber": 17,
+        "pdfStartPage": 25,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+        "sourceLabel": "Section 17, PDF pages 25–26",
+        "summary": "Human life offers capacities for reasoning, renunciation, and distinguishing right from wrong. The section asks that these be used not only for worldly affairs but also for discovering ultimate truth. Inquiry into who one is, where one has come from, where one is going, and how long one remains leads toward understanding the temporary nature of worldly experience.\n\nAn unaddressed letter illustrates a life without awareness of its origin and destination. The teaching gives the Atma as the true identity, source, and goal. Recognising the changing world as temporary loosens attachment and directs effort toward the enduring reality. Inquiry, discrimination, and detachment therefore support one another. The section urges the reader to use the present human opportunity for this work rather than spend it entirely on amusement and comfort. Knowledge of one’s true nature provides the basis for understanding the other questions.",
+        "qa": [
+          {
+            "q": "Which capacities are singled out as human opportunities?",
+            "a": "Reasoning, renunciation, and judging right from wrong. They are to be used for spiritual inquiry as well as ordinary life."
+          },
+          {
+            "q": "What does a letter without addresses illustrate?",
+            "a": "A life unaware of its source and destination. Without an origin or destination, the letter cannot fulfil its purpose."
+          },
+          {
+            "q": "What identity does the teaching give in answer to “Who are you?”",
+            "a": "The Atma. The section also identifies the Atma as source and destination."
+          },
+          {
+            "q": "What follows a deep recognition of worldly impermanence?",
+            "a": "Detachment. Discrimination weakens binding attachment."
+          },
+          {
+            "q": "When should this inquiry be undertaken?",
+            "a": "During the present human opportunity. The section warns against wasting the available time."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which capacities are singled out as human opportunities?",
+            "options": [
+              "Reasoning, renunciation, and judging right from wrong",
+              "Possession, display, and rivalry",
+              "Eating, sleeping, and wandering alone",
+              "Wealth, rank, and fame"
+            ],
+            "correct": 0,
+            "explanation": "They are to be used for spiritual inquiry as well as ordinary life.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+            "sourceLabel": "Section 17, PDF pages 25–26"
+          },
+          {
+            "q": "What does a letter without addresses illustrate?",
+            "options": [
+              "Successful communication",
+              "A life unaware of its source and destination",
+              "Perfect discrimination",
+              "Complete spiritual direction"
+            ],
+            "correct": 1,
+            "explanation": "Without an origin or destination, the letter cannot fulfil its purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+            "sourceLabel": "Section 17, PDF pages 25–26"
+          },
+          {
+            "q": "What identity does the teaching give in answer to “Who are you?”",
+            "options": [
+              "The body alone",
+              "One’s profession",
+              "The Atma",
+              "One’s possessions"
+            ],
+            "correct": 2,
+            "explanation": "The section also identifies the Atma as source and destination.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+            "sourceLabel": "Section 17, PDF pages 25–26"
+          },
+          {
+            "q": "What follows a deep recognition of worldly impermanence?",
+            "options": [
+              "Greater possessiveness",
+              "More dependence on praise",
+              "Rejection of all understanding",
+              "Detachment"
+            ],
+            "correct": 3,
+            "explanation": "Discrimination weakens binding attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+            "sourceLabel": "Section 17, PDF pages 25–26"
+          },
+          {
+            "q": "When should this inquiry be undertaken?",
+            "options": [
+              "During the present human opportunity",
+              "Only after all pleasures are exhausted",
+              "Only after gaining status",
+              "Only at the final instant"
+            ],
+            "correct": 0,
+            "explanation": "The section warns against wasting the available time.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=25",
+            "sourceLabel": "Section 17, PDF pages 25–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "The Crest-jewel of fools",
+        "chapter": "Section 18 · The Crest-jewel of fools",
+        "chapterNumber": 18,
+        "pdfStartPage": 26,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+        "sourceLabel": "Section 18, PDF pages 26–27",
+        "summary": "A king leaves governance to his minister and spends his life in comfort. His thoughtful companion is mocked as a fool and made to wear a gold plate bearing that title. When the king is dying, the companion offers a palanquin, chariot, horse, and finally his own help for the journey the king says he must undertake.\n\nThe king explains that none can accompany or carry him, yet admits that he does not know his destination. The companion then transfers the title to the king. The story exposes a life spent without inquiry into identity, origin, purpose, and destination. Recognising his mistake too late, the king urges his subjects to distinguish the true from the temporary and to live purely enough to receive divine grace. The lesson is not merely to collect an intellectual answer but to make inquiry and spiritual preparation part of life while time remains.",
+        "qa": [
+          {
+            "q": "Why did the king mock his companion?",
+            "a": "He mistook careful deliberation for foolishness. Thoughtfulness was wrongly judged as ignorance."
+          },
+          {
+            "q": "On what was the mocking title engraved?",
+            "a": "A gold plate. The companion was compelled to wear it on his forehead."
+          },
+          {
+            "q": "What did the king admit about his final journey?",
+            "a": "He did not know its destination. This admission led the companion to reverse the title."
+          },
+          {
+            "q": "Who finally received the title “Crest-jewel of fools”?",
+            "a": "The king. The king had neglected the inquiry his companion habitually practised."
+          },
+          {
+            "q": "What lesson did the king announce?",
+            "a": "Inquire into the true and eternal and live purely. His final instruction recognises the need for spiritual preparation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why did the king mock his companion?",
+            "options": [
+              "The companion refused every duty",
+              "The companion stole his wealth",
+              "The companion claimed the throne",
+              "He mistook careful deliberation for foolishness"
+            ],
+            "correct": 3,
+            "explanation": "Thoughtfulness was wrongly judged as ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+            "sourceLabel": "Section 18, PDF pages 26–27"
+          },
+          {
+            "q": "On what was the mocking title engraved?",
+            "options": [
+              "A gold plate",
+              "A wooden door",
+              "A stone road",
+              "A manuscript cover"
+            ],
+            "correct": 0,
+            "explanation": "The companion was compelled to wear it on his forehead.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+            "sourceLabel": "Section 18, PDF pages 26–27"
+          },
+          {
+            "q": "What did the king admit about his final journey?",
+            "options": [
+              "He could take his chariot",
+              "He did not know its destination",
+              "His companion could carry him",
+              "His wealth would accompany him"
+            ],
+            "correct": 1,
+            "explanation": "This admission led the companion to reverse the title.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+            "sourceLabel": "Section 18, PDF pages 26–27"
+          },
+          {
+            "q": "Who finally received the title “Crest-jewel of fools”?",
+            "options": [
+              "The minister",
+              "A physician",
+              "The king",
+              "A messenger"
+            ],
+            "correct": 2,
+            "explanation": "The king had neglected the inquiry his companion habitually practised.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+            "sourceLabel": "Section 18, PDF pages 26–27"
+          },
+          {
+            "q": "What lesson did the king announce?",
+            "options": [
+              "Seek greater luxury",
+              "Avoid all reflection",
+              "Trust power to remove death",
+              "Inquire into the true and eternal and live purely"
+            ],
+            "correct": 3,
+            "explanation": "His final instruction recognises the need for spiritual preparation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=26",
+            "sourceLabel": "Section 18, PDF pages 26–27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Inquire, discriminate, detach",
+        "chapter": "Section 19 · Inquire, discriminate, detach",
+        "chapterNumber": 19,
+        "pdfStartPage": 27,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+        "sourceLabel": "Section 19, PDF pages 27–28",
+        "summary": "Inquiry gives worldly knowledge its proper, relative value. Such knowledge is useful for living, but should not be mistaken for the eternal truth. Confusing the temporary with the absolute creates agitation. The aspirant should perform duties without selfish attachment, remain balanced in success and failure, and contemplate the changeless Divine.\n\nThe section connects devotion with a clear understanding of reality and presents inquiry as a means of discovering the truth behind appearances. Success requires learning from mistakes and avoiding their repetition. A wish must be strengthened into will and then into steady effort. The example of a person seeking physical strength shows how a clear aim leads to learning and sustained practice. One dominant spiritual aim is therefore more useful than scattered wishes, especially when persistent effort serves both personal and wider good rather than passing pleasures.",
+        "qa": [
+          {
+            "q": "What value should worldly learning be given?",
+            "a": "Relative value for living, not absolute value as eternal truth. Inquiry places it within its proper limits."
+          },
+          {
+            "q": "How should duties be performed?",
+            "a": "Without selfish attachment to success or failure. Equanimity accompanies responsible action."
+          },
+          {
+            "q": "What should follow recognition of a mistake?",
+            "a": "Correction and avoidance of repetition. Steady learning supports progress."
+          },
+          {
+            "q": "What sequence is recommended for reaching the aim?",
+            "a": "Wish, will, and effort. The aspiration must become sustained practice."
+          },
+          {
+            "q": "What illustrates learning the means and practising them steadily?",
+            "a": "A person training to become stronger. A clear aim leads to discovering and following the needed discipline."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What value should worldly learning be given?",
+            "options": [
+              "No possible usefulness",
+              "The status of final realisation automatically",
+              "Relative value for living, not absolute value as eternal truth",
+              "Unlimited authority over the Atma"
+            ],
+            "correct": 2,
+            "explanation": "Inquiry places it within its proper limits.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+            "sourceLabel": "Section 19, PDF pages 27–28"
+          },
+          {
+            "q": "How should duties be performed?",
+            "options": [
+              "Only when praise is certain",
+              "Only when failure is impossible",
+              "With rivalry as the motive",
+              "Without selfish attachment to success or failure"
+            ],
+            "correct": 3,
+            "explanation": "Equanimity accompanies responsible action.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+            "sourceLabel": "Section 19, PDF pages 27–28"
+          },
+          {
+            "q": "What should follow recognition of a mistake?",
+            "options": [
+              "Correction and avoidance of repetition",
+              "Continued careless repetition",
+              "Permanent despair",
+              "Blame without examination"
+            ],
+            "correct": 0,
+            "explanation": "Steady learning supports progress.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+            "sourceLabel": "Section 19, PDF pages 27–28"
+          },
+          {
+            "q": "What sequence is recommended for reaching the aim?",
+            "options": [
+              "Praise, status, and wealth",
+              "Wish, will, and effort",
+              "Fear, haste, and retreat",
+              "Argument, display, and rest"
+            ],
+            "correct": 1,
+            "explanation": "The aspiration must become sustained practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+            "sourceLabel": "Section 19, PDF pages 27–28"
+          },
+          {
+            "q": "What illustrates learning the means and practising them steadily?",
+            "options": [
+              "A king refusing inquiry",
+              "A seed carried away",
+              "A person training to become stronger",
+              "A painted moon"
+            ],
+            "correct": 2,
+            "explanation": "A clear aim leads to discovering and following the needed discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=27",
+            "sourceLabel": "Section 19, PDF pages 27–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "Deep into the ocean of peace",
+        "chapter": "Section 20 · Deep into the ocean of peace",
+        "chapterNumber": 20,
+        "pdfStartPage": 28,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+        "sourceLabel": "Section 20, PDF pages 28–29",
+        "summary": "Impulses and intentions are compared with fuel and fire. Removing the fuel allows the fire to subside into peace. The aspirant is asked to recognise peace, love, and joy as intrinsic qualities and to confirm this through experience. Peace develops the person as sunlight helps flowers blossom and fruit ripen.\n\nThe ocean then becomes the central image. Waves rise and fall, while the sea beneath remains the underlying reality. Sensory impulses and temporary attainments should not distract the seeker from that depth. Diving beneath the surface represents resting in a steadier awareness of Brahman. The pearl sought is the bliss of the Atma. Peace of this kind also has a social effect: it dissolves hatred, misunderstanding, and prejudice and gives strength for good. The section joins deep inward contentment with love’s power to overcome the barriers between people.",
+        "qa": [
+          {
+            "q": "What are impulses compared with?",
+            "a": "Fuel. Impulses sustain the fire associated with intentions."
+          },
+          {
+            "q": "What is the pearl in the ocean image?",
+            "a": "The bliss of the Atma. The seeker is invited to discover this inward treasure."
+          },
+          {
+            "q": "What do the surface waves represent?",
+            "a": "Changing impulses and temporary attainments. The image contrasts fluctuation with the deeper reality."
+          },
+          {
+            "q": "Where should the seeker direct attention?",
+            "a": "To the steady sea beneath the waves. Depth represents the unchanging Brahman."
+          },
+          {
+            "q": "What can this peace overcome among people?",
+            "a": "Hatred, misunderstanding, and prejudice. Peace is presented as an expression of love’s power for good."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What are impulses compared with?",
+            "options": [
+              "The pearl",
+              "Fuel",
+              "The ocean floor",
+              "Sunlight"
+            ],
+            "correct": 1,
+            "explanation": "Impulses sustain the fire associated with intentions.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+            "sourceLabel": "Section 20, PDF pages 28–29"
+          },
+          {
+            "q": "What is the pearl in the ocean image?",
+            "options": [
+              "Worldly reputation",
+              "Material possessions",
+              "The bliss of the Atma",
+              "Victory in argument"
+            ],
+            "correct": 2,
+            "explanation": "The seeker is invited to discover this inward treasure.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+            "sourceLabel": "Section 20, PDF pages 28–29"
+          },
+          {
+            "q": "What do the surface waves represent?",
+            "options": [
+              "The unchanging basis alone",
+              "Complete freedom from agitation",
+              "The absence of movement",
+              "Changing impulses and temporary attainments"
+            ],
+            "correct": 3,
+            "explanation": "The image contrasts fluctuation with the deeper reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+            "sourceLabel": "Section 20, PDF pages 28–29"
+          },
+          {
+            "q": "Where should the seeker direct attention?",
+            "options": [
+              "To the steady sea beneath the waves",
+              "Only to the highest wave",
+              "Only to outward excitement",
+              "Only to comparisons with others"
+            ],
+            "correct": 0,
+            "explanation": "Depth represents the unchanging Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+            "sourceLabel": "Section 20, PDF pages 28–29"
+          },
+          {
+            "q": "What can this peace overcome among people?",
+            "options": [
+              "Truthfulness",
+              "Hatred, misunderstanding, and prejudice",
+              "Mutual care",
+              "Selfless service"
+            ],
+            "correct": 1,
+            "explanation": "Peace is presented as an expression of love’s power for good.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=28",
+            "sourceLabel": "Section 20, PDF pages 28–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "The need for activity (karma)",
+        "chapter": "Section 21 · The need for activity (karma)",
+        "chapterNumber": 21,
+        "pdfStartPage": 29,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+        "sourceLabel": "Section 21, PDF pages 29–30",
+        "summary": "Peace is not an inactive life of eating and sleeping while waiting for divine help. The section calls for sincere, efficient work and recalls Prahlada’s devotion as an example. Activity protects against dullness and provides training through which understanding grows. Arjuna’s question about renunciation and action introduces the explanation that both can lead to liberation.\n\nTrue renunciation means freedom from desire and hatred, not merely giving up outward work. Action offered to the Lord without attachment to success, failure, honour, or loss fulfils this spirit. Even meditation and remembrance are forms of activity. The preferred discipline is therefore to relinquish the fruits of work while continuing the work itself. Breathing supplies the comparison: it is essential, yet ordinarily performed without calculating its rewards. In the same way, action undertaken without anxious possession of its results can sustain peace rather than disturb it.",
+        "qa": [
+          {
+            "q": "What mistaken idea of peace is rejected?",
+            "a": "Mere inactivity while waiting for help. Peace must not become an excuse for sloth."
+          },
+          {
+            "q": "Who asks Krishna about renunciation and action?",
+            "a": "Arjuna. His question introduces their relationship in the section."
+          },
+          {
+            "q": "What characterises the real renunciant?",
+            "a": "Freedom from desire and hatred. Renunciation is an inward condition."
+          },
+          {
+            "q": "What should be relinquished while work continues?",
+            "a": "Attachment to its fruits. Giving up the fruits brings greater peace than mere inactivity."
+          },
+          {
+            "q": "Why is breathing used as a comparison?",
+            "a": "It is essential activity performed without calculating rewards. Work can share this unpossessive quality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What mistaken idea of peace is rejected?",
+            "options": [
+              "Mere inactivity while waiting for help",
+              "Sincere work",
+              "Remembrance of God",
+              "Freedom from attachment"
+            ],
+            "correct": 0,
+            "explanation": "Peace must not become an excuse for sloth.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+            "sourceLabel": "Section 21, PDF pages 29–30"
+          },
+          {
+            "q": "Who asks Krishna about renunciation and action?",
+            "options": [
+              "Prahlada",
+              "Arjuna",
+              "Bhishma",
+              "Gajendra"
+            ],
+            "correct": 1,
+            "explanation": "His question introduces their relationship in the section.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+            "sourceLabel": "Section 21, PDF pages 29–30"
+          },
+          {
+            "q": "What characterises the real renunciant?",
+            "options": [
+              "Clothing alone",
+              "Avoiding every task",
+              "Freedom from desire and hatred",
+              "Seeking praise for withdrawal"
+            ],
+            "correct": 2,
+            "explanation": "Renunciation is an inward condition.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+            "sourceLabel": "Section 21, PDF pages 29–30"
+          },
+          {
+            "q": "What should be relinquished while work continues?",
+            "options": [
+              "Care in performing it",
+              "Sincerity",
+              "The wish to serve",
+              "Attachment to its fruits"
+            ],
+            "correct": 3,
+            "explanation": "Giving up the fruits brings greater peace than mere inactivity.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+            "sourceLabel": "Section 21, PDF pages 29–30"
+          },
+          {
+            "q": "Why is breathing used as a comparison?",
+            "options": [
+              "It is essential activity performed without calculating rewards",
+              "It replaces all other duties",
+              "It depends on public recognition",
+              "It is an example of total inactivity"
+            ],
+            "correct": 0,
+            "explanation": "Work can share this unpossessive quality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=29",
+            "sourceLabel": "Section 21, PDF pages 29–30"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Canalize the thoughts, reform the character",
+        "chapter": "Section 22 · Canalize the thoughts, reform the character",
+        "chapterNumber": 22,
+        "pdfStartPage": 30,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+        "sourceLabel": "Section 22, PDF pages 30–31",
+        "summary": "Thoughts often move in conflicting directions and must be directed toward a worthy aim. Real intelligence includes command of the mental faculties, not merely skill with external things. The section recommends learning from experienced people while testing understanding through one’s own action. Even someone with comfortable transport still needs to walk for health; similarly, no one can substitute another’s experience for their own discipline.\n\nThe environment influences the mind, so the aspirant should help create conditions favourable to growth. The discussion then connects peace with character and equality. Economic arrangements alone cannot preserve equality if attitudes remain selfish and divisive. Reform of character through knowledge of the Atma provides the inward basis for lasting outward improvement. The body changes and cannot be identified with the immortal Self. The section ends by turning attention from the objects seen toward the seer, so that awareness of the common reality can support equanimity and peace.",
+        "qa": [
+          {
+            "q": "Toward what should scattered thoughts be directed?",
+            "a": "A worthy, unifying aim. Mental discipline gives thought and action a coherent purpose."
+          },
+          {
+            "q": "What does walking despite having transport illustrate?",
+            "a": "The need for personal activity and experience. No external advantage removes the need for one’s own development."
+          },
+          {
+            "q": "What helps shape the mind’s qualities?",
+            "a": "Its environment. The section encourages creating conditions that support growth."
+          },
+          {
+            "q": "What must support lasting outward equality?",
+            "a": "Equality in character and outlook. The passage places inner reform beneath enduring social improvement."
+          },
+          {
+            "q": "From the seen, where should attention turn?",
+            "a": "To the seer. Inquiry into the knower leads toward the Atmic reality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Toward what should scattered thoughts be directed?",
+            "options": [
+              "Every passing attraction",
+              "Rivalry",
+              "Public display",
+              "A worthy, unifying aim"
+            ],
+            "correct": 3,
+            "explanation": "Mental discipline gives thought and action a coherent purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+            "sourceLabel": "Section 22, PDF pages 30–31"
+          },
+          {
+            "q": "What does walking despite having transport illustrate?",
+            "options": [
+              "The need for personal activity and experience",
+              "The uselessness of all conveniences",
+              "The superiority of possessions",
+              "The avoidance of effort"
+            ],
+            "correct": 0,
+            "explanation": "No external advantage removes the need for one’s own development.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+            "sourceLabel": "Section 22, PDF pages 30–31"
+          },
+          {
+            "q": "What helps shape the mind’s qualities?",
+            "options": [
+              "Its name alone",
+              "Its environment",
+              "Its clothing alone",
+              "Its social title alone"
+            ],
+            "correct": 1,
+            "explanation": "The section encourages creating conditions that support growth.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+            "sourceLabel": "Section 22, PDF pages 30–31"
+          },
+          {
+            "q": "What must support lasting outward equality?",
+            "options": [
+              "Distribution alone without inward change",
+              "More rivalry",
+              "Equality in character and outlook",
+              "Dependence on praise"
+            ],
+            "correct": 2,
+            "explanation": "The passage places inner reform beneath enduring social improvement.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+            "sourceLabel": "Section 22, PDF pages 30–31"
+          },
+          {
+            "q": "From the seen, where should attention turn?",
+            "options": [
+              "To more possessions",
+              "To public opinion",
+              "To outward decoration",
+              "To the seer"
+            ],
+            "correct": 3,
+            "explanation": "Inquiry into the knower leads toward the Atmic reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=30",
+            "sourceLabel": "Section 22, PDF pages 30–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "The Atma is the Reality",
+        "chapter": "Section 23 · The Atma is the Reality",
+        "chapterNumber": 23,
+        "pdfStartPage": 31,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+        "sourceLabel": "Section 23, PDF pages 31–34",
+        "summary": "The Atma is described as the light that illuminates everything without opposition. Unlike the changing body, it is formless, conscious, blissful, and unaffected by the qualities that govern nature. Identifying the Self with the body confuses the seer with what is seen. Discrimination and disciplined practice purify understanding so that this confusion can be overcome.\n\nThe section uses several comparisons to distinguish experience of reality from fascination with appearances. A painted moon cannot replace the actual moon; imagined silver in a shell and water in a mirage cannot meet a real need. Likewise, knowing words about Brahman is not the same as experiencing the peace they describe. The seeker must dedicate life to the necessary discipline and remain vigilant rather than use claims of wisdom to excuse sensory indulgence. The passage closes by comparing the superimposed world to imagined buildings in clouds and affirming the undivided consciousness of Brahman as the underlying reality.",
+        "qa": [
+          {
+            "q": "What confusion arises from identifying the Self with the body?",
+            "a": "Confusing the seer with the seen. The body is an object of awareness rather than the enduring knower."
+          },
+          {
+            "q": "How is the Atma described in relation to bodily changes?",
+            "a": "Unaffected by them. The section contrasts the changing body with the formless Self."
+          },
+          {
+            "q": "What does the painted moon illustrate?",
+            "a": "An appearance cannot replace direct experience of reality. The comparison stresses the difference between representation and experience."
+          },
+          {
+            "q": "What is insufficient for genuine peace?",
+            "a": "Merely knowing words about Brahman. Knowledge must mature beyond verbal familiarity."
+          },
+          {
+            "q": "What attitude should remain even with spiritual understanding?",
+            "a": "Vigilance regarding sensory attraction. The text warns against using the claim of wisdom to excuse carelessness."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What confusion arises from identifying the Self with the body?",
+            "options": [
+              "Distinguishing the permanent from the temporary",
+              "Recognising the witness",
+              "Confusing the seer with the seen",
+              "Practising discrimination"
+            ],
+            "correct": 2,
+            "explanation": "The body is an object of awareness rather than the enduring knower.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+            "sourceLabel": "Section 23, PDF pages 31–34"
+          },
+          {
+            "q": "How is the Atma described in relation to bodily changes?",
+            "options": [
+              "Growing old with them",
+              "Limited to their appearance",
+              "Dependent on their praise",
+              "Unaffected by them"
+            ],
+            "correct": 3,
+            "explanation": "The section contrasts the changing body with the formless Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+            "sourceLabel": "Section 23, PDF pages 31–34"
+          },
+          {
+            "q": "What does the painted moon illustrate?",
+            "options": [
+              "An appearance cannot replace direct experience of reality",
+              "All pictures confer realisation",
+              "Imagination alone fulfils every need",
+              "The actual moon has no value"
+            ],
+            "correct": 0,
+            "explanation": "The comparison stresses the difference between representation and experience.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+            "sourceLabel": "Section 23, PDF pages 31–34"
+          },
+          {
+            "q": "What is insufficient for genuine peace?",
+            "options": [
+              "Lived spiritual discipline",
+              "Merely knowing words about Brahman",
+              "Discrimination",
+              "Direct experience"
+            ],
+            "correct": 1,
+            "explanation": "Knowledge must mature beyond verbal familiarity.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+            "sourceLabel": "Section 23, PDF pages 31–34"
+          },
+          {
+            "q": "What attitude should remain even with spiritual understanding?",
+            "options": [
+              "Unrestricted indulgence",
+              "Pride in knowing",
+              "Vigilance regarding sensory attraction",
+              "Contempt for practice"
+            ],
+            "correct": 2,
+            "explanation": "The text warns against using the claim of wisdom to excuse carelessness.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=31",
+            "sourceLabel": "Section 23, PDF pages 31–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "The Practice of silence",
+        "chapter": "Section 24 · The Practice of silence",
+        "chapterNumber": 24,
+        "pdfStartPage": 34,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+        "sourceLabel": "Section 24, PDF pages 34–35",
+        "summary": "Genuine silence is more than keeping the mouth closed. It means freedom from the senses’ outward pull and steady awareness of one’s own reality. When the mind withdraws from external distraction, speech and the other senses become quiet with it. This condition belongs to experience and cannot be fully conveyed by description.\n\nThe intellect is called an important instrument that must be cleansed of the rust of sensory attachment. When it is tranquil and established in Brahman, the divisions and agitations that disturb peace subside. Disciplined living and persistent contemplation support this inward silence. Suka, Sanaka, and Sananda are named as examples of the resulting peace. Their steadiness is not shaken by distracting argument or change because it rests in the changeless Atma. Silence thus points toward undivided awareness and continuous bliss rather than the outward appearance of wordlessness.",
+        "qa": [
+          {
+            "q": "What is genuine silence?",
+            "a": "Inward freedom from sensory distraction and awareness of the Self. The section gives silence an inward spiritual meaning."
+          },
+          {
+            "q": "What follows when the mind truly withdraws from external distraction?",
+            "a": "Speech and the senses also become quiet. The quiet of the whole inner life is emphasised."
+          },
+          {
+            "q": "What is compared with an instrument needing removal of rust?",
+            "a": "The intellect. Sensory attachment is the rust obscuring its clarity."
+          },
+          {
+            "q": "Which sages are named as examples of this peace?",
+            "a": "Suka, Sanaka, and Sananda. They illustrate unwavering inward realisation."
+          },
+          {
+            "q": "What supports their freedom from disturbance by change?",
+            "a": "Awareness of the changeless Atma. Their peace rests in what does not undergo modification."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is genuine silence?",
+            "options": [
+              "Keeping the mouth shut alone",
+              "Inward freedom from sensory distraction and awareness of the Self",
+              "Avoiding every person through dislike",
+              "Refusing to understand anything"
+            ],
+            "correct": 1,
+            "explanation": "The section gives silence an inward spiritual meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+            "sourceLabel": "Section 24, PDF pages 34–35"
+          },
+          {
+            "q": "What follows when the mind truly withdraws from external distraction?",
+            "options": [
+              "Desire necessarily increases",
+              "Public recognition becomes essential",
+              "Speech and the senses also become quiet",
+              "All understanding disappears"
+            ],
+            "correct": 2,
+            "explanation": "The quiet of the whole inner life is emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+            "sourceLabel": "Section 24, PDF pages 34–35"
+          },
+          {
+            "q": "What is compared with an instrument needing removal of rust?",
+            "options": [
+              "A temple wall",
+              "A vehicle",
+              "A musical drum",
+              "The intellect"
+            ],
+            "correct": 3,
+            "explanation": "Sensory attachment is the rust obscuring its clarity.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+            "sourceLabel": "Section 24, PDF pages 34–35"
+          },
+          {
+            "q": "Which sages are named as examples of this peace?",
+            "options": [
+              "Suka, Sanaka, and Sananda",
+              "Arjuna, Bhishma, and Bruce",
+              "Janaka, Dilipa, and Aswapathi",
+              "Gajendra, Prahlada, and the king"
+            ],
+            "correct": 0,
+            "explanation": "They illustrate unwavering inward realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+            "sourceLabel": "Section 24, PDF pages 34–35"
+          },
+          {
+            "q": "What supports their freedom from disturbance by change?",
+            "options": [
+              "Material security",
+              "Awareness of the changeless Atma",
+              "Social approval",
+              "Physical isolation alone"
+            ],
+            "correct": 1,
+            "explanation": "Their peace rests in what does not undergo modification.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=34",
+            "sourceLabel": "Section 24, PDF pages 34–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "Action rather than inaction",
+        "chapter": "Section 25 · Action rather than inaction",
+        "chapterNumber": 25,
+        "pdfStartPage": 35,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+        "sourceLabel": "Section 25, PDF page 35",
+        "summary": "Discrimination is presented as a distinct human capacity that must guide action. The section questions the claim that avoiding bodily activity is sufficient, since the mind may continue acting inwardly. Such outward inactivity can therefore be only apparent. It also considers the objection that action necessarily brings mixtures of pleasure, pain, benefit, and bondage.\n\nThe Gita’s answer, as explained here, distinguishes attachment to results from the act itself. Work pursued for its fruits binds, whereas work without that attachment can lead toward liberation. Even liberated people act for the welfare of the world without seeking personal gain. Action is therefore not rejected as an enemy of peace. Properly understood and performed, it is a means of preserving the peace already attained and expressing it through conduct beneficial to others.",
+        "qa": [
+          {
+            "q": "What should guide human action?",
+            "a": "Discrimination. The capacity to distinguish wisely carries a responsibility to use it."
+          },
+          {
+            "q": "Why can bodily inactivity be misleading?",
+            "a": "The mind may still be acting. Apparent inactivity does not establish inward freedom."
+          },
+          {
+            "q": "What makes action binding in the explanation?",
+            "a": "Attachment to its fruits. The motive and attachment distinguish binding action."
+          },
+          {
+            "q": "Why do liberated people continue acting?",
+            "a": "For the welfare of the world. Their activity is not directed toward private benefit."
+          },
+          {
+            "q": "What can rightly performed action help preserve?",
+            "a": "The peace already attained. Action supports rather than contradicts this peace."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should guide human action?",
+            "options": [
+              "Discrimination",
+              "Habitual craving",
+              "Public applause",
+              "Fear alone"
+            ],
+            "correct": 0,
+            "explanation": "The capacity to distinguish wisely carries a responsibility to use it.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 25, PDF page 35"
+          },
+          {
+            "q": "Why can bodily inactivity be misleading?",
+            "options": [
+              "The mind always stops with the body",
+              "The mind may still be acting",
+              "Stillness automatically grants liberation",
+              "Every outward movement is harmful"
+            ],
+            "correct": 1,
+            "explanation": "Apparent inactivity does not establish inward freedom.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 25, PDF page 35"
+          },
+          {
+            "q": "What makes action binding in the explanation?",
+            "options": [
+              "Careful performance",
+              "Service without gain",
+              "Attachment to its fruits",
+              "Freedom from craving"
+            ],
+            "correct": 2,
+            "explanation": "The motive and attachment distinguish binding action.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 25, PDF page 35"
+          },
+          {
+            "q": "Why do liberated people continue acting?",
+            "options": [
+              "To secure personal fame",
+              "To increase possessiveness",
+              "To avoid understanding",
+              "For the welfare of the world"
+            ],
+            "correct": 3,
+            "explanation": "Their activity is not directed toward private benefit.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 25, PDF page 35"
+          },
+          {
+            "q": "What can rightly performed action help preserve?",
+            "options": [
+              "The peace already attained",
+              "A desire for praise",
+              "Dependence on status",
+              "Hostility toward others"
+            ],
+            "correct": 0,
+            "explanation": "Action supports rather than contradicts this peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 25, PDF page 35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "Practice of the name of the Lord",
+        "chapter": "Section 26 · Practice of the name of the Lord",
+        "chapterNumber": 26,
+        "pdfStartPage": 35,
+        "pdfEndPage": 36,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+        "sourceLabel": "Section 26, PDF pages 35–36",
+        "summary": "The Lord’s name is praised as a source of peace, happiness, and wisdom. The seeker is urged toward good company, freedom from wrongdoing, and refuge in the Lord present within every heart. Devotion and surrender of the heart matter more than scholarship, display, or elaborate outward observance. The limited span of life should be used for meaningful contemplation rather than lost entirely in passing desires.\n\nRemembrance is to continue with love through changing circumstances. The name is compared with a thunderbolt overcoming accumulated wrongdoing and with sunrise dispersing the darkness of delusion. Prahlada’s singing and its influence on the other children illustrate its transforming power. Devotion is then defined through continuous remembrance and intense love for the Lord. The path is open to everyone: the desire for liberation is the qualification described, rather than a restriction based on social position or outward attainment.",
+        "qa": [
+          {
+            "q": "What kind of company is recommended?",
+            "a": "The wise and the good. Association supports the practice of remembrance."
+          },
+          {
+            "q": "What does the Lord desire from the devotee in this passage?",
+            "a": "The surrendered heart. Inward devotion is placed above outward show."
+          },
+          {
+            "q": "What does sunrise illustrate?",
+            "a": "The name dispersing delusion. The image expresses illumination and purification."
+          },
+          {
+            "q": "Whose singing influences the other children in the example?",
+            "a": "Prahlada’s. The story illustrates the name’s power to transform character."
+          },
+          {
+            "q": "What qualification opens the path of devotion?",
+            "a": "The desire for liberation. The section says the path is open to all."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What kind of company is recommended?",
+            "options": [
+              "Those encouraging wrongdoing",
+              "Those devoted only to rivalry",
+              "Those seeking flattery",
+              "The wise and the good"
+            ],
+            "correct": 3,
+            "explanation": "Association supports the practice of remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 26, PDF pages 35–36"
+          },
+          {
+            "q": "What does the Lord desire from the devotee in this passage?",
+            "options": [
+              "The surrendered heart",
+              "Pompous display",
+              "Scholarship alone",
+              "Social prestige"
+            ],
+            "correct": 0,
+            "explanation": "Inward devotion is placed above outward show.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 26, PDF pages 35–36"
+          },
+          {
+            "q": "What does sunrise illustrate?",
+            "options": [
+              "The growth of pride",
+              "The name dispersing delusion",
+              "The permanence of the body",
+              "Dependence on possessions"
+            ],
+            "correct": 1,
+            "explanation": "The image expresses illumination and purification.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 26, PDF pages 35–36"
+          },
+          {
+            "q": "Whose singing influences the other children in the example?",
+            "options": [
+              "Bruce’s",
+              "The king’s",
+              "Prahlada’s",
+              "Maitreyi’s"
+            ],
+            "correct": 2,
+            "explanation": "The story illustrates the name’s power to transform character.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 26, PDF pages 35–36"
+          },
+          {
+            "q": "What qualification opens the path of devotion?",
+            "options": [
+              "Wealth",
+              "A public title",
+              "A particular family",
+              "The desire for liberation"
+            ],
+            "correct": 3,
+            "explanation": "The section says the path is open to all.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=35",
+            "sourceLabel": "Section 26, PDF pages 35–36"
+          }
+        ]
+      },
+      {
+        "id": "chapter-27",
+        "title": "Devotion and wisdom",
+        "chapter": "Section 27 · Devotion and wisdom",
+        "chapterNumber": 27,
+        "pdfStartPage": 36,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+        "sourceLabel": "Section 27, PDF pages 36–37",
+        "summary": "Knowing God is connected with loving God. Wisdom without devotion can become misused power, while genuine wisdom shows itself through widening love. Devotion gradually removes ignorance and cannot coexist with hatred. Love directed toward the Lord frees rather than binds the seeker.\n\nWisdom and devotion are compared with two bullocks pulling one cart: each must support the other. The cowherd women’s devotion to Krishna illustrates their cooperation. Peace is presented as their common essence, leading toward spiritual illumination. Faith, good company, listening to sacred teaching, recollection, and reflection help this growth. The section also rejects treating God as a trading partner. A devotee should seek love and devotion rather than bargain for other rewards. Real surrender is the uninterrupted movement of love toward the Lord, and this surrender gives lasting peace. The teaching joins understanding and affection as complementary aspects of one spiritual life.",
+        "qa": [
+          {
+            "q": "What is described as the sign of a wise person?",
+            "a": "Ever-widening love. Wisdom is recognised through love rather than intellectual display alone."
+          },
+          {
+            "q": "Which pair cannot coexist in the teaching?",
+            "a": "Devotion and hatred. Their natures are opposed."
+          },
+          {
+            "q": "What illustrates cooperation between devotion and wisdom?",
+            "a": "Two bullocks pulling one cart. Each must keep pace with and help the other."
+          },
+          {
+            "q": "What attitude toward God should be given up?",
+            "a": "Bargaining for rewards. The passage rejects a merely commercial relationship with the Divine."
+          },
+          {
+            "q": "What is real surrender?",
+            "a": "An uninterrupted flow of love toward the Lord. Such love is linked with genuine peace."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is described as the sign of a wise person?",
+            "options": [
+              "Pride in learning",
+              "Desire for power",
+              "Ever-widening love",
+              "Contempt for others"
+            ],
+            "correct": 2,
+            "explanation": "Wisdom is recognised through love rather than intellectual display alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+            "sourceLabel": "Section 27, PDF pages 36–37"
+          },
+          {
+            "q": "Which pair cannot coexist in the teaching?",
+            "options": [
+              "Devotion and wisdom",
+              "Faith and practice",
+              "Love and peace",
+              "Devotion and hatred"
+            ],
+            "correct": 3,
+            "explanation": "Their natures are opposed.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+            "sourceLabel": "Section 27, PDF pages 36–37"
+          },
+          {
+            "q": "What illustrates cooperation between devotion and wisdom?",
+            "options": [
+              "Two bullocks pulling one cart",
+              "Two rival kings",
+              "A lamp without oil",
+              "A letter without an address"
+            ],
+            "correct": 0,
+            "explanation": "Each must keep pace with and help the other.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+            "sourceLabel": "Section 27, PDF pages 36–37"
+          },
+          {
+            "q": "What attitude toward God should be given up?",
+            "options": [
+              "Loving remembrance",
+              "Bargaining for rewards",
+              "Faith",
+              "Surrender"
+            ],
+            "correct": 1,
+            "explanation": "The passage rejects a merely commercial relationship with the Divine.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+            "sourceLabel": "Section 27, PDF pages 36–37"
+          },
+          {
+            "q": "What is real surrender?",
+            "options": [
+              "An outward title",
+              "A demand for success",
+              "An uninterrupted flow of love toward the Lord",
+              "Avoidance of every act"
+            ],
+            "correct": 2,
+            "explanation": "Such love is linked with genuine peace.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=36",
+            "sourceLabel": "Section 27, PDF pages 36–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-28",
+        "title": "Indirect and direct knowledge",
+        "chapter": "Section 28 · Indirect and direct knowledge",
+        "chapterNumber": 28,
+        "pdfStartPage": 37,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+        "sourceLabel": "Section 28, PDF pages 37–38",
+        "summary": "The section distinguishes understanding gained through reasoning and instruction from knowledge realised in experience. Teaching about Brahman gives indirect knowledge; reflection and spiritual practice allow that understanding to become direct. The first step described is faithful service to a virtuous teacher who explains the reality clearly and simply.\n\nIndirect knowledge is compared with writing on water, while direct knowledge resembles letters carved in rock. Hearing a familiar word evoke its meaning illustrates how contemplation can become steady awareness. Control of the senses and passions, together with action free from desire for rewards, prepares the mind for this depth. When detachment is established, consciousness becomes pure and can withdraw from dependence on external objects. The section thus links instruction, sustained reflection, disciplined conduct, and experience rather than treating intellectual understanding as the final goal.",
+        "qa": [
+          {
+            "q": "What is indirect knowledge in this discussion?",
+            "a": "Understanding through instruction and reasoning. It is a necessary distinction from direct realisation."
+          },
+          {
+            "q": "How can indirect understanding become direct?",
+            "a": "Through sustained reflection and spiritual practice. Understanding must be experienced and realised."
+          },
+          {
+            "q": "What illustrates direct knowledge?",
+            "a": "Letters carved in rock. The image conveys stability and permanence."
+          },
+          {
+            "q": "What first step in practice is named?",
+            "a": "Faithful service to a virtuous teacher. The teacher should communicate the nature of Brahman simply."
+          },
+          {
+            "q": "What attitude toward action helps prepare the mind?",
+            "a": "Freedom from desire for its fruits. Detachment supports purification and inward withdrawal."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is indirect knowledge in this discussion?",
+            "options": [
+              "Fully realised experience",
+              "Understanding through instruction and reasoning",
+              "Material wealth",
+              "Mere physical strength"
+            ],
+            "correct": 1,
+            "explanation": "It is a necessary distinction from direct realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+            "sourceLabel": "Section 28, PDF pages 37–38"
+          },
+          {
+            "q": "How can indirect understanding become direct?",
+            "options": [
+              "Through praise alone",
+              "Through a new title",
+              "Through sustained reflection and spiritual practice",
+              "Through argument without discipline"
+            ],
+            "correct": 2,
+            "explanation": "Understanding must be experienced and realised.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+            "sourceLabel": "Section 28, PDF pages 37–38"
+          },
+          {
+            "q": "What illustrates direct knowledge?",
+            "options": [
+              "Letters drawn on water",
+              "A passing shadow",
+              "A fading sound",
+              "Letters carved in rock"
+            ],
+            "correct": 3,
+            "explanation": "The image conveys stability and permanence.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+            "sourceLabel": "Section 28, PDF pages 37–38"
+          },
+          {
+            "q": "What first step in practice is named?",
+            "options": [
+              "Faithful service to a virtuous teacher",
+              "Seeking public recognition",
+              "Rejecting all guidance",
+              "Accumulating possessions"
+            ],
+            "correct": 0,
+            "explanation": "The teacher should communicate the nature of Brahman simply.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+            "sourceLabel": "Section 28, PDF pages 37–38"
+          },
+          {
+            "q": "What attitude toward action helps prepare the mind?",
+            "options": [
+              "Dependence on rewards",
+              "Freedom from desire for its fruits",
+              "Competition for praise",
+              "Fear of losing status"
+            ],
+            "correct": 1,
+            "explanation": "Detachment supports purification and inward withdrawal.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=37",
+            "sourceLabel": "Section 28, PDF pages 37–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-29",
+        "title": "The Eightfold path of yoga",
+        "chapter": "Section 29 · The Eightfold path of yoga",
+        "chapterNumber": 29,
+        "pdfStartPage": 38,
+        "pdfEndPage": 43,
+        "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+        "sourceLabel": "Section 29, PDF pages 38–43",
+        "summary": "The final section presents eight stages: control of the inner and outer senses, posture, regulation of breath, inward withdrawal, concentration, meditation, and complete absorption. Alongside familiar definitions, it gives an inward interpretation of each. Yama means relinquishing identification with body and senses; niyama is steady love for the Divine. Posture requires both physical steadiness and inner ease, with freedom from disturbance by the external world.\n\nThe account of breath regulation emphasises recognising Brahman beneath changing names and forms, illustrated by gold remaining gold through the making and melting of ornaments. Inward withdrawal turns attention toward the Atma. Concentration trains the mind patiently, like a child, redirecting it through understanding and detachment rather than force. Meditation is an uninterrupted current of wisdom that recognises the same reality in apparent multiplicity. Samadhi fulfils meditation when the distinction between meditator and object disappears. Differentiated samadhi retains knower, knowing, and known; undifferentiated samadhi recognises all three as Brahman. The earlier seven disciplines are compared with streams finding their completion in this ocean, where the divisions of name, form, server, and served no longer remain.",
+        "qa": [
+          {
+            "q": "How is yama explained inwardly?",
+            "a": "Giving up identification with body and senses. The section goes beyond an outward list of restraints to the underlying identification."
+          },
+          {
+            "q": "What is emphasised in the inward explanation of niyama?",
+            "a": "Steady love for the Divine. Constant love supports purity, joy, practice, and surrender."
+          },
+          {
+            "q": "What do gold ornaments illustrate?",
+            "a": "An unchanged reality beneath changing names and forms. Gold remains the substance through different appearances."
+          },
+          {
+            "q": "How should the mind be trained for concentration?",
+            "a": "Patiently and tenderly, like a child. Understanding and detachment help redirect its attention."
+          },
+          {
+            "q": "What distinguishes undifferentiated samadhi?",
+            "a": "Knower, knowing, and known are realised as Brahman. The distinction retained in differentiated samadhi is overcome."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is yama explained inwardly?",
+            "options": [
+              "Giving up identification with body and senses",
+              "Holding the body motionless alone",
+              "Seeking praise for discipline",
+              "Increasing attachment to form"
+            ],
+            "correct": 0,
+            "explanation": "The section goes beyond an outward list of restraints to the underlying identification.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+            "sourceLabel": "Section 29, PDF pages 38–43"
+          },
+          {
+            "q": "What is emphasised in the inward explanation of niyama?",
+            "options": [
+              "Mere physical strength",
+              "Steady love for the Divine",
+              "Intellectual display",
+              "Dependence on possessions"
+            ],
+            "correct": 1,
+            "explanation": "Constant love supports purity, joy, practice, and surrender.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+            "sourceLabel": "Section 29, PDF pages 38–43"
+          },
+          {
+            "q": "What do gold ornaments illustrate?",
+            "options": [
+              "The permanence of every design",
+              "The spiritual value of wealth alone",
+              "An unchanged reality beneath changing names and forms",
+              "The need to prefer one shape"
+            ],
+            "correct": 2,
+            "explanation": "Gold remains the substance through different appearances.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+            "sourceLabel": "Section 29, PDF pages 38–43"
+          },
+          {
+            "q": "How should the mind be trained for concentration?",
+            "options": [
+              "Through force and fear alone",
+              "By following every distraction",
+              "By abandoning instruction",
+              "Patiently and tenderly, like a child"
+            ],
+            "correct": 3,
+            "explanation": "Understanding and detachment help redirect its attention.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+            "sourceLabel": "Section 29, PDF pages 38–43"
+          },
+          {
+            "q": "What distinguishes undifferentiated samadhi?",
+            "options": [
+              "Knower, knowing, and known are realised as Brahman",
+              "All three remain separate",
+              "Only outward stillness is present",
+              "The mind continues bargaining for rewards"
+            ],
+            "correct": 0,
+            "explanation": "The distinction retained in differentiated samadhi is overcome.",
+            "type": "recall",
+            "sourceUrl": "assets/prasanthi-vahini.pdf#page=38",
+            "sourceLabel": "Section 29, PDF pages 38–43"
           }
         ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "unitLabel": "section",
+    "studyNote": "Based solely on the supplied Prasanthi Vahini PDF. These study paraphrases follow its 29 editorial section headings; the original work had no numbered chapters. Consult the linked pages for the full teaching.",
+    "coverage": "All 29 titled sections in the supplied edition"
   },
   {
     "id": "jnana-vahini",
