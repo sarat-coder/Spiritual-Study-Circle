@@ -20902,899 +20902,1592 @@ window.VAHINI_BOOKS = [
   },
   {
     "id": "prasnottara",
-    "title": "Prasnottara Vahini",
+    "title": "Prasnothara Vahini",
     "hindiTitle": "प्रश्नोत्तरा वाहिनी",
-    "subtitle": "Questions on spiritual life",
-    "description": "Clarify wisdom, discipline, and contemplation.",
-    "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Prasnottara.pdf",
+    "subtitle": "Answers to Spiritual Questions",
+    "description": "Explore all 15 chapters of Bhagawan Sri Sathya Sai Baba’s Prasnothara Vahini in the supplied book’s original order. Each chapter includes a fuller English summary, five questions and answers, and five quiz questions based on its dialogue.",
+    "sourceUrl": "assets/prasnothara-vahini.pdf",
+    "pdfUrl": "assets/prasnothara-vahini.pdf",
     "topics": [
       {
-        "id": "yoga",
-        "title": "Yoga and liberation",
-        "chapter": "VIII. Yoga and Moksha",
-        "summary": "Yoga purifies the inner instrument, preparing it for wisdom. Wisdom removes ignorance and reveals the freedom sought through spiritual discipline.",
+        "id": "chapter-01",
+        "title": "The Body and Senses",
+        "chapter": "Chapter 1 · The Body and Senses",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+        "sourceLabel": "Chapter 1, PDF pages 8–10",
+        "summary": "The opening dialogue explains the human body through the five elements: ether, air, fire, water, and earth. Brahman is presented as their ultimate basis, with each successive element arising from the preceding one. The chapter then describes fivefold expressions of these elements: inner faculties, vital airs, organs of knowledge, subtle sensory qualities, and organs of action. These classifications belong to the book’s spiritual account of embodied life.\n\nThe discussion distinguishes the gross, subtle, and causal bodies, associated respectively with waking, dreaming, and deep sleep. The subtle body is described through seventeen categories, including the senses, subtle qualities, vital airs, mind, and intellect. A fourth, super-causal principle is described as pure witnessing consciousness beyond these states. The chapter closes by examining the tendencies that bind a person: habitual attachments centred on body, mind, wealth, and sex, and forms of vanity associated with clan, wealth, youth, and scholarship. Understanding the body thus leads into an examination of attachment and ego.",
         "qa": [
           {
-            "q": "How does yoga support wisdom?",
-            "a": "It quietens desires and prepares a clearer inner awareness."
+            "q": "What is presented as the ultimate basis of the five elements?",
+            "a": "Brahman. The dialogue traces the elements back to Brahman, the unmodified foundation."
+          },
+          {
+            "q": "Which group is identified as the organs of knowledge?",
+            "a": "Ear, skin, eye, tongue, and nose. The chapter distinguishes the perceiving organs from their objects and from the organs of action."
+          },
+          {
+            "q": "How many categories constitute the subtle body in this account?",
+            "a": "Seventeen. The five senses, five subtle qualities, five vital airs, mind, and intellect make seventeen."
+          },
+          {
+            "q": "Which state is associated with the causal body?",
+            "a": "Deep sleep. The chapter links the causal body with sushupti, or deep sleep."
+          },
+          {
+            "q": "Which four sources of vanity are named at the end?",
+            "a": "Clan, wealth, youth, and scholarship. These are the four groupings under which the dialogue places forms of egotism."
           }
         ],
         "quiz": [
           {
-            "q": "Isha keeps planning purchases during quiet practice. What should she examine?",
+            "q": "What is presented as the ultimate basis of the five elements?",
             "options": [
-              "Her neighbour's progress",
-              "The desire repeatedly capturing attention",
-              "The prestige of her routine",
-              "The appearance of the room"
-            ],
-            "correct": 1,
-            "explanation": "Recognising a recurring desire identifies the distraction that needs patient attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A learner knows spiritual terms but reacts impulsively. What needs strengthening?",
-            "options": [
-              "Discipline in everyday responses",
-              "The size of a vocabulary",
-              "The frequency of public claims",
-              "The cost of study materials"
+              "Brahman",
+              "The gross body",
+              "The organs of action",
+              "The dream state"
             ],
             "correct": 0,
-            "explanation": "Understanding remains incomplete when familiar ideas do not influence ordinary personal responses.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A student wants clarity while pursuing every impulse. What is the central difficulty?",
-            "options": [
-              "Clarity requires more possessions",
-              "Every desire guarantees insight",
-              "Public recognition is missing",
-              "Competing desires continually disturb attention"
-            ],
-            "correct": 3,
-            "explanation": "Unchecked competing impulses make sustained attention harder even when learning is sincerely desired.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "After a calm session, anger returns. Which conclusion is most balanced?",
-            "options": [
-              "One session permanently failed",
-              "Every earlier insight was false",
-              "Calm requires continued cultivation",
-              "Others must remove all difficulties"
-            ],
-            "correct": 2,
-            "explanation": "A returning reaction indicates continuing work rather than proving the entire effort meaningless.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A group treats discipline as a contest. What should guide improvement?",
-            "options": [
-              "More demanding public performances",
-              "Greater inward clarity and steadiness",
-              "Winning against other members",
-              "Displaying endurance for applause"
-            ],
-            "correct": 1,
-            "explanation": "Clarity and steadiness keep discipline connected with learning instead of personal competition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "Someone asks friends to remove every distraction. What responsibility remains theirs?",
-            "options": [
-              "Learning to manage their own attention",
-              "Judging everyone else's sincerity",
-              "Demanding perfect silence everywhere",
-              "Avoiding all future responsibilities"
-            ],
-            "correct": 0,
-            "explanation": "Supportive surroundings can help, but personal attention still requires practice and responsibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A seeker confuses suppression with understanding. What additional step helps?",
-            "options": [
-              "Hide the impulse from everyone",
-              "Pretend the impulse never occurs",
-              "Punish every unwanted thought",
-              "Examine the attraction behind the impulse"
-            ],
-            "correct": 3,
-            "explanation": "Examining attraction develops understanding instead of merely hiding an unresolved inner pattern.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A student becomes proud of strict habits. What is a useful check?",
-            "options": [
-              "Whether others know the schedule",
-              "Whether the routine seems unusual",
-              "Whether those habits reduce self-centred reactions",
-              "Whether praise arrives every day"
-            ],
-            "correct": 2,
-            "explanation": "A useful check connects disciplined habits with their effect on actual character.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "Nikhil feels restless after constant browsing. What is a practical experiment?",
-            "options": [
-              "Open more feeds simultaneously",
-              "Reduce unnecessary browsing and observe attention",
-              "Compare his device with others",
-              "Assume attention cannot be trained"
-            ],
-            "correct": 1,
-            "explanation": "Reducing a recurring distraction allows him to observe its relationship with restlessness.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A learner wants insight without changing harmful habits. What should be reconsidered?",
-            "options": [
-              "Whether conduct supports clear understanding",
-              "Whether more certificates are needed",
-              "Whether teachers offer enough praise",
-              "Whether difficult words sound convincing"
-            ],
-            "correct": 0,
-            "explanation": "Habits that repeatedly cloud judgment deserve attention alongside the search for insight.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A person mistakes temporary stillness for complete wisdom. What response is careful?",
-            "options": [
-              "Announce permanent spiritual perfection",
-              "Stop examining personal reactions",
-              "Expect others to accept every opinion",
-              "Value the calm without exaggerating its meaning"
-            ],
-            "correct": 3,
-            "explanation": "Appreciating calm does not require drawing conclusions beyond what the experience establishes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "Two beginners benefit from different routines. What is reasonable?",
-            "options": [
-              "Insist only one temperament exists",
-              "Rank their inner worth",
-              "Assess each routine's constructive effect",
-              "Require identical emotional reports"
-            ],
-            "correct": 2,
-            "explanation": "Constructive effects provide a better comparison than demanding uniform experiences from different people.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A difficult conversation tests a student's practice. What demonstrates growing steadiness?",
-            "options": [
-              "Interrupting with spiritual terminology",
-              "Listening before choosing a response",
-              "Claiming immunity from anger",
-              "Avoiding every disagreeing person"
-            ],
-            "correct": 1,
-            "explanation": "Listening creates space for a considered response instead of an automatic reaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A restless student wants immediate results. Which commitment is more useful?",
-            "options": [
-              "A sustainable discipline with patient review",
-              "A dramatic promise made publicly",
-              "An impossible schedule for one day",
-              "A search for guaranteed instant results"
-            ],
-            "correct": 0,
-            "explanation": "Sustainable effort provides opportunities to learn without depending on dramatic immediate change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A mentor reviews a student's routine. Which question addresses its purpose?",
-            "options": [
-              "How impressive does the routine sound?",
-              "Who has the longest schedule?",
-              "Which accessories attract admiration?",
-              "Is attention becoming clearer in daily life?"
-            ],
-            "correct": 3,
-            "explanation": "Daily clarity connects the routine with its purpose rather than its outward appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "A seeker has a setback. Which review avoids both denial and despair?",
-            "options": [
-              "Declare that no progress occurred",
-              "Blame the entire community",
-              "Identify the trigger and resume thoughtful effort",
-              "Pretend nothing needs attention"
-            ],
-            "correct": 2,
-            "explanation": "A specific review makes the setback informative while preserving responsibility and continued effort.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "Why is a storm a useful image for distraction?",
-            "options": [
-              "Every disturbance destroys all knowledge",
-              "Agitation makes stable attention difficult",
-              "Only weather determines understanding",
-              "Quiet surroundings guarantee liberation"
-            ],
-            "correct": 1,
-            "explanation": "The image illustrates disrupted steadiness without making circumstances the sole determining factor.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
-          },
-          {
-            "q": "What relationship does this topic describe?",
-            "options": [
-              "Discipline prepares the mind for wisdom",
-              "Discipline replaces all understanding",
-              "Wisdom depends on social rank",
-              "Desire automatically produces freedom"
-            ],
-            "correct": 0,
-            "explanation": "The topic connects inner preparation with the development of clearer spiritual understanding.",
+            "explanation": "The dialogue traces the elements back to Brahman, the unmodified foundation.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "A participant avoids examining a persistent habit. What is most constructive?",
+            "q": "Which group is identified as the organs of knowledge?",
             "options": [
-              "Increase claims of advancement",
-              "Focus only on others' faults",
-              "Replace reflection with self-praise",
-              "Bring honest awareness to the pattern"
+              "Vocal organs, hands, legs, genitals, and excretory organs",
+              "Ear, skin, eye, tongue, and nose",
+              "Sound, touch, form, taste, and smell",
+              "Mind, intellect, ego, cogniser, and subconscious mind"
             ],
-            "correct": 3,
-            "explanation": "Honest awareness makes a recurring pattern available for constructive attention and change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
+            "correct": 1,
+            "explanation": "The chapter distinguishes the perceiving organs from their objects and from the organs of action.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "A group measures progress only by attendance. What should be added?",
+            "q": "How many categories constitute the subtle body in this account?",
             "options": [
-              "A ranking by clothing",
-              "A prize for the loudest member",
-              "Reflection on attention and conduct",
-              "A comparison of personal wealth"
+              "Five",
+              "Ten",
+              "Seventeen",
+              "Twenty-five"
             ],
             "correct": 2,
-            "explanation": "Attendance records participation, while attention and conduct reveal how practice affects living.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — VIII. Yoga and Moksha"
+            "explanation": "The five senses, five subtle qualities, five vital airs, mind, and intellect make seventeen.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
+          },
+          {
+            "q": "Which state is associated with the causal body?",
+            "options": [
+              "Waking",
+              "Dreaming",
+              "The state beyond all states",
+              "Deep sleep"
+            ],
+            "correct": 3,
+            "explanation": "The chapter links the causal body with sushupti, or deep sleep.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
+          },
+          {
+            "q": "Which four sources of vanity are named at the end?",
+            "options": [
+              "Clan, wealth, youth, and scholarship",
+              "Food, breath, mind, and bliss",
+              "Sound, touch, taste, and smell",
+              "Waking, dreaming, sleep, and silence"
+            ],
+            "correct": 0,
+            "explanation": "These are the four groupings under which the dialogue places forms of egotism.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html"
+        ]
       },
       {
-        "id": "eligibility",
-        "title": "Discipline for everyone",
-        "chapter": "X. Brahmavidya and Women",
-        "summary": "Spiritual attainment requires discipline from women and men alike. Initiation alone cannot replace virtues such as mental and sensory control.",
+        "id": "chapter-02",
+        "title": "The Fourteen Worlds",
+        "chapter": "Chapter 2 · The Fourteen Worlds",
+        "chapterNumber": 2,
+        "pdfStartPage": 11,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+        "sourceLabel": "Chapter 2, PDF pages 11–12",
+        "summary": "The chapter presents the human body as a small-scale image of the cosmos. It locates seven upper and seven lower worlds within the body, using traditional correspondences rather than an account of physical anatomy. The upper worlds extend from the feet to the crest of the head; the heart is associated with the great world and the head with the realm of truth. The seven legendary seas are likewise related to bodily substances or functions.\n\nFive fires and ten kinds of sound extend this correspondence between the individual and the cosmos. The discussion then distinguishes anda-anda, the changing creation; pinda-anda, the inner principle of dualities such as seer and seen; and Brahma-anda, the inner forces that make the elements operate. Beyond these is the unmanifest Absolute. An illustration based on the eye clarifies the relationship: the retina, its inner circle, and the light shining there represent the three, while the splendour of the light points to Brahma.",
         "qa": [
           {
-            "q": "Does initiation remove the need for discipline?",
-            "a": "No. Every aspirant must cultivate the necessary virtues."
+            "q": "How many upper and lower worlds are described?",
+            "a": "Seven upper and seven lower. Together the two groups make the fourteen worlds of the title."
+          },
+          {
+            "q": "Which upper world is associated with the heart?",
+            "a": "The great world, mahar-loka. The heart is the location assigned to mahar-loka in the chapter’s correspondences."
+          },
+          {
+            "q": "Where is the fire of knowledge placed?",
+            "a": "In the heart. The five fires are assigned distinct locations, with knowledge related to the heart."
+          },
+          {
+            "q": "What does anda-anda refer to?",
+            "a": "Creation subject to evolution and involution. The term includes movable and immovable nature in this explanation."
+          },
+          {
+            "q": "What illustrates Brahma-anda in the comparison with the eye?",
+            "a": "The light shining within it. The inner forces are compared to the light, whose splendour is identified with Brahma."
           }
         ],
         "quiz": [
           {
-            "q": "A course reserves serious study for men. What should be reconsidered?",
+            "q": "How many upper and lower worlds are described?",
             "options": [
-              "Whether the restriction is popular",
-              "Whether women can donate instead",
-              "Whether access reflects equal spiritual opportunity",
-              "Whether publicity avoids the issue"
+              "Five upper and five lower",
+              "Ten upper and four lower",
+              "Four upper and ten lower",
+              "Seven upper and seven lower"
             ],
-            "correct": 2,
-            "explanation": "Equal opportunity requires examining exclusions that do not reflect the learner's sincere commitment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
+            "correct": 3,
+            "explanation": "Together the two groups make the fourteen worlds of the title.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–12"
           },
           {
-            "q": "An initiated student claims discipline is unnecessary. What is the best response?",
+            "q": "Which upper world is associated with the heart?",
             "options": [
-              "A title guarantees lasting wisdom",
-              "Initiation does not replace practising virtues",
-              "Rules apply only to newcomers",
-              "Recognition removes responsibility for conduct"
-            ],
-            "correct": 1,
-            "explanation": "Formal recognition cannot perform the daily work of developing a person's character.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A teacher praises men for conduct criticised in women. What standard is needed?",
-            "options": [
-              "The same ethical expectations for everyone",
-              "More praise for influential students",
-              "Separate standards based on popularity",
-              "No expectations for any participant"
+              "The great world, mahar-loka",
+              "The earth, bhu-loka",
+              "Heaven, swar-loka",
+              "The realm of truth, sathya-loka"
             ],
             "correct": 0,
-            "explanation": "Consistent standards prevent identity from determining how comparable conduct is judged.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
+            "explanation": "The heart is the location assigned to mahar-loka in the chapter’s correspondences.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–12"
           },
           {
-            "q": "A newcomer lacks connections but wishes to learn. What should matter most?",
+            "q": "Where is the fire of knowledge placed?",
             "options": [
-              "Family influence",
+              "In the feet",
+              "In the heart",
+              "In the navel",
+              "In the eye"
+            ],
+            "correct": 1,
+            "explanation": "The five fires are assigned distinct locations, with knowledge related to the heart.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–12"
+          },
+          {
+            "q": "What does anda-anda refer to?",
+            "options": [
+              "Only the individual’s wealth",
+              "Only the organs of action",
+              "Creation subject to evolution and involution",
+              "The absence of all creation"
+            ],
+            "correct": 2,
+            "explanation": "The term includes movable and immovable nature in this explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–12"
+          },
+          {
+            "q": "What illustrates Brahma-anda in the comparison with the eye?",
+            "options": [
+              "The black retina alone",
+              "The outer eyelid",
+              "The tears alone",
+              "The light shining within it"
+            ],
+            "correct": 3,
+            "explanation": "The inner forces are compared to the light, whose splendour is identified with Brahma.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "The Four Stages of Life",
+        "chapter": "Chapter 3 · The Four Stages of Life",
+        "chapterNumber": 3,
+        "pdfStartPage": 13,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+        "sourceLabel": "Chapter 3, PDF pages 13–15",
+        "summary": "The four stages are spiritual student, householder, forest dweller, and renunciant. The dialogue explains each through its inner discipline rather than its outward label. An unmarried person is not automatically a spiritual student: the defining qualities include restraint and sustained contemplation of Brahman. Householdership similarly requires responsibility, kindness toward dependants, fairness to others, righteous earning and conduct, mutual trust between spouses, and time devoted to service.\n\nForest dwelling means loosening desires and attachments while pursuing contemplation, guidance, and disciplined living. The chapter requires consideration for the spouse and provision for children before withdrawal. It also says that the inner discipline can transform life at home, whereas a forest address without detachment does not fulfil it. Renunciation makes remembrance of the Lord central and relinquishes dependence on worldly recognition. The closing discussion warns that ambition for an ashram’s wealth or expansion can bind a spiritual guide. Helping seekers spiritually must take precedence over personal ownership, institutional pride, and power.",
+        "qa": [
+          {
+            "q": "Which sequence lists the four stages discussed?",
+            "a": "Student, householder, forest dweller, renunciant. The chapter explains these four asramas through their duties and disciplines."
+          },
+          {
+            "q": "What makes someone a spiritual student in this teaching?",
+            "a": "Restraint and sustained contemplation of Brahman. The definition depends on inner life rather than marital status alone."
+          },
+          {
+            "q": "What is required before withdrawing into forest-dweller life?",
+            "a": "The spouse’s approval and provision for children. Renunciation of attachment does not remove the responsibilities specifically mentioned."
+          },
+          {
+            "q": "Can life at home become forest-dweller life?",
+            "a": "Yes, when the required detachment and new discipline are maintained. The chapter distinguishes the inner condition from the physical location."
+          },
+          {
+            "q": "What is the renunciate guide’s central duty toward visitors?",
+            "a": "Providing spiritual help. The warning concerns ownership and ambition displacing spiritual guidance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which sequence lists the four stages discussed?",
+            "options": [
+              "Householder, warrior, scholar, ruler",
+              "Student, teacher, merchant, ascetic",
+              "Student, householder, forest dweller, renunciant",
+              "Child, youth, adult, elder"
+            ],
+            "correct": 2,
+            "explanation": "The chapter explains these four asramas through their duties and disciplines.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 3, PDF pages 13–15"
+          },
+          {
+            "q": "What makes someone a spiritual student in this teaching?",
+            "options": [
+              "Being unmarried alone",
+              "Wearing a particular colour alone",
+              "Possessing many books alone",
+              "Restraint and sustained contemplation of Brahman"
+            ],
+            "correct": 3,
+            "explanation": "The definition depends on inner life rather than marital status alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 3, PDF pages 13–15"
+          },
+          {
+            "q": "What is required before withdrawing into forest-dweller life?",
+            "options": [
+              "The spouse’s approval and provision for children",
+              "Public recognition",
+              "A large institution",
+              "Abandonment of every responsibility without preparation"
+            ],
+            "correct": 0,
+            "explanation": "Renunciation of attachment does not remove the responsibilities specifically mentioned.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 3, PDF pages 13–15"
+          },
+          {
+            "q": "Can life at home become forest-dweller life?",
+            "options": [
+              "No, geographical location alone decides",
+              "Yes, when the required detachment and new discipline are maintained",
+              "Only through increased possessions",
+              "Only through public ceremonies"
+            ],
+            "correct": 1,
+            "explanation": "The chapter distinguishes the inner condition from the physical location.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 3, PDF pages 13–15"
+          },
+          {
+            "q": "What is the renunciate guide’s central duty toward visitors?",
+            "options": [
+              "Increasing institutional wealth",
+              "Seeking personal power",
+              "Providing spiritual help",
+              "Making visitors dependent on worldly status"
+            ],
+            "correct": 2,
+            "explanation": "The warning concerns ownership and ambition displacing spiritual guidance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=13",
+            "sourceLabel": "Chapter 3, PDF pages 13–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Freedom and Karma",
+        "chapter": "Chapter 4 · Freedom and Karma",
+        "chapterNumber": 4,
+        "pdfStartPage": 16,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+        "sourceLabel": "Chapter 4, PDF pages 16–17",
+        "summary": "The chapter opens with a description of blissful ascetics who are free from attachment and hatred and absorbed in inward joy. It then asks how long bodily duties and individual identity remain relevant. The stream joining the sea illustrates the individual’s return to its source. Freedom means release from bondage through recognition of the enduring, pure Atmic principle rather than identification with the changing body.\n\nThis attainment is open to those who prepare themselves through spiritual discipline. The comparison with medicine explains both the availability of the remedy and the effort required to benefit from it. Actions are classified as bad, good, and mixed, with a further category of wise action. Good action is governed by truth, righteousness, peace, and love. Mixed action appears charitable but conceals selfish motives, such as seeking publicity while treating workers unfairly. Wise action seeks instruction and understanding that free the person from duality and lead toward unity with the Universal.",
+        "qa": [
+          {
+            "q": "What illustrates the individual returning to its source?",
+            "a": "A stream joining the sea. The image explains the relation of the individual soul to the Supreme."
+          },
+          {
+            "q": "How is freedom defined?",
+            "a": "Release from all that binds. The chapter connects liberation with the stable, pure Atmic principle."
+          },
+          {
+            "q": "Who can attain this freedom?",
+            "a": "Anyone who equips themselves through spiritual effort. The medicine comparison stresses eligibility together with preparation."
+          },
+          {
+            "q": "What makes an apparently charitable act mixed?",
+            "a": "Selfish motives or harmful conduct beneath its good appearance. The chapter gives examples in which charitable display conceals exploitation or a desire for fame."
+          },
+          {
+            "q": "What is the aim of wise action?",
+            "a": "Learning the way out of bondage and toward unity. Such action seeks understanding from scriptures, elders, and teachers."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates the individual returning to its source?",
+            "options": [
+              "A lamp being extinguished by wind",
+              "A stream joining the sea",
+              "A pot being filled",
+              "A seed growing into a tree"
+            ],
+            "correct": 1,
+            "explanation": "The image explains the relation of the individual soul to the Supreme.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–17"
+          },
+          {
+            "q": "How is freedom defined?",
+            "options": [
+              "Acquisition of worldly power",
+              "Freedom from every act of service",
+              "Release from all that binds",
+              "Recognition by others"
+            ],
+            "correct": 2,
+            "explanation": "The chapter connects liberation with the stable, pure Atmic principle.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–17"
+          },
+          {
+            "q": "Who can attain this freedom?",
+            "options": [
+              "Only those with inherited wealth",
+              "Only public teachers",
+              "Only people with a particular occupation",
+              "Anyone who equips themselves through spiritual effort"
+            ],
+            "correct": 3,
+            "explanation": "The medicine comparison stresses eligibility together with preparation.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–17"
+          },
+          {
+            "q": "What makes an apparently charitable act mixed?",
+            "options": [
+              "Selfish motives or harmful conduct beneath its good appearance",
+              "The presence of compassion",
+              "The absence of publicity",
+              "Truthful and fair treatment"
+            ],
+            "correct": 0,
+            "explanation": "The chapter gives examples in which charitable display conceals exploitation or a desire for fame.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–17"
+          },
+          {
+            "q": "What is the aim of wise action?",
+            "options": [
+              "Increasing pride in possessions",
+              "Learning the way out of bondage and toward unity",
+              "Seeking applause for charity",
+              "Avoiding all instruction"
+            ],
+            "correct": 1,
+            "explanation": "Such action seeks understanding from scriptures, elders, and teachers.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Spiritual Wisdom and Devotion",
+        "chapter": "Chapter 5 · Spiritual Wisdom and Devotion",
+        "chapterNumber": 5,
+        "pdfStartPage": 18,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+        "sourceLabel": "Chapter 5, PDF pages 18–19",
+        "summary": "The dialogue discusses witnessing consciousness in dream, deep sleep, and the state beyond them. It presents God as both filling the universe and transcending it, with no place or name outside the divine reality. Freedom is identified as the highest human goal. Four fields of knowledge are then distinguished: metaphysics, sacred ritual knowledge, productive or vocational knowledge, and the administration of justice. Metaphysics concerns discrimination between Atma and non-Atma.\n\nThe chapter next turns to purification of the mind through comradeship, compassion, joy in others’ goodness, and non-involvement with the wicked without either love or hatred. It also groups devotees into four types: the spiritually distressed, seekers of wealth or power, seekers of liberating knowledge, and the wise who have overcome dual consciousness. Named examples make these categories concrete. The chapter therefore joins an account of ultimate reality with distinctions about knowledge, attitudes, and the motives with which people approach the Lord.",
+        "qa": [
+          {
+            "q": "How is God’s relation to the universe described?",
+            "a": "Both immanent in it and beyond it. The chapter says that all places and names are within the divine reality."
+          },
+          {
+            "q": "What does metaphysics enable a person to distinguish?",
+            "a": "Atma from non-Atma. This distinguishes it from the other fields of knowledge listed."
+          },
+          {
+            "q": "What is muditha in this chapter?",
+            "a": "Joy on encountering people who help and serve others. The joy described responds to charitable and helpful conduct."
+          },
+          {
+            "q": "What characterises the jijnasu devotee?",
+            "a": "A steady search for liberation and the Absolute. This devotee is the seeker of spiritual knowledge."
+          },
+          {
+            "q": "Which pair exemplifies the wise devotees?",
+            "a": "Suka and Sanaka. The chapter places Suka and Sanaka among those who know their identity with the underlying truth."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is God’s relation to the universe described?",
+            "options": [
+              "Both immanent in it and beyond it",
+              "Confined to one place within it",
+              "Entirely absent from it",
+              "Dependent on a single name"
+            ],
+            "correct": 0,
+            "explanation": "The chapter says that all places and names are within the divine reality.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+            "sourceLabel": "Chapter 5, PDF pages 18–19"
+          },
+          {
+            "q": "What does metaphysics enable a person to distinguish?",
+            "options": [
+              "One occupation from another",
+              "Atma from non-Atma",
+              "One crop from another",
+              "One legal office from another"
+            ],
+            "correct": 1,
+            "explanation": "This distinguishes it from the other fields of knowledge listed.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+            "sourceLabel": "Chapter 5, PDF pages 18–19"
+          },
+          {
+            "q": "What is muditha in this chapter?",
+            "options": [
+              "Desire for personal wealth",
+              "Distress at another’s happiness",
+              "Joy on encountering people who help and serve others",
+              "Anger toward opponents"
+            ],
+            "correct": 2,
+            "explanation": "The joy described responds to charitable and helpful conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+            "sourceLabel": "Chapter 5, PDF pages 18–19"
+          },
+          {
+            "q": "What characterises the jijnasu devotee?",
+            "options": [
+              "A wish for wealth alone",
+              "Freedom from all need for understanding before practice",
+              "A desire for social honour alone",
+              "A steady search for liberation and the Absolute"
+            ],
+            "correct": 3,
+            "explanation": "This devotee is the seeker of spiritual knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+            "sourceLabel": "Chapter 5, PDF pages 18–19"
+          },
+          {
+            "q": "Which pair exemplifies the wise devotees?",
+            "options": [
+              "Suka and Sanaka",
+              "Druva and Arjuna",
+              "Uddhava and Radha",
+              "Droupadi and Sakkubai"
+            ],
+            "correct": 0,
+            "explanation": "The chapter places Suka and Sanaka among those who know their identity with the underlying truth.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=18",
+            "sourceLabel": "Chapter 5, PDF pages 18–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Obstacles to Freedom",
+        "chapter": "Chapter 6 · Obstacles to Freedom",
+        "chapterNumber": 6,
+        "pdfStartPage": 20,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+        "sourceLabel": "Chapter 6, PDF pages 20–21",
+        "summary": "Obstacles are considered in relation to past, present, and future. The past binds through repeated recollection and emotional involvement. Present obstacles include concentrating on textual technicalities while missing the teaching, failing to grasp instruction, distorted reasoning, and conceited insistence that one’s own view must be correct. The future obstructs through anxiety over troubles that have not yet arrived.\n\nThe chapter also sets out traditional classifications of living beings and of approaches to worship. God may be recognised in sacred fire, in the heart, through an image, or everywhere in the universe. Each approach belongs to a stage, while universal recognition is given the highest place. The final discussion identifies inner enemies: desire, anger, greed, delusion, pride, and envy, together with related attitudes such as hypocrisy and the wish to harm. Their definitions direct attention to actual motives and conduct. Liberation requires escape from the net of attachment and hostility they create.",
+        "qa": [
+          {
+            "q": "What is the obstacle arising from the past?",
+            "a": "Recalling it and becoming affected by it. The issue is continued emotional entanglement in remembered events."
+          },
+          {
+            "q": "Which is a present obstacle named in the chapter?",
+            "a": "Textual criticism that misses the sense of the teaching. Attention to technicalities can displace the teaching’s meaning."
+          },
+          {
+            "q": "How does the future create an obstacle?",
+            "a": "Through worry about troubles before they arrive. Anticipatory anxiety distracts the aspirant."
+          },
+          {
+            "q": "How do knowers of the Atma recognise God?",
+            "a": "As present throughout the universe. The chapter gives the highest place to seeing the Lord everywhere and always."
+          },
+          {
+            "q": "What is the motive of the hypocrisy described?",
+            "a": "Winning public applause through religious or charitable display. The outward act conceals a desire for admiration."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the obstacle arising from the past?",
+            "options": [
+              "Studying a teaching carefully",
+              "Receiving wise guidance",
+              "Recognising one’s faults",
+              "Recalling it and becoming affected by it"
+            ],
+            "correct": 3,
+            "explanation": "The issue is continued emotional entanglement in remembered events.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+            "sourceLabel": "Chapter 6, PDF pages 20–21"
+          },
+          {
+            "q": "Which is a present obstacle named in the chapter?",
+            "options": [
+              "Textual criticism that misses the sense of the teaching",
+              "Humble listening",
+              "Clear discrimination",
+              "Sincere understanding"
+            ],
+            "correct": 0,
+            "explanation": "Attention to technicalities can displace the teaching’s meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+            "sourceLabel": "Chapter 6, PDF pages 20–21"
+          },
+          {
+            "q": "How does the future create an obstacle?",
+            "options": [
+              "Through events already remembered",
+              "Through worry about troubles before they arrive",
+              "Through gratitude for guidance",
+              "Through the absence of desire"
+            ],
+            "correct": 1,
+            "explanation": "Anticipatory anxiety distracts the aspirant.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+            "sourceLabel": "Chapter 6, PDF pages 20–21"
+          },
+          {
+            "q": "How do knowers of the Atma recognise God?",
+            "options": [
+              "Only in a single image",
+              "Only in sacred fire",
+              "As present throughout the universe",
+              "Only in one bodily location"
+            ],
+            "correct": 2,
+            "explanation": "The chapter gives the highest place to seeing the Lord everywhere and always.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+            "sourceLabel": "Chapter 6, PDF pages 20–21"
+          },
+          {
+            "q": "What is the motive of the hypocrisy described?",
+            "options": [
+              "Serving without recognition",
+              "Correcting personal faults",
+              "Rejoicing in others’ goodness",
+              "Winning public applause through religious or charitable display"
+            ],
+            "correct": 3,
+            "explanation": "The outward act conceals a desire for admiration.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=20",
+            "sourceLabel": "Chapter 6, PDF pages 20–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "The Five Sheaths",
+        "chapter": "Chapter 7 · The Five Sheaths",
+        "chapterNumber": 7,
+        "pdfStartPage": 22,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+        "sourceLabel": "Chapter 7, PDF pages 22–23",
+        "summary": "Discrimination and spiritual wisdom are given as the means of overcoming delusion. The chapter explains apparent limitation through superimposition: the Changeless remains free, yet seems affected through its association with the individual. Space within different vessels illustrates the identity expressed by “That” and “you.” When the enclosing limitation is removed, the apparently divided space is recognised as one.\n\nThe five sheaths are food, vital breath, mind, spiritual intelligence, and bliss. They are coverings, not the true “I” they enclose. The food sheath is the body sustained by food, subject to birth, growth, decay, and death. The vital-breath sheath concerns the senses and vital airs, while the mental sheath includes the perceiving senses and the mind that claims body-related things as “mine.” The chapter ends by distinguishing the witnessing Self from these changing conditions. Reflection on bodily impermanence and on the continuation of vital functions during sleep supports this discrimination.",
+        "qa": [
+          {
+            "q": "What removes delusion according to the opening answer?",
+            "a": "Discrimination and spiritual wisdom. Viveka and vijnana are the means specified."
+          },
+          {
+            "q": "What illustrates unity despite apparent individual limits?",
+            "a": "Space within different vessels. Removing the vessels’ limitations reveals the undivided space."
+          },
+          {
+            "q": "What is a sheath?",
+            "a": "A covering or case. The five coverings are distinguished from the real “I.”"
+          },
+          {
+            "q": "Why is the body called the food sheath?",
+            "a": "It grows through food and is sustained by it. The chapter follows this dependence from the womb through bodily life."
+          },
+          {
+            "q": "What attitude is associated with the mind described here?",
+            "a": "Identifying with the body and calling related things mine. This identification and outward movement explain the mind’s instability."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What removes delusion according to the opening answer?",
+            "options": [
+              "Pride in learning",
+              "Bodily appearance",
+              "Discrimination and spiritual wisdom",
+              "Accumulation of wealth"
+            ],
+            "correct": 2,
+            "explanation": "Viveka and vijnana are the means specified.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 7, PDF pages 22–23"
+          },
+          {
+            "q": "What illustrates unity despite apparent individual limits?",
+            "options": [
+              "Separate prices in a market",
+              "Different social titles",
+              "Competing arguments",
+              "Space within different vessels"
+            ],
+            "correct": 3,
+            "explanation": "Removing the vessels’ limitations reveals the undivided space.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 7, PDF pages 22–23"
+          },
+          {
+            "q": "What is a sheath?",
+            "options": [
+              "A covering or case",
+              "The final unconditioned Self",
+              "A social rank",
+              "A form of public worship"
+            ],
+            "correct": 0,
+            "explanation": "The five coverings are distinguished from the real “I.”",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 7, PDF pages 22–23"
+          },
+          {
+            "q": "Why is the body called the food sheath?",
+            "options": [
+              "It exists without nourishment",
+              "It grows through food and is sustained by it",
+              "It is identical to the mind",
+              "It remains unchanged after death"
+            ],
+            "correct": 1,
+            "explanation": "The chapter follows this dependence from the womb through bodily life.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 7, PDF pages 22–23"
+          },
+          {
+            "q": "What attitude is associated with the mind described here?",
+            "options": [
+              "Remaining the untouched witness alone",
+              "Having no movement toward objects",
+              "Identifying with the body and calling related things mine",
+              "Being beyond every sheath by definition"
+            ],
+            "correct": 2,
+            "explanation": "This identification and outward movement explain the mind’s instability.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=22",
+            "sourceLabel": "Chapter 7, PDF pages 22–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Yoga and Freedom",
+        "chapter": "Chapter 8 · Yoga and Freedom",
+        "chapterNumber": 8,
+        "pdfStartPage": 24,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+        "sourceLabel": "Chapter 8, PDF pages 24–25",
+        "summary": "The chapter distinguishes the unchanging Self from the inner instrument through which action occurs. Doership and the experience of results appear to belong to the Self because of this association, but the true “I” does not undergo modification. Similarly, movement from one birth to another is attributed to the subtle body, while the Self is compared with the all-pervading, unaffected sky.\n\nSpiritual knowledge and yoga are described as paths toward the same freedom, with a seeker following the discipline suited to their inner direction. The dialogue then explains their relationship: yoga purifies the inner instrument, wisdom arises in that purity, and wisdom dispels ignorance. Yoga is compared with fire because of its cleansing power. A lamp in a storm illustrates why uncontrolled sensory desire prevents the light of wisdom from remaining steady. Learning and detachment therefore need the support of sense control and a quietened mind if they are to lead to liberation.",
+        "qa": [
+          {
+            "q": "To what does doership belong in this account?",
+            "a": "The inner psychosomatic instrument. The Self appears to act through association with the inner instrument."
+          },
+          {
+            "q": "What passes from one birth to another?",
+            "a": "The limited subtle body. The chapter distinguishes this movement from the unaffected nature of the true Self."
+          },
+          {
+            "q": "What is the relationship between yoga and spiritual wisdom described here?",
+            "a": "Yoga purifies and gives rise to wisdom, which leads to freedom. Purity of the inner instrument prepares the arising of knowledge."
+          },
+          {
+            "q": "Why is yoga compared with fire?",
+            "a": "It burns away impurities. The image concerns spiritual purification."
+          },
+          {
+            "q": "What does a lamp in a storm illustrate?",
+            "a": "Wisdom cannot remain steady amid strong sensory desires. Sense control protects the light of understanding."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To what does doership belong in this account?",
+            "options": [
+              "The unchanging Self in its true nature",
+              "The inner psychosomatic instrument",
+              "The all-pervading sky",
+              "Brahman as a changing object"
+            ],
+            "correct": 1,
+            "explanation": "The Self appears to act through association with the inner instrument.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 8, PDF pages 24–25"
+          },
+          {
+            "q": "What passes from one birth to another?",
+            "options": [
+              "The omnipresent Self as a moving object",
+              "The external sky",
+              "The limited subtle body",
+              "A social title"
+            ],
+            "correct": 2,
+            "explanation": "The chapter distinguishes this movement from the unaffected nature of the true Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 8, PDF pages 24–25"
+          },
+          {
+            "q": "What is the relationship between yoga and spiritual wisdom described here?",
+            "options": [
+              "Wisdom makes all purification irrelevant",
+              "Yoga prevents wisdom",
+              "The two must have different ultimate goals",
+              "Yoga purifies and gives rise to wisdom, which leads to freedom"
+            ],
+            "correct": 3,
+            "explanation": "Purity of the inner instrument prepares the arising of knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 8, PDF pages 24–25"
+          },
+          {
+            "q": "Why is yoga compared with fire?",
+            "options": [
+              "It burns away impurities",
+              "It increases anger",
+              "It destroys the possibility of knowledge",
+              "It creates more sensory craving"
+            ],
+            "correct": 0,
+            "explanation": "The image concerns spiritual purification.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 8, PDF pages 24–25"
+          },
+          {
+            "q": "What does a lamp in a storm illustrate?",
+            "options": [
+              "Knowledge depends on weather alone",
+              "Wisdom cannot remain steady amid strong sensory desires",
+              "Desire guarantees illumination",
+              "Study is forbidden"
+            ],
+            "correct": 1,
+            "explanation": "Sense control protects the light of understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=24",
+            "sourceLabel": "Chapter 8, PDF pages 24–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Spiritual Wisdom and Yoga",
+        "chapter": "Chapter 9 · Spiritual Wisdom and Yoga",
+        "chapterNumber": 9,
+        "pdfStartPage": 26,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+        "sourceLabel": "Chapter 9, PDF pages 26–27",
+        "summary": "Spiritual wisdom reveals one’s true nature, while yoga supplies the discipline needed for that realisation. The chapter compares their relationship with oil and the flame of a lamp: yoga sustains, and wisdom illuminates. The softening of rice through cooking gives another illustration of the way discipline transforms the inner condition. Neither intellectual knowledge nor technique alone fulfils the purpose being described.\n\nA teacher of Vedanta should have purity and experiential knowledge, while the listener needs a genuine wish to learn. Describing delicious food cannot satisfy hunger; similarly, words without experience cannot satisfy the spiritual need. The body is then compared with a boat and knowledge with its rudder, showing why physical discipline remains useful. The chapter closes by affirming that knowledge of Brahman and purification of the mind are not restricted by sex. Using medicine as an analogy, it states that all who suffer the cycle of birth and death are entitled to the remedy and must observe the discipline that accompanies it.",
+        "qa": [
+          {
+            "q": "What does spiritual wisdom reveal?",
+            "a": "One’s true nature as Atma. The first answer defines wisdom through realisation of the Self."
+          },
+          {
+            "q": "In the lamp comparison, what does yoga represent?",
+            "a": "The oil. Wisdom is the flame, and yoga supports it as oil does."
+          },
+          {
+            "q": "What illustrates teaching that remains only words?",
+            "a": "Descriptions of food that do not satisfy hunger. Experience is necessary for the teaching to fulfil its purpose."
+          },
+          {
+            "q": "What is the body compared with?",
+            "a": "A boat. The body supports the journey, while knowledge is compared with the rudder."
+          },
+          {
+            "q": "Who is entitled to knowledge of Brahman according to the concluding answer?",
+            "a": "Men and women who undertake the required discipline. The chapter affirms equal eligibility while stressing the accompanying spiritual regimen."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does spiritual wisdom reveal?",
+            "options": [
+              "One’s true nature as Atma",
+              "Social superiority",
+              "The value of possessions",
+              "A new bodily identity"
+            ],
+            "correct": 0,
+            "explanation": "The first answer defines wisdom through realisation of the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 9, PDF pages 26–27"
+          },
+          {
+            "q": "In the lamp comparison, what does yoga represent?",
+            "options": [
+              "The illuminating flame",
+              "The oil",
+              "The surrounding darkness",
+              "The lamp’s shadow"
+            ],
+            "correct": 1,
+            "explanation": "Wisdom is the flame, and yoga supports it as oil does.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 9, PDF pages 26–27"
+          },
+          {
+            "q": "What illustrates teaching that remains only words?",
+            "options": [
+              "A meal actually eaten",
+              "A boat crossing a river",
+              "Descriptions of food that do not satisfy hunger",
+              "Rice softened by cooking"
+            ],
+            "correct": 2,
+            "explanation": "Experience is necessary for the teaching to fulfil its purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 9, PDF pages 26–27"
+          },
+          {
+            "q": "What is the body compared with?",
+            "options": [
+              "The rudder alone",
+              "The riverbank",
+              "The destination",
+              "A boat"
+            ],
+            "correct": 3,
+            "explanation": "The body supports the journey, while knowledge is compared with the rudder.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 9, PDF pages 26–27"
+          },
+          {
+            "q": "Who is entitled to knowledge of Brahman according to the concluding answer?",
+            "options": [
+              "Men and women who undertake the required discipline",
+              "Men alone regardless of discipline",
+              "Women alone regardless of discipline",
+              "Only those with wealth"
+            ],
+            "correct": 0,
+            "explanation": "The chapter affirms equal eligibility while stressing the accompanying spiritual regimen.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 9, PDF pages 26–27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Women and Knowledge of Brahman",
+        "chapter": "Chapter 10 · Women and Knowledge of Brahman",
+        "chapterNumber": 10,
+        "pdfStartPage": 28,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+        "sourceLabel": "Chapter 10, PDF pages 28–29",
+        "summary": "The chapter directly rejects the claim that women have no right to knowledge of Brahman. Spiritual discipline applies to men and women alike: initiation without equanimity and control of the senses is insufficient for either. Examples include Vishnu instructing Bhudevi, Siva teaching Parvathi, and Yajnavalkya teaching Maitreyi. The discussion of the Vedas distinguishes the sections on action and wisdom by spiritual development rather than sex.\n\nWomen’s attainment is illustrated across all four stages of life: Chudala as a householder, Sulabha Yogini as a renunciant, Maitreyi as a forest dweller, and Gargi as a student. The dialogue also refers to traditional social restrictions and the reverence shown to feminine deities, but expressly denies fundamental spiritual inferiority. Its final distinction is decisive: masculine, feminine, and neuter describe bodily forms, not the Atma. The divine Self is presented as pure, conscious, and self-luminous, beyond the bodily categories that give rise to such divisions.",
+        "qa": [
+          {
+            "q": "Does the chapter accept denying women knowledge of Brahman?",
+            "a": "No, it rejects that denial. The dialogue supports its answer with named examples of women receiving and realising the teaching."
+          },
+          {
+            "q": "What must both men and women cultivate beyond initiation?",
+            "a": "Equanimity and control of the senses. Discipline is required of both, not merely an outward initiation."
+          },
+          {
+            "q": "Who is said to have taught Maitreyi?",
+            "a": "Yajnavalkya. The chapter refers to the Brihadaranyaka Upanishad in this connection."
+          },
+          {
+            "q": "Which woman is named as attaining knowledge while a householder?",
+            "a": "Chudala. The other three are associated here with the renunciant, student, and forest-dweller stages respectively."
+          },
+          {
+            "q": "To what do masculine and feminine distinctions belong in the final answer?",
+            "a": "Bodily form rather than the Atma. The chapter describes the Self as beyond these bodily distinctions."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Does the chapter accept denying women knowledge of Brahman?",
+            "options": [
+              "Yes, without exception",
+              "Only householders are denied it",
+              "Only students are denied it",
+              "No, it rejects that denial"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue supports its answer with named examples of women receiving and realising the teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 10, PDF pages 28–29"
+          },
+          {
+            "q": "What must both men and women cultivate beyond initiation?",
+            "options": [
+              "Equanimity and control of the senses",
               "Public reputation",
-              "Expensive ceremonial clothing",
-              "Readiness to study and practise"
-            ],
-            "correct": 3,
-            "explanation": "Sincere readiness is relevant to learning, while prestige does not establish spiritual commitment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A senior member repeatedly interrupts others. What response is fair?",
-            "options": [
-              "Excuse everything because of seniority",
-              "Blame newer members automatically",
-              "Address the behaviour respectfully",
-              "Treat criticism as disloyalty"
-            ],
-            "correct": 2,
-            "explanation": "Respectful correction keeps standards meaningful even when the person holds recognised seniority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A woman returns to study after years away. Which welcome supports learning?",
-            "options": [
-              "Assume her opportunity has passed",
-              "Offer a practical route to participation",
-              "Require proof of superior status",
-              "Limit her to observing silently"
-            ],
-            "correct": 1,
-            "explanation": "A practical invitation recognises her present commitment instead of making assumptions about her history.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "An organiser confuses fairness with identical schedules. What is better?",
-            "options": [
-              "Offer access without lowering ethical expectations",
-              "Require one impossible timetable",
-              "Excuse dishonesty for busy people",
-              "Judge sincerity only by free time"
+              "Family prestige",
+              "Expensive ritual objects"
             ],
             "correct": 0,
-            "explanation": "Flexible access can accommodate circumstances while maintaining shared expectations about responsible conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A participant boasts about initiation but neglects kindness. What deserves attention?",
-            "options": [
-              "The ceremony's decorations",
-              "The number of witnesses",
-              "The social standing of guests",
-              "The gap between recognition and behaviour"
-            ],
-            "correct": 3,
-            "explanation": "The relevant gap concerns lived conduct rather than the ceremony's impressive outward details.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A group assigns study roles by gender automatically. What alternative is fair?",
-            "options": [
-              "Always preserve the familiar division",
-              "Let stereotypes decide competence",
-              "Consider willingness and relevant preparation",
-              "Avoid asking participants about interests"
-            ],
-            "correct": 2,
-            "explanation": "Considering actual preparation and willingness gives individuals a fairer opportunity to contribute.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A learner fears that identity disqualifies them. Which encouragement fits this topic?",
-            "options": [
-              "Prestige is the only qualification",
-              "Sincere discipline is open to every aspirant",
-              "Others must approve their worth",
-              "Learning belongs to one social category"
-            ],
-            "correct": 1,
-            "explanation": "The emphasis is shared opportunity joined with personal effort and responsible practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A celebrated speaker behaves carelessly. What lesson follows?",
-            "options": [
-              "Public standing does not cancel ethical responsibility",
-              "Fame proves every action correct",
-              "Audiences should ignore all conduct",
-              "Only beginners require self-control"
-            ],
-            "correct": 0,
-            "explanation": "Ethical responsibility remains relevant regardless of how admired or recognised someone becomes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "Two learners commit the same breach. What response is appropriate?",
-            "options": [
-              "Excuse the more influential learner",
-              "Punish the less popular learner",
-              "Change expectations after identifying them",
-              "Apply a consistent considerate process"
-            ],
-            "correct": 3,
-            "explanation": "A consistent process keeps correction focused on conduct rather than status or preference.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A member believes formal study alone proves readiness. What else should be considered?",
-            "options": [
-              "The attractiveness of certificates",
-              "The size of the audience",
-              "How learning shapes character",
-              "The prestige of acquaintances"
-            ],
-            "correct": 2,
-            "explanation": "Character provides evidence of application that formal study records cannot supply alone.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A facilitator wants an inclusive study circle. What should invitations emphasise?",
-            "options": [
-              "Exclusive identity requirements",
-              "Shared learning with mutual responsibility",
-              "Guaranteed status after attendance",
-              "Privileges for established families"
-            ],
-            "correct": 1,
-            "explanation": "Mutual responsibility combines an open welcome with meaningful expectations for all participants.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "An experienced woman is overlooked for a teaching role. What is a fair review?",
-            "options": [
-              "Assess her preparation and conduct directly",
-              "Assume tradition settles the matter",
-              "Count influential male supporters",
-              "Replace evaluation with stereotypes"
-            ],
-            "correct": 0,
-            "explanation": "Direct evaluation considers relevant qualities instead of using identity as a substitute.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "A student asks for exemptions because of family status. What reply is principled?",
-            "options": [
-              "Influence deserves separate moral rules",
-              "Family prestige guarantees understanding",
-              "Others should carry their responsibilities",
-              "The same virtues matter for every learner"
-            ],
-            "correct": 3,
-            "explanation": "Shared standards remain credible when family standing does not create ethical exemptions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "Does equal opportunity imply effortless attainment?",
-            "options": [
-              "Yes, effort becomes unnecessary",
-              "Yes, intention guarantees mastery",
-              "No, every learner still needs discipline",
-              "No, only some identities may try"
-            ],
-            "correct": 2,
-            "explanation": "Opportunity concerns access, while learning still requires the individual's commitment and effort.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
-          },
-          {
-            "q": "What remains necessary after spiritual initiation?",
-            "options": [
-              "Automatic superiority over others",
-              "Continued cultivation of virtues",
-              "Exemption from self-examination",
-              "Recognition by larger audiences"
-            ],
-            "correct": 1,
-            "explanation": "The topic stresses ongoing character development instead of treating initiation as sufficient.",
+            "explanation": "Discipline is required of both, not merely an outward initiation.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 10, PDF pages 28–29"
           },
           {
-            "q": "A learner needs accessible materials. Which response preserves equal opportunity?",
+            "q": "Who is said to have taught Maitreyi?",
             "options": [
-              "Adapt the format while retaining substance",
-              "Assume inability to learn",
-              "Replace teaching with empty praise",
-              "Exclude them from substantive discussion"
+              "Arjuna",
+              "Yajnavalkya",
+              "Janaka",
+              "Bhagiratha"
             ],
-            "correct": 0,
-            "explanation": "Accessible formats remove avoidable barriers without implying lower expectations about meaningful learning.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
+            "correct": 1,
+            "explanation": "The chapter refers to the Brihadaranyaka Upanishad in this connection.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 10, PDF pages 28–29"
           },
           {
-            "q": "A group wants evidence that inclusion is real. What should it examine?",
+            "q": "Which woman is named as attaining knowledge while a householder?",
             "options": [
-              "How often inclusion is advertised",
-              "How prestigious the venue appears",
-              "How many slogans decorate the room",
-              "Who can participate and receive fair guidance"
+              "Sulabha Yogini",
+              "Gargi",
+              "Chudala",
+              "Maitreyi"
+            ],
+            "correct": 2,
+            "explanation": "The other three are associated here with the renunciant, student, and forest-dweller stages respectively.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 10, PDF pages 28–29"
+          },
+          {
+            "q": "To what do masculine and feminine distinctions belong in the final answer?",
+            "options": [
+              "The eternal nature of the Atma",
+              "The highest spiritual wisdom itself",
+              "The absence of consciousness",
+              "Bodily form rather than the Atma"
             ],
             "correct": 3,
-            "explanation": "Actual participation and fair guidance provide stronger evidence than publicity or decorations.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — X. Brahmavidya and Women"
+            "explanation": "The chapter describes the Self as beyond these bodily distinctions.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=28",
+            "sourceLabel": "Chapter 10, PDF pages 28–29"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html"
+        ]
       },
       {
-        "id": "japa",
-        "title": "Contemplative repetition",
-        "chapter": "XIII. Manthra and Japa",
-        "summary": "Mantra practice involves sustained contemplation of meaning. The teaching gives Pranava a central place and emphasises purified consciousness.",
+        "id": "chapter-11",
+        "title": "Life Stages and Castes",
+        "chapter": "Chapter 11 · Life Stages and Castes",
+        "chapterNumber": 11,
+        "pdfStartPage": 30,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+        "sourceLabel": "Chapter 11, PDF pages 30–31",
+        "summary": "The householder is described as sustaining the other stages through food, support, and the preservation of sacred learning. This social importance does not make another stage spiritually inferior. The dialogue insists that liberation depends on conduct, character, and faithful practice rather than on the label of student, householder, or renunciant. Lawful earning, hospitality, service, study, remembrance, and meditation can all belong to a liberating life.\n\nTen virtues are prescribed for everyone: compassion, non-stealing, intelligence, spiritual learning, truth, sense control, purity, patience, contentment, and freedom from anger. The chapter presents wisdom and renunciation of the fruits of action as reaching the same goal. Its discussion of caste places such distinctions within the physical and psychological order, not within the Atma. Purity of heart, mind, and intellect is what enables realisation. A person free from attachment can make a home into a hermitage, while attachment and hatred remain binding even in a forest. Attachment, rather than household life itself, is identified as bondage.",
         "qa": [
           {
-            "q": "Is mantra length the decisive factor?",
-            "a": "No. Contemplation and purity matter beyond the number of syllables."
+            "q": "Why is the householder stage described as especially important?",
+            "a": "It supports the other stages and preserves sacred learning. Its importance is explained through service and support."
+          },
+          {
+            "q": "What determines spiritual superiority or inferiority in the discussion?",
+            "a": "Conduct and character. All stages can support realisation when their disciplines are lived."
+          },
+          {
+            "q": "Which is among the ten virtues required of everyone?",
+            "a": "Contentment. The ten qualities are to appear in daily conduct regardless of life stage."
+          },
+          {
+            "q": "How are caste distinctions related to the Atma here?",
+            "a": "They concern the physical order, not the Atma’s nature. The chapter places spiritual attainment in purity rather than such distinctions."
+          },
+          {
+            "q": "What is identified as bondage in the closing answer?",
+            "a": "Attachment. Freedom from attachment can make the home a hermitage."
           }
         ],
         "quiz": [
           {
-            "q": "A learner chooses a mantra only because it is longest. What should guide reconsideration?",
+            "q": "Why is the householder stage described as especially important?",
             "options": [
-              "Its ability to impress others",
-              "Its number of unfamiliar sounds",
-              "Its popularity among competitors",
-              "Its understood meaning and attentive use"
-            ],
-            "correct": 3,
-            "explanation": "Length alone does not show whether the learner is engaging attentively with meaning.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "Someone finishes many repetitions while distracted. What is a useful adjustment?",
-            "options": [
-              "Announce a higher total",
-              "Compare speed with friends",
-              "Reconnect each repetition with attention",
-              "Choose an even busier setting"
+              "It automatically guarantees liberation",
+              "It removes the need for duty",
+              "It supports the other stages and preserves sacred learning",
+              "It makes wealth the highest goal"
             ],
             "correct": 2,
-            "explanation": "Reconnecting attention addresses the distraction instead of using a larger total to conceal it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "An aspirant understands a short prayer well. What is a reasonable next step?",
-            "options": [
-              "Abandon it solely for being short",
-              "Practise thoughtfully with that understanding",
-              "Add unexplained syllables for prestige",
-              "Wait until others approve its length"
-            ],
-            "correct": 1,
-            "explanation": "Thoughtful use of understood material gives practice a stronger basis than outward complexity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A group tracks totals so competitively that meaning disappears. What should change?",
-            "options": [
-              "Make contemplation more important than ranking",
-              "Create more competitive categories",
-              "Publish every participant's position",
-              "Reward speed above attention"
-            ],
-            "correct": 0,
-            "explanation": "Removing the ranking emphasis allows attention to return to the purpose of practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A student asks about Pranava. What is the careful response?",
-            "options": [
-              "Invent claims about guaranteed outcomes",
-              "Offer a prestige-based interpretation",
-              "Dismiss the question as irrelevant",
-              "Explain its place using the source"
-            ],
-            "correct": 3,
-            "explanation": "Using the source supports accuracy without adding promises that have not been established.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A practitioner feels embarrassed by a modest routine. What is a useful perspective?",
-            "options": [
-              "Everyone must match the largest count",
-              "Public comparison determines devotion",
-              "Sincerity matters more than impressive totals",
-              "Only elaborate routines deserve respect"
-            ],
-            "correct": 2,
-            "explanation": "A modest sincere routine can remain meaningful without being measured against public totals.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "During repetition, resentment repeatedly appears. What deserves attention?",
-            "options": [
-              "Whether observers notice concentration",
-              "The resentment and the direction of intention",
-              "The cost of the counting beads",
-              "The reputation of other participants"
-            ],
-            "correct": 1,
-            "explanation": "Noticing resentment connects the practice with an unresolved inner pattern needing attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A beginner asks for guaranteed immediate transformation. Which answer is responsible?",
-            "options": [
-              "Encourage practice without promising a timetable",
-              "Guarantee results before tomorrow",
-              "Blame all delays on outsiders",
-              "Promise recognition after one session"
-            ],
-            "correct": 0,
-            "explanation": "Responsible guidance supports effort without manufacturing certainty about personal outcomes or timing.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A learner repeats words they cannot pronounce confidently. What helps?",
-            "options": [
-              "Pretend to have complete mastery",
-              "Avoid understanding until perfection",
-              "Judge others to hide uncertainty",
-              "Seek patient clarification and learn gradually"
-            ],
-            "correct": 3,
-            "explanation": "Patient clarification allows pronunciation and understanding to develop without fear or pretence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A person multitasks during every repetition. Which experiment is most focused?",
-            "options": [
-              "Add another simultaneous task",
-              "Increase the background entertainment",
-              "Set aside a brief undivided interval",
-              "Count faster to compensate"
-            ],
-            "correct": 2,
-            "explanation": "An undivided interval makes it easier to notice the quality of attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A facilitator hears different personal preferences. What should be avoided?",
-            "options": [
-              "Explaining the session clearly",
-              "Ranking sincerity by preferred formula length",
-              "Encouraging attentive participation",
-              "Allowing respectful questions"
-            ],
-            "correct": 1,
-            "explanation": "Formula length is an unreliable substitute for understanding another person's sincerity or attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "An aspirant forgets the meaning midway. What is a constructive response?",
-            "options": [
-              "Pause briefly and recall its significance",
-              "Continue faster out of embarrassment",
-              "Declare the whole effort worthless",
-              "Invent a meaning to avoid pausing"
-            ],
-            "correct": 0,
-            "explanation": "A brief pause restores orientation without turning an ordinary lapse into catastrophe.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A student adds syllables without understanding them. What is the best advice?",
-            "options": [
-              "Assume additions always improve practice",
-              "Let appearance replace understanding",
-              "Add still more to ensure prestige",
-              "Clarify their significance before adding complexity"
-            ],
-            "correct": 3,
-            "explanation": "Clarifying significance prevents complexity from becoming a substitute for thoughtful engagement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A practitioner wants to review progress. Which question is relevant?",
-            "options": [
-              "Are my totals larger than everyone's?",
-              "Does my routine attract admiration?",
-              "Is repetition becoming more attentive and sincere?",
-              "Have my accessories become more expensive?"
-            ],
-            "correct": 2,
-            "explanation": "Attention and sincerity address the quality of practice rather than its external display.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "A busy caregiver cannot maintain an elaborate plan. What could help?",
-            "options": [
-              "A public promise beyond available time",
-              "A manageable period of attentive repetition",
-              "Resentment toward everyone needing care",
-              "Abandoning practice until life is perfect"
-            ],
-            "correct": 1,
-            "explanation": "A manageable plan respects real responsibilities while making room for sincere continued effort.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "An anxious participant treats every slip as failure. What is healthier educational guidance?",
-            "options": [
-              "Notice the lapse and return calmly",
-              "Keep a public record of mistakes",
-              "Stop after the first distraction",
-              "Conceal every lapse from yourself"
-            ],
-            "correct": 0,
-            "explanation": "Calm return supports learning better than fear, concealment, or abandoning the activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "What distinguishes contemplation from merely counting sounds?",
-            "options": [
-              "A more impressive public total",
-              "A preference for longer words",
-              "A requirement for expensive objects",
-              "Attention to the significance of the practice"
-            ],
-            "correct": 3,
-            "explanation": "Contemplation concerns meaningful attention, whereas counting alone records the number of repetitions.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
-          },
-          {
-            "q": "Which term receives particular emphasis in this topic?",
-            "options": [
-              "Social prestige",
-              "Personal rivalry",
-              "Pranava",
-              "Ceremonial expense"
-            ],
-            "correct": 2,
-            "explanation": "Pranava is the term highlighted in the topic's account of mantra practice.",
+            "explanation": "Its importance is explained through service and support.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 11, PDF pages 30–31"
           },
           {
-            "q": "A group publishes claims of miraculous results without checking them. What should it do?",
+            "q": "What determines spiritual superiority or inferiority in the discussion?",
             "options": [
-              "Present every report as guaranteed",
-              "Separate personal reports from verified teaching",
-              "Increase the claims to attract readers",
-              "Attribute invented promises to the source"
+              "The stage’s name alone",
+              "Ancestry alone",
+              "The colour of clothing",
+              "Conduct and character"
             ],
-            "correct": 1,
-            "explanation": "Clear distinctions prevent enthusiastic personal reports from becoming unsupported claims about the teaching.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
+            "correct": 3,
+            "explanation": "All stages can support realisation when their disciplines are lived.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 11, PDF pages 30–31"
           },
           {
-            "q": "A learner wants practice to influence daily life. Which intention is most fitting?",
+            "q": "Which is among the ten virtues required of everyone?",
             "options": [
-              "Let thoughtful attention support considerate conduct",
-              "Use practice to demand obedience",
-              "Seek an exemption from responsibilities",
-              "Judge others by their totals"
+              "Contentment",
+              "Conceit",
+              "Envy",
+              "Attachment to praise"
             ],
             "correct": 0,
-            "explanation": "An intention toward considerate conduct links inward attention with responsible everyday choices.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html",
-            "sourceLabel": "Prasnottara Vahini — XIII. Manthra and Japa"
+            "explanation": "The ten qualities are to appear in daily conduct regardless of life stage.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 11, PDF pages 30–31"
+          },
+          {
+            "q": "How are caste distinctions related to the Atma here?",
+            "options": [
+              "They divide the Atma into higher and lower kinds",
+              "They concern the physical order, not the Atma’s nature",
+              "They replace purification",
+              "They guarantee wisdom"
+            ],
+            "correct": 1,
+            "explanation": "The chapter places spiritual attainment in purity rather than such distinctions.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 11, PDF pages 30–31"
+          },
+          {
+            "q": "What is identified as bondage in the closing answer?",
+            "options": [
+              "Household residence itself",
+              "Lawful earning itself",
+              "Attachment",
+              "Hospitality itself"
+            ],
+            "correct": 2,
+            "explanation": "Freedom from attachment can make the home a hermitage.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=30",
+            "sourceLabel": "Chapter 11, PDF pages 30–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "The Scriptures and Renunciation",
+        "chapter": "Chapter 12 · The Scriptures and Renunciation",
+        "chapterNumber": 12,
+        "pdfStartPage": 32,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+        "sourceLabel": "Chapter 12, PDF pages 32–33",
+        "summary": "The scriptures are presented as the authority for distinguishing appropriate conduct. Rules connected with stages of life are compared with a medical regimen: they are needed while the illness of attachment remains. The chapter gives Janaka, Aswapathi, and Dilipa as examples of householders who attained liberation, reinforcing that spiritual freedom is not confined to one outward situation.\n\nRenunciation need not always wait until all earlier stages have been completed. Genuine detachment can justify entering it directly, but both the candidate and the initiating guide must examine the absence of sensual impulses, agitation, and attachment. The dialogue distinguishes outward renunciation, mental renunciation, and Atmic renunciation. Clothing and a name alone may leave desires untouched; mental renunciation brings calm control; Atmic renunciation rests in awareness of one’s true reality. Their disciplines must mature into inward freedom. A bee quietly taking honey illustrates the person absorbed in Atmic bliss, and the chapter links such freedom with truth, purity, permanence, and peace.",
+        "qa": [
+          {
+            "q": "What is named as the authority for appropriate conduct?",
+            "a": "The scriptures. The dialogue appeals to scriptural guidance."
+          },
+          {
+            "q": "What illness is compared with the need for a prescribed regimen?",
+            "a": "Attachment. The rules are explained as means of overcoming worldly bondage."
+          },
+          {
+            "q": "Which three householders are named as liberated?",
+            "a": "Janaka, Aswapathi, and Dilipa. These examples support the possibility of liberation in household life."
+          },
+          {
+            "q": "When may a person enter renunciation without completing the preceding stages?",
+            "a": "When genuine detachment has arisen and is carefully verified. The chapter requires examination by both candidate and guide."
+          },
+          {
+            "q": "What distinguishes Atmic renunciation?",
+            "a": "Steady awareness of the true Self and continuous Atmic bliss. It goes beyond outward signs and rests in realised identity."
           }
         ],
-        "sourceUrl": "https://vahini.org/downloads/prasnottaravahini.html"
+        "quiz": [
+          {
+            "q": "What is named as the authority for appropriate conduct?",
+            "options": [
+              "Public applause",
+              "The scriptures",
+              "Personal convenience alone",
+              "Material success"
+            ],
+            "correct": 1,
+            "explanation": "The dialogue appeals to scriptural guidance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 12, PDF pages 32–33"
+          },
+          {
+            "q": "What illness is compared with the need for a prescribed regimen?",
+            "options": [
+              "Lack of social rank",
+              "Lack of possessions",
+              "Attachment",
+              "Lack of public recognition"
+            ],
+            "correct": 2,
+            "explanation": "The rules are explained as means of overcoming worldly bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 12, PDF pages 32–33"
+          },
+          {
+            "q": "Which three householders are named as liberated?",
+            "options": [
+              "Suka, Sanaka, and Narada",
+              "Arjuna, Druva, and Prahlada",
+              "Gargi, Maitreyi, and Sulabha",
+              "Janaka, Aswapathi, and Dilipa"
+            ],
+            "correct": 3,
+            "explanation": "These examples support the possibility of liberation in household life.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 12, PDF pages 32–33"
+          },
+          {
+            "q": "When may a person enter renunciation without completing the preceding stages?",
+            "options": [
+              "When genuine detachment has arisen and is carefully verified",
+              "Whenever a new title is desired",
+              "Whenever wealth increases",
+              "Whenever responsibilities feel inconvenient"
+            ],
+            "correct": 0,
+            "explanation": "The chapter requires examination by both candidate and guide.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 12, PDF pages 32–33"
+          },
+          {
+            "q": "What distinguishes Atmic renunciation?",
+            "options": [
+              "Ochre clothing alone",
+              "Steady awareness of the true Self and continuous Atmic bliss",
+              "A new name alone",
+              "Control of appearances alone"
+            ],
+            "correct": 1,
+            "explanation": "It goes beyond outward signs and rests in realised identity.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 12, PDF pages 32–33"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Mantras and Repetition of the Name",
+        "chapter": "Chapter 13 · Mantras and Repetition of the Name",
+        "chapterNumber": 13,
+        "pdfStartPage": 34,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+        "sourceLabel": "Chapter 13, PDF pages 34–35",
+        "summary": "A mantra is explained as a means of saving the person through reflection and understanding. Om is presented as the highest mantra and the source into which other sounds return. The water cycle illustrates this return: water rises from the ocean, falls as rain, and flows back through rivers. Repetition of a chosen divine name is supported, while the idea that more syllables necessarily make a mantra more effective is rejected.\n\nWith growing concentration, attention moves from spoken words toward the divine form and meaning they express. A chick emerging from its shell illustrates the breaking of ignorance through sustained contemplation. The chapter affirms that everyone has the right to Om, pointing to its presence in breathing and the sounds of the world. Finally, an archery image gathers the teaching: Om is the bow, the Atma the arrow, and Brahman the target. Undistracted attention allows the aspirant’s awareness to become wholly directed toward that goal.",
+        "qa": [
+          {
+            "q": "How is a mantra explained?",
+            "a": "That which saves through reflection and understanding. The explanation connects the word with contemplation and release from worldly bondage."
+          },
+          {
+            "q": "What does the ocean-rain-river image illustrate?",
+            "a": "Sounds returning to Om, their source. The cycle explains origin and return."
+          },
+          {
+            "q": "Does a greater number of seed syllables necessarily make a mantra preferable?",
+            "a": "No. The chapter rejects length as the decisive measure of effectiveness."
+          },
+          {
+            "q": "Who is entitled to recite and meditate on Om?",
+            "a": "Everyone. The dialogue explicitly rejects excluding people from this practice."
+          },
+          {
+            "q": "In the archery illustration, what is the target?",
+            "a": "Brahman. Om is the bow and the Atma the arrow directed toward Brahman."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is a mantra explained?",
+            "options": [
+              "That which saves through reflection and understanding",
+              "A sound valued only by its length",
+              "A substitute for all attention",
+              "A mark of social rank"
+            ],
+            "correct": 0,
+            "explanation": "The explanation connects the word with contemplation and release from worldly bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+            "sourceLabel": "Chapter 13, PDF pages 34–35"
+          },
+          {
+            "q": "What does the ocean-rain-river image illustrate?",
+            "options": [
+              "The need to change mantras continually",
+              "Sounds returning to Om, their source",
+              "The superiority of lengthy speech",
+              "The rejection of divine names"
+            ],
+            "correct": 1,
+            "explanation": "The cycle explains origin and return.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+            "sourceLabel": "Chapter 13, PDF pages 34–35"
+          },
+          {
+            "q": "Does a greater number of seed syllables necessarily make a mantra preferable?",
+            "options": [
+              "Yes, in every case",
+              "Only if it is never understood",
+              "No",
+              "Only if it replaces concentration"
+            ],
+            "correct": 2,
+            "explanation": "The chapter rejects length as the decisive measure of effectiveness.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+            "sourceLabel": "Chapter 13, PDF pages 34–35"
+          },
+          {
+            "q": "Who is entitled to recite and meditate on Om?",
+            "options": [
+              "Only one caste",
+              "Only renunciants",
+              "Only men",
+              "Everyone"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue explicitly rejects excluding people from this practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+            "sourceLabel": "Chapter 13, PDF pages 34–35"
+          },
+          {
+            "q": "In the archery illustration, what is the target?",
+            "options": [
+              "Brahman",
+              "Om",
+              "The Atma as arrow",
+              "The physical body"
+            ],
+            "correct": 0,
+            "explanation": "Om is the bow and the Atma the arrow directed toward Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=34",
+            "sourceLabel": "Chapter 13, PDF pages 34–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Spiritual Austerity",
+        "chapter": "Chapter 14 · Spiritual Austerity",
+        "chapterNumber": 14,
+        "pdfStartPage": 36,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+        "sourceLabel": "Chapter 14, PDF pages 36–38",
+        "summary": "Spiritual discipline reveals the Atma by removing the mistaken identification of the Self with the body. Butter drawn from curds and oil obtained from seeds illustrate discovering what is already present. Single-pointed reflection then supports recognition of the individual Self’s unity with the Supreme. Pure austerity involves sense mastery, moderation, and a sustained yearning for this realisation.\n\nThe chapter contrasts this with merely weakening the body without controlling emotions, and with seeking powers to exploit the world. It interprets the wish-fulfilling tree, cow, and gem as spiritual attainments: fulfilment, mastery of desire, and freedom from mental agitation. Mental, verbal, and bodily disciplines are discussed alongside examples of accomplished seekers. Character and inward purity remain essential; birth or caste without virtue is an empty distinction. Gold mixed with copper illustrates the obscuring addition of ego, while cleansing and refining represent the work of practice. The chapter concludes that wisdom burns the seeds of attachment so that they no longer produce bondage.",
+        "qa": [
+          {
+            "q": "What does obtaining butter from curds illustrate?",
+            "a": "Discovering the Atma by removing mistaken bodily identification. The example concerns revealing what is already present through a suitable process."
+          },
+          {
+            "q": "What characterises pure, sathwic austerity?",
+            "a": "Sense mastery and yearning for realisation with moderation. The chapter distinguishes inward purification from bodily hardship alone."
+          },
+          {
+            "q": "What does the wish-fulfilling cow represent in the explanation?",
+            "a": "Mastery of all desire. The cow, tree, and gem are interpreted as attainments of spiritual practice."
+          },
+          {
+            "q": "What does gold mixed with copper illustrate?",
+            "a": "The obscuring addition of ego to the universal reality. Refinement is used as an image for restoring awareness of the original principle."
+          },
+          {
+            "q": "What burns the seeds of attachment so that they do not sprout again?",
+            "a": "Spiritual wisdom. The closing teaching connects wisdom with freedom from renewed bondage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does obtaining butter from curds illustrate?",
+            "options": [
+              "Creating a new Self from nothing",
+              "Increasing attachment to food",
+              "Replacing meditation with possessions",
+              "Discovering the Atma by removing mistaken bodily identification"
+            ],
+            "correct": 3,
+            "explanation": "The example concerns revealing what is already present through a suitable process.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 14, PDF pages 36–38"
+          },
+          {
+            "q": "What characterises pure, sathwic austerity?",
+            "options": [
+              "Sense mastery and yearning for realisation with moderation",
+              "Starvation without inner control",
+              "Seeking powers to exploit others",
+              "Pursuing public admiration"
+            ],
+            "correct": 0,
+            "explanation": "The chapter distinguishes inward purification from bodily hardship alone.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 14, PDF pages 36–38"
+          },
+          {
+            "q": "What does the wish-fulfilling cow represent in the explanation?",
+            "options": [
+              "A literal animal required by every seeker",
+              "Mastery of all desire",
+              "Public reputation",
+              "Increased bodily appetite"
+            ],
+            "correct": 1,
+            "explanation": "The cow, tree, and gem are interpreted as attainments of spiritual practice.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 14, PDF pages 36–38"
+          },
+          {
+            "q": "What does gold mixed with copper illustrate?",
+            "options": [
+              "The value of worldly luxury",
+              "The need for higher social rank",
+              "The obscuring addition of ego to the universal reality",
+              "The impossibility of purification"
+            ],
+            "correct": 2,
+            "explanation": "Refinement is used as an image for restoring awareness of the original principle.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 14, PDF pages 36–38"
+          },
+          {
+            "q": "What burns the seeds of attachment so that they do not sprout again?",
+            "options": [
+              "Ancestry alone",
+              "Outward austerity alone",
+              "Scholarly reputation",
+              "Spiritual wisdom"
+            ],
+            "correct": 3,
+            "explanation": "The closing teaching connects wisdom with freedom from renewed bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=36",
+            "sourceLabel": "Chapter 14, PDF pages 36–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Eightfold Discipline of Yoga",
+        "chapter": "Chapter 15 · Eightfold Discipline of Yoga",
+        "chapterNumber": 15,
+        "pdfStartPage": 39,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+        "sourceLabel": "Chapter 15, PDF pages 39–41",
+        "summary": "Yoga is introduced as a means of quieting mental agitation, strengthening faith, and establishing spiritual wisdom. Its eight parts are yama, niyama, posture, breath control, withdrawal or control of the mind, concentration, meditation, and samadhi. The book explains yama and niyama as control of the inner and outer senses, and makes them essential to every kind of yoga. Each has ten supporting qualities, including truthfulness, compassion, moderation, contentment, worship, and repetition of the name.\n\nPostures and breathing disciplines are discussed as supports for steadiness and purification. The dialogue distinguishes practice accompanied by meaningful inward attention from exercise that remains merely physical. It then explains approaches with form, without form, and directed toward the Self. Concentration is firm awareness, and meditation is one-pointedness without deviation. Samadhi is perfect equanimity, free from agitation and the disturbance of dual experiences. A flame in a windless room illustrates its steadiness; threading a needle illustrates the focused attention required for entering the subtleness of divine grace.",
+        "qa": [
+          {
+            "q": "How many parts of yoga are listed?",
+            "a": "Eight. The chapter enumerates the eightfold discipline before explaining its components."
+          },
+          {
+            "q": "Which two are compared with the eyes needed by every kind of yoga?",
+            "a": "Yama and niyama. The book makes inner and outer control foundational for all yogas."
+          },
+          {
+            "q": "How many supporting qualities are given for each of yama and niyama?",
+            "a": "Ten. Each is expanded into a set of ten disciplines or qualities."
+          },
+          {
+            "q": "What is the defining feature of meditation here?",
+            "a": "One-pointedness without deviation. This applies whether the meditation concerns form or the formless."
+          },
+          {
+            "q": "What illustrates the mind in samadhi?",
+            "a": "A flame in a windless room. The image expresses unwavering equanimity beyond dual disturbance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How many parts of yoga are listed?",
+            "options": [
+              "Four",
+              "Five",
+              "Eight",
+              "Ten"
+            ],
+            "correct": 2,
+            "explanation": "The chapter enumerates the eightfold discipline before explaining its components.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+            "sourceLabel": "Chapter 15, PDF pages 39–41"
+          },
+          {
+            "q": "Which two are compared with the eyes needed by every kind of yoga?",
+            "options": [
+              "Posture and clothing",
+              "Concentration and public teaching",
+              "Breath control and social status",
+              "Yama and niyama"
+            ],
+            "correct": 3,
+            "explanation": "The book makes inner and outer control foundational for all yogas.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+            "sourceLabel": "Chapter 15, PDF pages 39–41"
+          },
+          {
+            "q": "How many supporting qualities are given for each of yama and niyama?",
+            "options": [
+              "Ten",
+              "Two",
+              "Four",
+              "Eight"
+            ],
+            "correct": 0,
+            "explanation": "Each is expanded into a set of ten disciplines or qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+            "sourceLabel": "Chapter 15, PDF pages 39–41"
+          },
+          {
+            "q": "What is the defining feature of meditation here?",
+            "options": [
+              "Constantly changing the object",
+              "One-pointedness without deviation",
+              "Physical stillness without attention",
+              "Repetition undertaken only for applause"
+            ],
+            "correct": 1,
+            "explanation": "This applies whether the meditation concerns form or the formless.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+            "sourceLabel": "Chapter 15, PDF pages 39–41"
+          },
+          {
+            "q": "What illustrates the mind in samadhi?",
+            "options": [
+              "A lamp in a storm",
+              "A river in flood",
+              "A flame in a windless room",
+              "A restless bird"
+            ],
+            "correct": 2,
+            "explanation": "The image expresses unwavering equanimity beyond dual disturbance.",
+            "type": "recall",
+            "sourceUrl": "assets/prasnothara-vahini.pdf#page=39",
+            "sourceLabel": "Chapter 15, PDF pages 39–41"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Prasnothara Vahini PDF. These summaries and questions are study paraphrases of its dialogue; consult the linked chapter for the full teaching.",
+    "coverage": "All 15 chapters in the supplied edition"
   },
   {
     "id": "sandeha-nivarini",
