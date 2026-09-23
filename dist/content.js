@@ -22172,897 +22172,2746 @@ window.VAHINI_BOOKS = [
     "id": "leela-kaivalya",
     "title": "Leela Kaivalya Vahini",
     "hindiTitle": "लीला कैवल्य वाहिनी",
-    "subtitle": "Practice and Vedic wisdom",
-    "description": "Explore experience, meaningful worship, and spiritual unity.",
-    "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Leela.pdf",
+    "subtitle": "Stream of Divine Cosmic Play",
+    "description": "Study all 26 titled teaching sections of Bhagawan Sri Sathya Sai Baba’s Leela Kaivalya Vahini in the supplied PDF’s order. Each has a fuller English summary, five questions and answers, and five source-based quiz questions. The opening teaching is included in the first section.",
+    "sourceUrl": "assets/leela-kaivalya.pdf",
+    "pdfUrl": "assets/leela-kaivalya.pdf",
     "topics": [
       {
-        "id": "practice",
-        "title": "Learning through practice",
-        "chapter": "Stream of Cosmic Sport Divine",
-        "summary": "Spiritual understanding grows through sincere practice and self-examination. Devotion must become experience, supported by an earnest, purified mind.",
+        "id": "chapter-01",
+        "title": "Wisdom through meditation becomes authentic",
+        "chapter": "Section 1 · Wisdom through meditation becomes authentic",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 8,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+        "sourceLabel": "Section 1, PDF page 8",
+        "summary": "The opening teaching says that worship, devotional singing, and meditation must be understood through actual practice. A longing for truth or lasting joy can begin the search, but longing alone does not complete it. The seeker should examine personal aims and attitudes and undertake spiritual discipline, rather than judge its possibilities without experience.\n\nThe titled section considers people who become absorbed in criticism and extensive reading while avoiding even the first step of practice. It places a small measure of wisdom gained in meditation above learning that remains merely bookish. Such understanding is authentic because it is personally experienced. As it develops, argument is redirected toward overcoming one’s own lower tendencies. Confidence in oneself supports entry into this path. The section thus joins thoughtful self-examination with practice, making inward transformation the test of spiritual learning.",
         "qa": [
           {
-            "q": "Why is longing insufficient?",
-            "a": "The seeker must practise to discover spiritual truth personally."
+            "q": "What establishes the value of spiritual exercises in the opening teaching?",
+            "a": "Personal experience through practice. The text asks the seeker to practise before judging the depths of the discipline."
+          },
+          {
+            "q": "What should a seeker examine before beginning?",
+            "a": "Personal aspirations and attitudes. Self-examination accompanies the decision to undertake spiritual practice."
+          },
+          {
+            "q": "What is valued above merely accumulated scholarship?",
+            "a": "A grain of wisdom gained through meditation. The section emphasises authentic experience rather than information without practice."
+          },
+          {
+            "q": "Toward what should the seeker’s argument increasingly turn?",
+            "a": "One’s own lower self. Inward transformation replaces purposeless controversy."
+          },
+          {
+            "q": "What quality is essential for entering this path?",
+            "a": "Self-confidence. Confidence supports sincere spiritual effort."
           }
         ],
         "quiz": [
           {
-            "q": "Mira collects meditation manuals but never begins. What is her most useful next step?",
+            "q": "What establishes the value of spiritual exercises in the opening teaching?",
             "options": [
-              "Try a short regular practice",
-              "Buy a rarer edition",
-              "Compare every teacher",
-              "Wait for perfect certainty"
+              "Personal experience through practice",
+              "Controversy alone",
+              "The number of books owned",
+              "Public reputation"
             ],
             "correct": 0,
-            "explanation": "A small consistent attempt provides experience that further collecting cannot supply.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "The text asks the seeker to practise before judging the depths of the discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
           },
           {
-            "q": "Arun misses one planned session. Which response best sustains practice?",
+            "q": "What should a seeker examine before beginning?",
             "options": [
-              "Abandon the whole routine",
-              "Conceal the missed session",
-              "Double his public claims",
-              "Resume at the next opportunity"
-            ],
-            "correct": 3,
-            "explanation": "Returning calmly preserves commitment without turning one interruption into a lasting obstacle.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "A study group debates whether practice helps. What would improve its discussion?",
-            "options": [
-              "Vote on the loudest opinion",
-              "Rank members by eloquence",
-              "Share observations from sincere attempts",
-              "Exclude anyone with doubts"
-            ],
-            "correct": 2,
-            "explanation": "Observations from practice give discussion a concrete basis beyond confident personal assertions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "Lata wants to examine her motives before beginning. Which question helps most?",
-            "options": [
-              "Who will notice my discipline?",
-              "What am I hoping to become?",
-              "Which title will impress friends?",
-              "How can I finish fastest?"
+              "Other people’s wealth",
+              "Personal aspirations and attitudes",
+              "Social rank alone",
+              "The size of an audience"
             ],
             "correct": 1,
-            "explanation": "Examining personal intentions helps distinguish inward growth from approval seeking or haste.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "Self-examination accompanies the decision to undertake spiritual practice.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
           },
           {
-            "q": "Dev practises mainly to appear advanced. What adjustment addresses his difficulty?",
+            "q": "What is valued above merely accumulated scholarship?",
             "options": [
-              "Make private sincerity the priority",
-              "Post more progress photographs",
-              "Choose a prestigious location",
-              "Increase comparisons with others"
-            ],
-            "correct": 0,
-            "explanation": "Private sincerity redirects effort toward actual growth rather than maintaining an impressive appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "A parent has limited quiet time. Which plan is most workable?",
-            "options": [
-              "Wait until responsibilities disappear",
-              "Resent every family interruption",
-              "Promise several impossible hours",
-              "Choose a brief dependable interval"
-            ],
-            "correct": 3,
-            "explanation": "A realistic commitment can coexist with responsibilities and become sustainable through repetition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "Neel feels unworthy to start. Which response offers constructive confidence?",
-            "options": [
-              "Wait until every fault disappears",
-              "Pretend he already understands",
-              "Begin modestly and learn patiently",
-              "Let others practise for him"
+              "Skill in criticism",
+              "Fame as a speaker",
+              "A grain of wisdom gained through meditation",
+              "Repeated page-turning alone"
             ],
             "correct": 2,
-            "explanation": "Beginning with humility allows confidence to develop through effort rather than pretence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "The section emphasises authentic experience rather than information without practice.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
           },
           {
-            "q": "Two friends report different experiences. How should they proceed?",
+            "q": "Toward what should the seeker’s argument increasingly turn?",
             "options": [
-              "Declare one permanently superior",
-              "Compare carefully without competing",
-              "Invent identical experiences",
-              "Stop discussing practice altogether"
+              "Rival religious groups",
+              "Other people’s possessions",
+              "The search for applause",
+              "One’s own lower self"
+            ],
+            "correct": 3,
+            "explanation": "Inward transformation replaces purposeless controversy.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          },
+          {
+            "q": "What quality is essential for entering this path?",
+            "options": [
+              "Self-confidence",
+              "Conceit",
+              "Envy",
+              "Dependence on praise"
+            ],
+            "correct": 0,
+            "explanation": "Confidence supports sincere spiritual effort.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 1, PDF page 8"
+          }
+        ]
+      },
+      {
+        "id": "chapter-02",
+        "title": "Joy and peace of a spiritual life",
+        "chapter": "Section 2 · Joy and peace of a spiritual life",
+        "chapterNumber": 2,
+        "pdfStartPage": 8,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+        "sourceLabel": "Section 2, PDF pages 8–9",
+        "summary": "The section addresses people burdened by responsibilities, discouraged by a sense of unworthiness, or lacking faith. Passing joy is not the only aim worth seeking. Since human life is limited, peace of mind and an exemplary way of living deserve deliberate effort. The person should preserve the qualities that make human life spiritually meaningful rather than descend into cruelty or degrading conduct.\n\nSpiritual life strengthens this resolve, but the discussion also values intelligence and practical skill. These work alongside justice, virtue, and spiritual excellence in meeting daily problems. Intelligence and skill are compared with the two wings of a bird or two wheels of a cart. Understanding worldly experience can therefore support appreciation of the higher path. The teaching joins spiritual aspiration with the capacities needed to live responsibly and effectively.",
+        "qa": [
+          {
+            "q": "What is sought beyond passing joy?",
+            "a": "Peace of mind and an exemplary life. The section directs attention to enduring value within a limited life."
+          },
+          {
+            "q": "What resolve should human beings sustain?",
+            "a": "To preserve noble human qualities. Spiritual practice supports resistance to degrading conduct."
+          },
+          {
+            "q": "Which two practical capacities are emphasised?",
+            "a": "Intelligence and skill. They help a person meet the problems of daily living."
+          },
+          {
+            "q": "What illustrates their joint necessity?",
+            "a": "A bird’s two wings or a cart’s two wheels. Both capacities are needed for balanced progress."
+          },
+          {
+            "q": "What can help reveal the importance of the higher path?",
+            "a": "Experiencing and understanding the world. Worldly understanding and spiritual aspiration are connected in this passage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is sought beyond passing joy?",
+            "options": [
+              "Public rank alone",
+              "Freedom from every responsibility",
+              "Greater rivalry",
+              "Peace of mind and an exemplary life"
+            ],
+            "correct": 3,
+            "explanation": "The section directs attention to enduring value within a limited life.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "What resolve should human beings sustain?",
+            "options": [
+              "To preserve noble human qualities",
+              "To follow every impulse",
+              "To seek comfort at any cost",
+              "To neglect others"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual practice supports resistance to degrading conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          },
+          {
+            "q": "Which two practical capacities are emphasised?",
+            "options": [
+              "Wealth and fame",
+              "Intelligence and skill",
+              "Speed and display",
+              "Rank and influence"
             ],
             "correct": 1,
-            "explanation": "Careful comparison respects individual experience while avoiding unsupported claims of spiritual superiority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "They help a person meet the problems of daily living.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
           },
           {
-            "q": "An enthusiastic beginner changes methods daily. What could improve learning?",
+            "q": "What illustrates their joint necessity?",
             "options": [
-              "Give one suitable practice time",
-              "Add more methods each morning",
-              "Judge progress after seconds",
-              "Follow whichever method is fashionable"
-            ],
-            "correct": 0,
-            "explanation": "Consistency makes it easier to observe patterns without confusing constant changes with progress.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "A volunteer gains concentration but becomes impatient with others. What deserves attention?",
-            "options": [
-              "How many techniques were learned",
-              "Whether others recognise achievement",
-              "Whether the practice looks difficult",
-              "How practice influences daily conduct"
-            ],
-            "correct": 3,
-            "explanation": "Daily behaviour offers a useful check on whether inward effort supports constructive living.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "Which journal entry best supports honest self-examination?",
-            "options": [
-              "I am better than everyone",
-              "Nothing requires further attention",
-              "I noticed irritation and paused",
-              "Everyone else prevented my success"
+              "A lone leaf",
+              "A closed door",
+              "A bird’s two wings or a cart’s two wheels",
+              "A fading shadow"
             ],
             "correct": 2,
-            "explanation": "Specific honest observation creates room for improvement without blame or self-congratulation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "Both capacities are needed for balanced progress.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
           },
           {
-            "q": "Ravi expects immediate lasting peace after one attempt. What is a balanced response?",
+            "q": "What can help reveal the importance of the higher path?",
             "options": [
-              "Announce that practice never works",
-              "Continue patiently and observe changes",
-              "Invent a dramatic breakthrough",
-              "Demand identical results from everyone"
+              "Refusing all reflection",
+              "Seeking praise alone",
+              "Ignoring every duty",
+              "Experiencing and understanding the world"
+            ],
+            "correct": 3,
+            "explanation": "Worldly understanding and spiritual aspiration are connected in this passage.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=8",
+            "sourceLabel": "Section 2, PDF pages 8–9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "The world is a cosmic play",
+        "chapter": "Section 3 · The world is a cosmic play",
+        "chapterNumber": 3,
+        "pdfStartPage": 9,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+        "sourceLabel": "Section 3, PDF pages 9–10",
+        "summary": "The world is described as attractive but passing. Recognising its impermanence opens awareness of the Divine’s cosmic play and the eternal reality beneath appearances. This awareness does not result simply from accumulating wealth, power, learning, or skill. It requires purification of consciousness and earnestness in the spiritual search.\n\nThe section identifies doubts, rigid opinions, purposeless arguments, and flimsy imaginings as obstacles along that search. It introduces Leela Kaivalya Vahini as a series intended to clear these difficulties and encourage spiritual progress and bliss. The original announcement looks forward to the series beginning at Yugadi. Its central invitation is to turn from fascination with changing appearances toward a sincere and purified inquiry into their enduring foundation.",
+        "qa": [
+          {
+            "q": "How is the world characterised here?",
+            "a": "Enchanting but passing. Its attractive appearance is distinguished from eternal reality."
+          },
+          {
+            "q": "What awareness follows recognition of this transience?",
+            "a": "Awareness of divine cosmic play. The teaching points beyond appearances to the eternal Being."
+          },
+          {
+            "q": "What is required for this awareness?",
+            "a": "Purification of consciousness and earnest seeking. External accomplishments do not replace inward preparation."
+          },
+          {
+            "q": "Which obstacle is specifically named?",
+            "a": "Purposeless argument. The series is introduced as addressing such impediments."
+          },
+          {
+            "q": "Which festival marks the announced beginning of the series?",
+            "a": "Yugadi. The passage preserves the original announcement of the teaching series."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is the world characterised here?",
+            "options": [
+              "Unchanging in every appearance",
+              "The final source of security",
+              "Enchanting but passing",
+              "Independent of the Divine"
+            ],
+            "correct": 2,
+            "explanation": "Its attractive appearance is distinguished from eternal reality.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "What awareness follows recognition of this transience?",
+            "options": [
+              "Certainty that wealth is permanent",
+              "Greater dependence on status",
+              "The rejection of all inquiry",
+              "Awareness of divine cosmic play"
+            ],
+            "correct": 3,
+            "explanation": "The teaching points beyond appearances to the eternal Being.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "What is required for this awareness?",
+            "options": [
+              "Purification of consciousness and earnest seeking",
+              "Power alone",
+              "Wealth alone",
+              "Scholarship alone"
+            ],
+            "correct": 0,
+            "explanation": "External accomplishments do not replace inward preparation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          },
+          {
+            "q": "Which obstacle is specifically named?",
+            "options": [
+              "Sincere practice",
+              "Purposeless argument",
+              "Moral clarity",
+              "Steady aspiration"
             ],
             "correct": 1,
-            "explanation": "Patient observation avoids premature conclusions drawn from a single brief personal experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "The series is introduced as addressing such impediments.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
           },
           {
-            "q": "A group leader wants meaningful feedback. Which question is most helpful?",
+            "q": "Which festival marks the announced beginning of the series?",
             "options": [
-              "What changed in your responses?",
-              "How expensive was your cushion?",
-              "Who admired your attendance?",
-              "Which member appeared most advanced?"
-            ],
-            "correct": 0,
-            "explanation": "Changes in ordinary responses reveal practical learning more clearly than accessories or reputation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "Tara understands a principle intellectually. How can she deepen that understanding?",
-            "options": [
-              "Memorise more impressive vocabulary",
-              "Avoid situations that test it",
-              "Explain why others lack it",
-              "Apply it during a real difficulty"
-            ],
-            "correct": 3,
-            "explanation": "Application tests whether an understood idea can guide choices when circumstances become challenging.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "A person balances professional training and spiritual practice. Which approach fits this topic?",
-            "options": [
-              "Replace competence with good intentions",
-              "Treat ethics as irrelevant",
-              "Develop competence and ethical character",
-              "Neglect every practical responsibility"
+              "No festival is mentioned",
+              "A harvest fair",
+              "Yugadi",
+              "A royal anniversary"
             ],
             "correct": 2,
-            "explanation": "Useful skill and ethical character can support each other in responsible everyday living.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "The passage preserves the original announcement of the teaching series.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=9",
+            "sourceLabel": "Section 3, PDF pages 9–10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Veda is the very breath of God",
+        "chapter": "Section 4 · Veda is the very breath of God",
+        "chapterNumber": 4,
+        "pdfStartPage": 10,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+        "sourceLabel": "Section 4, PDF page 10",
+        "summary": "The dialogue begins with an aspirant asking why the Veda is regarded as authoritative. Sai explains it as a body of divine knowledge whose truth does not change with past, present, or future. Its purpose includes the welfare of the worlds and the peace and security of human society.\n\nThe Vedic words are described as truths perceived by sages whose awareness had become capable of receiving them. The source is therefore presented as divine rather than merely personal invention. Calling the Word the breath of God expresses this understanding of its sacred origin. The section grounds the Veda’s importance in enduring truth, enlightened reception, and its role in guiding life toward welfare and peace.",
+        "qa": [
+          {
+            "q": "How is Veda defined?",
+            "a": "A body of divine knowledge. The answer begins by describing its spiritual content."
           },
           {
-            "q": "Someone becomes discouraged by comparison. What should they examine instead?",
+            "q": "What is said about its truth across time?",
+            "a": "It is not reversed by past, present, or future. Enduring truth is central to its authority in the text."
+          },
+          {
+            "q": "Who perceived the Vedic words?",
+            "a": "Sages with enlightened awareness. Their purified capacity enabled reception of the truth."
+          },
+          {
+            "q": "What social benefit is associated with the Veda?",
+            "a": "Peace and security. The dialogue connects its teaching with human welfare."
+          },
+          {
+            "q": "What image expresses the Word’s divine origin?",
+            "a": "The breath of God. This is the basis of the section’s title and explanation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is Veda defined?",
             "options": [
-              "Another person's public reputation",
-              "Their own sincere effort and learning",
-              "The most dramatic online account",
-              "The largest number of followers"
+              "A collection of royal commands",
+              "A body of divine knowledge",
+              "A record of trade",
+              "A set of changing fashions"
             ],
             "correct": 1,
-            "explanation": "Attention to personal effort provides a fairer basis for learning than external comparison.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "The answer begins by describing its spiritual content.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 4, PDF page 10"
           },
           {
-            "q": "A seeker spends every session predicting future experiences. What is a useful change?",
+            "q": "What is said about its truth across time?",
             "options": [
-              "Attend to the present exercise",
-              "Make more elaborate predictions",
-              "Ask friends to predict results",
-              "Measure success by excitement alone"
-            ],
-            "correct": 0,
-            "explanation": "Present attention supports the activity itself instead of replacing it with imagined outcomes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "A busy week interrupts a routine. Which preparation would help next time?",
-            "options": [
-              "Make a stricter public promise",
-              "Blame the calendar entirely",
-              "Require ideal conditions every day",
-              "Create a smaller fallback practice"
-            ],
-            "correct": 3,
-            "explanation": "A modest fallback protects continuity when ordinary plans encounter predictable practical pressures.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
-          },
-          {
-            "q": "Why does this topic distinguish aspiration from experience?",
-            "options": [
-              "Wishing automatically completes learning",
-              "Experience requires public recognition",
-              "Wishing must develop into actual practice",
-              "Practice matters only for experts"
+              "It depends only on current fashion",
+              "It applies only to one moment",
+              "It is not reversed by past, present, or future",
+              "It changes with every opinion"
             ],
             "correct": 2,
-            "explanation": "A desired change becomes personally understood through doing rather than intention alone.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "explanation": "Enduring truth is central to its authority in the text.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 4, PDF page 10"
           },
           {
-            "q": "What is the central learning method emphasised here?",
+            "q": "Who perceived the Vedic words?",
             "options": [
-              "Social comparison",
-              "Sincere spiritual practice",
+              "Rulers seeking power",
+              "Merchants alone",
+              "Critics avoiding practice",
+              "Sages with enlightened awareness"
+            ],
+            "correct": 3,
+            "explanation": "Their purified capacity enabled reception of the truth.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 4, PDF page 10"
+          },
+          {
+            "q": "What social benefit is associated with the Veda?",
+            "options": [
+              "Peace and security",
+              "Endless competition",
+              "Pride in wealth",
+              "Rivalry between groups"
+            ],
+            "correct": 0,
+            "explanation": "The dialogue connects its teaching with human welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 4, PDF page 10"
+          },
+          {
+            "q": "What image expresses the Word’s divine origin?",
+            "options": [
+              "A royal crown",
+              "The breath of God",
+              "A market bell",
+              "A traveller’s map"
+            ],
+            "correct": 1,
+            "explanation": "This is the basis of the section’s title and explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 4, PDF page 10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Veda includes all spiritual knowledge",
+        "chapter": "Section 5 · Veda includes all spiritual knowledge",
+        "chapterNumber": 5,
+        "pdfStartPage": 10,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+        "sourceLabel": "Section 5, PDF page 10",
+        "summary": "The aspirant asks whether the Vedas illuminate ordinary material life as well as spiritual matters. The reply connects them with the human wish to gain what is good and avoid what is harmful. Their prescriptions and prohibitions distinguish what should be done from what should be avoided, so their guidance concerns both worldly life and the beyond.\n\nThe word Veda is traced to vid, meaning to know, and is said to include spiritual knowledge. Such wisdom is presented as a defining opportunity of human life. The section therefore treats the Veda as guidance for the whole of living, rather than a subject isolated from daily choices. Knowledge fulfils its purpose when it informs the direction of conduct.",
+        "qa": [
+          {
+            "q": "What concern prompts the aspirant’s question?",
+            "a": "Guidance for everyday material life. The question asks how Vedic knowledge bears on ordinary living."
+          },
+          {
+            "q": "What do prescriptions and prohibitions distinguish?",
+            "a": "What to do and what to avoid. They guide the pursuit of good and avoidance of harm."
+          },
+          {
+            "q": "What range does the Veda address here?",
+            "a": "Material and spiritual life. The answer includes this world and the beyond."
+          },
+          {
+            "q": "What root is given for Veda?",
+            "a": "Vid, to know. The derivation explains the connection with knowledge."
+          },
+          {
+            "q": "What human capacity is emphasised?",
+            "a": "Spiritual wisdom. The passage regards wisdom as central to the human opportunity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What concern prompts the aspirant’s question?",
+            "options": [
+              "Guidance for everyday material life",
+              "The price of manuscripts",
+              "The design of temples",
+              "The naming of festivals"
+            ],
+            "correct": 0,
+            "explanation": "The question asks how Vedic knowledge bears on ordinary living.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What do prescriptions and prohibitions distinguish?",
+            "options": [
+              "Rich and poor as kinds of Atma",
+              "What to do and what to avoid",
+              "Old and new clothing",
+              "Different musical pitches"
+            ],
+            "correct": 1,
+            "explanation": "They guide the pursuit of good and avoidance of harm.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What range does the Veda address here?",
+            "options": [
+              "Ritual alone",
+              "Commerce alone",
+              "Material and spiritual life",
+              "Grammar alone"
+            ],
+            "correct": 2,
+            "explanation": "The answer includes this world and the beyond.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What root is given for Veda?",
+            "options": [
+              "Yaj, to worship",
+              "Ad, to eat",
+              "Aranya, forest",
+              "Vid, to know"
+            ],
+            "correct": 3,
+            "explanation": "The derivation explains the connection with knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          },
+          {
+            "q": "What human capacity is emphasised?",
+            "options": [
+              "Spiritual wisdom",
+              "Possessions alone",
+              "Bodily size",
+              "Public fame"
+            ],
+            "correct": 0,
+            "explanation": "The passage regards wisdom as central to the human opportunity.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 5, PDF page 10"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "One Veda, divided into five collections",
+        "chapter": "Section 6 · One Veda, divided into five collections",
+        "chapterNumber": 6,
+        "pdfStartPage": 10,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+        "sourceLabel": "Section 6, PDF pages 10–11",
+        "summary": "The Veda is described as limitless, yet originally one. Its vastness made study difficult and discouraged ordinary learners. The dialogue explains division into collections as a way of bringing this inheritance within reach, rather than as evidence of conflicting spiritual sources. It describes groups of hymns, musically rendered verses, and mantras.\n\nVyasa is credited with organising the Veda into four parts and preparing five collections. He is identified as the son of Paraasara, a great sage, and a partial manifestation of Narayana. His work is presented as serving human welfare and righteous living. The reason that four Vedas yield five collections is taken up in the following section; here the emphasis is on compassionate organisation that makes sustained learning possible.",
+        "qa": [
+          {
+            "q": "How many Vedas are said to have existed at the beginning?",
+            "a": "One. The teaching describes later divisions of an original unity."
+          },
+          {
+            "q": "Why was division helpful?",
+            "a": "The vastness discouraged and overwhelmed learners. Organisation made the material more accessible."
+          },
+          {
+            "q": "Who organised the collections?",
+            "a": "Vyasa. The dialogue credits Vyasa with this work for human welfare."
+          },
+          {
+            "q": "Which collection contains verses suited to musical rendering?",
+            "a": "Sama-samhitha. Musical rendering distinguishes this group in the explanation."
+          },
+          {
+            "q": "Whose son is Vyasa identified as?",
+            "a": "Sage Paraasara’s. This detail accompanies the account of his qualifications and service."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How many Vedas are said to have existed at the beginning?",
+            "options": [
+              "Five",
+              "Nine",
+              "Thirty-three",
+              "One"
+            ],
+            "correct": 3,
+            "explanation": "The teaching describes later divisions of an original unity.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 6, PDF pages 10–11"
+          },
+          {
+            "q": "Why was division helpful?",
+            "options": [
+              "The vastness discouraged and overwhelmed learners",
+              "The original teaching had no value",
+              "Every region needed a rival truth",
+              "Study was to be prevented"
+            ],
+            "correct": 0,
+            "explanation": "Organisation made the material more accessible.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 6, PDF pages 10–11"
+          },
+          {
+            "q": "Who organised the collections?",
+            "options": [
+              "Valmiki",
+              "Vyasa",
+              "Kalidasa",
+              "Vasishta"
+            ],
+            "correct": 1,
+            "explanation": "The dialogue credits Vyasa with this work for human welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 6, PDF pages 10–11"
+          },
+          {
+            "q": "Which collection contains verses suited to musical rendering?",
+            "options": [
+              "Atharva-samhitha",
+              "Yajus-samhitha",
+              "Sama-samhitha",
+              "Rik-samhitha"
+            ],
+            "correct": 2,
+            "explanation": "Musical rendering distinguishes this group in the explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 6, PDF pages 10–11"
+          },
+          {
+            "q": "Whose son is Vyasa identified as?",
+            "options": [
+              "Prahlada’s",
+              "Hiranyakasipu’s",
+              "Atharvan’s",
+              "Sage Paraasara’s"
+            ],
+            "correct": 3,
+            "explanation": "This detail accompanies the account of his qualifications and service.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=10",
+            "sourceLabel": "Section 6, PDF pages 10–11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Divisions of Veda correspond to spiritual stages",
+        "chapter": "Section 7 · Divisions of Veda correspond to spiritual stages",
+        "chapterNumber": 7,
+        "pdfStartPage": 11,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+        "sourceLabel": "Section 7, PDF page 11",
+        "summary": "The additional collection arises because the Yajur-veda has Krishna and Sukla forms. The section then explains three complementary kinds of text: Brahmanas, Aranyakas, and Upanishads. They address different stages of awareness so that varied seekers can benefit. Their differences are presented as adaptations of guidance rather than contradictions.\n\nBrahmanas explain ritual formulae, ceremonies, and the conduct of sacrifice. Aranyakas take their name from aranya, forest, and are intended for quiet study and meditation, especially in the forest-dweller stage after studentship and household life. The discussion also associates Brahma-kanda with rites and elaborations of right conduct. The section’s central idea is that spiritual literature meets people at different levels, connecting responsibilities, inward preparation, and progress toward deeper understanding.",
+        "qa": [
+          {
+            "q": "Why do four Vedas produce five collections?",
+            "a": "Yajur-veda has Krishna and Sukla collections. The two Yajur collections account for the additional one."
+          },
+          {
+            "q": "Which three complementary texts are named?",
+            "a": "Brahmanas, Aranyakas, and Upanishads. The dialogue relates them to differing stages of awareness."
+          },
+          {
+            "q": "What do Brahmanas explain?",
+            "a": "Ritual formulae and sacrificial ceremonies. They clarify the rites connected with mantras."
+          },
+          {
+            "q": "What does aranya mean?",
+            "a": "Forest. The name connects Aranyakas with quiet study in hermitages."
+          },
+          {
+            "q": "For which stage are Aranyakas especially intended?",
+            "a": "Forest-dweller life after studentship and household life. Their guidance supports this transition toward a more inward life."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why do four Vedas produce five collections?",
+            "options": [
+              "Rig-veda is divided into five",
+              "Sama-veda has no collection",
+              "Yajur-veda has Krishna and Sukla collections",
+              "Atharva is counted twice without explanation"
+            ],
+            "correct": 2,
+            "explanation": "The two Yajur collections account for the additional one.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "Which three complementary texts are named?",
+            "options": [
+              "Puranas, poems, and royal decrees",
+              "Hymns, calendars, and accounts",
+              "Mantras, letters, and biographies",
+              "Brahmanas, Aranyakas, and Upanishads"
+            ],
+            "correct": 3,
+            "explanation": "The dialogue relates them to differing stages of awareness.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "What do Brahmanas explain?",
+            "options": [
+              "Ritual formulae and sacrificial ceremonies",
+              "Only forest geography",
+              "Only musical instruments",
+              "Only royal ancestry"
+            ],
+            "correct": 0,
+            "explanation": "They clarify the rites connected with mantras.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "What does aranya mean?",
+            "options": [
+              "Fire",
+              "Forest",
+              "Ocean",
+              "Breath"
+            ],
+            "correct": 1,
+            "explanation": "The name connects Aranyakas with quiet study in hermitages.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          },
+          {
+            "q": "For which stage are Aranyakas especially intended?",
+            "options": [
+              "Childhood before all study",
+              "Royal administration alone",
+              "Forest-dweller life after studentship and household life",
+              "Trade apprenticeship"
+            ],
+            "correct": 2,
+            "explanation": "Their guidance supports this transition toward a more inward life.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 7, PDF page 11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Upanishads form Vedanta, highest spirituality",
+        "chapter": "Section 8 · Upanishads form Vedanta, highest spirituality",
+        "chapterNumber": 8,
+        "pdfStartPage": 11,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+        "sourceLabel": "Section 8, PDF pages 11–12",
+        "summary": "The Upanishads are said to require intelligent discrimination and deserve to be understood in that way. The section names four human goals: righteousness, prosperity, moral desire, and liberation. It distinguishes learning concerned with the first three from the higher learning directed toward liberation.\n\nThe Upanishads form Vedanta in this account. Their value is not exhausted by memorising sacred words. The teaching must be understood and assimilated for knowledge to reach fulfilment. This short dialogue therefore places emphasis on the transition from learning to insight: the highest purpose of study is a real understanding of the truth to which it points, rather than the possession of a memorised text.",
+        "qa": [
+          {
+            "q": "What is required to master the Upanishads?",
+            "a": "Intelligent discrimination. Viveka is the capacity emphasised."
+          },
+          {
+            "q": "How many human goals are listed?",
+            "a": "Four. They are dharma, artha, kama, and moksha."
+          },
+          {
+            "q": "Which goal is associated with higher learning?",
+            "a": "Liberation. The section places moksha as the higher goal."
+          },
+          {
+            "q": "What forms Vedanta in this explanation?",
+            "a": "The Upanishads. The dialogue directly identifies the Upanishads with Vedanta."
+          },
+          {
+            "q": "What is necessary beyond memorisation?",
+            "a": "Understanding and assimilation. Knowledge must become inwardly understood."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is required to master the Upanishads?",
+            "options": [
+              "Wealth alone",
+              "Intelligent discrimination",
+              "Social prestige",
+              "Mere rapid recitation"
+            ],
+            "correct": 1,
+            "explanation": "Viveka is the capacity emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 8, PDF pages 11–12"
+          },
+          {
+            "q": "How many human goals are listed?",
+            "options": [
+              "Two",
+              "Five",
+              "Four",
+              "Nine"
+            ],
+            "correct": 2,
+            "explanation": "They are dharma, artha, kama, and moksha.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 8, PDF pages 11–12"
+          },
+          {
+            "q": "Which goal is associated with higher learning?",
+            "options": [
+              "Prosperity alone",
+              "Moral desire alone",
+              "Material security alone",
+              "Liberation"
+            ],
+            "correct": 3,
+            "explanation": "The section places moksha as the higher goal.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 8, PDF pages 11–12"
+          },
+          {
+            "q": "What forms Vedanta in this explanation?",
+            "options": [
+              "The Upanishads",
+              "Royal chronicles",
+              "Trade manuals",
+              "Musical instruments"
+            ],
+            "correct": 0,
+            "explanation": "The dialogue directly identifies the Upanishads with Vedanta.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 8, PDF pages 11–12"
+          },
+          {
+            "q": "What is necessary beyond memorisation?",
+            "options": [
+              "Public applause",
+              "Understanding and assimilation",
+              "More possessions",
+              "A new title"
+            ],
+            "correct": 1,
+            "explanation": "Knowledge must become inwardly understood.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=11",
+            "sourceLabel": "Section 8, PDF pages 11–12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Vedas bear nine names, or features",
+        "chapter": "Section 9 · Vedas bear nine names, or features",
+        "chapterNumber": 9,
+        "pdfStartPage": 12,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+        "sourceLabel": "Section 9, PDF page 12",
+        "summary": "Nine names are introduced as expressions of different features of the Veda: Sruthi, Anusrava, Thrayee, Aamnaya, Namamnaya, Chandas, Swadhyaya, Aagama, and Nigamaagama. Sruthi refers to hearing, illustrated by a pupil listening carefully and reproducing the teacher’s chanting, including its modulations. Anusrava similarly concerns transmission through successive hearing.\n\nThrayee recalls the three early collections, while Aamnaya and Namamnaya emphasise continued learning. Chandas refers to poetic metre, and Swadhyaya to transmission through teaching and study across generations. Aagama and Nigamaagama concern origin or coming forth. The account returns to the sacred origin of the Veda in the divine breath, regarding its syllables and words as mantras. The names thus describe reception, form, preservation, and sacred character.",
+        "qa": [
+          {
+            "q": "What does Sruthi mean?",
+            "a": "That which was heard. The name reflects attentive oral learning from a teacher."
+          },
+          {
+            "q": "What must the pupil reproduce along with the hymn?",
+            "a": "Its voice modulations. Careful listening preserves the manner of chanting."
+          },
+          {
+            "q": "What does Thrayee mean?",
+            "a": "The Three. It recalls the early prominence of Rig, Yajur, and Sama."
+          },
+          {
+            "q": "Which name refers to poetic metre?",
+            "a": "Chandas. The section connects metre with musical rendering."
+          },
+          {
+            "q": "What feature does Swadhyaya describe here?",
+            "a": "Transmission through teaching and learning across generations. The explanation stresses preservation through continued study."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Sruthi mean?",
+            "options": [
+              "That which was heard",
+              "That which was purchased",
+              "That which was forgotten",
+              "That which was painted"
+            ],
+            "correct": 0,
+            "explanation": "The name reflects attentive oral learning from a teacher.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 9, PDF page 12"
+          },
+          {
+            "q": "What must the pupil reproduce along with the hymn?",
+            "options": [
+              "The teacher’s possessions",
+              "Its voice modulations",
+              "A social title",
+              "A written signature"
+            ],
+            "correct": 1,
+            "explanation": "Careful listening preserves the manner of chanting.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 9, PDF page 12"
+          },
+          {
+            "q": "What does Thrayee mean?",
+            "options": [
+              "The Five",
+              "The Nine",
+              "The Three",
+              "The Infinite"
+            ],
+            "correct": 2,
+            "explanation": "It recalls the early prominence of Rig, Yajur, and Sama.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 9, PDF page 12"
+          },
+          {
+            "q": "Which name refers to poetic metre?",
+            "options": [
+              "Aagama",
+              "Sruthi",
+              "Thrayee",
+              "Chandas"
+            ],
+            "correct": 3,
+            "explanation": "The section connects metre with musical rendering.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 9, PDF page 12"
+          },
+          {
+            "q": "What feature does Swadhyaya describe here?",
+            "options": [
+              "Transmission through teaching and learning across generations",
+              "A restriction on all study",
+              "The number of deities",
+              "The physical form of fire"
+            ],
+            "correct": 0,
+            "explanation": "The explanation stresses preservation through continued study.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 9, PDF page 12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Vedic mantras are powerful aids to liberation",
+        "chapter": "Section 10 · Vedic mantras are powerful aids to liberation",
+        "chapterNumber": 10,
+        "pdfStartPage": 12,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+        "sourceLabel": "Section 10, PDF pages 12–13",
+        "summary": "A mantra is explained through reflection and the power to carry the seeker across or liberate. Its words should keep the meaning and purpose of a rite present in the mind. Mechanical repetition is criticised because sound without understanding does not bring the full benefit described. Awareness of meaning and significance is essential.\n\nThe section also explains a saakha as a branch or limb of the Veda. A tree, its branches, twigs, and leaves illustrate how the parts belong to a larger whole. Many branches have disappeared from study and practice, and the Veda’s vastness is reaffirmed. Individual sages therefore studied selected branches deeply. The teaching links accurate learning with reflection, understanding, and practice rather than the mere extent of material recited.",
+        "qa": [
+          {
+            "q": "What activity is associated with the syllable man?",
+            "a": "Mental reflection or probing. The explanation relates mantra to thoughtful attention."
+          },
+          {
+            "q": "What power is associated with thra?",
+            "a": "Carrying across, saving, or liberating. This completes the section’s explanation of mantra."
+          },
+          {
+            "q": "Why is mechanical recitation criticised?",
+            "a": "It neglects meaning and significance. The full benefit requires conscious understanding."
+          },
+          {
+            "q": "What is a saakha?",
+            "a": "A branch or limb arising from a Veda. The tree comparison explains the relationship of part to whole."
+          },
+          {
+            "q": "Why did sages concentrate on selected branches?",
+            "a": "The Vedic inheritance is vast. The passage describes deep study within an immense body of knowledge."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What activity is associated with the syllable man?",
+            "options": [
               "Accumulating possessions",
-              "Winning theoretical disputes"
+              "Physical travel",
+              "Seeking applause",
+              "Mental reflection or probing"
+            ],
+            "correct": 3,
+            "explanation": "The explanation relates mantra to thoughtful attention.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 10, PDF pages 12–13"
+          },
+          {
+            "q": "What power is associated with thra?",
+            "options": [
+              "Carrying across, saving, or liberating",
+              "Increasing rivalry",
+              "Measuring time",
+              "Counting branches"
+            ],
+            "correct": 0,
+            "explanation": "This completes the section’s explanation of mantra.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 10, PDF pages 12–13"
+          },
+          {
+            "q": "Why is mechanical recitation criticised?",
+            "options": [
+              "It contains too few words",
+              "It neglects meaning and significance",
+              "It lacks an audience",
+              "It is always silent"
             ],
             "correct": 1,
-            "explanation": "The topic centres on learning through sincere effort and personally examined experience.",
+            "explanation": "The full benefit requires conscious understanding.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Stream of Cosmic Sport Divine"
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 10, PDF pages 12–13"
+          },
+          {
+            "q": "What is a saakha?",
+            "options": [
+              "A kind of ornament",
+              "A royal title",
+              "A branch or limb arising from a Veda",
+              "A physical flame"
+            ],
+            "correct": 2,
+            "explanation": "The tree comparison explains the relationship of part to whole.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 10, PDF pages 12–13"
+          },
+          {
+            "q": "Why did sages concentrate on selected branches?",
+            "options": [
+              "No branch contains teaching",
+              "Only one branch ever existed",
+              "Study was unrelated to practice",
+              "The Vedic inheritance is vast"
+            ],
+            "correct": 3,
+            "explanation": "The passage describes deep study within an immense body of knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=12",
+            "sourceLabel": "Section 10, PDF pages 12–13"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html"
+        ]
       },
       {
-        "id": "meaning",
-        "title": "Understanding sacred words",
-        "chapter": "Sai Speaks to Sadhaka",
-        "summary": "Mantras invite reflection on their significance. Recitation becomes fruitful when the practitioner understands the purpose behind sacred words.",
+        "id": "chapter-11",
+        "title": "Agni (Fire God) is most adored in the Rig-veda",
+        "chapter": "Section 11 · Agni (Fire God) is most adored in the Rig-veda",
+        "chapterNumber": 11,
+        "pdfStartPage": 13,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+        "sourceLabel": "Section 11, PDF pages 13–14",
+        "summary": "The Rig-veda is introduced as a collection of hymns praising divine forms, with thirty-three treated as important. Images convey their qualities: the Sun’s rays are arms and Agni’s flames are tongues. Fire born from friction consumes the wood that produced it, while the ten fingers operating the wood are described as attendants. Smoke serves as Agni’s banner, explaining the name Dhuma Kethu.\n\nAgni’s role in sacrifice includes bringing the deities and conveying offerings, hence the name Yajna-Sarathi. Fire also sustains life inside and outside the body, giving Agni the title Master of the home. The section ends with impartiality: Agni serves beings without distinction of race or caste and is therefore called Equal Friend. The imagery joins ritual function with the everyday importance and universality of fire.",
         "qa": [
           {
-            "q": "What weakens mantra recitation?",
-            "a": "Mechanical repetition neglects the meaning that should guide contemplation."
+            "q": "How many deities are treated as important in this account of the Rig-veda?",
+            "a": "Thirty-three. The number appears in the opening description."
+          },
+          {
+            "q": "What do Agni’s ten attendants represent?",
+            "a": "The ten fingers operating the wood. The image describes producing fire by friction."
+          },
+          {
+            "q": "What explains the name Dhuma Kethu?",
+            "a": "Smoke as Agni’s banner. The visible smoke signals the presence of fire."
+          },
+          {
+            "q": "What does Yajna-Sarathi signify?",
+            "a": "Charioteer of the sacrifice. Agni brings the deities and carries the offerings in the ritual account."
+          },
+          {
+            "q": "Why is Agni called Equal Friend?",
+            "a": "He makes no distinction among beings, races, and castes. Impartiality is the final quality emphasised."
           }
         ],
         "quiz": [
           {
-            "q": "A chant is unfamiliar to Sita. What should she seek first?",
+            "q": "How many deities are treated as important in this account of the Rig-veda?",
             "options": [
-              "A more ornate microphone",
-              "A reliable explanation of its meaning",
-              "A faster group to follow",
-              "A way to avoid questions"
-            ],
-            "correct": 1,
-            "explanation": "Understanding the words gives her attention a meaningful direction during the activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A singer knows every sound but cannot explain the prayer. What would deepen learning?",
-            "options": [
-              "Study its significance alongside recitation",
-              "Increase volume at every repetition",
-              "Perform before larger audiences",
-              "Choose a more elaborate outfit"
-            ],
-            "correct": 0,
-            "explanation": "Studying significance connects remembered sounds with the ideas they are intended to convey.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "The group rushes through a prayer to meet a target. What should its leader suggest?",
-            "options": [
-              "Reward the fastest participant",
-              "Add another numerical target",
-              "Remove every explanatory pause",
-              "Leave room for attentive reflection"
-            ],
-            "correct": 3,
-            "explanation": "Time for reflection helps prevent completion targets from displacing thoughtful participation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A child asks what a sacred phrase means. Which reply encourages learning?",
-            "options": [
-              "Tell the child never to ask",
-              "Praise memorisation as sufficient",
-              "Explain simply and welcome discussion",
-              "Change to a harder phrase"
+              "Four",
+              "Nine",
+              "Thirty-three",
+              "Seventeen"
             ],
             "correct": 2,
-            "explanation": "A clear explanation helps curiosity become understanding instead of leaving repetition empty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Two translations seem different. What is the responsible response?",
-            "options": [
-              "Invent a convenient interpretation",
-              "Compare their meanings carefully",
-              "Choose whichever sounds impressive",
-              "Assume every difference is meaningless"
-            ],
-            "correct": 1,
-            "explanation": "Careful comparison respects uncertainty and supports understanding without manufacturing a preferred explanation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Dev remembers a phrase during an argument. What would connect words with meaning?",
-            "options": [
-              "Pause and choose considerate speech",
-              "Repeat it while insulting someone",
-              "Use it to claim superiority",
-              "Judge the other person's pronunciation"
-            ],
-            "correct": 0,
-            "explanation": "Meaning becomes relevant when it informs conduct in the situation being faced.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A reader circles an unfamiliar term. What is the best follow-up?",
-            "options": [
-              "Skip it and teach confidently",
-              "Guess from its appearance",
-              "Replace it with any familiar word",
-              "Clarify it before drawing conclusions"
-            ],
-            "correct": 3,
-            "explanation": "Clarification prevents a mistaken assumption from becoming the foundation for later interpretation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A group praises flawless performance but ignores understanding. What should change?",
-            "options": [
-              "Rank performers more frequently",
-              "Choose more difficult compositions",
-              "Discuss the purpose of the words",
-              "Focus solely on audience reactions"
-            ],
-            "correct": 2,
-            "explanation": "Discussion of purpose restores attention to significance alongside the skill of performance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "An experienced reciter feels mentally absent. Which experiment is most useful?",
-            "options": [
-              "Increase speed to stay busy",
-              "Recall the meaning before beginning",
-              "Count everyone else's mistakes",
-              "Wait for the audience to improve"
-            ],
-            "correct": 1,
-            "explanation": "Recalling meaning gives attention a clear focus without turning practice into comparison.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Someone treats a phrase as an impressive password. What has been missed?",
-            "options": [
-              "Its invitation to thoughtful contemplation",
-              "Its value as social distinction",
-              "Its usefulness for winning approval",
-              "Its ability to replace learning"
-            ],
-            "correct": 0,
-            "explanation": "Contemplation asks what the words convey instead of using them as decoration.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A teacher prepares a beginner's handout. Which addition best supports this topic?",
-            "options": [
-              "A ranking of famous reciters",
-              "A list of expensive accessories",
-              "A contest for fastest completion",
-              "A brief explanation of significance"
-            ],
-            "correct": 3,
-            "explanation": "A concise explanation helps beginners connect pronunciation with a thoughtful understanding of purpose.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Rina has only a few minutes. Which choice is most attentive?",
-            "options": [
-              "Rush more without attention",
-              "Compare totals with neighbours",
-              "Recite less with understood meaning",
-              "Repeat while composing an argument"
-            ],
-            "correct": 2,
-            "explanation": "A manageable amount allows attention to remain connected with meaning throughout the activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A learner discovers an earlier misunderstanding. How should they respond?",
-            "options": [
-              "Hide it to preserve reputation",
-              "Revise their understanding honestly",
-              "Blame every previous listener",
-              "Refuse to reconsider the phrase"
-            ],
-            "correct": 1,
-            "explanation": "Honest revision strengthens learning by correcting an interpretation instead of protecting appearances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A workshop combines recitation and discussion. What makes the combination valuable?",
-            "options": [
-              "Sound and significance inform each other",
-              "Discussion eliminates all need for attention",
-              "Performance guarantees complete understanding",
-              "Agreement removes the need for learning"
-            ],
-            "correct": 0,
-            "explanation": "The two activities can reinforce understanding when neither becomes an empty formality.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A participant cannot remember a long explanation. What could help?",
-            "options": [
-              "Pretend to understand everything",
-              "Memorise an unrelated slogan",
-              "Stop asking about significance",
-              "Identify one clear central meaning"
-            ],
-            "correct": 3,
-            "explanation": "A clear central meaning provides an accessible starting point for further reflection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A leader adds unfamiliar words for prestige. What is a better criterion?",
-            "options": [
-              "Maximise the number of syllables",
-              "Prefer words nobody can explain",
-              "Choose material participants can understand",
-              "Select whatever attracts admiration"
-            ],
-            "correct": 2,
-            "explanation": "Accessible understanding gives participants a stronger foundation than the appearance of complexity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Someone repeats a prayer while planning revenge. What adjustment is most relevant?",
-            "options": [
-              "Make the recitation louder",
-              "Reconnect attention with its ethical meaning",
-              "Add a ceremonial accessory",
-              "Ask others to praise dedication"
-            ],
-            "correct": 1,
-            "explanation": "Reconnecting meaning and intention exposes the conflict between the activity and the planned response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "How can a facilitator check understanding respectfully?",
-            "options": [
-              "Invite participants to explain the idea",
-              "Demand identical emotional experiences",
-              "Compare everyone's personal status",
-              "Reward only polished pronunciation"
-            ],
-            "correct": 0,
-            "explanation": "Explaining an idea reveals understanding without requiring people to perform particular emotions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Why is mechanical repetition questioned in this topic?",
-            "options": [
-              "Every repeated action is worthless",
-              "Only rare words have meaning",
-              "Understanding prevents continued practice",
-              "Sound can become disconnected from significance"
-            ],
-            "correct": 3,
-            "explanation": "The concern is lost attention to significance rather than repetition considered by itself.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "What should accompany sacred recitation here?",
-            "options": [
-              "Competition and display",
-              "Haste and comparison",
-              "Understanding and contemplation",
-              "Prestige and expense"
-            ],
-            "correct": 2,
-            "explanation": "The topic joins recitation with thoughtful attention to what the words mean.",
+            "explanation": "The number appears in the opening description.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+            "sourceLabel": "Section 11, PDF pages 13–14"
+          },
+          {
+            "q": "What do Agni’s ten attendants represent?",
+            "options": [
+              "Ten mountains",
+              "Ten rivers",
+              "Ten ritual buildings",
+              "The ten fingers operating the wood"
+            ],
+            "correct": 3,
+            "explanation": "The image describes producing fire by friction.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+            "sourceLabel": "Section 11, PDF pages 13–14"
+          },
+          {
+            "q": "What explains the name Dhuma Kethu?",
+            "options": [
+              "Smoke as Agni’s banner",
+              "Water as His vehicle",
+              "Gold as His ornament",
+              "Wind as His crown"
+            ],
+            "correct": 0,
+            "explanation": "The visible smoke signals the presence of fire.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+            "sourceLabel": "Section 11, PDF pages 13–14"
+          },
+          {
+            "q": "What does Yajna-Sarathi signify?",
+            "options": [
+              "Ruler of the ocean",
+              "Charioteer of the sacrifice",
+              "Guardian of wealth",
+              "Teacher of grammar"
+            ],
+            "correct": 1,
+            "explanation": "Agni brings the deities and carries the offerings in the ritual account.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+            "sourceLabel": "Section 11, PDF pages 13–14"
+          },
+          {
+            "q": "Why is Agni called Equal Friend?",
+            "options": [
+              "He belongs to one group alone",
+              "He favours wealth",
+              "He makes no distinction among beings, races, and castes",
+              "He serves only scholars"
+            ],
+            "correct": 2,
+            "explanation": "Impartiality is the final quality emphasised.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=13",
+            "sourceLabel": "Section 11, PDF pages 13–14"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html"
+        ]
       },
       {
-        "id": "unity",
-        "title": "Recognising shared divinity",
-        "chapter": "Sai Speaks to Sadhaka",
-        "summary": "The Rig Veda's teaching of unity encourages truthful living and goodwill, recognising one divine reality within many beings.",
+        "id": "chapter-12",
+        "title": "Rig-veda proclaims universal unity",
+        "chapter": "Section 12 · Rig-veda proclaims universal unity",
+        "chapterNumber": 12,
+        "pdfStartPage": 14,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+        "sourceLabel": "Section 12, PDF page 14",
+        "summary": "The central lesson of the Rig-veda is presented as unity. People should share noble purposes, good motives, and commitment to truth because they are manifestations of the One. The section rejects the idea that human unity is merely a recent ideal, locating it firmly within the Vedic teaching.\n\nThe Atma in each person is described as the same reality appearing in many forms. Imposed divisions narrow life and multiply conflict. The passage therefore calls for an inclusive understanding that breaks restrictive barriers rather than reinforcing them. Its emphasis is not only on saying that people are one, but on directing desires, thoughts, and conduct toward the shared good expressed by that truth.",
         "qa": [
           {
-            "q": "Why resist narrow divisions?",
-            "a": "They obscure the spiritual unity underlying human differences."
+            "q": "What is identified as the Rig-veda’s central lesson?",
+            "a": "Unity. The section makes universal unity its foremost ideal."
+          },
+          {
+            "q": "Toward what should thoughts be directed?",
+            "a": "Good motives and good ends. A shared noble purpose expresses the teaching."
+          },
+          {
+            "q": "How are people related to the One?",
+            "a": "They are its manifestations. The explanation grounds unity in divine reality."
+          },
+          {
+            "q": "What is said about the Atma in everyone?",
+            "a": "It is the One appearing as many. This is the spiritual basis for an inclusive outlook."
+          },
+          {
+            "q": "What effect do multiplied divisions have?",
+            "a": "They narrow life and increase conflict. The passage contrasts division with the universal Vedic ideal."
           }
         ],
         "quiz": [
           {
-            "q": "Volunteers speak several languages. Which arrangement best expresses shared dignity?",
+            "q": "What is identified as the Rig-veda’s central lesson?",
             "options": [
-              "Reserve decisions for one language group",
-              "Assign worth by accent",
-              "Provide fair ways for everyone to participate",
-              "Exclude newcomers until they assimilate"
-            ],
-            "correct": 2,
-            "explanation": "Fair participation recognises common dignity while accommodating real differences in communication.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A committee favours donors over quieter members. What should it reconsider?",
-            "options": [
-              "Whether donations are publicly ranked",
-              "Whether everyone receives equal respect",
-              "Whether quiet members appear impressive",
-              "Whether hierarchy looks traditional"
+              "Social rivalry",
+              "Unity",
+              "Material accumulation",
+              "Isolation"
             ],
             "correct": 1,
-            "explanation": "Respect should not depend on visibility or financial contribution within the community.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Two devotees follow different customs. What is a constructive first response?",
-            "options": [
-              "Explore respectfully without ranking their worth",
-              "Assume difference means hostility",
-              "Demand identical personal preferences",
-              "Avoid all cooperative work"
-            ],
-            "correct": 0,
-            "explanation": "Respectful curiosity allows cooperation without making cultural differences a measure of human value.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A newcomer sits alone after a gathering. Which action expresses unity?",
-            "options": [
-              "Wait for an important introduction",
-              "Discuss why newcomers seem awkward",
-              "Reserve friendship for familiar families",
-              "Offer a welcome and inclusion"
-            ],
-            "correct": 3,
-            "explanation": "A simple welcome turns an inclusive principle into an immediate personal action.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A family disagrees over festival arrangements. What best preserves goodwill?",
-            "options": [
-              "Let the loudest person decide",
-              "Question each person's devotion",
-              "Hear each concern and seek a fair plan",
-              "Turn preference into a loyalty test"
-            ],
-            "correct": 2,
-            "explanation": "Listening separates practical disagreement from unnecessary judgments about another person's worth.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A volunteer dismisses someone because of occupation. Which correction fits this topic?",
-            "options": [
-              "Ask about a higher salary",
-              "Evaluate the person without status prejudice",
-              "Move them out of sight",
-              "Require proof of influential contacts"
-            ],
-            "correct": 1,
-            "explanation": "Occupational status does not justify denying someone ordinary respect or fair consideration.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "An event includes people with different abilities. What should organisers prioritise?",
-            "options": [
-              "Accessible meaningful participation",
-              "Identical tasks without adjustments",
-              "Participation only by the fastest",
-              "Keeping support needs invisible"
-            ],
-            "correct": 0,
-            "explanation": "Thoughtful accessibility makes shared participation possible without pretending everyone's circumstances are identical.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A group shares a purpose but disputes methods. What is most useful?",
-            "options": [
-              "Treat disagreement as personal disloyalty",
-              "Hide every concern permanently",
-              "Split people into superior and inferior camps",
-              "Find common aims while discussing differences"
-            ],
-            "correct": 3,
-            "explanation": "Common aims provide a basis for cooperation while practical differences receive honest attention.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "An online discussion becomes contemptuous. What response supports unity?",
-            "options": [
-              "Reply with a harsher insult",
-              "Mock the person's background",
-              "Challenge the idea without demeaning the person",
-              "Encourage friends to humiliate them"
-            ],
-            "correct": 2,
-            "explanation": "Respectful disagreement protects dignity while allowing ideas and actions to be questioned.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A leader always consults close friends. Which change broadens inclusion?",
-            "options": [
-              "Publicise friendships more clearly",
-              "Invite overlooked perspectives into discussion",
-              "Let popularity decide every issue",
-              "Assume silence means agreement"
-            ],
-            "correct": 1,
-            "explanation": "Including overlooked voices helps decisions reflect the wider community rather than familiar circles.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A devotee claims unity requires identical tastes. What is the best correction?",
-            "options": [
-              "Shared dignity can coexist with different preferences",
-              "Everyone must enjoy the same things",
-              "Differences prove unequal worth",
-              "Cooperation requires removing individuality"
-            ],
-            "correct": 0,
-            "explanation": "Unity concerns the basis of mutual respect, not uniformity in every preference.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A young participant makes a mistake. Which response preserves belonging?",
-            "options": [
-              "Define them entirely by the mistake",
-              "Discuss their failure publicly",
-              "Exclude their whole family",
-              "Correct kindly and offer another chance"
-            ],
-            "correct": 3,
-            "explanation": "Kind correction addresses the action while keeping the person's dignity and belonging intact.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Two neighbourhood groups distrust each other. What could build connection?",
-            "options": [
-              "Compete for spiritual prestige",
-              "Repeat old accusations at meetings",
-              "Undertake a useful shared service project",
-              "Avoid every possible conversation"
-            ],
-            "correct": 2,
-            "explanation": "Shared constructive work creates opportunities for direct cooperation beyond inherited group assumptions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A host has limited seats. What decision is most consistent with fairness?",
-            "options": [
-              "Prioritise people with famous relatives",
-              "Use a clear considerate allocation",
-              "Change rules for admired guests",
-              "Assign places according to clothing"
-            ],
-            "correct": 1,
-            "explanation": "Transparent considerate criteria reduce status favouritism while recognising the practical limit.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A study circle hears an unfamiliar pronunciation. What is the kindest useful response?",
-            "options": [
-              "Clarify gently if understanding requires it",
-              "Use it as a reason for ridicule",
-              "Assume the speaker lacks sincerity",
-              "Exclude the speaker from reading"
-            ],
-            "correct": 0,
-            "explanation": "Gentle clarification supports communication without converting difference into a personal embarrassment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A person helps only people who resemble them. What broadens their practice?",
-            "options": [
-              "Find reasons outsiders deserve less",
-              "Advertise selective generosity",
-              "Demand shared customs before helping",
-              "Respond to need beyond familiar identities"
-            ],
-            "correct": 3,
-            "explanation": "Responding to need widens concern beyond the comfort of familiar personal identities.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "An organiser describes participants as a single community. What action makes that credible?",
-            "options": [
-              "Use inclusive slogans only",
-              "Ignore complaints from smaller groups",
-              "Apply the same respect in everyday decisions",
-              "Let prestige determine access"
-            ],
-            "correct": 2,
-            "explanation": "Consistent decisions give practical substance to inclusive language and public statements.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "A disagreement concerns a harmful action. Does unity prevent correction?",
-            "options": [
-              "Yes, every action must be approved",
-              "No, correction can remain respectful",
-              "Yes, concerns must stay hidden",
-              "No, humiliation becomes necessary"
-            ],
-            "correct": 1,
-            "explanation": "Respecting a person does not require approving conduct that needs thoughtful correction.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
-          },
-          {
-            "q": "Which recognition underlies this topic's ideal of unity?",
-            "options": [
-              "One divine reality within many beings",
-              "Identical skills in every person",
-              "Equal possessions in every home",
-              "The disappearance of all preferences"
-            ],
-            "correct": 0,
-            "explanation": "The topic grounds goodwill in shared spiritual reality despite visible human differences.",
+            "explanation": "The section makes universal unity its foremost ideal.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 12, PDF page 14"
           },
           {
-            "q": "A visitor is unfamiliar with local etiquette. What should a volunteer do?",
+            "q": "Toward what should thoughts be directed?",
             "options": [
-              "Assume deliberate disrespect",
-              "Discuss their ignorance with friends",
-              "Refuse assistance until they guess",
-              "Explain kindly and help them participate"
+              "Personal superiority",
+              "Hostility",
+              "Good motives and good ends",
+              "Public display alone"
+            ],
+            "correct": 2,
+            "explanation": "A shared noble purpose expresses the teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 12, PDF page 14"
+          },
+          {
+            "q": "How are people related to the One?",
+            "options": [
+              "They are wholly unrelated realities",
+              "Only some possess any spiritual basis",
+              "Their value depends on wealth",
+              "They are its manifestations"
             ],
             "correct": 3,
-            "explanation": "Helpful explanation protects dignity while making unfamiliar community practices easier to navigate.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html",
-            "sourceLabel": "Leela Kaivalya Vahini — Sai Speaks to Sadhaka"
+            "explanation": "The explanation grounds unity in divine reality.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 12, PDF page 14"
+          },
+          {
+            "q": "What is said about the Atma in everyone?",
+            "options": [
+              "It is the One appearing as many",
+              "It differs in worth by caste",
+              "It depends on status",
+              "It is merely a bodily feature"
+            ],
+            "correct": 0,
+            "explanation": "This is the spiritual basis for an inclusive outlook.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 12, PDF page 14"
+          },
+          {
+            "q": "What effect do multiplied divisions have?",
+            "options": [
+              "They guarantee peace",
+              "They narrow life and increase conflict",
+              "They establish equal vision",
+              "They remove all barriers"
+            ],
+            "correct": 1,
+            "explanation": "The passage contrasts division with the universal Vedic ideal.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 12, PDF page 14"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Yajur-veda describes methods of sacrifices",
+        "chapter": "Section 13 · Yajur-veda describes methods of sacrifices",
+        "chapterNumber": 13,
+        "pdfStartPage": 14,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+        "sourceLabel": "Section 13, PDF pages 14–15",
+        "summary": "The name Yajur-veda is related to yaj, with worship and giving among its meanings. This Veda describes sacrificial rites and is also called Adhwara Veda. The dialogue distinguishes Krishna Yajur-veda, associated here with the Brahma tradition, from Sukla Yajur-veda, associated with the Sun tradition.\n\nThe passage describes their geographical prevalence and the loss of many branches over time. It states that four of eighty-six Krishna branches and two of seventeen Sukla branches remained available in the account being given. These figures belong to the book’s description of the tradition. The concluding emphasis is that even the surviving teaching reveals a depth not easily measured by language or imagination. Study is presented as an encounter with spiritual value rather than merely a count of texts.",
+        "qa": [
+          {
+            "q": "Which root is given for Yajur-veda?",
+            "a": "Yaj. Worship and giving are among the meanings discussed."
+          },
+          {
+            "q": "What is its principal subject here?",
+            "a": "Methods of sacrifice and ritual. The section explains its role in ceremonial offerings."
+          },
+          {
+            "q": "What other name is given to it?",
+            "a": "Adhwara Veda. Adhwara is explained as meaning sacrifice."
+          },
+          {
+            "q": "Which tradition is associated with Sukla Yajur-veda?",
+            "a": "The Sun or Aditya tradition. Krishna and Sukla are distinguished through these associations."
+          },
+          {
+            "q": "How many Sukla branches does the text say remain available?",
+            "a": "Two. The passage says two remained from seventeen noteworthy branches."
           }
         ],
-        "sourceUrl": "https://vahini.org/downloads/leelakaivalyavahini.html"
+        "quiz": [
+          {
+            "q": "Which root is given for Yajur-veda?",
+            "options": [
+              "Yaj",
+              "Vid",
+              "Ad",
+              "Mnaa"
+            ],
+            "correct": 0,
+            "explanation": "Worship and giving are among the meanings discussed.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 13, PDF pages 14–15"
+          },
+          {
+            "q": "What is its principal subject here?",
+            "options": [
+              "Only musical notation",
+              "Methods of sacrifice and ritual",
+              "Only royal history",
+              "Only medicine"
+            ],
+            "correct": 1,
+            "explanation": "The section explains its role in ceremonial offerings.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 13, PDF pages 14–15"
+          },
+          {
+            "q": "What other name is given to it?",
+            "options": [
+              "Prusnigarbha",
+              "Dhuma Kethu",
+              "Adhwara Veda",
+              "Samamithra"
+            ],
+            "correct": 2,
+            "explanation": "Adhwara is explained as meaning sacrifice.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 13, PDF pages 14–15"
+          },
+          {
+            "q": "Which tradition is associated with Sukla Yajur-veda?",
+            "options": [
+              "The Brahma tradition in the contrast",
+              "The tradition of the unnamed king",
+              "The tradition of Prahlada’s companions",
+              "The Sun or Aditya tradition"
+            ],
+            "correct": 3,
+            "explanation": "Krishna and Sukla are distinguished through these associations.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 13, PDF pages 14–15"
+          },
+          {
+            "q": "How many Sukla branches does the text say remain available?",
+            "options": [
+              "Two",
+              "Four",
+              "Seventeen",
+              "Eighty-six"
+            ],
+            "correct": 0,
+            "explanation": "The passage says two remained from seventeen noteworthy branches.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=14",
+            "sourceLabel": "Section 13, PDF pages 14–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Veda contains pure or untainted wisdom",
+        "chapter": "Section 14 · Veda contains pure or untainted wisdom",
+        "chapterNumber": 14,
+        "pdfStartPage": 15,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+        "sourceLabel": "Section 14, PDF page 15",
+        "summary": "The dialogue explains that the Veda has more names than the nine already discussed. Each reveals another aspect of its teaching. Prusni is associated with purity, clarity, and sanctity, while Prusnigarbha describes the Almighty as containing untainted wisdom. The Veda gives expression in words to that wisdom.\n\nSages with purified consciousness and clear intellect receive the grace to perceive sacred hymns and mantras. They are described as free from binding consequences of action and as merging in Brahman, with renewed manifestation when the cosmic cycle begins again. The passage uses the language of being unborn and immaculate to explain their spiritual condition. Their intense yearning culminates in revelation, so purity, grace, and direct perception remain the central themes.",
+        "qa": [
+          {
+            "q": "Are the nine earlier names the only names of the Veda?",
+            "a": "No, many others express its features. The section introduces further names and meanings."
+          },
+          {
+            "q": "What does Prusni convey?",
+            "a": "Purity, clarity, and sanctity. These qualities explain its application to sacred wisdom."
+          },
+          {
+            "q": "What does Prusnigarbha describe?",
+            "a": "The Almighty containing untainted wisdom. The name points to the divine source of purity and intelligence."
+          },
+          {
+            "q": "What prepares the sages to receive the mantras?",
+            "a": "Purified consciousness and clarified intellect. Divine grace is received through this inward readiness."
+          },
+          {
+            "q": "What is the Veda described as making concrete in words?",
+            "a": "Divine wisdom. Its verbal form expresses the untainted knowledge discussed."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Are the nine earlier names the only names of the Veda?",
+            "options": [
+              "Yes, no others exist",
+              "Only one name is valid",
+              "Names have no significance in the dialogue",
+              "No, many others express its features"
+            ],
+            "correct": 3,
+            "explanation": "The section introduces further names and meanings.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 14, PDF page 15"
+          },
+          {
+            "q": "What does Prusni convey?",
+            "options": [
+              "Purity, clarity, and sanctity",
+              "Wealth, rank, and fame",
+              "Anger, fear, and rivalry",
+              "Movement, speed, and size"
+            ],
+            "correct": 0,
+            "explanation": "These qualities explain its application to sacred wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 14, PDF page 15"
+          },
+          {
+            "q": "What does Prusnigarbha describe?",
+            "options": [
+              "A physical forest",
+              "The Almighty containing untainted wisdom",
+              "A ritual instrument",
+              "A musical metre"
+            ],
+            "correct": 1,
+            "explanation": "The name points to the divine source of purity and intelligence.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 14, PDF page 15"
+          },
+          {
+            "q": "What prepares the sages to receive the mantras?",
+            "options": [
+              "Public recognition alone",
+              "Possessions alone",
+              "Purified consciousness and clarified intellect",
+              "Mere controversy"
+            ],
+            "correct": 2,
+            "explanation": "Divine grace is received through this inward readiness.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 14, PDF page 15"
+          },
+          {
+            "q": "What is the Veda described as making concrete in words?",
+            "options": [
+              "Personal ambition",
+              "Social competition",
+              "Material fashion",
+              "Divine wisdom"
+            ],
+            "correct": 3,
+            "explanation": "Its verbal form expresses the untainted knowledge discussed.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 14, PDF page 15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Mantras are revealed to holy sages",
+        "chapter": "Section 15 · Mantras are revealed to holy sages",
+        "chapterNumber": 15,
+        "pdfStartPage": 15,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+        "sourceLabel": "Section 15, PDF pages 15–16",
+        "summary": "Brahma Yajna is explained as intense study and observance of the Veda. Sages qualify as seers through inward awareness of mantras, truth, Brahman, and dharma. The rites they formulate from this vision are intended to promote peace and prosperity. Yearning for truth is identified with tapas, or spiritual austerity.\n\nThe expression thapoja does not mean that discipline creates a previously nonexistent Brahman. Brahman is beginningless; austerity enables its revelation to the seeker. The divine response is described as Word or Voice, expressed through mantra. The section also returns to Prusnigarbha, associating it with the divine containment of food, water, nectar, and Vedic wisdom. The teaching therefore distinguishes revelation through preparation from the invention or production of the eternal reality.",
+        "qa": [
+          {
+            "q": "What is Brahma Yajna?",
+            "a": "Intense study and observance of the Veda. The answer identifies it with swadhyaya."
+          },
+          {
+            "q": "What aim is assigned to rites established by the sages?",
+            "a": "Peace and prosperity. Their vision is directed toward the welfare of the world."
+          },
+          {
+            "q": "What is tapas identified with here?",
+            "a": "Yearning for truth. Spiritual austerity is explained through this earnest search."
+          },
+          {
+            "q": "What does thapoja mean in relation to Brahman?",
+            "a": "Brahman reveals itself through austerity. The text explicitly preserves Brahman’s beginningless nature."
+          },
+          {
+            "q": "How is the divine response to austerity described?",
+            "a": "The Word or Voice of God. Revelation is connected with the sacred mantra."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is Brahma Yajna?",
+            "options": [
+              "A pursuit of royal power",
+              "Mere public recitation without attention",
+              "Intense study and observance of the Veda",
+              "The accumulation of possessions"
+            ],
+            "correct": 2,
+            "explanation": "The answer identifies it with swadhyaya.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 15, PDF pages 15–16"
+          },
+          {
+            "q": "What aim is assigned to rites established by the sages?",
+            "options": [
+              "Rivalry among seekers",
+              "Personal fame",
+              "Neglect of duty",
+              "Peace and prosperity"
+            ],
+            "correct": 3,
+            "explanation": "Their vision is directed toward the welfare of the world.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 15, PDF pages 15–16"
+          },
+          {
+            "q": "What is tapas identified with here?",
+            "options": [
+              "Yearning for truth",
+              "Bodily appearance",
+              "Wealth alone",
+              "Scholarly pride"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual austerity is explained through this earnest search.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 15, PDF pages 15–16"
+          },
+          {
+            "q": "What does thapoja mean in relation to Brahman?",
+            "options": [
+              "Austerity creates Brahman from nothing",
+              "Brahman reveals itself through austerity",
+              "Brahman begins at a known date",
+              "Brahman depends on public worship for existence"
+            ],
+            "correct": 1,
+            "explanation": "The text explicitly preserves Brahman’s beginningless nature.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 15, PDF pages 15–16"
+          },
+          {
+            "q": "How is the divine response to austerity described?",
+            "options": [
+              "A worldly title",
+              "A financial reward",
+              "The Word or Voice of God",
+              "A social distinction"
+            ],
+            "correct": 2,
+            "explanation": "Revelation is connected with the sacred mantra.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=15",
+            "sourceLabel": "Section 15, PDF pages 15–16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "The “first born” in the Vedas",
+        "chapter": "Section 16 · The “first born” in the Vedas",
+        "chapterNumber": 16,
+        "pdfStartPage": 16,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+        "sourceLabel": "Section 16, PDF page 16",
+        "summary": "Prathamaja, or primal-born, is applied to the Veda. The name calls for reverent study, conscious worship, and understanding of what the sacred word teaches. Verbal recitation without this inward attention is insufficient. The related term Purvaja reinforces the account of an origin that cannot be assigned a discoverable beginning.\n\nThe dialogue distinguishes Supreme Brahman from Hiranyagarbha, the first expression of cosmic will. Brahman is presented as prior and ever-existent, with Hiranyagarbha and the Veda arising from it. Aarsha is another name, connecting the Veda with the sages who heard and expressed it. The section closes by identifying Veda as a source of dharma and warning against interpreting its duties and restraints merely to suit personal desires. Reverence therefore includes both understanding and responsible conduct.",
+        "qa": [
+          {
+            "q": "What does Prathamaja mean?",
+            "a": "Primal-born or first-born. The name is used to discuss the Veda’s sacred priority."
+          },
+          {
+            "q": "What must accompany recitation?",
+            "a": "Humility and awareness of meaning and instruction. The passage describes conscious service to the sacred word."
+          },
+          {
+            "q": "Which is presented as prior to Hiranyagarbha?",
+            "a": "Supreme Brahman. Brahman is described as ever-existent."
+          },
+          {
+            "q": "What does Aarsha connect the Veda with?",
+            "a": "The sages who heard and pronounced it. The name reflects its relation to the seers."
+          },
+          {
+            "q": "What kind of interpretation is criticised?",
+            "a": "Bending the teaching to personal desires. The section contrasts faithful interpretation with self-serving distortion."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Prathamaja mean?",
+            "options": [
+              "Equal friend",
+              "Primal-born or first-born",
+              "Poetic metre",
+              "Forest teaching"
+            ],
+            "correct": 1,
+            "explanation": "The name is used to discuss the Veda’s sacred priority.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 16, PDF page 16"
+          },
+          {
+            "q": "What must accompany recitation?",
+            "options": [
+              "Desire for fame",
+              "Mechanical speed alone",
+              "Humility and awareness of meaning and instruction",
+              "Social comparison"
+            ],
+            "correct": 2,
+            "explanation": "The passage describes conscious service to the sacred word.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 16, PDF page 16"
+          },
+          {
+            "q": "Which is presented as prior to Hiranyagarbha?",
+            "options": [
+              "The physical body",
+              "A ritual instrument",
+              "A human ruler",
+              "Supreme Brahman"
+            ],
+            "correct": 3,
+            "explanation": "Brahman is described as ever-existent.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 16, PDF page 16"
+          },
+          {
+            "q": "What does Aarsha connect the Veda with?",
+            "options": [
+              "The sages who heard and pronounced it",
+              "A region’s wealth",
+              "A royal dynasty",
+              "A type of food"
+            ],
+            "correct": 0,
+            "explanation": "The name reflects its relation to the seers.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 16, PDF page 16"
+          },
+          {
+            "q": "What kind of interpretation is criticised?",
+            "options": [
+              "Humble study",
+              "Bending the teaching to personal desires",
+              "Attention to duties",
+              "Responsible observance"
+            ],
+            "correct": 1,
+            "explanation": "The section contrasts faithful interpretation with self-serving distortion.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 16, PDF page 16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Vedas are highly potent revelations",
+        "chapter": "Section 17 · Vedas are highly potent revelations",
+        "chapterNumber": 17,
+        "pdfStartPage": 16,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+        "sourceLabel": "Section 17, PDF pages 16–17",
+        "summary": "The name Aarsha is explained through the Veda’s revelation by sages. Its mantras are a treasure of spiritual vision intended to liberate people. The discussion then gives wealth a spiritual meaning: the value of Vedic knowledge lies in its power to lead toward the highest goal, rather than in worldly possessions.\n\nThe sages’ prayer seeks wisdom instead of the burden of increased property and family accumulation. Such wisdom brings contentment and can be used in the service of the Divine. The section thus measures wealth by what it enables spiritually. The grace of Mother Veda provides a form of abundance that is fulfilled in understanding, liberation, and service rather than ownership alone.",
+        "qa": [
+          {
+            "q": "What does Aarsha indicate here?",
+            "a": "Revelation through the sages. The name refers to the seers’ spiritual vision."
+          },
+          {
+            "q": "What purpose is given to the mantras?",
+            "a": "Liberation. They are described as a treasure gathered for people’s spiritual welfare."
+          },
+          {
+            "q": "What kind of wealth is valued?",
+            "a": "Potent spiritual wisdom. The wealth is a means toward the highest goal."
+          },
+          {
+            "q": "What do the sages seek in the prayer?",
+            "a": "Wisdom rather than a burden of accumulation. The prayer defines abundance through spiritual understanding."
+          },
+          {
+            "q": "How can this wisdom be used?",
+            "a": "In service of the Divine. Service completes the section’s account of spiritual wealth."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Aarsha indicate here?",
+            "options": [
+              "Revelation through the sages",
+              "A collection of worldly goods",
+              "A geographical boundary",
+              "A musical instrument"
+            ],
+            "correct": 0,
+            "explanation": "The name refers to the seers’ spiritual vision.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 17, PDF pages 16–17"
+          },
+          {
+            "q": "What purpose is given to the mantras?",
+            "options": [
+              "Social rivalry",
+              "Liberation",
+              "Material display alone",
+              "The multiplication of argument"
+            ],
+            "correct": 1,
+            "explanation": "They are described as a treasure gathered for people’s spiritual welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 17, PDF pages 16–17"
+          },
+          {
+            "q": "What kind of wealth is valued?",
+            "options": [
+              "Possessions alone",
+              "Public status",
+              "Potent spiritual wisdom",
+              "Family prestige alone"
+            ],
+            "correct": 2,
+            "explanation": "The wealth is a means toward the highest goal.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 17, PDF pages 16–17"
+          },
+          {
+            "q": "What do the sages seek in the prayer?",
+            "options": [
+              "Endless cattle and possessions as the sole aim",
+              "Victory over other seekers",
+              "Recognition as rulers",
+              "Wisdom rather than a burden of accumulation"
+            ],
+            "correct": 3,
+            "explanation": "The prayer defines abundance through spiritual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 17, PDF pages 16–17"
+          },
+          {
+            "q": "How can this wisdom be used?",
+            "options": [
+              "In service of the Divine",
+              "Only in self-display",
+              "Only in competition",
+              "Only in argument"
+            ],
+            "correct": 0,
+            "explanation": "Service completes the section’s account of spiritual wealth.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=16",
+            "sourceLabel": "Section 17, PDF pages 16–17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Recite Vedas with full awareness of meaning",
+        "chapter": "Section 18 · Recite Vedas with full awareness of meaning",
+        "chapterNumber": 18,
+        "pdfStartPage": 17,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+        "sourceLabel": "Section 18, PDF page 17",
+        "summary": "The aspirant compares habitual recitation without understanding to a gramophone record. Sai accepts the comparison to show why mechanical sound alone cannot yield the wisdom being sought. Repetition must carry awareness of the hymn’s meaning and an inward response to the feeling it expresses.\n\nThe section therefore joins correct recitation with conscious participation. The promised treasure is knowledge of Brahman, received through divine grace by those who understand and experience what they recite. Its short teaching makes a clear distinction between reproducing words and allowing their significance to become part of one’s spiritual awareness.",
+        "qa": [
+          {
+            "q": "What illustrates habitual recitation without understanding?",
+            "a": "A gramophone record. The comparison stresses mechanical reproduction."
+          },
+          {
+            "q": "What is missing from the recitation criticised?",
+            "a": "Awareness of meaning. The problem is inward inattention, not lack of publicity."
+          },
+          {
+            "q": "What should accompany understanding of the words?",
+            "a": "Experience of the feelings within the hymns. Meaning and feeling are to be present together."
+          },
+          {
+            "q": "What knowledge is described as the supreme treasure?",
+            "a": "Knowledge of Brahman. Brahma-vidya is the spiritual result discussed."
+          },
+          {
+            "q": "Whose grace is associated with this conscious recitation?",
+            "a": "Brahman’s. The section connects inward participation with divine grace."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates habitual recitation without understanding?",
+            "options": [
+              "A flowing river",
+              "A lamp with oil",
+              "A growing seed",
+              "A gramophone record"
+            ],
+            "correct": 3,
+            "explanation": "The comparison stresses mechanical reproduction.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 18, PDF page 17"
+          },
+          {
+            "q": "What is missing from the recitation criticised?",
+            "options": [
+              "Awareness of meaning",
+              "A large audience",
+              "Social status",
+              "More material possessions"
+            ],
+            "correct": 0,
+            "explanation": "The problem is inward inattention, not lack of publicity.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 18, PDF page 17"
+          },
+          {
+            "q": "What should accompany understanding of the words?",
+            "options": [
+              "Pride in speed",
+              "Experience of the feelings within the hymns",
+              "Contempt for learners",
+              "Desire for applause"
+            ],
+            "correct": 1,
+            "explanation": "Meaning and feeling are to be present together.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 18, PDF page 17"
+          },
+          {
+            "q": "What knowledge is described as the supreme treasure?",
+            "options": [
+              "Knowledge of trade alone",
+              "Knowledge of royal titles",
+              "Knowledge of Brahman",
+              "Knowledge of possessions"
+            ],
+            "correct": 2,
+            "explanation": "Brahma-vidya is the spiritual result discussed.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 18, PDF page 17"
+          },
+          {
+            "q": "Whose grace is associated with this conscious recitation?",
+            "options": [
+              "A ruler’s",
+              "An audience’s",
+              "A merchant’s",
+              "Brahman’s"
+            ],
+            "correct": 3,
+            "explanation": "The section connects inward participation with divine grace.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 18, PDF page 17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Veda is intuitive wisdom through adherence to moral codes",
+        "chapter": "Section 19 · Veda is intuitive wisdom through adherence to moral codes",
+        "chapterNumber": 19,
+        "pdfStartPage": 17,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+        "sourceLabel": "Section 19, PDF page 17",
+        "summary": "The question concerns the kind of wealth worth seeking. The reply identifies the Veda as instruction and as a supreme treasure. Intuitive wisdom is the means by which the Almighty is attained and is therefore the wealth most relevant to the spiritual goal. It brings fulfilment to the worshipper and gives value to worship.\n\nThis treasure cannot be separated from moral conduct. The Veda approves wealth earned in accordance with its codes for human guidance. The term Sruthyam is connected with what scripture recommends. The section therefore holds together understanding and the way it is pursued: spiritual riches are not simply information or accumulation, but wisdom supported by righteous living.",
+        "qa": [
+          {
+            "q": "What question opens the section?",
+            "a": "Which kind of wealth should be sought. The dialogue examines wealth’s spiritual meaning."
+          },
+          {
+            "q": "What is identified as the means of attaining the Almighty?",
+            "a": "Intuitive wisdom. Spiritual knowledge is treated as the true riches."
+          },
+          {
+            "q": "What does the Veda provide in this explanation?",
+            "a": "Instruction. Its guidance directs the seeker toward the highest good."
+          },
+          {
+            "q": "What condition applies to wealth approved by the Veda?",
+            "a": "It is earned through adherence to moral codes. The ethical means of acquisition matter."
+          },
+          {
+            "q": "With what is Sruthyam associated?",
+            "a": "What Vedic scripture describes and recommends. The term links the desired wealth with scriptural guidance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What question opens the section?",
+            "options": [
+              "Which temple is largest",
+              "Which instrument is loudest",
+              "Which kind of wealth should be sought",
+              "Which king is richest"
+            ],
+            "correct": 2,
+            "explanation": "The dialogue examines wealth’s spiritual meaning.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 19, PDF page 17"
+          },
+          {
+            "q": "What is identified as the means of attaining the Almighty?",
+            "options": [
+              "Rank alone",
+              "Property alone",
+              "Public praise",
+              "Intuitive wisdom"
+            ],
+            "correct": 3,
+            "explanation": "Spiritual knowledge is treated as the true riches.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 19, PDF page 17"
+          },
+          {
+            "q": "What does the Veda provide in this explanation?",
+            "options": [
+              "Instruction",
+              "A substitute for all conduct",
+              "A promise of fame alone",
+              "Permission for selfish gain"
+            ],
+            "correct": 0,
+            "explanation": "Its guidance directs the seeker toward the highest good.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 19, PDF page 17"
+          },
+          {
+            "q": "What condition applies to wealth approved by the Veda?",
+            "options": [
+              "It is obtained by any means",
+              "It is earned through adherence to moral codes",
+              "It is measured only by quantity",
+              "It must bring public admiration"
+            ],
+            "correct": 1,
+            "explanation": "The ethical means of acquisition matter.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 19, PDF page 17"
+          },
+          {
+            "q": "With what is Sruthyam associated?",
+            "options": [
+              "A royal tax",
+              "A bodily posture",
+              "What Vedic scripture describes and recommends",
+              "A type of flame"
+            ],
+            "correct": 2,
+            "explanation": "The term links the desired wealth with scriptural guidance.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 19, PDF page 17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "Veda is the source of all moral codes",
+        "chapter": "Section 20 · Veda is the source of all moral codes",
+        "chapterNumber": 20,
+        "pdfStartPage": 17,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+        "sourceLabel": "Section 20, PDF pages 17–18",
+        "summary": "Worldly prosperity may include family success and fulfilled ambitions, but moral excellence is presented as a greater possession. This is linked with dharma, the righteous action supported by Vedic teaching. Rama is described as dharma embodied, and dharma itself as that which sustains all beings.\n\nThe passage connects this sustaining function with both Veda and the Almighty. Offering righteous conduct is therefore a powerful form of worship. The cosmos is said to rest upon dharma, while selfish reinterpretation distorts its meaning. The conclusion identifies the Veda with omniscient Brahman and scripture as its embodiment. Moral life is thus presented as rooted in the sustaining divine reality rather than in personal convenience.",
+        "qa": [
+          {
+            "q": "What is valued above worldly prosperity?",
+            "a": "Moral excellence. The section treats virtue as a more valuable possession."
+          },
+          {
+            "q": "Who is described as dharma embodied?",
+            "a": "Rama. The passage recalls this description from the Ramayana."
+          },
+          {
+            "q": "What does dharma do in the explanation?",
+            "a": "Sustains all beings. Its sustaining character connects it with the Divine."
+          },
+          {
+            "q": "What is described as an effective offering in worship?",
+            "a": "Righteous conduct. Dharma itself becomes an offering to the Almighty."
+          },
+          {
+            "q": "What distorts the understanding of dharma?",
+            "a": "Whims and selfish interests. The passage warns against redefining it for personal advantage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is valued above worldly prosperity?",
+            "options": [
+              "Public fame",
+              "Moral excellence",
+              "Bodily appearance",
+              "Political influence"
+            ],
+            "correct": 1,
+            "explanation": "The section treats virtue as a more valuable possession.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 20, PDF pages 17–18"
+          },
+          {
+            "q": "Who is described as dharma embodied?",
+            "options": [
+              "Hiranyakasipu",
+              "Kalidasa",
+              "Rama",
+              "Paraasara"
+            ],
+            "correct": 2,
+            "explanation": "The passage recalls this description from the Ramayana.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 20, PDF pages 17–18"
+          },
+          {
+            "q": "What does dharma do in the explanation?",
+            "options": [
+              "Encourages division",
+              "Replaces all responsibility",
+              "Rewards vanity",
+              "Sustains all beings"
+            ],
+            "correct": 3,
+            "explanation": "Its sustaining character connects it with the Divine.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 20, PDF pages 17–18"
+          },
+          {
+            "q": "What is described as an effective offering in worship?",
+            "options": [
+              "Righteous conduct",
+              "Selfish interpretation",
+              "Social rivalry",
+              "Display without virtue"
+            ],
+            "correct": 0,
+            "explanation": "Dharma itself becomes an offering to the Almighty.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 20, PDF pages 17–18"
+          },
+          {
+            "q": "What distorts the understanding of dharma?",
+            "options": [
+              "Moral excellence",
+              "Whims and selfish interests",
+              "Responsible study",
+              "Truthful conduct"
+            ],
+            "correct": 1,
+            "explanation": "The passage warns against redefining it for personal advantage.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=17",
+            "sourceLabel": "Section 20, PDF pages 17–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "Swaaha is invocation for offering oblations to Divinity",
+        "chapter": "Section 21 · Swaaha is invocation for offering oblations to Divinity",
+        "chapterNumber": 21,
+        "pdfStartPage": 18,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+        "sourceLabel": "Section 21, PDF pages 18–19",
+        "summary": "Swaaha is explained as more than a technical sound at the end of a ritual formula. It invokes a divine presence associated with speech and signifies offerings made to the deities. Swadha is distinguished from it as the expression used for offerings to ancestors. Both are presented as meaningful invocations rather than optional additions without purpose.\n\nThe dialogue explains that the words alert and invite the intended recipients of the offering. Praise expressed through sacred words is associated with progressive qualities and opportunities for spiritual excellence. Examples include invocations directed to Vishnu, vital energy, and Indra. The expressions swaahutham and suhurtham are explained as asking that the offering be well received through the image of being properly consumed or digested. The following section develops the distinction between physical burning and this sacred meaning.",
+        "qa": [
+          {
+            "q": "What does swaaha invoke in this explanation?",
+            "a": "A divine presence associated with speech and offering. The word is treated as a potent invocation."
+          },
+          {
+            "q": "Which expression is used for offerings to ancestors?",
+            "a": "Swadha. The text distinguishes ancestral offerings from offerings to deities."
+          },
+          {
+            "q": "What function do these invocations perform?",
+            "a": "They invite and alert the intended divine recipients. The offering is consciously directed."
+          },
+          {
+            "q": "Which recipient appears in the examples given?",
+            "a": "Indra. Indraaya swaaha is one of the examples in the text."
+          },
+          {
+            "q": "How are swaahutham and suhurtham explained?",
+            "a": "May the offering be well consumed or digested. The answer leads into the discussion of fire’s divine function."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does swaaha invoke in this explanation?",
+            "options": [
+              "A divine presence associated with speech and offering",
+              "A worldly title",
+              "A musical contest",
+              "A social boundary"
+            ],
+            "correct": 0,
+            "explanation": "The word is treated as a potent invocation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+            "sourceLabel": "Section 21, PDF pages 18–19"
+          },
+          {
+            "q": "Which expression is used for offerings to ancestors?",
+            "options": [
+              "Chandas",
+              "Swadha",
+              "Thrayee",
+              "Aarsha"
+            ],
+            "correct": 1,
+            "explanation": "The text distinguishes ancestral offerings from offerings to deities.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+            "sourceLabel": "Section 21, PDF pages 18–19"
+          },
+          {
+            "q": "What function do these invocations perform?",
+            "options": [
+              "They replace all meaning",
+              "They measure the fire’s height",
+              "They invite and alert the intended divine recipients",
+              "They identify the worshipper’s wealth"
+            ],
+            "correct": 2,
+            "explanation": "The offering is consciously directed.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+            "sourceLabel": "Section 21, PDF pages 18–19"
+          },
+          {
+            "q": "Which recipient appears in the examples given?",
+            "options": [
+              "The unnamed king",
+              "Bruce",
+              "Hiranyakasipu",
+              "Indra"
+            ],
+            "correct": 3,
+            "explanation": "Indraaya swaaha is one of the examples in the text.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+            "sourceLabel": "Section 21, PDF pages 18–19"
+          },
+          {
+            "q": "How are swaahutham and suhurtham explained?",
+            "options": [
+              "May the offering be well consumed or digested",
+              "May the offering remain entirely untouched",
+              "May the rite be forgotten",
+              "May the words be repeated without attention"
+            ],
+            "correct": 0,
+            "explanation": "The answer leads into the discussion of fire’s divine function.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=18",
+            "sourceLabel": "Section 21, PDF pages 18–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Fire has both a material and a divine form",
+        "chapter": "Section 22 · Fire has both a material and a divine form",
+        "chapterNumber": 22,
+        "pdfStartPage": 19,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+        "sourceLabel": "Section 22, PDF page 19",
+        "summary": "The aspirant observes that fire burns an offering even without a mantra. Sai replies that the sacred meaning is not exhausted by visible combustion. The Vedas describe a divine form and function of fire as well as its material operation. Offerings through Agni are therefore discussed as a means of relationship with deities beyond ordinary sensory perception.\n\nThe passage also considers the enjoyer and the object enjoyed, identifying Agni as the receiver of the oblation. Aditya is named as the first divine entity in this account, with vital warmth or prana-agni as its spiritual counterpart in living beings. Offerings are described as deposited or placed, and their terminology reflects the unseen dimension of the rite. The teaching distinguishes the physical event from the spiritual meaning attributed to it.",
+        "qa": [
+          {
+            "q": "What observation prompts the question?",
+            "a": "Fire burns offerings even without a mantra. The question asks what sacred recitation adds to the visible event."
+          },
+          {
+            "q": "What distinction does the answer make?",
+            "a": "Fire has material and divine forms and functions. The explanation goes beyond physical combustion."
+          },
+          {
+            "q": "Who receives the oblation in the account?",
+            "a": "Agni. Agni is identified as the enjoyer or receiver."
+          },
+          {
+            "q": "What is Aditya’s counterpart in living beings here?",
+            "a": "Vital warmth or prana-agni. The passage connects the Sun with the fire of life."
+          },
+          {
+            "q": "What does aahithaya mean in this discussion?",
+            "a": "Deposited or placed. It refers to the offering placed in the fire."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What observation prompts the question?",
+            "options": [
+              "Fire never consumes anything",
+              "All deities are visibly present",
+              "Every offering remains unchanged",
+              "Fire burns offerings even without a mantra"
+            ],
+            "correct": 3,
+            "explanation": "The question asks what sacred recitation adds to the visible event.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 22, PDF page 19"
+          },
+          {
+            "q": "What distinction does the answer make?",
+            "options": [
+              "Fire has material and divine forms and functions",
+              "Fire has no material action",
+              "Only the visible effect has meaning",
+              "Mantras are unrelated to offerings"
+            ],
+            "correct": 0,
+            "explanation": "The explanation goes beyond physical combustion.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 22, PDF page 19"
+          },
+          {
+            "q": "Who receives the oblation in the account?",
+            "options": [
+              "The ritual vessel",
+              "Agni",
+              "The wood alone",
+              "The observing crowd"
+            ],
+            "correct": 1,
+            "explanation": "Agni is identified as the enjoyer or receiver.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 22, PDF page 19"
+          },
+          {
+            "q": "What is Aditya’s counterpart in living beings here?",
+            "options": [
+              "Social reputation",
+              "Bodily ornament",
+              "Vital warmth or prana-agni",
+              "A spoken title"
+            ],
+            "correct": 2,
+            "explanation": "The passage connects the Sun with the fire of life.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 22, PDF page 19"
+          },
+          {
+            "q": "What does aahithaya mean in this discussion?",
+            "options": [
+              "Divided into three",
+              "Heard serially",
+              "Learned by metre",
+              "Deposited or placed"
+            ],
+            "correct": 3,
+            "explanation": "It refers to the offering placed in the fire.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 22, PDF page 19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Deities respond to prayerful oblations in fire",
+        "chapter": "Section 23 · Deities respond to prayerful oblations in fire",
+        "chapterNumber": 23,
+        "pdfStartPage": 19,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+        "sourceLabel": "Section 23, PDF pages 19–20",
+        "summary": "The section distinguishes the names Agri and Agni in relation to visible and unseen fire. Agri is connected with being first. An aahuthi is then explained as an offering that includes an invitation to God to receive it. The closing ritual exclamation complements the effect attributed to swaaha.\n\nSwaaha is also associated with Saraswathi, the deity of speech, and with the expression of the Atma through the sacred word. The dialogue refers to devotional texts that connect the Supreme Deity with Gayatri, Swaaha, and Swadha. It adds the meanings of ending, closing, or going under. The emphasis remains on the invocation’s inward and sacred significance, rather than treating the offering as an undirected material act.",
+        "qa": [
+          {
+            "q": "What name is given to fire within the range of sight?",
+            "a": "Agri. Agni is used for the aspect beyond sight in this explanation."
+          },
+          {
+            "q": "What meaning is associated with Agri?",
+            "a": "First. The explanation relates the name to priority of creation."
+          },
+          {
+            "q": "What special meaning belongs to aahuthi?",
+            "a": "An offering with an invitation to God to receive it. Invitation is central to the section’s account."
+          },
+          {
+            "q": "With which deity is Swaaha associated here?",
+            "a": "Saraswathi. The connection is through the deity of the sacred word."
+          },
+          {
+            "q": "Which additional meaning of swaaha is given?",
+            "a": "The close or end. The dialogue expands the word’s meanings beyond a single ritual use."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What name is given to fire within the range of sight?",
+            "options": [
+              "Thrayee",
+              "Prusni",
+              "Agri",
+              "Chandas"
+            ],
+            "correct": 2,
+            "explanation": "Agni is used for the aspect beyond sight in this explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 23, PDF pages 19–20"
+          },
+          {
+            "q": "What meaning is associated with Agri?",
+            "options": [
+              "Forest",
+              "Wealth",
+              "Metre",
+              "First"
+            ],
+            "correct": 3,
+            "explanation": "The explanation relates the name to priority of creation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 23, PDF pages 19–20"
+          },
+          {
+            "q": "What special meaning belongs to aahuthi?",
+            "options": [
+              "An offering with an invitation to God to receive it",
+              "Any object placed anywhere",
+              "A mere count of flames",
+              "A musical note"
+            ],
+            "correct": 0,
+            "explanation": "Invitation is central to the section’s account.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 23, PDF pages 19–20"
+          },
+          {
+            "q": "With which deity is Swaaha associated here?",
+            "options": [
+              "Only a human ruler",
+              "Saraswathi",
+              "Only a forest sage",
+              "Only a ritual attendant"
+            ],
+            "correct": 1,
+            "explanation": "The connection is through the deity of the sacred word.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 23, PDF pages 19–20"
+          },
+          {
+            "q": "Which additional meaning of swaaha is given?",
+            "options": [
+              "A branch of a tree",
+              "A poetic metre",
+              "The close or end",
+              "A family lineage"
+            ],
+            "correct": 2,
+            "explanation": "The dialogue expands the word’s meanings beyond a single ritual use.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=19",
+            "sourceLabel": "Section 23, PDF pages 19–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "One God worshipped by different names",
+        "chapter": "Section 24 · One God worshipped by different names",
+        "chapterNumber": 24,
+        "pdfStartPage": 20,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+        "sourceLabel": "Section 24, PDF page 20",
+        "summary": "The Atharva-veda is introduced through several names, including Brahma Veda, Angiro Veda, Atharvangiro Veda, and Bhaishajya Veda. Vasishta’s mastery is recalled, and its mantras are described as siddha mantras, with the efficacy attributed to them by the text. The discussion also places the Atharva-veda within an image of Gayatri’s sacred form.\n\nA tree makes the relationship easier to understand: Atharva is the great tree, the other three Vedas are its trunk and branches, and the Smrithis and Puranas are leaves. The section then names the Sun differently in the four Vedas. These descriptions emphasise connectedness and one divine reality approached through differing names, rather than separate and competing sources of divinity.",
+        "qa": [
+          {
+            "q": "Which is another name given to the Atharva-veda?",
+            "a": "Bhaishajya Veda. Several names are listed for this Veda."
+          },
+          {
+            "q": "Which sage’s mastery of Atharva knowledge is recalled?",
+            "a": "Vasishta. The passage refers to the praise of Vasishta by Kalidasa."
+          },
+          {
+            "q": "What are its mantras called?",
+            "a": "Siddha mantras. The title expresses the effects attributed to them in the dialogue."
+          },
+          {
+            "q": "What are the leaves in the tree comparison?",
+            "a": "Smrithis and Puranas. The other Vedas form trunk and branches in the same image."
+          },
+          {
+            "q": "What common divine presence receives different names in the four Vedas?",
+            "a": "The Sun, Aditya. The example reinforces unity beneath varied names."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which is another name given to the Atharva-veda?",
+            "options": [
+              "Dhuma Kethu",
+              "Bhaishajya Veda",
+              "Samamithra",
+              "Prusnigarbha"
+            ],
+            "correct": 1,
+            "explanation": "Several names are listed for this Veda.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 24, PDF page 20"
+          },
+          {
+            "q": "Which sage’s mastery of Atharva knowledge is recalled?",
+            "options": [
+              "Valmiki",
+              "Angulimala",
+              "Vasishta",
+              "Bhishma"
+            ],
+            "correct": 2,
+            "explanation": "The passage refers to the praise of Vasishta by Kalidasa.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 24, PDF page 20"
+          },
+          {
+            "q": "What are its mantras called?",
+            "options": [
+              "Only worldly sayings",
+              "Royal decrees",
+              "Mere musical exercises",
+              "Siddha mantras"
+            ],
+            "correct": 3,
+            "explanation": "The title expresses the effects attributed to them in the dialogue.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 24, PDF page 20"
+          },
+          {
+            "q": "What are the leaves in the tree comparison?",
+            "options": [
+              "Smrithis and Puranas",
+              "Only the Rig-veda",
+              "Only the Sun",
+              "The ritual fire"
+            ],
+            "correct": 0,
+            "explanation": "The other Vedas form trunk and branches in the same image.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 24, PDF page 20"
+          },
+          {
+            "q": "What common divine presence receives different names in the four Vedas?",
+            "options": [
+              "A human king",
+              "The Sun, Aditya",
+              "A ritual attendant",
+              "A particular tree"
+            ],
+            "correct": 1,
+            "explanation": "The example reinforces unity beneath varied names.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 24, PDF page 20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "The triple meanings of Atharva",
+        "chapter": "Section 25 · The triple meanings of Atharva",
+        "chapterNumber": 25,
+        "pdfStartPage": 20,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+        "sourceLabel": "Section 25, PDF page 20",
+        "summary": "Atharva first means a steady, unmoved person of stable nature. The passage also connects the term with consciousness activating the vital airs and with lordship over the breath. These meanings link steadiness with the principle sustaining life.\n\nAtharva is further associated with Prajapathi, ruler of beings, who is credited here with first bringing fire into manifestation by churning sparks. The final sentence distinguishes the Atharva-veda’s place in the sequence: other Vedas may sometimes be called first, but Atharva is described as last. The section brings these brief definitions together without treating them as unrelated uses of the name.",
+        "qa": [
+          {
+            "q": "What personal quality does Atharva signify first?",
+            "a": "Steadiness. It is explained as an unmoved and stable nature."
+          },
+          {
+            "q": "What does Prana-atma activate?",
+            "a": "The vital airs. The term is linked with the consciousness sustaining life."
+          },
+          {
+            "q": "What does Prana-pati mean?",
+            "a": "Ruler of the breath. This is another association given for Atharva."
+          },
+          {
+            "q": "What act is attributed to Prajapathi here?",
+            "a": "First manifesting fire by churning sparks. The passage links Prajapathi with the first production of fire."
+          },
+          {
+            "q": "How is Atharva placed in the sequence described?",
+            "a": "It is called the last. This contrasts with the varying claims of priority for other Vedas."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What personal quality does Atharva signify first?",
+            "options": [
+              "Steadiness",
+              "Restlessness",
+              "Conceit",
+              "Impatience"
+            ],
+            "correct": 0,
+            "explanation": "It is explained as an unmoved and stable nature.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 25, PDF page 20"
+          },
+          {
+            "q": "What does Prana-atma activate?",
+            "options": [
+              "Social titles",
+              "The vital airs",
+              "Ritual buildings",
+              "Material ornaments"
+            ],
+            "correct": 1,
+            "explanation": "The term is linked with the consciousness sustaining life.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 25, PDF page 20"
+          },
+          {
+            "q": "What does Prana-pati mean?",
+            "options": [
+              "Ruler of wealth",
+              "Keeper of a forest",
+              "Ruler of the breath",
+              "Teacher of metre"
+            ],
+            "correct": 2,
+            "explanation": "This is another association given for Atharva.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 25, PDF page 20"
+          },
+          {
+            "q": "What act is attributed to Prajapathi here?",
+            "options": [
+              "Dividing the Veda into collections",
+              "Composing the Ramayana",
+              "Naming the nine features",
+              "First manifesting fire by churning sparks"
+            ],
+            "correct": 3,
+            "explanation": "The passage links Prajapathi with the first production of fire.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 25, PDF page 20"
+          },
+          {
+            "q": "How is Atharva placed in the sequence described?",
+            "options": [
+              "It is called the last",
+              "It is always called the first",
+              "It is omitted entirely",
+              "It is counted as a sixth Veda"
+            ],
+            "correct": 0,
+            "explanation": "This contrasts with the varying claims of priority for other Vedas.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 25, PDF page 20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "Beneficent and maleficent aspects of God and creation",
+        "chapter": "Section 26 · Beneficent and maleficent aspects of God and creation",
+        "chapterNumber": 26,
+        "pdfStartPage": 20,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+        "sourceLabel": "Section 26, PDF pages 20–21",
+        "summary": "The final section considers serene and terrible aspects of the Divine. Narasimha is the example: the same form is gracious to Prahlada and fearful to Hiranyakasipu. Nature also shows this double aspect. Water sustains life but can be destructive, illustrating how one reality can be experienced in sharply different ways.\n\nFood extends the explanation. The text distinguishes sathwic, rajasic, and thamasic qualities and connects beneficial use with discrimination and moderation. It explains anna through the root ad, to eat, describing food as both eaten and capable of consuming the one who misuses it. Atharvan and Angiras are said to have perceived this twin nature in the mantras. Their deeper purpose, despite mild or fearsome appearances, is presented as revealing the Atma and promoting humanity’s peace and prosperity. The discussion concludes with this unifying spiritual aim.",
+        "qa": [
+          {
+            "q": "Which two aspects of the Divine are discussed?",
+            "a": "Serene and terrible. The section explains their different effects through examples."
+          },
+          {
+            "q": "How does Narasimha appear to Prahlada in the example?",
+            "a": "Gracious and beneficent. The same form is described as terrible to Hiranyakasipu."
+          },
+          {
+            "q": "What natural example shows both life-sustaining and destructive effects?",
+            "a": "Water. The example extends the explanation to creation."
+          },
+          {
+            "q": "Which qualities of food are listed?",
+            "a": "Sathwic, rajasic, and thamasic. These categories support the discussion of different effects."
+          },
+          {
+            "q": "What deeper purpose is assigned to the mantras?",
+            "a": "Revealing the Atma and promoting peace and prosperity. The closing answer places their varied appearances within this spiritual purpose."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two aspects of the Divine are discussed?",
+            "options": [
+              "Rich and poor",
+              "Young and old",
+              "Learned and unlearned",
+              "Serene and terrible"
+            ],
+            "correct": 3,
+            "explanation": "The section explains their different effects through examples.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 26, PDF pages 20–21"
+          },
+          {
+            "q": "How does Narasimha appear to Prahlada in the example?",
+            "options": [
+              "Gracious and beneficent",
+              "Hostile and destructive toward him",
+              "Merely indifferent",
+              "Invisible in every sense"
+            ],
+            "correct": 0,
+            "explanation": "The same form is described as terrible to Hiranyakasipu.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 26, PDF pages 20–21"
+          },
+          {
+            "q": "What natural example shows both life-sustaining and destructive effects?",
+            "options": [
+              "A written title",
+              "Water",
+              "A poetic metre",
+              "A gold plate"
+            ],
+            "correct": 1,
+            "explanation": "The example extends the explanation to creation.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 26, PDF pages 20–21"
+          },
+          {
+            "q": "Which qualities of food are listed?",
+            "options": [
+              "Sruthi, Chandas, and Aagama",
+              "Rig, Yajur, and Sama",
+              "Sathwic, rajasic, and thamasic",
+              "Yama, niyama, and asana"
+            ],
+            "correct": 2,
+            "explanation": "These categories support the discussion of different effects.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 26, PDF pages 20–21"
+          },
+          {
+            "q": "What deeper purpose is assigned to the mantras?",
+            "options": [
+              "Increasing hostility",
+              "Rewarding pride",
+              "Dividing humanity",
+              "Revealing the Atma and promoting peace and prosperity"
+            ],
+            "correct": 3,
+            "explanation": "The closing answer places their varied appearances within this spiritual purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/leela-kaivalya.pdf#page=20",
+            "sourceLabel": "Section 26, PDF pages 20–21"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "unitLabel": "section",
+    "studyNote": "Based solely on the supplied Leela Kaivalya Vahini PDF. The study numbers are navigation aids for its titled sections. Summaries and questions are paraphrases; consult the linked pages for the full teaching.",
+    "coverage": "All 26 titled teaching sections in the supplied edition"
   },
   {
     "id": "prasnottara",
