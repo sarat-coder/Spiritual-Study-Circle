@@ -1,902 +1,2853 @@
 window.VAHINI_BOOKS = [
   {
     "id": "geetha-vahini",
-    "title": "Geetha Vahini",
+    "title": "Gita Vahini",
     "hindiTitle": "गीता वाहिनी",
-    "subtitle": "The Divine Gospel",
-    "description": "Study Krishna's guidance on learning, duty and practice.",
-    "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Gita.pdf",
-    "studyNote": "Authored study aids; not quotations.",
-    "coverage": "Three selected themes.",
+    "subtitle": "Stream of Divine Song",
+    "description": "Study all 27 chapters of Bhagawan Sri Sathya Sai Baba’s Gita Vahini in the supplied PDF’s order. Each chapter has a fuller English summary, five questions and answers, and five source-based quiz questions with explanations.",
+    "sourceUrl": "assets/gita-vahini.pdf",
+    "pdfUrl": "assets/gita-vahini.pdf",
+    "studyNote": "Based solely on the supplied Gita Vahini PDF. Its 27 chapters have Roman-numeral labels rather than titles; this study follows those chapters, not the 18 chapters of the Bhagavad Gita. Summaries and answers are original paraphrases. Refer to the linked PDF pages for the full teaching.",
+    "coverage": "All 27 chapters in the supplied edition",
     "topics": [
       {
-        "id": "learning-through-humility",
-        "title": "Learning through humility",
+        "id": "chapter-01",
+        "title": "Chapter I",
+        "chapter": "Chapter I",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/gita-vahini.pdf#page=8",
+        "sourceLabel": "Chapter I, PDF pages 8–11",
+        "summary": "Gita Vahini opens by asking for a reverent, patient approach to spiritual study. The Gita is presented as nourishment drawn from the Upanishads for seekers and as a boat carrying them from self-imposed bondage toward freedom. Its teaching concerns disciplined living: people enter the field of action to perform their duties, not to cling to their rewards. The central direction is to remember and practise dharma. Arjuna represents the individual, his body the chariot, and Krishna the divine guide of intelligence.\n\nArjuna’s distress arises from confusing the changing body with the immortal Self. Krishna explains bodily change and the alternating experiences of joy and grief without attributing them to the Atma. Despondency becomes spiritually fruitful because it brings Arjuna to surrender. The chapter’s path is accessible through devotion, righteous conduct, awareness of God in all beings, and dedication of every intention, act, and result to Him. Even a beginning in this direction receives divine support. Surrender means releasing self-centred attachment while continuing action as worship, not merely abandoning daily responsibilities.",
+        "qa": [
+          {
+            "q": "What is the Gita compared to in relation to the Upanishads?",
+            "a": "Milk drawn by Krishna with Arjuna as the calf. The comparison presents its teaching as nourishment drawn from the Upanishads for seekers."
+          },
+          {
+            "q": "What central objective does this chapter identify?",
+            "a": "Remembering and practising dharma. Dharma is identified as the governing theme of the Gita’s teaching."
+          },
+          {
+            "q": "In the chariot symbolism, whom does Arjuna represent?",
+            "a": "The individual soul. Krishna is the guiding Lord, while the body is the chariot."
+          },
+          {
+            "q": "Why is Arjuna’s despondency spiritually beneficial?",
+            "a": "It leads him to sincere refuge in the Lord. His distress becomes the foundation for surrender and instruction."
+          },
+          {
+            "q": "What is included in complete dedication to Krishna?",
+            "a": "Intention, action, fruit, and consequence. The chapter describes offering the whole course of action in worshipful non-attachment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the Gita compared to in relation to the Upanishads?",
+            "options": [
+              "Milk drawn by Krishna with Arjuna as the calf",
+              "A tree unrelated to earlier teaching",
+              "A weapon made by Arjuna",
+              "A commentary intended only for kings"
+            ],
+            "correct": 0,
+            "explanation": "The comparison presents its teaching as nourishment drawn from the Upanishads for seekers.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
+          },
+          {
+            "q": "What central objective does this chapter identify?",
+            "options": [
+              "Obtaining the fruits of every action",
+              "Remembering and practising dharma",
+              "Avoiding all activity",
+              "Winning arguments about dates"
+            ],
+            "correct": 1,
+            "explanation": "Dharma is identified as the governing theme of the Gita’s teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
+          },
+          {
+            "q": "In the chariot symbolism, whom does Arjuna represent?",
+            "options": [
+              "The divine charioteer",
+              "The entire opposing army",
+              "The individual soul",
+              "The physical chariot itself"
+            ],
+            "correct": 2,
+            "explanation": "Krishna is the guiding Lord, while the body is the chariot.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
+          },
+          {
+            "q": "Why is Arjuna’s despondency spiritually beneficial?",
+            "options": [
+              "It proves that all duties should be abandoned",
+              "It makes bodily identity permanent",
+              "It removes every need for guidance",
+              "It leads him to sincere refuge in the Lord"
+            ],
+            "correct": 3,
+            "explanation": "His distress becomes the foundation for surrender and instruction.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
+          },
+          {
+            "q": "What is included in complete dedication to Krishna?",
+            "options": [
+              "Intention, action, fruit, and consequence",
+              "Only successful outcomes",
+              "Only ceremonial acts",
+              "Only words of praise"
+            ],
+            "correct": 0,
+            "explanation": "The chapter describes offering the whole course of action in worshipful non-attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-02",
+        "title": "Chapter II",
         "chapter": "Chapter II",
-        "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-        "summary": "Arjuna acknowledges his confusion and asks Krishna for guidance. Willingness to learn begins his transformation.",
+        "chapterNumber": 2,
+        "pdfStartPage": 12,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/gita-vahini.pdf#page=12",
+        "sourceLabel": "Chapter II, PDF pages 12–14",
+        "summary": "Arjuna’s collapse on the battlefield exposes a conflict between his earlier resolution and his attachment to revered relatives and teachers. Dhritharashtra welcomes the news as a sign of victory, but Sanjaya sees that Krishna’s presence with the Pandavas defeats that expectation. Krishna diagnoses Arjuna’s condition as delusion concealed beneath apparent pity. The narrative distinguishes this paralysis from compassion guided by divine understanding.\n\nKrishna recalls Arjuna’s courage, discipline, and long preparations after attempts at compromise had failed. Arjuna nevertheless asks how he can use the very skill Drona taught him against his teacher, or obtain happiness at the cost of his family. His decisive change comes when he admits that he cannot distinguish right from wrong and asks Krishna to guide him toward spiritual welfare. Friendship then becomes the relationship of guru and disciple. The chapter locates Krishna’s formal teaching at Bhagavad Gita 2:11 and emphasises that recognising one’s error and becoming willing to learn are beginnings of wisdom. Mere pride in one’s judgement deepens confusion.",
         "qa": [
           {
-            "q": "What changes Arjuna's approach?",
-            "a": "He admits uncertainty and accepts Krishna as his teacher."
+            "q": "How does Dhritharashtra first respond to Arjuna’s refusal to fight?",
+            "a": "He rejoices at the prospect of victory. Sanjaya contrasts this short-sighted response with Krishna’s presence on the Pandavas’ side."
+          },
+          {
+            "q": "What does Krishna diagnose beneath Arjuna’s apparent pity?",
+            "a": "Delusion and egotism. The chapter presents the paralysis as a condition requiring spiritual understanding."
+          },
+          {
+            "q": "Where does this chapter place the beginning of Krishna’s formal teaching?",
+            "a": "Bhagavad Gita chapter 2, verse 11. The preceding narrative describes Arjuna’s despondency and need for instruction."
+          },
+          {
+            "q": "Why does Arjuna especially hesitate to fight Drona?",
+            "a": "Drona lovingly trained him as an archer. Arjuna fears turning his teacher’s gift against that teacher."
+          },
+          {
+            "q": "What establishes Krishna and Arjuna as guru and disciple?",
+            "a": "Arjuna admits confusion and asks for spiritual guidance. The willingness to recognise error and learn changes their relationship."
           }
         ],
         "quiz": [
           {
-            "q": "What opens the way to learning?",
+            "q": "How does Dhritharashtra first respond to Arjuna’s refusal to fight?",
             "options": [
-              "Humility",
-              "Blame",
-              "Boasting",
-              "Avoidance"
+              "He immediately surrenders his kingdom",
+              "He asks Arjuna to teach him",
+              "He recognises his own defeat",
+              "He rejoices at the prospect of victory"
             ],
-            "correct": 0,
-            "explanation": "Arjuna becomes receptive to guidance by honestly acknowledging his uncertainty.",
+            "correct": 3,
+            "explanation": "Sanjaya contrasts this short-sighted response with Krishna’s presence on the Pandavas’ side.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
+            "sourceUrl": "assets/gita-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "A study-circle member cannot explain a passage. What response best supports learning?",
+            "q": "What does Krishna diagnose beneath Arjuna’s apparent pity?",
             "options": [
-              "Change the subject immediately",
-              "Pretend the meaning is obvious",
-              "Admit uncertainty and ask",
-              "Repeat a confident guess"
-            ],
-            "correct": 2,
-            "explanation": "Acknowledging a specific gap allows useful guidance and creates an honest starting point.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "After receiving a correction, which question would help a learner most?",
-            "options": [
-              "How can I understand this better?",
-              "Why was I singled out?",
-              "Who else made this mistake?",
-              "Can we ignore this detail?"
+              "Delusion and egotism",
+              "Complete realised wisdom",
+              "Perfect freedom from attachment",
+              "Lack of any concern for relatives"
             ],
             "correct": 0,
-            "explanation": "A question aimed at understanding turns correction into an opportunity for growth.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
+            "explanation": "The chapter presents the paralysis as a condition requiring spiritual understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "You disagree with a teacher's explanation. What shows respectful openness?",
+            "q": "Where does this chapter place the beginning of Krishna’s formal teaching?",
             "options": [
-              "Agree without listening",
-              "Dismiss the entire lesson",
-              "Ask how the conclusion follows",
-              "Argue before hearing it"
+              "The final verse of chapter 18 only",
+              "Bhagavad Gita chapter 2, verse 11",
+              "Before Arjuna enters the chariot",
+              "After the entire war has ended"
+            ],
+            "correct": 1,
+            "explanation": "The preceding narrative describes Arjuna’s despondency and need for instruction.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
+          },
+          {
+            "q": "Why does Arjuna especially hesitate to fight Drona?",
+            "options": [
+              "Drona had never met him",
+              "Drona was his charioteer",
+              "Drona lovingly trained him as an archer",
+              "Drona had already left the battlefield"
             ],
             "correct": 2,
-            "explanation": "Seeking the reasoning allows thoughtful engagement without pretending agreement or closing the discussion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
+            "explanation": "Arjuna fears turning his teacher’s gift against that teacher.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "A confident participant dominates a discussion. What could deepen their learning?",
+            "q": "What establishes Krishna and Arjuna as guru and disciple?",
             "options": [
-              "Speak for everyone",
-              "Invite a quieter perspective",
-              "Avoid all difficult topics",
-              "Defend every earlier statement"
-            ],
-            "correct": 1,
-            "explanation": "Making room for another perspective can reveal gaps that confidence alone conceals.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "You discover your earlier answer was mistaken. What is the most constructive next step?",
-            "options": [
-              "Insist both answers are identical",
-              "Hide the correction",
-              "Blame the question",
-              "Correct it and explain your learning"
+              "Arjuna insists that he already knows everything",
+              "Krishna gives Arjuna worldly wealth",
+              "Sanjaya orders Arjuna to study",
+              "Arjuna admits confusion and asks for spiritual guidance"
             ],
             "correct": 3,
-            "explanation": "Owning a correction protects trust and helps others learn from the same misunderstanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A beginner fears that asking questions will look foolish. Which response helps?",
-            "options": [
-              "A clear question helps everyone",
-              "Questions prove failure",
-              "Only advanced members may ask",
-              "Keep doubts completely private"
-            ],
-            "correct": 0,
-            "explanation": "Treating questions as contributions makes honest participation easier for beginners and experienced learners.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "During a difficult decision, what is a useful first step before seeking guidance?",
-            "options": [
-              "Assume you know enough",
-              "Name the uncertainty clearly",
-              "Ask others to decide everything",
-              "Collect supporters for your choice"
-            ],
-            "correct": 1,
-            "explanation": "Describing the actual uncertainty helps a guide respond to the problem you face.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A learner receives advice they do not understand. What should they do next?",
-            "options": [
-              "Teach it immediately to others",
-              "Ask for an example",
-              "Pretend to have mastered it",
-              "Memorize its sound only"
-            ],
-            "correct": 1,
-            "explanation": "An example can connect unfamiliar advice with a situation the learner understands.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "Which statement shows confidence with humility?",
-            "options": [
-              "My view must be correct",
-              "I cannot learn anything further",
-              "All opinions are equally clear",
-              "This is my understanding; I welcome correction"
-            ],
-            "correct": 3,
-            "explanation": "A provisional understanding allows committed participation while leaving room for honest revision.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "Two learners give different answers. What supports inquiry?",
-            "options": [
-              "Avoid comparing their reasoning",
-              "Choose the louder speaker",
-              "Decide by seniority alone",
-              "Ask each to explain"
-            ],
-            "correct": 3,
-            "explanation": "Examining explanations makes the discussion about understanding rather than status or volume.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A respected volunteer notices a knowledge gap. Which action models learning?",
-            "options": [
-              "Invent a quick explanation",
-              "Ask someone with relevant understanding",
-              "Delegate all future questions",
-              "Conceal it to protect status"
-            ],
-            "correct": 1,
-            "explanation": "Seeking relevant help shows that responsibility and willingness to learn can coexist.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "Someone feels overwhelmed by several doubts. What is a useful approach?",
-            "options": [
-              "Demand instant answers to everything",
-              "Stop reading permanently",
-              "Begin with one clear question",
-              "Compare themselves with experts"
-            ],
-            "correct": 2,
-            "explanation": "Starting with a manageable question reduces confusion and creates a practical next step.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A friend asks for guidance while upset. What should a listener establish first?",
-            "options": [
-              "Who deserves the blame",
-              "A ready-made conclusion",
-              "The friend's actual concern",
-              "Their own authority"
-            ],
-            "correct": 2,
-            "explanation": "Understanding the concern prevents advice from answering a question the friend never asked.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "Which learning goal is most open to improvement?",
-            "options": [
-              "Identify one misunderstanding to resolve",
-              "Always answer first",
-              "Never appear uncertain",
-              "Win every discussion"
-            ],
-            "correct": 0,
-            "explanation": "A specific misunderstanding gives learning a useful direction without making appearance the goal.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A participant thanks someone for correcting them. What strengthens that response?",
-            "options": [
-              "Repeating the old answer",
-              "Explaining why correction was unnecessary",
-              "Immediately changing the topic",
-              "Using the corrected understanding"
-            ],
-            "correct": 3,
-            "explanation": "Applying the correction shows that gratitude has become part of the learning process.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "You prepared carefully but still made an error. Which interpretation supports growth?",
-            "options": [
-              "One error ends my ability",
-              "Careful learners can still improve",
-              "Preparation is pointless",
-              "Only praise is useful"
-            ],
-            "correct": 1,
-            "explanation": "Recognizing an error without rejecting all effort keeps learning both honest and sustainable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "A study leader wants questions from the group. Which invitation is most helpful?",
-            "options": [
-              "Why is anyone still confused?",
-              "What remains unclear to us?",
-              "Does everyone agree with me?",
-              "Who can praise this explanation?"
-            ],
-            "correct": 1,
-            "explanation": "An open invitation treats uncertainty as shared work rather than a personal deficiency.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "Which response best distinguishes learning from merely submitting?",
-            "options": [
-              "Avoid asking any question",
-              "Listen, clarify and reflect",
-              "Repeat words without meaning",
-              "Hand over every decision"
-            ],
-            "correct": 1,
-            "explanation": "Thoughtful learning includes attention and reflection, so guidance becomes understood rather than merely repeated.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
-          },
-          {
-            "q": "After a helpful session, what would show progress?",
-            "options": [
-              "Compare everyone's intelligence",
-              "Apply one clarified idea",
-              "Collect a title",
-              "Claim complete knowledge"
-            ],
-            "correct": 1,
-            "explanation": "Trying one clarified idea connects the conversation with continued learning through experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter II"
+            "explanation": "The willingness to recognise error and learn changes their relationship.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           }
         ]
       },
       {
-        "id": "dedicated-action",
-        "title": "Dedicated action",
+        "id": "chapter-03",
+        "title": "Chapter III",
+        "chapter": "Chapter III",
+        "chapterNumber": 3,
+        "pdfStartPage": 15,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/gita-vahini.pdf#page=15",
+        "sourceLabel": "Chapter III, PDF pages 15–18",
+        "summary": "The Gita addresses the human struggle between right and wrong, rather than only Arjuna’s private difficulty. Arjuna seeks lasting spiritual good, not merely the power and prosperity obtainable through ordinary effort. Surrender is explained in three ascending forms: belonging to the Lord, holding the Lord through love, and recognising unity with Him. The kitten illustrates trusting dependence, Surdas illustrates love that binds the Lord in the heart, and the highest stage transcends the limitations of “I” and “mine”.\n\nKrishna then examines the roots of grief. Attachment to the body produces possessiveness and opposing likes and dislikes; Arjuna mourns especially because those before him are “his”. Two errors require correction: mistaking the body for the Self, and treating his own duty as unrighteous. Knowledge of the Atma addresses the first, and explanation of duty without attachment to results addresses the second. Clay before, during, and after a pot, and gold before and after an ornament, illustrate the Self’s continuing reality despite bodily forms. The teaching turns attention from the changing vehicle to the immortal identity it obscures.",
+        "qa": [
+          {
+            "q": "What does Arjuna seek beyond ordinary worldly success?",
+            "a": "Lasting spiritual good through grace. The chapter contrasts sreyas with the passing attractions of preyas."
+          },
+          {
+            "q": "What is the highest of the three forms of surrender?",
+            "a": "“Thou art I”. The highest stage recognises nondual unity beyond separate ego-consciousness."
+          },
+          {
+            "q": "What does the kitten illustrate?",
+            "a": "Trustful dependence in “I am Thine”. It accepts being carried by the cat, illustrating the first stage of surrender."
+          },
+          {
+            "q": "What two delusions does Krishna address?",
+            "a": "Body-identification and mistaking one’s own duty for unrighteousness. The chapter distinguishes a general human error from Arjuna’s particular confusion about duty."
+          },
+          {
+            "q": "What do clay and gold illustrate?",
+            "a": "The underlying reality persists through changing forms. Pots and ornaments change, while their underlying substance remains."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does Arjuna seek beyond ordinary worldly success?",
+            "options": [
+              "More possessions as his only aim",
+              "Praise for refusing guidance",
+              "Lasting spiritual good through grace",
+              "Victory without any inner change"
+            ],
+            "correct": 2,
+            "explanation": "The chapter contrasts sreyas with the passing attractions of preyas.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–18"
+          },
+          {
+            "q": "What is the highest of the three forms of surrender?",
+            "options": [
+              "“I am Thine”",
+              "“Thou art mine”",
+              "“The world alone is mine”",
+              "“Thou art I”"
+            ],
+            "correct": 3,
+            "explanation": "The highest stage recognises nondual unity beyond separate ego-consciousness.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–18"
+          },
+          {
+            "q": "What does the kitten illustrate?",
+            "options": [
+              "Trustful dependence in “I am Thine”",
+              "The demand to control the Lord",
+              "The final rejection of devotion",
+              "Desire for worldly status"
+            ],
+            "correct": 0,
+            "explanation": "It accepts being carried by the cat, illustrating the first stage of surrender.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–18"
+          },
+          {
+            "q": "What two delusions does Krishna address?",
+            "options": [
+              "Lack of weapons and lack of allies",
+              "Body-identification and mistaking one’s own duty for unrighteousness",
+              "Poverty and insufficient fame",
+              "Ignorance of geography and language"
+            ],
+            "correct": 1,
+            "explanation": "The chapter distinguishes a general human error from Arjuna’s particular confusion about duty.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–18"
+          },
+          {
+            "q": "What do clay and gold illustrate?",
+            "options": [
+              "Every form creates a separate eternal substance",
+              "The body can never change",
+              "The underlying reality persists through changing forms",
+              "Material wealth grants liberation"
+            ],
+            "correct": 2,
+            "explanation": "Pots and ornaments change, while their underlying substance remains.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Chapter IV",
+        "chapter": "Chapter IV",
+        "chapterNumber": 4,
+        "pdfStartPage": 19,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/gita-vahini.pdf#page=19",
+        "sourceLabel": "Chapter IV, PDF pages 19–22",
+        "summary": "Krishna distinguishes the continuity of the Atma from the memory carried by the intellect. Failure to remember a past experience does not prove that one did not exist. Pleasure and pain arise through sensory contact, so the seeker needs fortitude rather than a world without changing circumstances. Waiting for the sea’s waves to cease before bathing illustrates the impossibility of postponing discipline until every disturbance disappears. True fortitude combines endurance with discrimination and inward balance.\n\nThe Atma neither kills nor dies and does not undergo the body’s six transformations. Changing bodies are compared to changing clothes. Within the battlefield discussion, Krishna returns Arjuna to his duty of protecting dharma, then introduces the yoga of intelligence: a purified intellect performs action while relinquishing desire for its fruit. Inactivity is not the solution, since action cannot be avoided. Attachment to reward belongs to passion, while refusal to act through inertia is still less helpful. The chapter joins Self-knowledge, courage amid opposites, and dedicated action without possessiveness over results.",
+        "qa": [
+          {
+            "q": "To which faculty does Krishna assign memory?",
+            "a": "The intellect. The Atma’s continuity is not disproved by limits in memory."
+          },
+          {
+            "q": "What does waiting for all sea waves to cease illustrate?",
+            "a": "The futility of postponing discipline until disturbances vanish. One must learn steadiness amid life’s conditions."
+          },
+          {
+            "q": "What is fortitude in this chapter?",
+            "a": "Equanimity toward opposing experiences. Thithiksha includes inner balance and the strength to bear duality."
+          },
+          {
+            "q": "What does changing clothes illustrate?",
+            "a": "The indwelling Self taking different bodies. The body is distinguished from its enduring indweller."
+          },
+          {
+            "q": "What characterises the yoga of intelligence?",
+            "a": "Action with conscious renunciation of attachment to its fruit. A purified intellect makes duty and dedication possible without binding attachment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "To which faculty does Krishna assign memory?",
+            "options": [
+              "The unchanging Atma as a store of personal recollections",
+              "The intellect",
+              "The physical battlefield",
+              "The external object alone"
+            ],
+            "correct": 1,
+            "explanation": "The Atma’s continuity is not disproved by limits in memory.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=19",
+            "sourceLabel": "Chapter IV, PDF pages 19–22"
+          },
+          {
+            "q": "What does waiting for all sea waves to cease illustrate?",
+            "options": [
+              "The only valid preparation for spiritual life",
+              "Proof that action can always be avoided",
+              "The futility of postponing discipline until disturbances vanish",
+              "The permanent end of sensory contact"
+            ],
+            "correct": 2,
+            "explanation": "One must learn steadiness amid life’s conditions.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=19",
+            "sourceLabel": "Chapter IV, PDF pages 19–22"
+          },
+          {
+            "q": "What is fortitude in this chapter?",
+            "options": [
+              "Helpless endurance without discrimination",
+              "Dependence on favourable circumstances",
+              "Refusal to undertake duty",
+              "Equanimity toward opposing experiences"
+            ],
+            "correct": 3,
+            "explanation": "Thithiksha includes inner balance and the strength to bear duality.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=19",
+            "sourceLabel": "Chapter IV, PDF pages 19–22"
+          },
+          {
+            "q": "What does changing clothes illustrate?",
+            "options": [
+              "The indwelling Self taking different bodies",
+              "The Atma being destroyed with each body",
+              "The absence of bodily change",
+              "Liberation through outward appearance"
+            ],
+            "correct": 0,
+            "explanation": "The body is distinguished from its enduring indweller.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=19",
+            "sourceLabel": "Chapter IV, PDF pages 19–22"
+          },
+          {
+            "q": "What characterises the yoga of intelligence?",
+            "options": [
+              "Inactivity as the only discipline",
+              "Action with conscious renunciation of attachment to its fruit",
+              "Action solely for reward",
+              "Desire without any duty"
+            ],
+            "correct": 1,
+            "explanation": "A purified intellect makes duty and dedication possible without binding attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=19",
+            "sourceLabel": "Chapter IV, PDF pages 19–22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Chapter V",
+        "chapter": "Chapter V",
+        "chapterNumber": 5,
+        "pdfStartPage": 23,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/gita-vahini.pdf#page=23",
+        "sourceLabel": "Chapter V, PDF pages 23–26",
+        "summary": "Renouncing the fruits of action does not mean that actions produce no results or that the worker has no right to them. The teaching concerns freely relinquishing attachment to favourable or unfavourable outcomes. Desire-driven work expresses passion; refusing work because no reward is sought expresses inertia; performing duty without attachment expresses purity. Equanimity frees the doer from the claims of personal ownership that otherwise bind action.\n\nThe person of steady wisdom is rooted in the Atma rather than in desire. This includes both removing worldly cravings and positively cultivating love for God, like weeding a field and growing its intended crop. Wishes form the mind as threads form cloth. The seeker learns to witness them without becoming entangled. Sense-control must reach the mind’s attachment, not merely restrain outward behaviour. Krishna explains that the mind following the senses enters worldly bondage, while the mind guided by discerning intelligence moves toward Self-knowledge. The contrast between the wise person’s “night” and “day” concerns bodily versus Atmic awareness, not a literal reversal of sleeping hours.",
+        "qa": [
+          {
+            "q": "What does renunciation of fruits mean in this chapter?",
+            "a": "Relinquishing attachment to results while acting. The chapter explicitly distinguishes non-attachment from fruitlessness or refusal to act."
+          },
+          {
+            "q": "What do weeding and growing a crop illustrate?",
+            "a": "Removing cravings and cultivating attachment to God. The negative and positive parts of practice work together."
+          },
+          {
+            "q": "What is the mind compared to in relation to wishes?",
+            "a": "Cloth made of threads. Removing the threads illustrates removing the wishes that constitute the mind."
+          },
+          {
+            "q": "When does the mind move toward knowledge of the Atma?",
+            "a": "When it follows the discerning intellect. The intellect resolves and the mind carries out the resolution."
+          },
+          {
+            "q": "What does the wise person’s different “night” and “day” signify?",
+            "a": "Wakefulness in Atmic rather than bodily awareness. The chapter rejects a literal interpretation of sleeping hours."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does renunciation of fruits mean in this chapter?",
+            "options": [
+              "Relinquishing attachment to results while acting",
+              "Denying that actions have results",
+              "Denying every worker’s right to a result",
+              "Abandoning all duties"
+            ],
+            "correct": 0,
+            "explanation": "The chapter explicitly distinguishes non-attachment from fruitlessness or refusal to act.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=23",
+            "sourceLabel": "Chapter V, PDF pages 23–26"
+          },
+          {
+            "q": "What do weeding and growing a crop illustrate?",
+            "options": [
+              "Rejecting both discipline and devotion",
+              "Removing cravings and cultivating attachment to God",
+              "Increasing worldly wishes",
+              "Replacing understanding with inactivity"
+            ],
+            "correct": 1,
+            "explanation": "The negative and positive parts of practice work together.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=23",
+            "sourceLabel": "Chapter V, PDF pages 23–26"
+          },
+          {
+            "q": "What is the mind compared to in relation to wishes?",
+            "options": [
+              "A stone unaffected by anything",
+              "The sun creating daylight",
+              "Cloth made of threads",
+              "A vessel without any contents"
+            ],
+            "correct": 2,
+            "explanation": "Removing the threads illustrates removing the wishes that constitute the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=23",
+            "sourceLabel": "Chapter V, PDF pages 23–26"
+          },
+          {
+            "q": "When does the mind move toward knowledge of the Atma?",
+            "options": [
+              "When it obeys every sensory demand",
+              "When it multiplies possessiveness",
+              "When it abandons discrimination",
+              "When it follows the discerning intellect"
+            ],
+            "correct": 3,
+            "explanation": "The intellect resolves and the mind carries out the resolution.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=23",
+            "sourceLabel": "Chapter V, PDF pages 23–26"
+          },
+          {
+            "q": "What does the wise person’s different “night” and “day” signify?",
+            "options": [
+              "Wakefulness in Atmic rather than bodily awareness",
+              "Sleeping all day as a spiritual requirement",
+              "Keeping a night watch as proof of wisdom",
+              "Avoiding sunlight"
+            ],
+            "correct": 0,
+            "explanation": "The chapter rejects a literal interpretation of sleeping hours.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=23",
+            "sourceLabel": "Chapter V, PDF pages 23–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Chapter VI",
         "chapter": "Chapter VI",
-        "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-        "summary": "Krishna urges responsible action offered to God, without possessiveness. The wise teach through their own conduct.",
+        "chapterNumber": 6,
+        "pdfStartPage": 27,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/gita-vahini.pdf#page=27",
+        "sourceLabel": "Chapter VI, PDF pages 27–30",
+        "summary": "Action is unavoidable, even in breathing and sustaining the body. Krishna asks that duty become an offering free from attachment, explaining a cycle linking the divine source, Vedas, action, sacrifice, rain, food, and living beings. The universe is pictured as an organised field of work in which each participant contributes. Krishna Himself acts without personal need or gain, and realised people continue to act because others follow their example.\n\nThe wise are compared to an aircraft descending to take passengers upward: they enter the sphere of action to help others progress. The intended culmination of action is wisdom, gained through purification and grace. Awareness of the Atma gives work purpose rather than cancelling it. Krishna’s teaching to Surya is described as an eternal yoga later neglected, not literally destroyed. The sun illustrates impartial service, regularity, and freedom from pride or reward-seeking. The distinction between innate duty and merely assumed duty explains why action expressing one’s nature need not produce exhaustion of ego, conceit, or resentment. Arjuna is presented as a worthy recipient of this teaching for humanity.",
         "qa": [
           {
-            "q": "Why do wise people act?",
-            "a": "Their example guides others toward righteousness."
+            "q": "What makes action an offering or yajna here?",
+            "a": "Dedication to the Lord without attachment to consequence. The chapter distinguishes freeing dedication from binding action."
+          },
+          {
+            "q": "Why do realised people continue to act?",
+            "a": "To guide others through their example. Their visible practice supports others in following dharma."
+          },
+          {
+            "q": "What does the descending aircraft illustrate?",
+            "a": "The wise entering action to help others rise. It must come down to take passengers upward."
+          },
+          {
+            "q": "What is called the final goal and gain of action?",
+            "a": "Spiritual wisdom. Purification and divine grace lead action toward jnana."
+          },
+          {
+            "q": "In what sense was the eternal yoga “lost”?",
+            "a": "It was neglected and disappeared from practice. Restoration means renewing its use, not creating it for the first time."
           }
         ],
         "quiz": [
           {
-            "q": "Which attitude supports duty?",
+            "q": "What makes action an offering or yajna here?",
             "options": [
-              "Inertia",
-              "Reward-seeking",
-              "Selfless dedication",
-              "Pride"
+              "Personal pride in the result",
+              "Complete refusal to work",
+              "Desire for recognition",
+              "Dedication to the Lord without attachment to consequence"
             ],
-            "correct": 2,
-            "explanation": "Dedication keeps responsible action central while loosening the demand for personal reward.",
+            "correct": 3,
+            "explanation": "The chapter distinguishes freeing dedication from binding action.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
+            "sourceUrl": "assets/gita-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–30"
           },
           {
-            "q": "A necessary task receives little recognition. What best expresses responsible service?",
+            "q": "Why do realised people continue to act?",
             "options": [
-              "Leave it for someone else",
-              "Complete it with care",
-              "Publicize every step",
-              "Wait until praise is promised"
+              "To guide others through their example",
+              "Because they need more personal possessions",
+              "Because wisdom has no connection with conduct",
+              "Because inactivity is their only teaching"
+            ],
+            "correct": 0,
+            "explanation": "Their visible practice supports others in following dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–30"
+          },
+          {
+            "q": "What does the descending aircraft illustrate?",
+            "options": [
+              "The rejection of all worldly responsibility",
+              "The wise entering action to help others rise",
+              "Knowledge that remains inaccessible to everyone",
+              "The superiority of travel over practice"
             ],
             "correct": 1,
-            "explanation": "The task's usefulness provides a sound reason for care even when recognition is limited.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
+            "explanation": "It must come down to take passengers upward.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–30"
           },
           {
-            "q": "Your team works hard but the outcome disappoints. What is the constructive response?",
+            "q": "What is called the final goal and gain of action?",
             "options": [
-              "Declare effort meaningless",
-              "Review and improve the work",
-              "Hide all mistakes",
-              "Blame everyone involved"
-            ],
-            "correct": 1,
-            "explanation": "Learning from the result preserves responsibility without making success the measure of personal worth.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Two volunteers want credit for the same project. Which choice supports service?",
-            "options": [
-              "Withhold useful information",
-              "Stop cooperating until rewarded",
-              "Acknowledge the team's contributions",
-              "Compete for public praise"
+              "Fame",
+              "Inertia",
+              "Spiritual wisdom",
+              "Endless desire for further results"
             ],
             "correct": 2,
-            "explanation": "Shared acknowledgement keeps attention on the contribution and protects the cooperation needed for useful work.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
+            "explanation": "Purification and divine grace lead action toward jnana.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–30"
           },
           {
-            "q": "You offer to help but later find the task repetitive. What should guide your decision?",
+            "q": "In what sense was the eternal yoga “lost”?",
             "options": [
-              "Whether praise arrives daily",
-              "The commitment and actual need",
-              "Whether it attracts attention",
-              "Whether another role looks impressive"
-            ],
-            "correct": 1,
-            "explanation": "Considering the commitment and need helps distinguish responsible participation from a search for novelty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which plan combines dedication with practical responsibility?",
-            "options": [
-              "Refuse to make preparations",
-              "Ignore whether the work helps",
-              "Work carefully and review outcomes",
-              "Promise success before starting"
-            ],
-            "correct": 2,
-            "explanation": "Careful preparation and review remain valuable when personal reward is no longer the central motive.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A community project succeeds. Which response keeps ego from dominating?",
-            "options": [
-              "Thank contributors and continue serving",
-              "Take sole ownership of success",
-              "Minimize everyone else's role",
-              "Demand a permanent position"
-            ],
-            "correct": 0,
-            "explanation": "Gratitude recognizes interdependence and allows success to strengthen service rather than personal superiority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A volunteer cannot complete an assigned duty. What should they do?",
-            "options": [
-              "Wait until someone notices",
-              "Pretend the work is finished",
-              "Disappear without explanation",
-              "Communicate early and arrange help"
+              "Its truth was permanently destroyed",
+              "Its source had never existed",
+              "Liberation became subject to decay",
+              "It was neglected and disappeared from practice"
             ],
             "correct": 3,
-            "explanation": "Timely communication protects the shared task and makes a responsible adjustment possible.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "You can choose between a useful task and a visible but unnecessary one. What matters most?",
-            "options": [
-              "Who will photograph it",
-              "How often your name appears",
-              "Which role sounds grander",
-              "Actual benefit to the project"
-            ],
-            "correct": 3,
-            "explanation": "Assessing usefulness keeps the decision connected to service rather than its public appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which behaviour sets a helpful example for a new volunteer?",
-            "options": [
-              "Doing agreed work consistently",
-              "Explaining why duties are beneath you",
-              "Waiting for others to begin",
-              "Giving instructions without participating"
-            ],
-            "correct": 0,
-            "explanation": "Consistent participation makes expectations visible and supports learning through a practical example.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A project leader worries constantly about applause. What could refocus attention?",
-            "options": [
-              "Choosing a concrete service objective",
-              "Expanding self-promotion",
-              "Checking reactions more often",
-              "Avoiding all future work"
-            ],
-            "correct": 0,
-            "explanation": "A concrete objective directs energy toward the contribution that the work is meant to make.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "You receive no thanks after helping. What is a balanced response?",
-            "options": [
-              "Assume the help was worthless",
-              "Publicly criticize the recipients",
-              "Demand gratitude immediately",
-              "Reflect on usefulness and continue thoughtfully"
-            ],
-            "correct": 3,
-            "explanation": "The absence of thanks does not decide the value of help or remove the need for reflection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which choice best expresses freedom from possessiveness in teamwork?",
-            "options": [
-              "Reserve every decision for yourself",
-              "Treat feedback as an intrusion",
-              "Share the method others need",
-              "Keep all knowledge private"
-            ],
-            "correct": 2,
-            "explanation": "Sharing useful knowledge allows the work to continue beyond any individual's control or visibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A beginner makes a mistake while helping. What should an experienced volunteer do?",
-            "options": [
-              "Use the error to gain status",
-              "Humiliate them publicly",
-              "Remove all chance to learn",
-              "Explain and demonstrate the task"
-            ],
-            "correct": 3,
-            "explanation": "Patient demonstration serves both the immediate task and the learner's ability to contribute later.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "When could refusing a task still be responsible?",
-            "options": [
-              "Whenever others might succeed instead",
-              "When praise seems unlikely",
-              "Whenever it lacks prestige",
-              "When you explain limits and help plan alternatives"
-            ],
-            "correct": 3,
-            "explanation": "Honest limits with practical alternatives protect the work better than an unreliable promise.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which question helps examine your motive before volunteering?",
-            "options": [
-              "Will everyone admire me?",
-              "Can I control the whole project?",
-              "Will my name be largest?",
-              "What useful contribution can I make?"
-            ],
-            "correct": 3,
-            "explanation": "Looking for a useful contribution tests whether the decision centres on service or personal display.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A team must clean up after a celebration. What shows continuity of service?",
-            "options": [
-              "Insist cleanup is unimportant",
-              "Leave once the audience departs",
-              "Help finish the remaining work",
-              "Wait for a photographer"
-            ],
-            "correct": 2,
-            "explanation": "Completing less visible work respects the whole responsibility, including tasks after the public event.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which interpretation of detachment is most responsible?",
-            "options": [
-              "Remain indifferent to others",
-              "Never evaluate results",
-              "Work well without clinging to personal reward",
-              "Avoid difficult duties"
-            ],
-            "correct": 2,
-            "explanation": "Detachment from reward can coexist with care, evaluation and concern for the people served.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "A volunteer learns a more effective method from someone younger. What serves the task?",
-            "options": [
-              "Hide the suggestion",
-              "Reject it because of age",
-              "Consider it and acknowledge the contributor",
-              "Delay until it can seem your idea"
-            ],
-            "correct": 2,
-            "explanation": "Considering a useful suggestion puts the work ahead of the need to appear superior.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
-          },
-          {
-            "q": "Which end-of-day reflection supports dedicated action?",
-            "options": [
-              "Did I do my part carefully?",
-              "Who failed to praise me?",
-              "How can I claim more credit?",
-              "Did I look important?"
-            ],
-            "correct": 0,
-            "explanation": "Reviewing the quality of participation keeps attention on responsibility and continued improvement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter VI"
+            "explanation": "Restoration means renewing its use, not creating it for the first time.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–30"
           }
         ]
       },
       {
-        "id": "living-the-teaching",
-        "title": "Living the teaching",
-        "chapter": "Chapter XIX",
-        "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-        "summary": "Reverence becomes meaningful when teachings shape daily life. Memorization alone does not bring the experience of wisdom.",
+        "id": "chapter-07",
+        "title": "Chapter VII",
+        "chapter": "Chapter VII",
+        "chapterNumber": 7,
+        "pdfStartPage": 31,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/gita-vahini.pdf#page=31",
+        "sourceLabel": "Chapter VII, PDF pages 31–34",
+        "summary": "Dharma is explained as the sustaining nature and right conduct of beings, illustrated by water and fire retaining their characteristic functions. Its apparent decline does not mean that an eternal truth has been destroyed. Neglect allows weeds to cover the crop; restoration makes the obscured principle active again. The chapter repeatedly distinguishes practising dharma from merely talking about it, and moral strength from physical force alone.\n\nKrishna uses Arjuna as the recipient through whom this teaching reaches others. Arjuna’s standing as both devotee and friend matters: obedience joins the confidence to ask sincere questions. He wonders how his contemporary Krishna could have taught the ancient Surya and Manu, and how the unlimited Lord could assume a human form. Krishna answers through the sun’s apparent rising and setting and its reflection in a mirror. Manifestation does not diminish the divine reality. Ordinary birth follows karma, whereas the Lord’s appearance is divine play for the world’s uplift, responding to the good and the wicked without being bound by accumulated merit or demerit.",
         "qa": [
           {
-            "q": "How should study bear fruit?",
-            "a": "Through sincere practice in daily conduct."
+            "q": "What does the weed-and-crop image explain?",
+            "a": "Dharma can be obscured without being destroyed. Restoration removes what has overpowered the continuing principle."
+          },
+          {
+            "q": "Where does dharma gain its strength?",
+            "a": "In practice. The crocodile’s strength in water illustrates the need for dharma to remain in action."
+          },
+          {
+            "q": "Why is Arjuna’s friendship with Krishna significant?",
+            "a": "It permits fearless, sincere questioning. Friendship complements devotion in the ideal recipient."
+          },
+          {
+            "q": "What doubt does Arjuna raise about Surya and Manu?",
+            "a": "How Krishna, his contemporary, could have taught them long ago. The question opens the explanation of divine manifestation beyond ordinary birth."
+          },
+          {
+            "q": "How does Krishna distinguish His birth from ordinary birth?",
+            "a": "Divine play rather than karmic compulsion. The reflection of the sun illustrates undiminished divine nature in manifestation."
           }
         ],
         "quiz": [
           {
-            "q": "What best honours the teaching?",
+            "q": "What does the weed-and-crop image explain?",
             "options": [
-              "Publicity",
-              "Display",
-              "Practice",
-              "Titles"
+              "Dharma is created anew every day",
+              "Wrong conduct needs more cultivation than right conduct",
+              "Dharma can be obscured without being destroyed",
+              "All natural functions disappear permanently"
             ],
             "correct": 2,
-            "explanation": "Trying the lesson allows its meaning to enter the learner's own experience.",
+            "explanation": "Restoration removes what has overpowered the continuing principle.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "sourceUrl": "assets/gita-vahini.pdf#page=31",
+            "sourceLabel": "Chapter VII, PDF pages 31–34"
           },
           {
-            "q": "A group studies kindness but interrupts beginners. What is its best next step?",
+            "q": "Where does dharma gain its strength?",
             "options": [
-              "Avoid inviting beginners",
-              "Praise its knowledge",
-              "Practise listening during the next meeting",
-              "Add more slogans"
-            ],
-            "correct": 2,
-            "explanation": "Changing the meeting's behaviour connects a valued idea with a situation that needs it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "You remember a lesson about honesty. Which response brings it into daily life?",
-            "options": [
-              "Display the lesson prominently",
-              "Recite it faster",
-              "Compare your memory with others",
-              "Correct an inaccurate report"
+              "In words alone",
+              "In physical force without moral direction",
+              "In inherited wealth",
+              "In practice"
             ],
             "correct": 3,
-            "explanation": "Correcting the report gives the lesson a concrete expression where honesty actually matters.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The crocodile’s strength in water illustrates the need for dharma to remain in action.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=31",
+            "sourceLabel": "Chapter VII, PDF pages 31–34"
           },
           {
-            "q": "A participant can recite many passages but rarely reflects. What would deepen study?",
+            "q": "Why is Arjuna’s friendship with Krishna significant?",
             "options": [
-              "Test everyone else's memory",
-              "Choose one idea to practise",
-              "Collect more certificates",
-              "Speak longer at meetings"
+              "It permits fearless, sincere questioning",
+              "It removes every need for obedience",
+              "It proves that questions are forbidden",
+              "It makes worldly status the goal"
+            ],
+            "correct": 0,
+            "explanation": "Friendship complements devotion in the ideal recipient.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=31",
+            "sourceLabel": "Chapter VII, PDF pages 31–34"
+          },
+          {
+            "q": "What doubt does Arjuna raise about Surya and Manu?",
+            "options": [
+              "Whether either had ever heard of action",
+              "How Krishna, his contemporary, could have taught them long ago",
+              "Why they were present in his chariot",
+              "Whether they were his own brothers"
             ],
             "correct": 1,
-            "explanation": "A manageable practice allows the learner to explore meaning through action rather than recall alone.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The question opens the explanation of divine manifestation beyond ordinary birth.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=31",
+            "sourceLabel": "Chapter VII, PDF pages 31–34"
           },
           {
-            "q": "Which sign best indicates that a lesson is influencing conduct?",
+            "q": "How does Krishna distinguish His birth from ordinary birth?",
             "options": [
-              "Frequent self-praise",
-              "A repeated change in relevant behaviour",
-              "More impressive terminology",
-              "A larger reading collection"
-            ],
-            "correct": 1,
-            "explanation": "A consistent behavioural change provides clearer evidence of application than possessions or presentation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "You plan to practise patience. Which goal is easiest to review?",
-            "options": [
-              "Read every available book first",
-              "Pause before replying in tomorrow's discussion",
-              "Become perfect immediately",
-              "Never face disagreement"
-            ],
-            "correct": 1,
-            "explanation": "A specific situation and action make the intention practical and open to later reflection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "A speaker notices a gap between their advice and conduct. What is the constructive response?",
-            "options": [
-              "Explain why standards apply only to listeners",
-              "Hide the gap",
-              "Work on the behaviour and acknowledge limits",
-              "Stop accepting feedback"
+              "A punishment for accumulated demerit",
+              "Loss of His knowledge and power",
+              "Divine play rather than karmic compulsion",
+              "Dependence on personal ambition"
             ],
             "correct": 2,
-            "explanation": "Acknowledging limits and changing conduct builds integrity between what someone teaches and does.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The reflection of the sun illustrates undiminished divine nature in manifestation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=31",
+            "sourceLabel": "Chapter VII, PDF pages 31–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Chapter VIII",
+        "chapter": "Chapter VIII",
+        "chapterNumber": 8,
+        "pdfStartPage": 35,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/gita-vahini.pdf#page=35",
+        "sourceLabel": "Chapter VIII, PDF pages 35–38",
+        "summary": "The Avatar’s birth is distinguished from a birth compelled by past karma. Its purposes are protection of virtue, correction of wickedness, and support of dharma, without personal gain. Virtue is a matter of qualities and conduct rather than dress or status; the chapter includes animals among those capable of receiving grace. Jatayu and other examples show this breadth. Purity of consciousness enables recognition of the divine nature of the Lord’s action.\n\nKrishna then describes four kinds of seekers: those in distress, those seeking worldly benefit, those yearning for spiritual knowledge, and the wise. The different responses they receive reflect their aspirations, not favouritism. Sunlight and the wish-fulfilling tree illustrate this explanation. The chapter also sets out its account of four social functions based on qualities and actions: teaching, protection, provision, and service. It defends their intended cooperation while acknowledging distortion and the mismatch between birth labels and actual character. These passages are presented as the book’s explanation of social duty, alongside its central call for discrimination, dedicated action, and higher spiritual aspiration.",
+        "qa": [
+          {
+            "q": "What three purposes are assigned to the Avatar?",
+            "a": "Protect virtue, punish wickedness, and support dharma. The chapter states these purposes without attributing personal gain to the Avatar."
           },
           {
-            "q": "A study circle has only ten minutes left. What best supports application?",
+            "q": "What determines whether someone is virtuous?",
+            "a": "Qualities and conduct. The text extends the possibility of goodness even to animals and birds."
+          },
+          {
+            "q": "Which seeker yearns for realisation and seeks spiritual instruction?",
+            "a": "The jijnasu. The jijnasu is helped with guidance, discrimination, and opportunities for dedicated action."
+          },
+          {
+            "q": "What does the sunlight example explain about grace?",
+            "a": "Different reception does not imply partiality in the source. The chapter relates differing gains to aspiration and openness."
+          },
+          {
+            "q": "On what basis does the chapter describe the intended fourfold organisation?",
+            "a": "Qualities and actions. Its account distinguishes intended functions from later distortions and mismatches of birth and character."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What three purposes are assigned to the Avatar?",
             "options": [
-              "List everyone's qualifications",
-              "Compete over quotations",
-              "Repeat the programme's title",
-              "Discuss one real-life use of the lesson"
+              "Gain wealth, fame, and power",
+              "Protect virtue, punish wickedness, and support dharma",
+              "Avoid every contact with humanity",
+              "Reward outward dress alone"
+            ],
+            "correct": 1,
+            "explanation": "The chapter states these purposes without attributing personal gain to the Avatar.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=35",
+            "sourceLabel": "Chapter VIII, PDF pages 35–38"
+          },
+          {
+            "q": "What determines whether someone is virtuous?",
+            "options": [
+              "Robes and a staff alone",
+              "Social title alone",
+              "Qualities and conduct",
+              "Language alone"
+            ],
+            "correct": 2,
+            "explanation": "The text extends the possibility of goodness even to animals and birds.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=35",
+            "sourceLabel": "Chapter VIII, PDF pages 35–38"
+          },
+          {
+            "q": "Which seeker yearns for realisation and seeks spiritual instruction?",
+            "options": [
+              "The seeker of wealth alone",
+              "The one praying only during distress",
+              "The person pursuing power alone",
+              "The jijnasu"
             ],
             "correct": 3,
-            "explanation": "A focused discussion of use helps participants connect study with choices after the meeting.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The jijnasu is helped with guidance, discrimination, and opportunities for dedicated action.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=35",
+            "sourceLabel": "Chapter VIII, PDF pages 35–38"
           },
           {
-            "q": "You kept a practice for two days and then forgot. What should you do?",
+            "q": "What does the sunlight example explain about grace?",
             "options": [
-              "Restart with a realistic reminder",
-              "Claim success anyway",
-              "Blame the book",
-              "Treat the effort as worthless"
+              "Different reception does not imply partiality in the source",
+              "Light deliberately dislikes closed rooms",
+              "Only one social group can receive light",
+              "The sun has no power to illuminate"
             ],
             "correct": 0,
-            "explanation": "A realistic reminder turns the lapse into useful information for making the practice more consistent.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The chapter relates differing gains to aspiration and openness.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=35",
+            "sourceLabel": "Chapter VIII, PDF pages 35–38"
           },
           {
-            "q": "Which question moves a discussion beyond impressive language?",
+            "q": "On what basis does the chapter describe the intended fourfold organisation?",
             "options": [
-              "Can we finish without reflection?",
-              "What would this change in our actions?",
-              "Who used the longest word?",
-              "How many titles do we hold?"
+              "Outward clothing alone",
+              "Qualities and actions",
+              "Personal wealth alone",
+              "Physical size"
             ],
             "correct": 1,
-            "explanation": "Asking about changed action makes the idea answerable in the learner's actual circumstances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "Its account distinguishes intended functions from later distortions and mismatches of birth and character.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=35",
+            "sourceLabel": "Chapter VIII, PDF pages 35–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Chapter IX",
+        "chapter": "Chapter IX",
+        "chapterNumber": 9,
+        "pdfStartPage": 39,
+        "pdfEndPage": 42,
+        "sourceUrl": "assets/gita-vahini.pdf#page=39",
+        "sourceLabel": "Chapter IX, PDF pages 39–42",
+        "summary": "The chapter continues the book’s defence of a fourfold social organisation, asking for inquiry into its intended functions and correction of misuse. Limbs of one body and equally sweet parts of a sugar figure illustrate interdependence without spiritual superiority or inferiority. It distinguishes differentiated responsibilities from equal relation to the Lord. A mother attending differently to children of different capacities illustrates its explanation of impartial care. The chapter also offers an inward interpretation of the four roles through contemplation, resistance to untruth, discrimination, and active truthful living.\n\nKrishna then returns to action and non-action. The Atma is unattached and lacks the ego’s claims of being the doer or owner. Action becomes binding through those claims and desire for results, which generate further impulses and births. Zero acquiring value beside a digit illustrates this addition of doership. Seeing trees apparently move from a travelling vehicle illustrates mistakenly transferring bodily activity to the Self. True non-action means recognising the Atma’s unaffected nature, not simply stopping outward work, since complete bodily inactivity is impossible.",
+        "qa": [
+          {
+            "q": "What do the limbs of one body illustrate in the social discussion?",
+            "a": "Interdependent functions without spiritual high and low. The chapter presents all the limbs as worthwhile parts of the same divine whole."
           },
           {
-            "q": "A learner worships a sacred book with care. What would complement that reverence?",
+            "q": "Why is the mother’s different attention to her children mentioned?",
+            "a": "To illustrate care adapted to capacity without partiality. Different needs explain different forms of attention in the analogy."
+          },
+          {
+            "q": "What binds action to the individual?",
+            "a": "Egoistic doership and desire for its fruits. The text places the binding factor in “I do” and reward-seeking."
+          },
+          {
+            "q": "What does zero beside a digit illustrate?",
+            "a": "Action acquiring binding force through doership. The comparison separates action from the egoic addition that binds it."
+          },
+          {
+            "q": "What does apparent movement of trees from a travelling vehicle illustrate?",
+            "a": "Attributing bodily activity to the unaffected Atma. The chapter uses the illusion to distinguish the witness from changing instruments."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do the limbs of one body illustrate in the social discussion?",
             "options": [
-              "Reflecting on and practising a lesson",
-              "Judging other readers",
-              "Counting ceremonial objects",
-              "Ignoring its message"
+              "Interdependent functions without spiritual high and low",
+              "Independent beings with no common source",
+              "One valuable function and several worthless ones",
+              "The absence of any duties"
             ],
             "correct": 0,
-            "explanation": "Thoughtful practice connects outward respect with the message that gives the book significance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The chapter presents all the limbs as worthwhile parts of the same divine whole.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=39",
+            "sourceLabel": "Chapter IX, PDF pages 39–42"
           },
           {
-            "q": "Two people claim to understand service. What is most useful to discuss?",
+            "q": "Why is the mother’s different attention to her children mentioned?",
             "options": [
-              "Who owns more editions",
-              "Whose notebook is prettier",
-              "How each can help with a real need",
-              "Who speaks more confidently"
-            ],
-            "correct": 2,
-            "explanation": "A real need gives the discussion a practical test without ranking people's outward appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "Which study journal entry best supports growth?",
-            "options": [
-              "I listened before responding and noticed the difference",
-              "Everyone admired my explanation",
-              "The meeting lasted an hour",
-              "I know more than the group"
-            ],
-            "correct": 0,
-            "explanation": "Describing a specific action and observation creates material for honest reflection and continued practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "You wish to practise generous speech. What is a suitable first action?",
-            "options": [
-              "Correct everyone publicly",
-              "Repeat a slogan privately only",
-              "Give a sincere, specific acknowledgement",
-              "Promise never to speak again"
-            ],
-            "correct": 2,
-            "explanation": "A sincere acknowledgement translates the intention into a useful exchange with another person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "A group wants to measure success only by attendance. What should it also consider?",
-            "options": [
-              "Whether participants find useful practices",
-              "The size of its banner",
-              "How often it advertises",
-              "How many titles speakers hold"
-            ],
-            "correct": 0,
-            "explanation": "Useful practices show whether the gathering helps learning continue beyond merely being present.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "What is the strongest reason to review a practice?",
-            "options": [
-              "To learn what helped and what needs adjustment",
-              "To compare yourself with neighbours",
-              "To appear spiritually advanced",
-              "To prove effort is unnecessary"
-            ],
-            "correct": 0,
-            "explanation": "Review makes practice a learning process and helps intentions become more workable over time.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "A lesson seems too broad to apply. What is the best response?",
-            "options": [
-              "Repeat it without thought",
-              "Dismiss it immediately",
-              "Choose one small situation it can illuminate",
-              "Wait indefinitely for inspiration"
-            ],
-            "correct": 2,
-            "explanation": "A small situation gives a broad idea a manageable beginning and a way to learn.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "Which response avoids turning study into display?",
-            "options": [
-              "Use unfamiliar words without explanation",
-              "Explain simply and welcome practical questions",
-              "Make listeners feel inferior",
-              "Emphasize your credentials repeatedly"
+              "To endorse dislike of some children",
+              "To illustrate care adapted to capacity without partiality",
+              "To show that only infants belong to her",
+              "To reject all responsibility"
             ],
             "correct": 1,
-            "explanation": "Simple explanation and practical questions direct attention toward learning rather than the speaker's status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "Different needs explain different forms of attention in the analogy.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=39",
+            "sourceLabel": "Chapter IX, PDF pages 39–42"
           },
           {
-            "q": "Why can one practised idea matter more than many unexamined ones?",
+            "q": "What binds action to the individual?",
             "options": [
-              "It makes further learning unnecessary",
-              "It becomes understood through experience",
-              "It guarantees public recognition",
-              "It eliminates every future difficulty"
-            ],
-            "correct": 1,
-            "explanation": "Practice gives an idea a lived context that memorization by itself does not provide.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
-          },
-          {
-            "q": "A learner wants to share advice about a habit they struggle with. What is appropriate?",
-            "options": [
-              "Claim complete mastery",
-              "Demand immediate obedience",
-              "Share modestly and keep working on it",
-              "Hide every difficulty"
+              "Action alone regardless of attitude",
+              "The Atma’s desire for possessions",
+              "Egoistic doership and desire for its fruits",
+              "The complete absence of agency"
             ],
             "correct": 2,
-            "explanation": "Honest limits allow useful sharing without pretending that understanding has already become perfect conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/geethavahini.html",
-            "sourceLabel": "Chapter XIX"
+            "explanation": "The text places the binding factor in “I do” and reward-seeking.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=39",
+            "sourceLabel": "Chapter IX, PDF pages 39–42"
+          },
+          {
+            "q": "What does zero beside a digit illustrate?",
+            "options": [
+              "The permanent uselessness of all work",
+              "The creation of the Atma by action",
+              "The elimination of every result",
+              "Action acquiring binding force through doership"
+            ],
+            "correct": 3,
+            "explanation": "The comparison separates action from the egoic addition that binds it.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=39",
+            "sourceLabel": "Chapter IX, PDF pages 39–42"
+          },
+          {
+            "q": "What does apparent movement of trees from a travelling vehicle illustrate?",
+            "options": [
+              "Attributing bodily activity to the unaffected Atma",
+              "The real movement of every tree",
+              "The impossibility of mistaken perception",
+              "Proof that outward inactivity is liberation"
+            ],
+            "correct": 0,
+            "explanation": "The chapter uses the illusion to distinguish the witness from changing instruments.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=39",
+            "sourceLabel": "Chapter IX, PDF pages 39–42"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Chapter X",
+        "chapter": "Chapter X",
+        "chapterNumber": 10,
+        "pdfStartPage": 43,
+        "pdfEndPage": 46,
+        "sourceUrl": "assets/gita-vahini.pdf#page=43",
+        "sourceLabel": "Chapter X, PDF pages 43–46",
+        "summary": "Wisdom is more than stored information: it discerns action and non-action and removes action’s binding force. The wise are content in the Self, free from dependence on sensory rewards, and steady through gain and loss. Hunger and thirst belong to life, birth and death to the body, and grief and delusion to the mind, not to the Atma. The lotus leaf illustrates remaining amid circumstances without absorbing their stain.\n\nKrishna explains several offerings: proper use of wealth, discipline of body and speech, action without bondage, reverent scriptural study, and inquiry into spiritual truth. The discussion then turns to teachers and disciples. The disciple needs faith, purity, patience, service, and practice rather than constant changes of method. The guru needs direct realisation, understanding of scriptural guidance, and the ability to address the learner’s difficulties. Wealth and status must not determine the teacher’s judgement. The chapter criticises impressive speeches without attainment and relationships built around comfort or dependency. A genuine teacher awakens the student from ignorance, while a genuine student seeks transformation rather than effortless rewards.",
+        "qa": [
+          {
+            "q": "What distinguishes a true pundit in this chapter?",
+            "a": "Clear vision of truth, including action and non-action. Learning must become insight rather than remain accumulated words."
+          },
+          {
+            "q": "What does the lotus leaf illustrate?",
+            "a": "Detachment while remaining amid changing circumstances. The comparison contrasts freedom from stain with blotting paper that absorbs it."
+          },
+          {
+            "q": "What is material sacrifice or dravya-yajna?",
+            "a": "Proper use and giving of one’s resources. The chapter includes gifts of land, cows, and skill among its examples."
+          },
+          {
+            "q": "What must a guru possess beyond book knowledge?",
+            "a": "Direct experience of reality and the capacity to guide. Realisation and effective, scripturally grounded guidance are essential."
+          },
+          {
+            "q": "What attitude is required of the disciple?",
+            "a": "Faithful, patient practice with purity and sincere inquiry. The chapter joins reverence with discerning examination and lived practice."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What distinguishes a true pundit in this chapter?",
+            "options": [
+              "Memorised information alone",
+              "Impressive clothing",
+              "A large audience",
+              "Clear vision of truth, including action and non-action"
+            ],
+            "correct": 3,
+            "explanation": "Learning must become insight rather than remain accumulated words.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=43",
+            "sourceLabel": "Chapter X, PDF pages 43–46"
+          },
+          {
+            "q": "What does the lotus leaf illustrate?",
+            "options": [
+              "Detachment while remaining amid changing circumstances",
+              "Total dependence on the surrounding mud",
+              "Absorption of every external influence",
+              "Refusal to perform any act"
+            ],
+            "correct": 0,
+            "explanation": "The comparison contrasts freedom from stain with blotting paper that absorbs it.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=43",
+            "sourceLabel": "Chapter X, PDF pages 43–46"
+          },
+          {
+            "q": "What is material sacrifice or dravya-yajna?",
+            "options": [
+              "Hoarding wealth for status",
+              "Proper use and giving of one’s resources",
+              "Discarding every useful resource",
+              "Seeking repayment for every gift"
+            ],
+            "correct": 1,
+            "explanation": "The chapter includes gifts of land, cows, and skill among its examples.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=43",
+            "sourceLabel": "Chapter X, PDF pages 43–46"
+          },
+          {
+            "q": "What must a guru possess beyond book knowledge?",
+            "options": [
+              "Skill at entertaining an audience alone",
+              "Dependence on the disciple’s status",
+              "Direct experience of reality and the capacity to guide",
+              "A preference for wealthy students"
+            ],
+            "correct": 2,
+            "explanation": "Realisation and effective, scripturally grounded guidance are essential.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=43",
+            "sourceLabel": "Chapter X, PDF pages 43–46"
+          },
+          {
+            "q": "What attitude is required of the disciple?",
+            "options": [
+              "Constantly changing discipline for quick results",
+              "Demanding comfort without effort",
+              "Treating eloquence as proof of attainment",
+              "Faithful, patient practice with purity and sincere inquiry"
+            ],
+            "correct": 3,
+            "explanation": "The chapter joins reverence with discerning examination and lived practice.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=43",
+            "sourceLabel": "Chapter X, PDF pages 43–46"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Chapter XI",
+        "chapter": "Chapter XI",
+        "chapterNumber": 11,
+        "pdfStartPage": 47,
+        "pdfEndPage": 51,
+        "sourceUrl": "assets/gita-vahini.pdf#page=47",
+        "sourceLabel": "Chapter XI, PDF pages 47–51",
+        "summary": "Krishna and Arjuna exemplify the genuine teacher-disciple bond: loving concern for spiritual welfare meets humility, trust, and readiness to follow guidance. Teachers seeking money and students seeking comfort do not fulfil that relationship. Body-identification must be relinquished; otherwise spiritual exertion resembles carrying water in a leaking vessel. Faith, earnestness, sense-control, repentance, and inquiry prepare the seeker for knowledge that dissolves division and the consequences of ignorance.\n\nDedicated action supports meditation rather than conflicting with it. Krishna recommends steady practice, moderation, and returning the wandering mind to its purpose. Arjuna objects that controlling the mind seems like capturing wind, but Krishna answers with sustained practice, inquiry, and detachment. The highest yoga centres consciousness in the Lord and recognises others’ joy and sorrow as one’s own. The chapter closes by distinguishing the lower nature of elements, mind, intellect, and ego from the higher conscious principle. Both rest in the one divine source. Flowers held on a string and the stages of a sprouting seed illustrate underlying unity and the unfolding of creation.",
+        "qa": [
+          {
+            "q": "What defines the genuine guru and disciple here?",
+            "a": "The guru removes delusion and the disciple seeks mastery of the mind. Their relationship is directed toward inner transformation."
+          },
+          {
+            "q": "What does the leaking vessel illustrate?",
+            "a": "Spiritual effort undermined by continuing body-identification. The unresolved identification prevents the effort from reaching its purpose."
+          },
+          {
+            "q": "How does Krishna answer the difficulty of controlling the mind?",
+            "a": "Systematic practice, inquiry, and detachment make mastery possible. Krishna accepts the difficulty while rejecting hopelessness."
+          },
+          {
+            "q": "What image describes the steadied meditative mind?",
+            "a": "A lamp flame protected from wind. The steady flame illustrates the intended concentration."
+          },
+          {
+            "q": "What distinguishes the higher nature from the lower in this chapter?",
+            "a": "The higher is the indwelling conscious principle. The elements, mind, intellect, and ego are discussed as lower nature."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What defines the genuine guru and disciple here?",
+            "options": [
+              "Both seek comfort and reputation",
+              "Both avoid all discipline",
+              "The guru removes delusion and the disciple seeks mastery of the mind",
+              "The guru only repeats and the disciple only praises"
+            ],
+            "correct": 2,
+            "explanation": "Their relationship is directed toward inner transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=47",
+            "sourceLabel": "Chapter XI, PDF pages 47–51"
+          },
+          {
+            "q": "What does the leaking vessel illustrate?",
+            "options": [
+              "Perfect completion of meditation",
+              "The need for more possessions",
+              "The irrelevance of self-understanding",
+              "Spiritual effort undermined by continuing body-identification"
+            ],
+            "correct": 3,
+            "explanation": "The unresolved identification prevents the effort from reaching its purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=47",
+            "sourceLabel": "Chapter XI, PDF pages 47–51"
+          },
+          {
+            "q": "How does Krishna answer the difficulty of controlling the mind?",
+            "options": [
+              "Systematic practice, inquiry, and detachment make mastery possible",
+              "The task is impossible for everyone",
+              "Desire should always be obeyed",
+              "Practice should change with every whim"
+            ],
+            "correct": 0,
+            "explanation": "Krishna accepts the difficulty while rejecting hopelessness.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=47",
+            "sourceLabel": "Chapter XI, PDF pages 47–51"
+          },
+          {
+            "q": "What image describes the steadied meditative mind?",
+            "options": [
+              "A constantly shifting current",
+              "A lamp flame protected from wind",
+              "A tree uprooted by a storm",
+              "Water poured into a leaking vessel"
+            ],
+            "correct": 1,
+            "explanation": "The steady flame illustrates the intended concentration.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=47",
+            "sourceLabel": "Chapter XI, PDF pages 47–51"
+          },
+          {
+            "q": "What distinguishes the higher nature from the lower in this chapter?",
+            "options": [
+              "The higher is merely physical strength",
+              "The higher consists only of the five elements",
+              "The higher is the indwelling conscious principle",
+              "The higher is another inert object"
+            ],
+            "correct": 2,
+            "explanation": "The elements, mind, intellect, and ego are discussed as lower nature.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=47",
+            "sourceLabel": "Chapter XI, PDF pages 47–51"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Chapter XII",
+        "chapter": "Chapter XII",
+        "chapterNumber": 12,
+        "pdfStartPage": 52,
+        "pdfEndPage": 56,
+        "sourceUrl": "assets/gita-vahini.pdf#page=52",
+        "sourceLabel": "Chapter XII, PDF pages 52–56",
+        "summary": "Creation is presented as Brahman appearing in many names and forms without changing its underlying reality. A rope interpreted in several ways, a garland supported by a hidden thread, and a building resting on an unseen foundation illustrate the relation between appearance and basis. Inquiry and experience uncover the support that superficial vision misses. Om is described as the life-breath of the Vedas and the basis of sounds; practice trains the restless mind to settle in it.\n\nThe Lord is not confined to a forest or special location. His presence is explained through water’s taste, the luminaries’ brilliance, life, and strength purified of desire and attachment. Wealth or physical power can protect and serve or become instruments of vanity, according to their use. The chapter warns against claiming personal credit for success while blaming God for wrongdoing. Genuine surrender must inform thought, word, and action consistently, without ego. Cloth depending on yarn and a pot depending on clay complete the explanation: creation depends on Brahman, while Brahman is not dependent on creation.",
+        "qa": [
+          {
+            "q": "What remains unchanged when a rope is mistaken for different things?",
+            "a": "The rope itself. The underlying reality does not become each mistaken appearance."
+          },
+          {
+            "q": "What do the hidden thread and foundation illustrate?",
+            "a": "The unseen basis supporting what is visible. The chapter urges reasoning beyond the surface."
+          },
+          {
+            "q": "How is Om described in relation to the Vedas?",
+            "a": "Their life-breath. The text presents it as the subtle basis into which the mind can be trained to merge."
+          },
+          {
+            "q": "What must strength be free from to express divinity as described?",
+            "a": "Desire and attachment. Strength polluted by possessiveness is distinguished from divine strength."
+          },
+          {
+            "q": "What inconsistent claim does the chapter criticise?",
+            "a": "Taking credit for success but blaming God for wrongdoing. Genuine surrender requires consistency rather than selective transfer of responsibility."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What remains unchanged when a rope is mistaken for different things?",
+            "options": [
+              "The observer’s every interpretation",
+              "The rope itself",
+              "The imagined snake",
+              "The imagined garland"
+            ],
+            "correct": 1,
+            "explanation": "The underlying reality does not become each mistaken appearance.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XII, PDF pages 52–56"
+          },
+          {
+            "q": "What do the hidden thread and foundation illustrate?",
+            "options": [
+              "The absence of any supporting reality",
+              "Independent existence of appearances",
+              "The unseen basis supporting what is visible",
+              "A need to reject inquiry"
+            ],
+            "correct": 2,
+            "explanation": "The chapter urges reasoning beyond the surface.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XII, PDF pages 52–56"
+          },
+          {
+            "q": "How is Om described in relation to the Vedas?",
+            "options": [
+              "An unrelated worldly sound",
+              "A replacement for every moral discipline",
+              "A sound limited to one object",
+              "Their life-breath"
+            ],
+            "correct": 3,
+            "explanation": "The text presents it as the subtle basis into which the mind can be trained to merge.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XII, PDF pages 52–56"
+          },
+          {
+            "q": "What must strength be free from to express divinity as described?",
+            "options": [
+              "Desire and attachment",
+              "Intelligence and discrimination",
+              "Service and charity",
+              "Courage and steadiness"
+            ],
+            "correct": 0,
+            "explanation": "Strength polluted by possessiveness is distinguished from divine strength.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XII, PDF pages 52–56"
+          },
+          {
+            "q": "What inconsistent claim does the chapter criticise?",
+            "options": [
+              "Dedicating both action and fruit sincerely",
+              "Taking credit for success but blaming God for wrongdoing",
+              "Seeing the Lord everywhere",
+              "Using wealth for charitable work"
+            ],
+            "correct": 1,
+            "explanation": "Genuine surrender requires consistency rather than selective transfer of responsibility.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XII, PDF pages 52–56"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Chapter XIII",
+        "chapter": "Chapter XIII",
+        "chapterNumber": 13,
+        "pdfStartPage": 57,
+        "pdfEndPage": 61,
+        "sourceUrl": "assets/gita-vahini.pdf#page=57",
+        "sourceLabel": "Chapter XIII, PDF pages 57–61",
+        "summary": "Faulty vision clings to the universe’s appearances while overlooking their divine basis. Maya is explained as the mind’s mistaken attribution of limitation and bodily identity to the universal Self. Mirage, darkness, moss, and impaired vision illustrate concealment without an independent second reality. Krishna remains master of maya; recognition of unity or complete surrender brings the seeker beyond its hold.\n\nThe four types of devotees are revisited with attention to their growth. Turning to God for relief is valued even when desire remains, while the wise love Him as the sole reality rather than as a means to something else. Train journeys illustrate differences in progress: the wise travel directly, the seeker of knowledge in a through carriage, and the distressed through successive changes. All can reach the goal with perseverance. The genuine mark of wisdom is experienced awareness that Vasudeva is all, meaning the Lord dwelling in every being. Titles, robes, eloquence, and borrowed learning are no substitute for that awareness or for harmony between words and conduct.",
+        "qa": [
+          {
+            "q": "What is faulty vision in this chapter?",
+            "a": "Valuing appearances while ignoring their divine basis. Maya makes the limited and changing seem to be one’s essential reality."
+          },
+          {
+            "q": "Which two approaches are given for overcoming maya?",
+            "a": "Knowledge of unity and complete surrender. These are presented as the paths of wisdom and devotion."
+          },
+          {
+            "q": "What does the wise devotee seek?",
+            "a": "The Lord alone, seen in all. The chapter contrasts one-pointed devotion with devotion mixed with other aims."
+          },
+          {
+            "q": "What does the train comparison explain?",
+            "a": "Different processes and speeds of spiritual progress. All types can reach the goal, though their journeys differ."
+          },
+          {
+            "q": "What proves genuine wisdom here?",
+            "a": "Experienced recognition that Vasudeva is all. The Lord’s presence in every being must be steadily realised."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is faulty vision in this chapter?",
+            "options": [
+              "Valuing appearances while ignoring their divine basis",
+              "Recognising Brahman in all",
+              "Sincere inquiry into the Self",
+              "Complete surrender"
+            ],
+            "correct": 0,
+            "explanation": "Maya makes the limited and changing seem to be one’s essential reality.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=57",
+            "sourceLabel": "Chapter XIII, PDF pages 57–61"
+          },
+          {
+            "q": "Which two approaches are given for overcoming maya?",
+            "options": [
+              "Wealth and public reputation",
+              "Knowledge of unity and complete surrender",
+              "Physical strength and argument",
+              "Sleep and avoidance of duty"
+            ],
+            "correct": 1,
+            "explanation": "These are presented as the paths of wisdom and devotion.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=57",
+            "sourceLabel": "Chapter XIII, PDF pages 57–61"
+          },
+          {
+            "q": "What does the wise devotee seek?",
+            "options": [
+              "Only relief from one difficulty",
+              "Only material possessions",
+              "The Lord alone, seen in all",
+              "Only scholarly distinction"
+            ],
+            "correct": 2,
+            "explanation": "The chapter contrasts one-pointed devotion with devotion mixed with other aims.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=57",
+            "sourceLabel": "Chapter XIII, PDF pages 57–61"
+          },
+          {
+            "q": "What does the train comparison explain?",
+            "options": [
+              "Permanent exclusion of distressed seekers",
+              "A literal pilgrimage requirement",
+              "Four different final divine realities",
+              "Different processes and speeds of spiritual progress"
+            ],
+            "correct": 3,
+            "explanation": "All types can reach the goal, though their journeys differ.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=57",
+            "sourceLabel": "Chapter XIII, PDF pages 57–61"
+          },
+          {
+            "q": "What proves genuine wisdom here?",
+            "options": [
+              "Experienced recognition that Vasudeva is all",
+              "A self-chosen spiritual title",
+              "Ochre clothing alone",
+              "Fluent recitation alone"
+            ],
+            "correct": 0,
+            "explanation": "The Lord’s presence in every being must be steadily realised.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=57",
+            "sourceLabel": "Chapter XIII, PDF pages 57–61"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Chapter XIV",
+        "chapter": "Chapter XIV",
+        "chapterNumber": 14,
+        "pdfStartPage": 62,
+        "pdfEndPage": 65,
+        "sourceUrl": "assets/gita-vahini.pdf#page=62",
+        "sourceLabel": "Chapter XIV, PDF pages 62–65",
+        "summary": "Objective knowledge concerns the world; integral spiritual knowledge recognises the identity of the individual Atma and Brahman. The latter belongs to the reality witnessing even the intellect and removes the delusion that changing forms are absolute. Dedicated action is the outer preparation, while listening, reflection, meditation, and absorption form the inward discipline. Lasting freedom from grief, rather than temporary pleasure or social advancement, is identified as life’s aim.\n\nKrishna traces sorrow to ignorance rooted in body-identification. Knowledge removes it as light removes darkness. Arjuna then asks for clarification of Brahman, the inner spirit, action, material creation, presiding deities, and the Lord of sacrifice. Brahman is explained as the highest imperishable reality beyond time and space. The chapter explores existence, consciousness, and bliss through the longing to continue existing, the urge to know, and the universal search for happiness. These are presented as signs of the Atma’s nature, not permanent properties of the body. The discussion prepares Arjuna to understand the unity behind the different terms.",
+        "qa": [
+          {
+            "q": "What distinguishes integral spiritual knowledge from objective knowledge?",
+            "a": "Recognition of the identity of Atma and Brahman. A-bheda-jnana concerns undivided spiritual reality."
+          },
+          {
+            "q": "What is the outer discipline described here?",
+            "a": "Action without attachment, with results dedicated to the Lord. It prepares the seeker alongside inward meditation and contemplation."
+          },
+          {
+            "q": "What is identified as the source of sorrow?",
+            "a": "Ignorance rooted in body-identification. True knowledge removes this error as light removes darkness."
+          },
+          {
+            "q": "How is Brahman described?",
+            "a": "The highest imperishable reality. The discussion explains para and a-kshara in relation to Brahman."
+          },
+          {
+            "q": "What do the desire to exist, the urge to know, and the search for joy point toward?",
+            "a": "Being, awareness, and bliss as the Atma’s nature. The chapter uses ordinary experience to explain sat, chit, and ananda."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What distinguishes integral spiritual knowledge from objective knowledge?",
+            "options": [
+              "Knowledge limited to sensory objects",
+              "Memorisation of social ranks",
+              "Information about possessions",
+              "Recognition of the identity of Atma and Brahman"
+            ],
+            "correct": 3,
+            "explanation": "A-bheda-jnana concerns undivided spiritual reality.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=62",
+            "sourceLabel": "Chapter XIV, PDF pages 62–65"
+          },
+          {
+            "q": "What is the outer discipline described here?",
+            "options": [
+              "Action without attachment, with results dedicated to the Lord",
+              "Inactivity without reflection",
+              "Work only for personal reward",
+              "Avoidance of every duty"
+            ],
+            "correct": 0,
+            "explanation": "It prepares the seeker alongside inward meditation and contemplation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=62",
+            "sourceLabel": "Chapter XIV, PDF pages 62–65"
+          },
+          {
+            "q": "What is identified as the source of sorrow?",
+            "options": [
+              "The eternal Atma’s destruction",
+              "Ignorance rooted in body-identification",
+              "The absence of any possible knowledge",
+              "Devotion itself"
+            ],
+            "correct": 1,
+            "explanation": "True knowledge removes this error as light removes darkness.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=62",
+            "sourceLabel": "Chapter XIV, PDF pages 62–65"
+          },
+          {
+            "q": "How is Brahman described?",
+            "options": [
+              "A temporary bodily state",
+              "A limited object in space",
+              "The highest imperishable reality",
+              "A product of personal memory"
+            ],
+            "correct": 2,
+            "explanation": "The discussion explains para and a-kshara in relation to Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=62",
+            "sourceLabel": "Chapter XIV, PDF pages 62–65"
+          },
+          {
+            "q": "What do the desire to exist, the urge to know, and the search for joy point toward?",
+            "options": [
+              "The body’s physical immortality",
+              "The sufficiency of worldly wealth",
+              "Three unrelated permanent selves",
+              "Being, awareness, and bliss as the Atma’s nature"
+            ],
+            "correct": 3,
+            "explanation": "The chapter uses ordinary experience to explain sat, chit, and ananda.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=62",
+            "sourceLabel": "Chapter XIV, PDF pages 62–65"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Chapter XV",
+        "chapter": "Chapter XV",
+        "chapterNumber": 15,
+        "pdfStartPage": 66,
+        "pdfEndPage": 70,
+        "sourceUrl": "assets/gita-vahini.pdf#page=66",
+        "sourceLabel": "Chapter XV, PDF pages 66–70",
+        "summary": "Krishna explains karma through the divine will underlying creation and its activities. Perishable creation includes all changing names and forms, yet it depends on the same divine source. The account traces bodily existence through food and the elements to that source, resolving Arjuna’s doubt about how the eternal can underlie the transient. Presiding deities are described in relation to Hiranyagarbha, and the Lord of sacrifice as the inner motivator and recipient of action’s results. One current powering different appliances illustrates unity behind varied functions.\n\nThe discussion culminates in Om and remembrance at death. Since any moment can be the last, remembrance must be cultivated throughout life. Arjuna’s long training with weapons illustrates why an unprepared mind cannot reliably acquire the needed steadiness at the final instant. The text rejects restrictions by class or sex but insists that vocal sound alone is insufficient without concentration and discipline. Examination preparation and a tree’s gradual growth reinforce the need for sustained practice. The aim is release from repeated birth and death, with a lifetime of holy thought preparing its fulfilment.",
+        "qa": [
+          {
+            "q": "What is identified as the primal action underlying creation?",
+            "a": "The divine will. The universe’s activity is described as flowing from the Lord’s resolution."
+          },
+          {
+            "q": "What does adi-butha include?",
+            "a": "Perishable creation with names and forms. The term includes everything that changes and declines."
+          },
+          {
+            "q": "What do different electrical appliances illustrate?",
+            "a": "One divine motivator behind diverse functions. One current supports different effects, paralleling the Lord of sacrifice."
+          },
+          {
+            "q": "Why must remembrance be cultivated before the final moment?",
+            "a": "The mind needs steady training to develop that habit. Arjuna’s weapon training illustrates preparation for a decisive occasion."
+          },
+          {
+            "q": "What does the chapter say about eligibility to meditate on Om?",
+            "a": "It is not limited by class or sex, but requires discipline. The text stresses concentration and sense-control rather than social exclusion."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is identified as the primal action underlying creation?",
+            "options": [
+              "An independent material accident in this account",
+              "Human social ambition",
+              "The divine will",
+              "Arjuna’s decision alone"
+            ],
+            "correct": 2,
+            "explanation": "The universe’s activity is described as flowing from the Lord’s resolution.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=66",
+            "sourceLabel": "Chapter XV, PDF pages 66–70"
+          },
+          {
+            "q": "What does adi-butha include?",
+            "options": [
+              "Only the formless Absolute",
+              "Only one human body",
+              "Only a single presiding deity",
+              "Perishable creation with names and forms"
+            ],
+            "correct": 3,
+            "explanation": "The term includes everything that changes and declines.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=66",
+            "sourceLabel": "Chapter XV, PDF pages 66–70"
+          },
+          {
+            "q": "What do different electrical appliances illustrate?",
+            "options": [
+              "One divine motivator behind diverse functions",
+              "Several unrelated ultimate sources",
+              "The absence of an underlying power",
+              "Liberation through machinery"
+            ],
+            "correct": 0,
+            "explanation": "One current supports different effects, paralleling the Lord of sacrifice.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=66",
+            "sourceLabel": "Chapter XV, PDF pages 66–70"
+          },
+          {
+            "q": "Why must remembrance be cultivated before the final moment?",
+            "options": [
+              "Death always gives ample preparation time",
+              "The mind needs steady training to develop that habit",
+              "Training has no effect on thought",
+              "Only last-minute speech matters"
+            ],
+            "correct": 1,
+            "explanation": "Arjuna’s weapon training illustrates preparation for a decisive occasion.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=66",
+            "sourceLabel": "Chapter XV, PDF pages 66–70"
+          },
+          {
+            "q": "What does the chapter say about eligibility to meditate on Om?",
+            "options": [
+              "It belongs only to one inherited group",
+              "Any sound without attention guarantees attainment",
+              "It is not limited by class or sex, but requires discipline",
+              "It is restricted to public teachers"
+            ],
+            "correct": 2,
+            "explanation": "The text stresses concentration and sense-control rather than social exclusion.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=66",
+            "sourceLabel": "Chapter XV, PDF pages 66–70"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Chapter XVI",
+        "chapter": "Chapter XVI",
+        "chapterNumber": 16,
+        "pdfStartPage": 71,
+        "pdfEndPage": 75,
+        "sourceUrl": "assets/gita-vahini.pdf#page=71",
+        "sourceLabel": "Chapter XVI, PDF pages 71–75",
+        "summary": "Remembrance of God at the end of life rests on prior purification and disciplined attention. Krishna distinguishes three ways of describing the divine, then explains eight expressions used for the aspect with qualities but without form. They include the all-knowing seer, the ancient yet ever-new, the independent ruler, the subtler-than-subtle, the basis of all, the unpicturable, the self-luminous, and the one beyond darkness. Each directs contemplation beyond ordinary bodily descriptions.\n\nThe witness of darkness is distinguished from darkness itself, showing why awareness cannot be equated with ignorance. Devotion centres mental activity and love in the divine ideal. Sense-control means regulated, purposeful use rather than destruction of the senses. Om is to be contemplated mentally with its meaning, and repeated practice develops the needed steadiness, as training enables horses and elephants to perform difficult tasks. Krishna rejects the idea that grace excludes the weak or lowly: all may approach. Constant remembrance and sincere effort, rather than status, prepare the seeker to receive that grace.",
+        "qa": [
+          {
+            "q": "What does kavi signify when applied to the Lord?",
+            "a": "The seer who knows past, present, and future. Krishna explains its wider meaning as all-knowing divine vision."
+          },
+          {
+            "q": "What does “subtler than the subtle” mean here?",
+            "a": "Beyond the characteristics grasped by the senses. The explanation moves beyond the qualities of the elements."
+          },
+          {
+            "q": "What does the witness of darkness illustrate?",
+            "a": "Awareness is distinct from the ignorance it observes. The seer cannot simply be the condition that is seen."
+          },
+          {
+            "q": "How is control of the senses distinguished from their destruction?",
+            "a": "It regulates their proper use rather than abolishing activity. Krishna’s instruction applies to purposeful mastery of all senses."
+          },
+          {
+            "q": "What demonstrates the value of sustained practice?",
+            "a": "Trained horses and elephants performing difficult tasks. Training illustrates how repeated discipline can develop otherwise difficult capacities."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does kavi signify when applied to the Lord?",
+            "options": [
+              "Only a writer of ordinary verse",
+              "The seer who knows past, present, and future",
+              "A person limited to present appearances",
+              "A title for Arjuna’s bow"
+            ],
+            "correct": 1,
+            "explanation": "Krishna explains its wider meaning as all-knowing divine vision.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=71",
+            "sourceLabel": "Chapter XVI, PDF pages 71–75"
+          },
+          {
+            "q": "What does “subtler than the subtle” mean here?",
+            "options": [
+              "Merely a tiny physical body",
+              "A weaker material object",
+              "Beyond the characteristics grasped by the senses",
+              "A body hidden by distance"
+            ],
+            "correct": 2,
+            "explanation": "The explanation moves beyond the qualities of the elements.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=71",
+            "sourceLabel": "Chapter XVI, PDF pages 71–75"
+          },
+          {
+            "q": "What does the witness of darkness illustrate?",
+            "options": [
+              "The observer is identical with darkness",
+              "Darkness creates the eternal Self",
+              "All knowledge is impossible",
+              "Awareness is distinct from the ignorance it observes"
+            ],
+            "correct": 3,
+            "explanation": "The seer cannot simply be the condition that is seen.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=71",
+            "sourceLabel": "Chapter XVI, PDF pages 71–75"
+          },
+          {
+            "q": "How is control of the senses distinguished from their destruction?",
+            "options": [
+              "It regulates their proper use rather than abolishing activity",
+              "It requires destroying every bodily organ",
+              "It means obeying every impulse",
+              "It concerns only one sense"
+            ],
+            "correct": 0,
+            "explanation": "Krishna’s instruction applies to purposeful mastery of all senses.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=71",
+            "sourceLabel": "Chapter XVI, PDF pages 71–75"
+          },
+          {
+            "q": "What demonstrates the value of sustained practice?",
+            "options": [
+              "The idea that skill appears without preparation",
+              "Trained horses and elephants performing difficult tasks",
+              "The rejection of all repetition",
+              "Social status alone"
+            ],
+            "correct": 1,
+            "explanation": "Training illustrates how repeated discipline can develop otherwise difficult capacities.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=71",
+            "sourceLabel": "Chapter XVI, PDF pages 71–75"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Chapter XVII",
+        "chapter": "Chapter XVII",
+        "chapterNumber": 17,
+        "pdfStartPage": 76,
+        "pdfEndPage": 80,
+        "sourceUrl": "assets/gita-vahini.pdf#page=76",
+        "sourceLabel": "Chapter XVII, PDF pages 76–80",
+        "summary": "Krishna places constant dedication of the mind at the centre of the spiritual life. The great soul moves beyond identification with the body and the limited individual into the universal Self, free from attachment and opposing experiences. The discussion distinguishes immediate liberation from progress through stages and from temporary heavenly enjoyment. Dissolving sugar or salt in water shows that merging is not destruction: the visible form disappears without the substance becoming nothing.\n\nFour orientations toward action are examined: freedom beyond action, action without desire for results, approved action seeking rewards, and conduct without restraint or discrimination. Their outcomes differ according to wisdom and intention. The chapter then explains the bright and dark paths using both traditional descriptions and inward symbolism. The waxing moon represents increasing spiritual clarity; the northward sun represents the light of intelligence in a heart cleared of ignorance, ego, and attachment. The emphasis is thus not simply a date or hour of death, but the state of consciousness formed through life. Knowledge and dedication prepare freedom from repeated return.",
+        "qa": [
+          {
+            "q": "What does dissolving sugar or salt in water illustrate?",
+            "a": "Merging does not mean destruction. The taste remains although the separate lump is no longer visible."
+          },
+          {
+            "q": "Which group acts without desire for the fruit?",
+            "a": "Seekers of liberation who leave results to the Lord. Their actions are directed toward release from bondage."
+          },
+          {
+            "q": "What happens to merit-based heavenly enjoyment in this account?",
+            "a": "It ends when the supporting merit is exhausted. The chapter distinguishes temporary reward from ultimate merger."
+          },
+          {
+            "q": "What does the bright fortnight symbolise inwardly?",
+            "a": "Increasing spiritual progress and clarity of mind. The moon is used as a symbol of the mind."
+          },
+          {
+            "q": "What does the clear inner sky with its sun represent?",
+            "a": "Intelligence unobscured by ignorance, ego, and attachment. This gives the subtle meaning of the sun’s northward path."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does dissolving sugar or salt in water illustrate?",
+            "options": [
+              "Merging does not mean destruction",
+              "The substance becomes absolute nothingness",
+              "Visible form must remain unchanged",
+              "Liberation requires material sweetness"
+            ],
+            "correct": 0,
+            "explanation": "The taste remains although the separate lump is no longer visible.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=76",
+            "sourceLabel": "Chapter XVII, PDF pages 76–80"
+          },
+          {
+            "q": "Which group acts without desire for the fruit?",
+            "options": [
+              "Those seeking only heavenly pleasure",
+              "Seekers of liberation who leave results to the Lord",
+              "Those rejecting every moral restraint",
+              "Those pursuing only worldly rewards"
+            ],
+            "correct": 1,
+            "explanation": "Their actions are directed toward release from bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=76",
+            "sourceLabel": "Chapter XVII, PDF pages 76–80"
+          },
+          {
+            "q": "What happens to merit-based heavenly enjoyment in this account?",
+            "options": [
+              "It necessarily equals final non-returning liberation",
+              "It makes spiritual understanding irrelevant",
+              "It ends when the supporting merit is exhausted",
+              "It destroys the Atma"
+            ],
+            "correct": 2,
+            "explanation": "The chapter distinguishes temporary reward from ultimate merger.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=76",
+            "sourceLabel": "Chapter XVII, PDF pages 76–80"
+          },
+          {
+            "q": "What does the bright fortnight symbolise inwardly?",
+            "options": [
+              "Growth of bodily pride",
+              "Greater attachment to possessions",
+              "A guarantee based only on the visible moon",
+              "Increasing spiritual progress and clarity of mind"
+            ],
+            "correct": 3,
+            "explanation": "The moon is used as a symbol of the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=76",
+            "sourceLabel": "Chapter XVII, PDF pages 76–80"
+          },
+          {
+            "q": "What does the clear inner sky with its sun represent?",
+            "options": [
+              "Intelligence unobscured by ignorance, ego, and attachment",
+              "A mind filled with restless desires",
+              "Physical weather alone",
+              "The absence of any consciousness"
+            ],
+            "correct": 0,
+            "explanation": "This gives the subtle meaning of the sun’s northward path.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=76",
+            "sourceLabel": "Chapter XVII, PDF pages 76–80"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Chapter XVIII",
+        "chapter": "Chapter XVIII",
+        "chapterNumber": 18,
+        "pdfStartPage": 81,
+        "pdfEndPage": 85,
+        "sourceUrl": "assets/gita-vahini.pdf#page=81",
+        "sourceLabel": "Chapter XVIII, PDF pages 81–85",
+        "summary": "The bright path is clarified as a state of Self-knowledge rather than merely a season. Liberation is the destruction of delusion, and it can be attained irrespective of the outward circumstances of death when that delusion is gone. Krishna distinguishes direct self-experience from knowledge heard or read: teachers assist, but the seeker must realise the truth. Earnestness, faith, freedom from envy, and dedication support this understanding.\n\nArjuna fears that complete detachment is too difficult. Krishna answers that it does not require outward costume or bodily torment, but offering actions without selfish desire. The assurance that the Lord bears the devotee’s welfare is then illustrated by a scholar whose explanation displeases a king. His wife shows that he relies on the king while lecturing on reliance upon God. When the scholar begins living the teaching, the king recognises his understanding. The story contrasts explaining words with experiencing their truth and makes actual practice the test of reverence for the Gita.",
+        "qa": [
+          {
+            "q": "What is the sun’s northward path chiefly explained as here?",
+            "a": "A state of Self-knowledge. The chapter stresses consciousness rather than season alone."
+          },
+          {
+            "q": "How is moksha explained through moha-kshaya?",
+            "a": "Destruction of delusion. Freedom comes when the obscuring error is removed."
+          },
+          {
+            "q": "What knowledge directly releases the seeker?",
+            "a": "Self-experience. Guidance is useful, but one must realise the Self oneself."
+          },
+          {
+            "q": "What does Krishna say complete detachment requires?",
+            "a": "Dedicated action without desire for its fruit. The chapter separates inward dedication from outward signs."
+          },
+          {
+            "q": "What enables the scholar in the story to understand the verse?",
+            "a": "Living its teaching after his wife points out his inconsistency. The king finally honours the explanation embodied in experience."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the sun’s northward path chiefly explained as here?",
+            "options": [
+              "Only a fixed calendar interval",
+              "A reward for social status",
+              "A change in the Atma’s location",
+              "A state of Self-knowledge"
+            ],
+            "correct": 3,
+            "explanation": "The chapter stresses consciousness rather than season alone.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=81",
+            "sourceLabel": "Chapter XVIII, PDF pages 81–85"
+          },
+          {
+            "q": "How is moksha explained through moha-kshaya?",
+            "options": [
+              "Destruction of delusion",
+              "Accumulation of possessions",
+              "Bodily permanence",
+              "Multiplication of desires"
+            ],
+            "correct": 0,
+            "explanation": "Freedom comes when the obscuring error is removed.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=81",
+            "sourceLabel": "Chapter XVIII, PDF pages 81–85"
+          },
+          {
+            "q": "What knowledge directly releases the seeker?",
+            "options": [
+              "Borrowed information alone",
+              "Self-experience",
+              "Memorisation alone",
+              "Public recognition"
+            ],
+            "correct": 1,
+            "explanation": "Guidance is useful, but one must realise the Self oneself.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=81",
+            "sourceLabel": "Chapter XVIII, PDF pages 81–85"
+          },
+          {
+            "q": "What does Krishna say complete detachment requires?",
+            "options": [
+              "Necessarily matted hair and bodily torment",
+              "Abandoning all useful work",
+              "Dedicated action without desire for its fruit",
+              "Seeking praise for renunciation"
+            ],
+            "correct": 2,
+            "explanation": "The chapter separates inward dedication from outward signs.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=81",
+            "sourceLabel": "Chapter XVIII, PDF pages 81–85"
+          },
+          {
+            "q": "What enables the scholar in the story to understand the verse?",
+            "options": [
+              "Receiving another title",
+              "Repeating more definitions without practice",
+              "Winning an argument with the king",
+              "Living its teaching after his wife points out his inconsistency"
+            ],
+            "correct": 3,
+            "explanation": "The king finally honours the explanation embodied in experience.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=81",
+            "sourceLabel": "Chapter XVIII, PDF pages 81–85"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Chapter XIX",
+        "chapter": "Chapter XIX",
+        "chapterNumber": 19,
+        "pdfStartPage": 86,
+        "pdfEndPage": 89,
+        "sourceUrl": "assets/gita-vahini.pdf#page=86",
+        "sourceLabel": "Chapter XIX, PDF pages 86–89",
+        "summary": "The chapter criticises using the Gita for reputation or income while neglecting its practice. Memorisation, display, and ceremonial respect for the physical book do not replace absorbing its message. Food must be eaten to relieve hunger; one match can start a fire. These comparisons show how living even one verse can be more fruitful than repeating the whole text without transformation. The heart is identified as the proper place to install its teaching.\n\nThe promise that the Lord bears the devotee’s welfare must be understood together with its conditions: undivided contemplation and steady worship with surrender. Separating the promise from the discipline is compared to keeping a key after its safe has been stolen. Yoga and kshema are explained as acquiring what is needed and preserving what is acquired. Purity of feeling, rather than the price or outward scale of an offering, is decisive. Kuchela’s rice, Vidura’s gruel, and Droupadi’s small offering illustrate why loving intention matters more than material value. The teaching asks for consistency between devotion, conduct, and inward reliance.",
+        "qa": [
+          {
+            "q": "What does the comparison with food teach?",
+            "a": "The Gita must be put into practice to nourish spiritually. Honouring the container is insufficient without taking in its substance."
+          },
+          {
+            "q": "What does one match lighting a fire illustrate?",
+            "a": "Practising one verse can kindle wisdom. The chapter values experienced application over empty quantity."
+          },
+          {
+            "q": "What conditions accompany the assurance of divine care?",
+            "a": "Undivided contemplation and steady surrendered worship. The promise is not separated from the preceding discipline."
+          },
+          {
+            "q": "What do yoga and kshema mean in this discussion?",
+            "a": "Acquisition and preservation of what is acquired. The chapter explains the two terms in relation to the Lord’s care."
+          },
+          {
+            "q": "What determines the value of the offerings cited?",
+            "a": "The purity of the feeling behind them. Small offerings please the Lord through sincere love."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the comparison with food teach?",
+            "options": [
+              "Reverence for a dish alone removes hunger",
+              "A book’s physical weight proves wisdom",
+              "The Gita must be put into practice to nourish spiritually",
+              "Memorisation always equals realisation"
+            ],
+            "correct": 2,
+            "explanation": "Honouring the container is insufficient without taking in its substance.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=86",
+            "sourceLabel": "Chapter XIX, PDF pages 86–89"
+          },
+          {
+            "q": "What does one match lighting a fire illustrate?",
+            "options": [
+              "Every verse must be recited before any benefit is possible",
+              "Practice is unnecessary",
+              "Knowledge depends on the number of books owned",
+              "Practising one verse can kindle wisdom"
+            ],
+            "correct": 3,
+            "explanation": "The chapter values experienced application over empty quantity.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=86",
+            "sourceLabel": "Chapter XIX, PDF pages 86–89"
+          },
+          {
+            "q": "What conditions accompany the assurance of divine care?",
+            "options": [
+              "Undivided contemplation and steady surrendered worship",
+              "Social rank and wealth",
+              "Mere recital without commitment",
+              "Public praise alone"
+            ],
+            "correct": 0,
+            "explanation": "The promise is not separated from the preceding discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=86",
+            "sourceLabel": "Chapter XIX, PDF pages 86–89"
+          },
+          {
+            "q": "What do yoga and kshema mean in this discussion?",
+            "options": [
+              "Birth and bodily growth",
+              "Acquisition and preservation of what is acquired",
+              "Speech and silence",
+              "Reward and punishment alone"
+            ],
+            "correct": 1,
+            "explanation": "The chapter explains the two terms in relation to the Lord’s care.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=86",
+            "sourceLabel": "Chapter XIX, PDF pages 86–89"
+          },
+          {
+            "q": "What determines the value of the offerings cited?",
+            "options": [
+              "Their market price",
+              "Their physical size",
+              "The purity of the feeling behind them",
+              "The donor’s reputation"
+            ],
+            "correct": 2,
+            "explanation": "Small offerings please the Lord through sincere love.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=86",
+            "sourceLabel": "Chapter XIX, PDF pages 86–89"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "Chapter XX",
+        "chapter": "Chapter XX",
+        "chapterNumber": 20,
+        "pdfStartPage": 90,
+        "pdfEndPage": 93,
+        "sourceUrl": "assets/gita-vahini.pdf#page=90",
+        "sourceLabel": "Chapter XX, PDF pages 90–93",
+        "summary": "Krishna asks that food, gifts, and every activity be offered with a pure heart. He is the impartial witness, without exclusive preference for one name or person. The fire giving warmth to those who approach illustrates equal availability with differing reception. The chapter’s examples of devotees from varied backgrounds reinforce that purity and love, rather than outward status, bring closeness to the Lord.\n\nArjuna asks how to contemplate the divine presence throughout creation, and Krishna points first to the Atma in every heart. When Arjuna seeks direct vision of the universal form, Krishna grants the divine eye beyond ordinary physical sight. The overwhelming vision reveals the Lord as creator, sustainer, and dissolver and corrects Arjuna’s claim to independent agency. At Arjuna’s request, Krishna resumes His familiar form. The chapter ends with worship of form and formlessness: Krishna accepts either when faith and love are steady. Caste, sex, and stage-of-life identifications belong to body-consciousness, not to fully surrendered awareness. Arjuna then asks about the practical accessibility of worship with form.",
+        "qa": [
+          {
+            "q": "What quality makes an offering acceptable in this chapter?",
+            "a": "Purity of heart and sincere dedication. All activity can become a tribute when offered in the dedicatory spirit."
+          },
+          {
+            "q": "What does approaching a fire illustrate?",
+            "a": "Equal access to divine grace with differing reception. The benefit depends on drawing near, not on hostility in the source."
+          },
+          {
+            "q": "What must Krishna grant for Arjuna to see the universal form?",
+            "a": "The divine eye. Ordinary sight cannot grasp the universal glory described."
+          },
+          {
+            "q": "What does the universal vision correct about Arjuna’s agency?",
+            "a": "The belief that he independently controls life and death. Krishna identifies divine will as the underlying power."
+          },
+          {
+            "q": "How does Krishna regard worship with form and without form?",
+            "a": "He accepts either with steady faith and divine-centred awareness. The stated condition is sincerity and steadiness, not the outward choice alone."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What quality makes an offering acceptable in this chapter?",
+            "options": [
+              "High material cost alone",
+              "Purity of heart and sincere dedication",
+              "A socially prestigious donor",
+              "Use of only one divine name"
+            ],
+            "correct": 1,
+            "explanation": "All activity can become a tribute when offered in the dedicatory spirit.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=90",
+            "sourceLabel": "Chapter XX, PDF pages 90–93"
+          },
+          {
+            "q": "What does approaching a fire illustrate?",
+            "options": [
+              "Partiality inherent in the fire",
+              "Exclusion of those of lower status",
+              "Equal access to divine grace with differing reception",
+              "The impossibility of gaining warmth"
+            ],
+            "correct": 2,
+            "explanation": "The benefit depends on drawing near, not on hostility in the source.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=90",
+            "sourceLabel": "Chapter XX, PDF pages 90–93"
+          },
+          {
+            "q": "What must Krishna grant for Arjuna to see the universal form?",
+            "options": [
+              "A new physical weapon",
+              "Greater worldly wealth",
+              "A different social position",
+              "The divine eye"
+            ],
+            "correct": 3,
+            "explanation": "Ordinary sight cannot grasp the universal glory described.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=90",
+            "sourceLabel": "Chapter XX, PDF pages 90–93"
+          },
+          {
+            "q": "What does the universal vision correct about Arjuna’s agency?",
+            "options": [
+              "The belief that he independently controls life and death",
+              "His ability to ask questions",
+              "The existence of every duty",
+              "The need for any divine guidance"
+            ],
+            "correct": 0,
+            "explanation": "Krishna identifies divine will as the underlying power.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=90",
+            "sourceLabel": "Chapter XX, PDF pages 90–93"
+          },
+          {
+            "q": "How does Krishna regard worship with form and without form?",
+            "options": [
+              "He rejects all formless worship",
+              "He accepts either with steady faith and divine-centred awareness",
+              "He rejects every form of worship",
+              "He decides only by caste"
+            ],
+            "correct": 1,
+            "explanation": "The stated condition is sincerity and steadiness, not the outward choice alone.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=90",
+            "sourceLabel": "Chapter XX, PDF pages 90–93"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "Chapter XXI",
+        "chapter": "Chapter XXI",
+        "chapterNumber": 21,
+        "pdfStartPage": 94,
+        "pdfEndPage": 97,
+        "sourceUrl": "assets/gita-vahini.pdf#page=94",
+        "sourceLabel": "Chapter XXI, PDF pages 94–97",
+        "summary": "Worship with form is valuable, but liberation requires release from identification with the body. The dry kernel separated from its coconut shell illustrates inward freedom while still embodied. Krishna gives accessible means toward this goal: dedicate worship and its fruits, keep Him as the final aim, and engage in actions that please Him. Devotion is judged not merely by the devotee’s claimed affection but by conduct consistent with divine guidance.\n\nTrue dedication removes the division between “my” action and “God’s” action and joins thought, word, and deed. Emergency prayer followed by forgetfulness, or outward religious display without inward feeling, does not constitute steady devotion. The meeting of Ganges, Yamuna, and Saraswathi illustrates devotion, action, and wisdom coming together in the destruction of ego. Worship of form serves as a discipline toward recognition of the divine beyond limiting attributes; yarn and cloth explain their underlying unity. Love already exists in living beings, but it becomes bhakthi when directed selflessly and continuously toward the Lord. The cowherd maids exemplify this dedication in every thought and act.",
+        "qa": [
+          {
+            "q": "What does the dry coconut kernel illustrate?",
+            "a": "Inward non-attachment while still embodied. Its separation from the shell represents jivan-mukthi."
+          },
+          {
+            "q": "What should guide the devotee’s actions?",
+            "a": "What pleases the Lord and accords with His teaching. The chapter asks the seeker to examine conduct against divine guidance."
+          },
+          {
+            "q": "What does the Triveni comparison bring together?",
+            "a": "Devotion, action, and wisdom. Their confluence is associated with the disappearance of ego."
+          },
+          {
+            "q": "What relationship is given between formful and formless devotion?",
+            "a": "Worship with form is a discipline toward the formless goal. The yarn-and-cloth comparison explains the unity behind their distinction."
+          },
+          {
+            "q": "When is love specifically called bhakthi?",
+            "a": "When directed toward the Lord. The chapter distinguishes devotion from other forms of affection and attachment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the dry coconut kernel illustrate?",
+            "options": [
+              "Inward non-attachment while still embodied",
+              "Stronger attachment to the physical shell",
+              "The absence of any spiritual goal",
+              "Liberation through outward dress"
+            ],
+            "correct": 0,
+            "explanation": "Its separation from the shell represents jivan-mukthi.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=94",
+            "sourceLabel": "Chapter XXI, PDF pages 94–97"
+          },
+          {
+            "q": "What should guide the devotee’s actions?",
+            "options": [
+              "Personal preference alone",
+              "What pleases the Lord and accords with His teaching",
+              "A wish to display devotion",
+              "The desire for recognition"
+            ],
+            "correct": 1,
+            "explanation": "The chapter asks the seeker to examine conduct against divine guidance.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=94",
+            "sourceLabel": "Chapter XXI, PDF pages 94–97"
+          },
+          {
+            "q": "What does the Triveni comparison bring together?",
+            "options": [
+              "Three unrelated goals",
+              "Wealth, fame, and power",
+              "Devotion, action, and wisdom",
+              "Body, clothing, and ornaments"
+            ],
+            "correct": 2,
+            "explanation": "Their confluence is associated with the disappearance of ego.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=94",
+            "sourceLabel": "Chapter XXI, PDF pages 94–97"
+          },
+          {
+            "q": "What relationship is given between formful and formless devotion?",
+            "options": [
+              "The two have no possible connection",
+              "Formful worship eliminates the need for inward change",
+              "Both are merely outward costumes",
+              "Worship with form is a discipline toward the formless goal"
+            ],
+            "correct": 3,
+            "explanation": "The yarn-and-cloth comparison explains the unity behind their distinction.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=94",
+            "sourceLabel": "Chapter XXI, PDF pages 94–97"
+          },
+          {
+            "q": "When is love specifically called bhakthi?",
+            "options": [
+              "When directed toward the Lord",
+              "Whenever it seeks ownership of objects",
+              "Only when expressed through special clothing",
+              "Only when displayed in public"
+            ],
+            "correct": 0,
+            "explanation": "The chapter distinguishes devotion from other forms of affection and attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=94",
+            "sourceLabel": "Chapter XXI, PDF pages 94–97"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Chapter XXII",
+        "chapter": "Chapter XXII",
+        "chapterNumber": 22,
+        "pdfStartPage": 98,
+        "pdfEndPage": 101,
+        "sourceUrl": "assets/gita-vahini.pdf#page=98",
+        "sourceLabel": "Chapter XXII, PDF pages 98–101",
+        "summary": "Worshippers of the imperishable are described through sense-control, steadiness, and service to those in distress. Krishna offers a graduated path: establish mind and intelligence in Him, undertake holy action without ego, and relinquish attachment to results. The offering must be genuine in thought, speech, and conduct. Freedom from hatred is necessary but incomplete; love must be cultivated and expressed in service. Farming illustrates the whole process of clearing, planting, tending, and harvesting, with freedom from “I” and “mine” sustaining the crop.\n\nThe discussion then distinguishes the field from its knower. The body is a field through which actions and spiritual understanding bear fruit; the conscious knower witnesses its changing qualities. Contact with nature creates the appearance of doership and enjoyment, as heated iron appears to burn through its contact with fire. Purity, passion, and inertia shape changing experience but do not alter the witness. A lamp behind clear glass, coloured glass, or an opaque pot illustrates how these qualities reveal, distort, or conceal the light. Contentment and discernment support recognition of this distinction.",
+        "qa": [
+          {
+            "q": "Which qualities are assigned to worshippers of the imperishable?",
+            "a": "Sense-control, steadiness, and service to the distressed. Their characteristics include active concern for others."
+          },
+          {
+            "q": "Why is merely removing hatred insufficient?",
+            "a": "Love must also be cultivated and expressed as service. Clearing a field alone does not produce a harvest."
+          },
+          {
+            "q": "What do freedom from “I” and “mine” resemble in the farming image?",
+            "a": "Watering and manuring the growing crop. They sustain the growth begun by removing hatred and planting love."
+          },
+          {
+            "q": "What are kshetra and kshetra-jna?",
+            "a": "The field or body and its conscious knower. The distinction separates changing nature from its witness."
+          },
+          {
+            "q": "What does the lamp inside an opaque pot represent?",
+            "a": "Inertia concealing the light of wisdom. The different coverings illustrate the effects of the gunas."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which qualities are assigned to worshippers of the imperishable?",
+            "options": [
+              "Pride, comfort-seeking, and rivalry",
+              "Indifference to all suffering",
+              "Dependence on outward titles",
+              "Sense-control, steadiness, and service to the distressed"
+            ],
+            "correct": 3,
+            "explanation": "Their characteristics include active concern for others.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=98",
+            "sourceLabel": "Chapter XXII, PDF pages 98–101"
+          },
+          {
+            "q": "Why is merely removing hatred insufficient?",
+            "options": [
+              "Love must also be cultivated and expressed as service",
+              "Hatred is required for devotion",
+              "Outward status supplies what is missing",
+              "No positive discipline is needed"
+            ],
+            "correct": 0,
+            "explanation": "Clearing a field alone does not produce a harvest.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=98",
+            "sourceLabel": "Chapter XXII, PDF pages 98–101"
+          },
+          {
+            "q": "What do freedom from “I” and “mine” resemble in the farming image?",
+            "options": [
+              "Destroying every seed",
+              "Watering and manuring the growing crop",
+              "Abandoning the field",
+              "Harvesting before planting"
+            ],
+            "correct": 1,
+            "explanation": "They sustain the growth begun by removing hatred and planting love.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=98",
+            "sourceLabel": "Chapter XXII, PDF pages 98–101"
+          },
+          {
+            "q": "What are kshetra and kshetra-jna?",
+            "options": [
+              "Two unrelated physical bodies",
+              "Two different divine creators",
+              "The field or body and its conscious knower",
+              "Only two types of ritual"
+            ],
+            "correct": 2,
+            "explanation": "The distinction separates changing nature from its witness.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=98",
+            "sourceLabel": "Chapter XXII, PDF pages 98–101"
+          },
+          {
+            "q": "What does the lamp inside an opaque pot represent?",
+            "options": [
+              "Perfectly transparent purity",
+              "Wisdom needing no expression",
+              "Freedom beyond all qualities",
+              "Inertia concealing the light of wisdom"
+            ],
+            "correct": 3,
+            "explanation": "The different coverings illustrate the effects of the gunas.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=98",
+            "sourceLabel": "Chapter XXII, PDF pages 98–101"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Chapter XXIII",
+        "chapter": "Chapter XXIII",
+        "chapterNumber": 23,
+        "pdfStartPage": 102,
+        "pdfEndPage": 106,
+        "sourceUrl": "assets/gita-vahini.pdf#page=102",
+        "sourceLabel": "Chapter XXIII, PDF pages 102–106",
+        "summary": "Creation, body, mind, and intellect change through the three gunas, while the Atma remains unmodified consciousness. Purity prepares understanding, passion mixes action with ego, and inertia clouds discrimination. Yet all three can bind: gold, copper, and iron ropes remain ropes. Virtues prepare realisation, but the final goal requires actual experience of Brahman. The balanced lamp, wick, and oil illustrate properly developed preparation.\n\nKrishna describes twenty virtues: humility; absence of vanity; nonviolence; patience or fortitude; integrity; reverential service to the teacher; inner and outer cleanliness; steadfastness; sense-control; detachment from sensory pleasure; absence of ego; awareness of birth, death, ageing, illness, and grief; freedom from possessive desire; non-clinging to family and home; equanimity; undivided devotion; inward solitude; freedom from attraction to worldly company; discrimination between Atma and non-Atma; and longing to perceive the universal truth. Nonviolence includes avoiding mental hurt, integrity unites thought, word, and deed, and solitude concerns the mind rather than location alone. Good company is preferred to empty isolation. Honest cultivation of even a few virtues encourages the others, preparing the seeker to distinguish the witness from the changing field and become free of craving.",
+        "qa": [
+          {
+            "q": "What do gold, copper, and iron ropes illustrate?",
+            "a": "All three gunas can bind despite their differences. Even the golden rope of sathwa remains a bond."
+          },
+          {
+            "q": "Why are virtues required before realisation?",
+            "a": "They purify and prepare the seeker for experience of Brahman. The lamp, wick, and oil illustrate preparation for the light."
+          },
+          {
+            "q": "What does nonviolence include here?",
+            "a": "Avoiding mental pain as well as physical injury. Thoughts, words, and deeds must be free from the motive to cause pain."
+          },
+          {
+            "q": "What is integrity?",
+            "a": "Agreement of thought, speech, and action. The chapter applies sincerity to both secular and spiritual activity."
+          },
+          {
+            "q": "What does dwelling in solitude chiefly mean?",
+            "a": "Inward quiet free from worldly occupation. The text distinguishes mental solitude and also values the company of the wise."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do gold, copper, and iron ropes illustrate?",
+            "options": [
+              "Only inertia can ever bind",
+              "Purity is identical with final transcendence",
+              "All three gunas can bind despite their differences",
+              "Material cost determines liberation"
+            ],
+            "correct": 2,
+            "explanation": "Even the golden rope of sathwa remains a bond.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=102",
+            "sourceLabel": "Chapter XXIII, PDF pages 102–106"
+          },
+          {
+            "q": "Why are virtues required before realisation?",
+            "options": [
+              "They replace all need for experience",
+              "They guarantee worldly authority",
+              "They create a new Atma",
+              "They purify and prepare the seeker for experience of Brahman"
+            ],
+            "correct": 3,
+            "explanation": "The lamp, wick, and oil illustrate preparation for the light.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=102",
+            "sourceLabel": "Chapter XXIII, PDF pages 102–106"
+          },
+          {
+            "q": "What does nonviolence include here?",
+            "options": [
+              "Avoiding mental pain as well as physical injury",
+              "Only avoiding bodily injury",
+              "Silence regardless of harmful intention",
+              "Protecting one’s reputation alone"
+            ],
+            "correct": 0,
+            "explanation": "Thoughts, words, and deeds must be free from the motive to cause pain.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=102",
+            "sourceLabel": "Chapter XXIII, PDF pages 102–106"
+          },
+          {
+            "q": "What is integrity?",
+            "options": [
+              "Skill in concealing intentions",
+              "Agreement of thought, speech, and action",
+              "Public praise for private ambition",
+              "Changing one’s goal with every impulse"
+            ],
+            "correct": 1,
+            "explanation": "The chapter applies sincerity to both secular and spiritual activity.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=102",
+            "sourceLabel": "Chapter XXIII, PDF pages 102–106"
+          },
+          {
+            "q": "What does dwelling in solitude chiefly mean?",
+            "options": [
+              "Physical distance alone regardless of mental agitation",
+              "Refusal of all wise company",
+              "Inward quiet free from worldly occupation",
+              "Isolation as a substitute for discipline"
+            ],
+            "correct": 2,
+            "explanation": "The text distinguishes mental solitude and also values the company of the wise.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=102",
+            "sourceLabel": "Chapter XXIII, PDF pages 102–106"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "Chapter XXIV",
+        "chapter": "Chapter XXIV",
+        "chapterNumber": 24,
+        "pdfStartPage": 107,
+        "pdfEndPage": 109,
+        "sourceUrl": "assets/gita-vahini.pdf#page=107",
+        "sourceLabel": "Chapter XXIV, PDF pages 107–109",
+        "summary": "Self-realisation is presented as awareness of the witness and of the unity of individual and universal Atma. The sun prompts varied activity without itself performing each act; birds cross the sky without leaving tracks. These images illuminate action without inward entanglement. A hidden garland-thread and clay within varied vessels again distinguish the enduring basis from changing names and forms.\n\nArjuna asks why the Atma, though everywhere, is not visible. Krishna explains its subtlety beyond the sensory qualities of the elements and the need for inward inquiry. Prahlada’s recognition of God contrasts with Hiranyakasipu’s denial, while the cow overlooking its own milk illustrates missing the treasure within. The chapter ends with the inverted tree of worldly existence: its roots are in Brahman and its branches the many beings and forms. Ashvattha points to transience, including the ceaseless movement of its leaves. Understanding the world through its cause develops detachment and recognition of the divine basis instead of fascination with multiplicity alone.",
+        "qa": [
+          {
+            "q": "What is called the secret of Self-realisation?",
+            "a": "Awareness of being the witness. The chapter links witness-awareness with recognition of one Atma."
+          },
+          {
+            "q": "What do birds leaving no tracks in the sky illustrate?",
+            "a": "Sensory impressions passing without inward attachment. The heart is compared to an inner sky remaining unaffected."
+          },
+          {
+            "q": "Why is the Atma difficult for ordinary sensory vision to grasp?",
+            "a": "It is beyond the qualities by which senses recognise objects. The discussion of increasingly subtle elements leads beyond them to the Atma."
+          },
+          {
+            "q": "Where are the roots of the inverted tree of life?",
+            "a": "In Brahman. The many beings are its branches, while Brahman is its source."
+          },
+          {
+            "q": "What does ashvattha emphasise in this explanation?",
+            "a": "The transience of worldly existence. The wavering leaves illustrate the changing character of worldly objects."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is called the secret of Self-realisation?",
+            "options": [
+              "Increasing bodily pride",
+              "Awareness of being the witness",
+              "Collecting more names and forms",
+              "Ascetic effort without understanding"
+            ],
+            "correct": 1,
+            "explanation": "The chapter links witness-awareness with recognition of one Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=107",
+            "sourceLabel": "Chapter XXIV, PDF pages 107–109"
+          },
+          {
+            "q": "What do birds leaving no tracks in the sky illustrate?",
+            "options": [
+              "The absence of any sensory event",
+              "Permanent marks made by every thought",
+              "Sensory impressions passing without inward attachment",
+              "The destruction of awareness"
+            ],
+            "correct": 2,
+            "explanation": "The heart is compared to an inner sky remaining unaffected.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=107",
+            "sourceLabel": "Chapter XXIV, PDF pages 107–109"
+          },
+          {
+            "q": "Why is the Atma difficult for ordinary sensory vision to grasp?",
+            "options": [
+              "It is simply a distant physical object",
+              "It has more material weight",
+              "It exists only in one place",
+              "It is beyond the qualities by which senses recognise objects"
+            ],
+            "correct": 3,
+            "explanation": "The discussion of increasingly subtle elements leads beyond them to the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=107",
+            "sourceLabel": "Chapter XXIV, PDF pages 107–109"
+          },
+          {
+            "q": "Where are the roots of the inverted tree of life?",
+            "options": [
+              "In Brahman",
+              "In independent sensory objects",
+              "In personal possessions",
+              "In the body alone"
+            ],
+            "correct": 0,
+            "explanation": "The many beings are its branches, while Brahman is its source.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=107",
+            "sourceLabel": "Chapter XXIV, PDF pages 107–109"
+          },
+          {
+            "q": "What does ashvattha emphasise in this explanation?",
+            "options": [
+              "The permanent stability of every form",
+              "The transience of worldly existence",
+              "The independence of creation from its cause",
+              "The uselessness of inward inquiry"
+            ],
+            "correct": 1,
+            "explanation": "The wavering leaves illustrate the changing character of worldly objects.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=107",
+            "sourceLabel": "Chapter XXIV, PDF pages 107–109"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "Chapter XXV",
+        "chapter": "Chapter XXV",
+        "chapterNumber": 25,
+        "pdfStartPage": 110,
+        "pdfEndPage": 113,
+        "sourceUrl": "assets/gita-vahini.pdf#page=110",
+        "sourceLabel": "Chapter XXV, PDF pages 110–113",
+        "summary": "Arjuna asks how a changing world can share the reality of its unchanging cause. Krishna directs attention to the Atma as the basis of the five elements and their combinations. A tree unfolding from a seed and the moon’s reflection trembling in moving water illustrate manifestation without change in the underlying reality. Transferring the reflection’s disturbance to the moon represents the error of assigning change to the divine basis.\n\nDivine and demonic natures are distinguished by qualities rather than physical form, wealth, or authority. The twenty-five divine traits named include fearlessness, pure feelings, awareness of unity, charity, sense-control, sacrifice, study, austerity, straightforwardness, nonviolence, integrity, freedom from anger, detachment, peace, avoidance of slander, sympathy, freedom from greed, gentle speech, aversion to unrighteousness, mental steadiness, courage and patience, constancy, cleanliness, harmlessness, and humility. Pride, pretence, harshness, anger, and lack of discrimination oppose them. Lust, anger, and greed are identified as basic enemies, countered by detachment, equanimity, and renunciation. Cutting a tree’s roots illustrates the need to remove desire thoroughly rather than claim victory while its effects remain active.",
+        "qa": [
+          {
+            "q": "What does the trembling reflection of the moon illustrate?",
+            "a": "Change in the appearance need not change its basis. The movement belongs to the reflecting medium."
+          },
+          {
+            "q": "What distinguishes divine and demonic natures?",
+            "a": "Qualities and conduct. The chapter uses Ravana to show that status does not establish divinity."
+          },
+          {
+            "q": "Which set belongs to the divine traits listed?",
+            "a": "Fearlessness, charity, gentle speech, and humility. These are among the twenty-five qualities described."
+          },
+          {
+            "q": "Which three are named as the basic demonic enemies?",
+            "a": "Lust, anger, and greed. Krishna urges their complete overcoming."
+          },
+          {
+            "q": "What does a tree sprouting from a remaining root illustrate?",
+            "a": "Residual desire can continue to sustain bondage. The root comparison warns against premature claims of freedom."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the trembling reflection of the moon illustrate?",
+            "options": [
+              "Change in the appearance need not change its basis",
+              "The moon necessarily shakes with the water",
+              "The Atma is subject to every bodily disturbance",
+              "Reflection creates the original moon"
+            ],
+            "correct": 0,
+            "explanation": "The movement belongs to the reflecting medium.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=110",
+            "sourceLabel": "Chapter XXV, PDF pages 110–113"
+          },
+          {
+            "q": "What distinguishes divine and demonic natures?",
+            "options": [
+              "Physical beauty",
+              "Qualities and conduct",
+              "Wealth alone",
+              "Political authority"
+            ],
+            "correct": 1,
+            "explanation": "The chapter uses Ravana to show that status does not establish divinity.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=110",
+            "sourceLabel": "Chapter XXV, PDF pages 110–113"
+          },
+          {
+            "q": "Which set belongs to the divine traits listed?",
+            "options": [
+              "Pride, harshness, vanity, and anger",
+              "Greed, pretence, rivalry, and cruelty",
+              "Fearlessness, charity, gentle speech, and humility",
+              "Possessiveness, conceit, lust, and resentment"
+            ],
+            "correct": 2,
+            "explanation": "These are among the twenty-five qualities described.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=110",
+            "sourceLabel": "Chapter XXV, PDF pages 110–113"
+          },
+          {
+            "q": "Which three are named as the basic demonic enemies?",
+            "options": [
+              "Study, charity, and sacrifice",
+              "Courage, patience, and steadiness",
+              "Purity, peace, and humility",
+              "Lust, anger, and greed"
+            ],
+            "correct": 3,
+            "explanation": "Krishna urges their complete overcoming.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=110",
+            "sourceLabel": "Chapter XXV, PDF pages 110–113"
+          },
+          {
+            "q": "What does a tree sprouting from a remaining root illustrate?",
+            "options": [
+              "Residual desire can continue to sustain bondage",
+              "Partial removal always completes liberation",
+              "The impossibility of spiritual effort",
+              "The need to preserve every attachment"
+            ],
+            "correct": 0,
+            "explanation": "The root comparison warns against premature claims of freedom.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=110",
+            "sourceLabel": "Chapter XXV, PDF pages 110–113"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "Chapter XXVI",
+        "chapter": "Chapter XXVI",
+        "chapterNumber": 26,
+        "pdfStartPage": 114,
+        "pdfEndPage": 117,
+        "sourceUrl": "assets/gita-vahini.pdf#page=114",
+        "sourceLabel": "Chapter XXVI, PDF pages 114–117",
+        "summary": "Arjuna asks whether inherited tendencies can be changed. Krishna answers that purposeful effort, including regulation of food and recreation, can encourage purity. The chapter presents food within its spiritual discipline of body and mind, distinguishing moderation from stimulating excess. Purity involves provisions obtained honestly, clean vessels, and the conduct and feelings of those preparing and serving food. It explicitly rejects the idea that changing food alone completes character transformation.\n\nMental, physical, and vocal disciplines must work together. The mind cultivates love and divine attention; the body serves and follows moral conduct; speech becomes truthful, gentle, and free from gossip. Lamp, oil, and wick illustrate their mutual necessity. Charity is assessed by intention, usefulness, recipient, place, and time: sincere helpful giving differs from publicity-seeking or careless waste. Listening and seeing are likewise classified by whether they encourage spiritual understanding, ostentation, or cruelty. The chapter’s overall emphasis is that professed knowledge must enter everyday habits. Its guidance is presented as the book’s account of spiritual preparation, in which outward regulation supports inward steadiness and freedom from desire.",
+        "qa": [
+          {
+            "q": "Can inherited tendencies be influenced through effort in this life, according to this chapter?",
+            "a": "Yes, disciplined effort can encourage purity. Krishna identifies regulation and self-effort as means of transformation."
+          },
+          {
+            "q": "Which three purities are specified around food?",
+            "a": "Provisions, vessels, and those serving it. The discussion also stresses honest acquisition and purity of conduct."
+          },
+          {
+            "q": "What do lamp, oil, and wick represent in the discipline analogy?",
+            "a": "Body, mind, and tongue. Physical, mental, and vocal disciplines must support one another."
+          },
+          {
+            "q": "What characterises rajasic charity here?",
+            "a": "Giving for recognition or return, or under reluctant pressure. The motive differentiates this from sathwic charity."
+          },
+          {
+            "q": "What is an example of thamasic charity in the text?",
+            "a": "A hospital inaccessible to those who need it. Careless or benefitless giving fails its intended purpose."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Can inherited tendencies be influenced through effort in this life, according to this chapter?",
+            "options": [
+              "No, every tendency is permanently fixed",
+              "Only social status can change them",
+              "Only public reputation matters",
+              "Yes, disciplined effort can encourage purity"
+            ],
+            "correct": 3,
+            "explanation": "Krishna identifies regulation and self-effort as means of transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=114",
+            "sourceLabel": "Chapter XXVI, PDF pages 114–117"
+          },
+          {
+            "q": "Which three purities are specified around food?",
+            "options": [
+              "Provisions, vessels, and those serving it",
+              "Price, quantity, and publicity",
+              "Colour, shape, and packaging",
+              "Dining room, weather, and social rank"
+            ],
+            "correct": 0,
+            "explanation": "The discussion also stresses honest acquisition and purity of conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=114",
+            "sourceLabel": "Chapter XXVI, PDF pages 114–117"
+          },
+          {
+            "q": "What do lamp, oil, and wick represent in the discipline analogy?",
+            "options": [
+              "Wealth, fame, and power",
+              "Body, mind, and tongue",
+              "Birth, age, and death",
+              "Teacher, temple, and travel"
+            ],
+            "correct": 1,
+            "explanation": "Physical, mental, and vocal disciplines must support one another.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=114",
+            "sourceLabel": "Chapter XXVI, PDF pages 114–117"
+          },
+          {
+            "q": "What characterises rajasic charity here?",
+            "options": [
+              "Purely useful giving without worldly reward-seeking",
+              "Quiet help suited to genuine need",
+              "Giving for recognition or return, or under reluctant pressure",
+              "Giving with no concern for fame"
+            ],
+            "correct": 2,
+            "explanation": "The motive differentiates this from sathwic charity.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=114",
+            "sourceLabel": "Chapter XXVI, PDF pages 114–117"
+          },
+          {
+            "q": "What is an example of thamasic charity in the text?",
+            "options": [
+              "Suitable assistance where there is real need",
+              "Reverent giving without publicity",
+              "Teaching adapted to the recipient",
+              "A hospital inaccessible to those who need it"
+            ],
+            "correct": 3,
+            "explanation": "Careless or benefitless giving fails its intended purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=114",
+            "sourceLabel": "Chapter XXVI, PDF pages 114–117"
+          }
+        ]
+      },
+      {
+        "id": "chapter-27",
+        "title": "Chapter XXVII",
+        "chapter": "Chapter XXVII",
+        "chapterNumber": 27,
+        "pdfStartPage": 118,
+        "pdfEndPage": 120,
+        "sourceUrl": "assets/gita-vahini.pdf#page=118",
+        "sourceLabel": "Chapter XXVII, PDF pages 118–120",
+        "summary": "The concluding chapter returns to ego, desire, and possessiveness as the bonds that obscure Self-knowledge. Actions inevitably have consequences, but dedicating action to the Lord removes the self-centred claim that binds the doer to them. The Gita rejects both working solely for personal gain and refusing duty because no such gain is expected. Arjuna receives this teaching as an instrument through whom it benefits humanity.\n\nThe instruction to abandon all dharmas and surrender is carefully distinguished from permission to abandon all actions. It means relinquishing pride, bodily identification, and “mine-ness”, while following divine guidance and working for the welfare of all. The chapter criticises selecting an isolated phrase to justify idleness. Janaka exemplifies continuing beneficial activity without personal need. The Pandavas and Kauravas illustrate the contrast between dharmic strength supported by grace and worldly power without it. The book closes by urging faithful study, actual practice, and wholehearted yearning for the Lord. Divine grace is compared to butter from which ghee is obtained: when the essential is gained, liberation need not be pursued as a separate bargain.",
+        "qa": [
+          {
+            "q": "What chiefly obscures knowledge of Brahman in the opening explanation?",
+            "a": "Egotism rooted in desire. Freedom from desire and ego is central to liberation."
+          },
+          {
+            "q": "What happens to action offered to the Lord?",
+            "a": "It is sanctified without binding the doer through attachment. The chapter distinguishes results from bondage to results."
+          },
+          {
+            "q": "How is “abandon all dharmas” distinguished from abandoning all actions?",
+            "a": "It removes egoistic claims while dedicated duty continues. The text explicitly rejects using the instruction to shirk legitimate duties."
+          },
+          {
+            "q": "Why is Janaka mentioned?",
+            "a": "As an example of working for the world’s welfare without personal need. Beneficial action continues in the spirit of offering."
+          },
+          {
+            "q": "What does butter in the final comparison represent?",
+            "a": "The Lord’s grace. As ghee comes from butter, the image stresses gaining grace rather than separately bargaining for liberation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What chiefly obscures knowledge of Brahman in the opening explanation?",
+            "options": [
+              "The Atma’s lack of existence",
+              "The absence of all possible guidance",
+              "Egotism rooted in desire",
+              "Action dedicated without attachment"
+            ],
+            "correct": 2,
+            "explanation": "Freedom from desire and ego is central to liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=118",
+            "sourceLabel": "Chapter XXVII, PDF pages 118–120"
+          },
+          {
+            "q": "What happens to action offered to the Lord?",
+            "options": [
+              "It necessarily has no consequence at all",
+              "It becomes an excuse for neglecting duty",
+              "It increases personal ownership",
+              "It is sanctified without binding the doer through attachment"
+            ],
+            "correct": 3,
+            "explanation": "The chapter distinguishes results from bondage to results.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=118",
+            "sourceLabel": "Chapter XXVII, PDF pages 118–120"
+          },
+          {
+            "q": "How is “abandon all dharmas” distinguished from abandoning all actions?",
+            "options": [
+              "It removes egoistic claims while dedicated duty continues",
+              "It authorises idleness and self-indulgence",
+              "It prohibits all service",
+              "It makes bodily pride the goal"
+            ],
+            "correct": 0,
+            "explanation": "The text explicitly rejects using the instruction to shirk legitimate duties.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=118",
+            "sourceLabel": "Chapter XXVII, PDF pages 118–120"
+          },
+          {
+            "q": "Why is Janaka mentioned?",
+            "options": [
+              "As a model of refusing every action",
+              "As an example of working for the world’s welfare without personal need",
+              "As a teacher of reward-seeking alone",
+              "As proof that surrender excludes duty"
+            ],
+            "correct": 1,
+            "explanation": "Beneficial action continues in the spirit of offering.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=118",
+            "sourceLabel": "Chapter XXVII, PDF pages 118–120"
+          },
+          {
+            "q": "What does butter in the final comparison represent?",
+            "options": [
+              "Worldly fame",
+              "Physical strength",
+              "The Lord’s grace",
+              "Possessive ambition"
+            ],
+            "correct": 2,
+            "explanation": "As ghee comes from butter, the image stresses gaining grace rather than separately bargaining for liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/gita-vahini.pdf#page=118",
+            "sourceLabel": "Chapter XXVII, PDF pages 118–120"
           }
         ]
       }
     ],
-    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba."
+    "quizApproach": "Original study exercises: application questions use hypothetical everyday situations; recall questions refer to the cited passage. These exercises are not quotations or statements attributed to Baba.",
+    "organization": "chapters"
   },
   {
     "id": "ramakatha-rasavahini",
