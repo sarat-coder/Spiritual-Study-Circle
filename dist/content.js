@@ -19271,897 +19271,1485 @@ window.VAHINI_BOOKS = [
     "id": "dhyana-vahini",
     "title": "Dhyana Vahini",
     "hindiTitle": "ध्यान वाहिनी",
-    "subtitle": "The practice of meditation",
-    "description": "Study attention, selfless action, and steady practice.",
-    "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Dhyana.pdf",
+    "subtitle": "Stream of Meditation",
+    "description": "Study all 14 chapters of the supplied Dhyana Vahini edition, with fuller English summaries, five questions and answers, and five source-based quiz questions per chapter.",
+    "sourceUrl": "assets/dhyana-vahini.pdf",
+    "pdfUrl": "assets/dhyana-vahini.pdf",
     "topics": [
       {
-        "id": "dhyana-action",
-        "title": "Action without attachment",
-        "chapter": "Pages 1–3",
-        "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-        "summary": "Actions can deepen attachment or support liberation. Selfless work and divine remembrance help direct the mind inward.",
+        "id": "chapter-01",
+        "title": "The Power of Meditation",
+        "chapter": "Chapter I",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+        "sourceLabel": "Chapter I, PDF pages 8–11",
+        "summary": "The chapter distinguishes actions that bind a person to sensory objects from actions that lead toward inner freedom. Craving the results of action strengthens possessiveness, greed, and unrest. Action offered to the Lord without a claim on its fruits, however, develops truth, righteousness, peace, and love. Meditation and remembrance of the divine name support this transformation. The mind and intelligence are compared to two bullocks drawing the cart of inner consciousness: both need training in the right direction before the journey can proceed safely. Concentrated attention gathers scattered mental energy, just as a lens brings sunlight to a burning point.\n\nMeditation trains attention to withdraw from passing objects and recognise the underlying spiritual reality. The chapter stresses holy company, sincere practice, faith, and enthusiasm rather than arguments about meditation. Its closing instructions describe a prepared seat, a steady posture, bodily relaxation, and contemplation of a chosen divine name and form with Om. Intruding memories, anger, and sorrow are not to be entertained. The quiet hours before dawn are commended for practice. These arrangements serve the larger purpose of purifying the mind and intelligence and discovering the joy of the Atma.",
         "qa": [
           {
-            "q": "What distinguishes liberating action?",
-            "a": "It is performed sincerely, without demanding personal rewards."
+            "q": "What distinguishes liberating action in Chapter I?",
+            "a": "Action without craving its fruits. The chapter links liberating action with selflessness and offering the result to the Lord."
+          },
+          {
+            "q": "What do the two bullocks drawing the cart represent?",
+            "a": "Mind and intelligence. Both must be trained along the path of truth, righteousness, peace, and love."
+          },
+          {
+            "q": "Which example illustrates the power of concentrated attention?",
+            "a": "Sunlight focused through a magnifying glass. Gathering the rays illustrates the power gained when scattered mental activity becomes one-pointed."
+          },
+          {
+            "q": "What accompanies the chosen divine name and form in the described meditation?",
+            "a": "Om. The closing instructions join contemplation of the favourite name and form with Om."
+          },
+          {
+            "q": "Which hours does the chapter commend for meditation?",
+            "a": "The quiet hours between 3 and 5 a.m.. The text identifies the quiet period before dawn as especially suitable."
           }
         ],
         "quiz": [
           {
-            "q": "Which attitude supports this action?",
+            "q": "What distinguishes liberating action in Chapter I?",
             "options": [
-              "Bargaining",
-              "Possessiveness",
-              "Selfless dedication",
-              "Recognition seeking"
-            ],
-            "correct": 2,
-            "explanation": "The correct choice removes the demand for a personal return from helping.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A helper keeps checking whether their contribution has been praised. What could refocus them?",
-            "options": [
-              "Ask others to mention their name",
-              "Choose work with a larger audience",
-              "Wait for praise before continuing",
-              "Attend to the task still needing care"
-            ],
-            "correct": 3,
-            "explanation": "Attention to the present task reduces the role that hoped for recognition plays in working.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A volunteer completes careful work but the event is cancelled. Which response shows less attachment?",
-            "options": [
-              "Accept the outcome and offer appropriate next steps",
-              "Call the work worthless without applause",
-              "Demand a replacement event for recognition",
-              "Blame recipients for the cancellation"
+              "Action without craving its fruits",
+              "Action performed only in public",
+              "Action seeking sensory rewards",
+              "Action requiring no effort"
             ],
             "correct": 0,
-            "explanation": "Useful effort can retain its meaning even when circumstances prevent the expected outcome.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
+            "explanation": "The chapter links liberating action with selflessness and offering the result to the Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
           },
           {
-            "q": "A team member agrees to help only if given a title. What condition is shaping the offer?",
+            "q": "What do the two bullocks drawing the cart represent?",
             "options": [
-              "Concern about the task's requirements",
-              "A demand for personal recognition",
-              "A need to understand instructions",
-              "A wish to coordinate availability"
+              "Body and wealth",
+              "Mind and intelligence",
+              "Praise and blame",
+              "Birth and death"
             ],
             "correct": 1,
-            "explanation": "The title is being made a condition for assistance rather than a practical requirement of the task.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
+            "explanation": "Both must be trained along the path of truth, righteousness, peace, and love.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
           },
           {
-            "q": "A student prepares diligently but cannot control the final ranking. What is the soundest focus?",
+            "q": "Which example illustrates the power of concentrated attention?",
             "options": [
-              "Repeatedly predicting everyone else's marks",
-              "Seeking guarantees before studying",
-              "The quality of preparation within reach",
-              "Abandoning effort because results vary"
+              "Water escaping through a net",
+              "A boat without an anchor",
+              "Sunlight focused through a magnifying glass",
+              "A seed scattered by wind"
             ],
             "correct": 2,
-            "explanation": "Focusing on controllable preparation preserves effort without requiring certainty about the eventual ranking.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
+            "explanation": "Gathering the rays illustrates the power gained when scattered mental activity becomes one-pointed.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
           },
           {
-            "q": "A coordinator wants dedication without neglect. Which plan best fits?",
+            "q": "What accompanies the chosen divine name and form in the described meditation?",
             "options": [
-              "Stop checking whether work is complete",
-              "Assume effort makes planning unnecessary",
-              "Ignore feedback about practical mistakes",
-              "Work carefully and release demands for praise"
+              "A calculation of rewards",
+              "Memories of past injuries",
+              "An argument about methods",
+              "Om"
             ],
             "correct": 3,
-            "explanation": "Careful execution remains necessary even when personal recognition is no longer the central demand.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
+            "explanation": "The closing instructions join contemplation of the favourite name and form with Om.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
           },
           {
-            "q": "A person helps an acquaintance who later forgets to say thanks. What response fits selfless assistance?",
+            "q": "Which hours does the chapter commend for meditation?",
             "options": [
-              "Let the useful help stand without a debt",
-              "Keep reminding them of the favour",
-              "Withdraw every future courtesy",
-              "Tell others how ungrateful they are"
+              "The quiet hours between 3 and 5 a.m.",
+              "Only the hour after noon",
+              "Only the moment of sunset",
+              "Any time when an audience gathers"
             ],
             "correct": 0,
-            "explanation": "Treating help as a completed contribution prevents an unspoken demand from controlling the relationship.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A volunteer is assigned useful backstage work. Which choice shows dedication?",
-            "options": [
-              "Wait until a visible role appears",
-              "Do the work with the same care",
-              "Leave difficult parts for performers",
-              "Count the assignment as a personal insult"
-            ],
-            "correct": 1,
-            "explanation": "The work's practical usefulness does not disappear when it takes place away from the audience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A team reaches its target and receives praise. What is a balanced response?",
-            "options": [
-              "Claim sole ownership of the success",
-              "Assume future effort is unnecessary",
-              "Acknowledge everyone and continue responsibly",
-              "Use praise to dismiss all suggestions"
-            ],
-            "correct": 2,
-            "explanation": "Shared acknowledgment and continued care keep success from becoming a reason for inflated personal claims.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A helper offers a gift expecting influence over the recipient. What should be reconsidered?",
-            "options": [
-              "Only the gift's wrapping",
-              "Only the timing of presentation",
-              "Whether the recipient knows its price",
-              "The expectation attached to the gift"
-            ],
-            "correct": 3,
-            "explanation": "An expectation of influence turns assistance into an arrangement the recipient may never have accepted.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A learner says detachment means not caring about quality. Which example corrects that idea?",
-            "options": [
-              "Careful work without demanding personal reward",
-              "Unfinished work left for others",
-              "Ignoring mistakes to remain comfortable",
-              "Avoiding all commitments"
-            ],
-            "correct": 0,
-            "explanation": "This example separates responsible attention to the work from a demand about personal returns.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A team member is disappointed that someone else presents their work. What is a constructive response?",
-            "options": [
-              "Undermine the presenter during the event",
-              "Support accurate presentation and fair acknowledgment",
-              "Withhold essential information until praised",
-              "Demand the project stop immediately"
-            ],
-            "correct": 1,
-            "explanation": "Supporting the shared task preserves usefulness while allowing acknowledgment to be discussed appropriately.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A helper keeps a private score of favours owed. What experiment could loosen this habit?",
-            "options": [
-              "Increase the number of recorded favours",
-              "Require written promises of gratitude",
-              "Offer one manageable kindness without repayment expectations",
-              "Compare favour totals with friends"
-            ],
-            "correct": 2,
-            "explanation": "A small deliberate experiment makes the expectation visible and gives the helper room to question it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "An organiser's plan fails despite reasonable preparation. What is the next responsible step?",
-            "options": [
-              "Insist sincerity guaranteed success",
-              "Hide every sign of failure",
-              "Treat all future effort as pointless",
-              "Learn from the outcome and adjust the plan"
-            ],
-            "correct": 3,
-            "explanation": "Learning from the result supports continued responsible action without pretending outcomes are fully controllable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A volunteer wants to maintain divine remembrance while working. Which approach is practical?",
-            "options": [
-              "Use brief inward recollection while attending carefully",
-              "Ignore instructions to repeat words continuously",
-              "Leave tasks unfinished during every reflection",
-              "Correct teammates' beliefs throughout the task"
-            ],
-            "correct": 0,
-            "explanation": "Brief recollection can accompany responsible attention without displacing the work that others rely on.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A group debates who deserves credit while supplies remain unpacked. What priority restores purpose?",
-            "options": [
-              "Continue credit discussions until everyone wins",
-              "Agree on needed work and finish distribution",
-              "Delay recipients until public recognition is arranged",
-              "Give supplies only to supporters"
-            ],
-            "correct": 1,
-            "explanation": "Returning to the practical need helps the group separate service from its competing claims for recognition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A helper is offered a more prestigious role after committing elsewhere. What is responsible?",
-            "options": [
-              "Switch immediately because status increased",
-              "Make others discover the absence",
-              "Keep both commitments without checking feasibility",
-              "Consider existing commitments before deciding"
-            ],
-            "correct": 3,
-            "explanation": "Considering existing responsibilities prevents a new opportunity from automatically overruling people already depending on help.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A learner takes pride in never seeking rewards and judges others harshly. What needs attention?",
-            "options": [
-              "The new comparison feeding their self-image",
-              "Whether others know this achievement",
-              "How to advertise the distinction",
-              "Whether the judgment sounds sufficiently firm"
-            ],
-            "correct": 0,
-            "explanation": "A claim of selflessness can become another comparison unless the learner examines the attitude behind it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "An assistant must choose between useful quiet work and unnecessary visible work. What fits the task?",
-            "options": [
-              "Choose the work attracting the largest audience",
-              "Choose the work meeting the actual need",
-              "Split time according to camera positions",
-              "Wait until both become equally prestigious"
-            ],
-            "correct": 1,
-            "explanation": "The actual need supplies a reason for choosing that does not depend on visibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
-          },
-          {
-            "q": "A completed project receives mixed feedback. What response supports dedicated improvement?",
-            "options": [
-              "Reject every criticism as ingratitude",
-              "Change everything to please each commenter",
-              "Use relevant feedback without chasing universal approval",
-              "Ask only admirers for future opinions"
-            ],
-            "correct": 2,
-            "explanation": "Relevant feedback can improve the work without turning every opinion into a personal demand.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 1–3"
+            "explanation": "The text identifies the quiet period before dawn as especially suitable.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=8",
+            "sourceLabel": "Chapter I, PDF pages 8–11"
           }
         ]
       },
       {
-        "id": "dhyana-attention",
-        "title": "Steady devotional attention",
-        "chapter": "Pages 5–8",
-        "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-        "summary": "Meditation trains attention toward the divine. Patience and inner change matter more than counting sessions or expenditure.",
+        "id": "chapter-02",
+        "title": "Chanting God’s Name and Meditation",
+        "chapter": "Chapter II",
+        "chapterNumber": 2,
+        "pdfStartPage": 12,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+        "sourceLabel": "Chapter II, PDF pages 12–14",
+        "summary": "Repetition of God's name and meditation aim to turn attention inward, loosen sensory attachment, and reveal Atmic joy. They are not presented as transactions for obtaining worldly gains. The wandering mind resembles a fly moving between sweets and rubbish; the bee, seeking nectar alone, illustrates a more discriminating direction of attention. Progress is measured through inner transformation, patience, sincerity, and freedom from self-centredness. Counting years, expenses, repetitions, or external observances cannot establish spiritual achievement. Patiently awaiting grace is itself part of the discipline.\n\nThree approaches are distinguished. The pure, serene approach practises lovingly as a duty and leaves the outcome to God. The passionate approach demands results and becomes discouraged when they are delayed. The ignorant approach remembers God chiefly in distress and bargains for proportionate rewards. Bodily posture and mental attitudes influence one another, so beginners need disciplined training, although accomplished aspirants can meditate in any setting. Like medicine that must actually be taken, teachings must be assimilated through practice. Purity of inner life, right conduct, renunciation, and joyful dedication determine success, and the chapter declares that this spiritual attainment is open to everyone.",
         "qa": [
           {
-            "q": "How is progress assessed?",
-            "a": "Observe reduced selfishness and greater steadiness in your inner life."
+            "q": "By what should meditation chiefly be judged?",
+            "a": "Its inner effects. The chapter measures progress by inward transformation rather than external totals."
+          },
+          {
+            "q": "Which creature illustrates attention directed only toward sweetness?",
+            "a": "The bee. The bee seeks nectar, whereas the fly moves indiscriminately between sweets and rubbish."
+          },
+          {
+            "q": "What characterises the pure, serene approach?",
+            "a": "Loving practice with its fruits left to the Lord. The sathwic approach treats practice as a duty and seeks the good of all."
+          },
+          {
+            "q": "Why are bodily disciplines useful for beginners?",
+            "a": "Body and mind influence one another. Suitable physical training helps steady the mind until mastery is attained."
+          },
+          {
+            "q": "What lesson is conveyed by the medicine example?",
+            "a": "Teachings must be put into practice. Medicine at a bedside cannot help unless taken; similarly, teachings need assimilation through conduct."
           }
         ],
         "quiz": [
           {
-            "q": "Which measure matters most?",
+            "q": "By what should meditation chiefly be judged?",
             "options": [
-              "Money spent",
-              "Inner transformation",
-              "Years counted",
-              "Public visibility"
-            ],
-            "correct": 1,
-            "explanation": "The selected measure concerns the learner's experience rather than an external total.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A beginner grows frustrated after three quiet practice sessions. What is a useful response?",
-            "options": [
-              "Continue patiently and observe the experience",
-              "Declare the effort permanently unsuccessful",
-              "Increase expectations after every session",
-              "Compare immediately with experienced practitioners"
-            ],
-            "correct": 0,
-            "explanation": "A short observation period provides little basis for a sweeping judgment about the whole practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A learner measures progress by the price of a meditation cushion. What better evidence is available?",
-            "options": [
-              "How prominently the cushion is displayed",
-              "How they respond to everyday irritation",
-              "How often its brand is mentioned",
-              "How recently it was purchased"
-            ],
-            "correct": 1,
-            "explanation": "Everyday responses reveal changes that the cost of an object cannot establish.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "During reflection, attention wanders to tomorrow's errands. What is the relevant next action?",
-            "options": [
-              "Judge the entire session a failure",
-              "Follow every errand to completion mentally",
-              "Notice the shift and gently return attention",
-              "Pretend the wandering never happened"
-            ],
-            "correct": 2,
-            "explanation": "Recognising the shift creates an opportunity to practise returning instead of merely reacting to distraction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A practitioner logs minutes but ignores growing impatience afterward. What deserves review?",
-            "options": [
-              "Only whether the timer is accurate",
-              "Only how totals compare with friends",
-              "Whether the logbook needs more pages",
-              "The quality of practice and daily responses"
+              "The money spent on it",
+              "The number of spectators",
+              "The cost of the seat",
+              "Its inner effects"
             ],
             "correct": 3,
-            "explanation": "The mismatch invites attention to experience beyond a numerical record of time spent.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
+            "explanation": "The chapter measures progress by inward transformation rather than external totals.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "A beginner asks for a guarantee of dramatic results next week. What is a better orientation?",
+            "q": "Which creature illustrates attention directed only toward sweetness?",
             "options": [
-              "A realistic commitment to careful practice",
-              "A promise based on enthusiasm alone",
-              "A comparison with another person's timeline",
-              "A larger purchase to ensure results"
+              "The bee",
+              "The fly",
+              "The horse",
+              "The crow"
             ],
             "correct": 0,
-            "explanation": "A practical commitment supports participation without making an unsupported timetable the condition for continuing.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
+            "explanation": "The bee seeks nectar, whereas the fly moves indiscriminately between sweets and rubbish.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "Two people practise equally long. What should be avoided when evaluating them?",
+            "q": "What characterises the pure, serene approach?",
             "options": [
-              "Asking what each has noticed",
-              "Assuming their inner experiences are identical",
-              "Considering changes in ordinary behaviour",
-              "Recognising different starting points"
+              "Bargaining for rewards during danger",
+              "Loving practice with its fruits left to the Lord",
+              "Abandoning practice when results delay",
+              "Displaying the expense of worship"
             ],
             "correct": 1,
-            "explanation": "Equal time records cannot establish that two people are having the same experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
+            "explanation": "The sathwic approach treats practice as a duty and seeks the good of all.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "A person feels calmer one day and distracted the next. What is the best observation?",
+            "q": "Why are bodily disciplines useful for beginners?",
             "options": [
-              "One distracted day cancels previous effort",
-              "Calmness proves every difficulty is finished",
-              "Experience can vary while practice continues",
-              "The timer caused the difference"
+              "Posture alone guarantees realisation",
+              "They replace the need for good conduct",
+              "Body and mind influence one another",
+              "They make inward attention unnecessary"
             ],
             "correct": 2,
-            "explanation": "Recording variation supports a measured response instead of drawing absolute conclusions from a single session.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
+            "explanation": "Suitable physical training helps steady the mind until mastery is attained.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           },
           {
-            "q": "An enthusiast buys many accessories but seldom practises. What change addresses the gap?",
+            "q": "What lesson is conveyed by the medicine example?",
             "options": [
-              "Compare more products first",
-              "Arrange accessories more impressively",
-              "Calculate the total investment",
-              "Set aside a manageable practice opportunity"
+              "Possessing a book completes the discipline",
+              "Hearing advice is always sufficient",
+              "Spiritual success belongs only to scholars",
+              "Teachings must be put into practice"
             ],
             "correct": 3,
-            "explanation": "A manageable opportunity addresses the missing activity that further purchases cannot perform.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A learner becomes preoccupied with how spiritual they appear while sitting. What could help?",
-            "options": [
-              "Return attention to the intended inward focus",
-              "Improve the pose mainly for observers",
-              "Ask others to rate the appearance",
-              "Choose only public practice settings"
-            ],
-            "correct": 0,
-            "explanation": "Returning attention addresses the distraction rather than making the external impression the purpose.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "Someone rushes through practice to increase their daily count. What should be reconsidered?",
-            "options": [
-              "Whether the count should be doubled",
-              "Whether the totals are displayed clearly",
-              "Whether counting has displaced attentive engagement",
-              "Whether others count more quickly"
-            ],
-            "correct": 2,
-            "explanation": "A larger total is not sufficient evidence that the intended quality of attention is present.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A practitioner notices less impatience during a difficult conversation. How should this be treated?",
-            "options": [
-              "As proof of final spiritual attainment",
-              "As a reason to stop practising",
-              "As evidence everyone else is behind",
-              "As a useful observation to examine"
-            ],
-            "correct": 3,
-            "explanation": "A concrete improvement can be appreciated without turning it into a sweeping claim of completion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A group compares practice streaks competitively. What question would deepen the discussion?",
-            "options": [
-              "What have you noticed about your reactions?",
-              "Who has the longest unbroken streak?",
-              "Whose equipment costs the most?",
-              "Who can display the largest total?"
-            ],
-            "correct": 0,
-            "explanation": "Asking about reactions moves the discussion toward lived experience rather than competitive numerical records.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A beginner misses a planned session during an unavoidable disruption. What is a balanced next step?",
-            "options": [
-              "Abandon the routine entirely",
-              "Resume at a suitable opportunity",
-              "Punish themselves with unrealistic commitments",
-              "Assume previous sessions no longer count"
-            ],
-            "correct": 1,
-            "explanation": "Resuming creates continuity without allowing one disruption to define the whole undertaking.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A learner expects every session to feel extraordinary. What helps keep expectations useful?",
-            "options": [
-              "Increase pressure for dramatic sensations",
-              "Borrow descriptions from others as personal experience",
-              "Attend to practice without requiring a spectacle",
-              "Count ordinary sessions as meaningless"
-            ],
-            "correct": 2,
-            "explanation": "Releasing the demand for spectacle makes room to notice the session actually taking place.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A quiet room becomes temporarily noisy. Which response exercises steady attention?",
-            "options": [
-              "Spend the session resenting every sound",
-              "Declare the neighbours responsible for all progress",
-              "Compete by making more noise",
-              "Acknowledge the sound and return focus"
-            ],
-            "correct": 3,
-            "explanation": "Returning focus gives the learner a practical response to a condition they cannot fully control.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A practitioner wants an honest journal entry. Which wording is best?",
-            "options": [
-              "I noticed distraction and returned several times",
-              "I must have advanced because time increased",
-              "My accessories prove strong commitment",
-              "Everyone else probably concentrates less"
-            ],
-            "correct": 0,
-            "explanation": "The entry distinguishes an observed experience from conclusions based on comparison or appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A learner is impatient for recognition as an experienced practitioner. What deserves attention?",
-            "options": [
-              "The design of a certificate",
-              "The demand for a label",
-              "The number of admirers present",
-              "The most impressive vocabulary available"
-            ],
-            "correct": 1,
-            "explanation": "Examining the demand helps separate the actual practice from a wish for social confirmation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "Someone repeatedly changes methods whenever immediate excitement fades. What question is useful?",
-            "options": [
-              "Which method has the most dramatic advertisement?",
-              "Which change will attract more attention?",
-              "Have I given careful practice a fair opportunity?",
-              "Can I judge everything from one minute?"
-            ],
-            "correct": 2,
-            "explanation": "The question encourages a considered review before novelty alone determines the next decision.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
-          },
-          {
-            "q": "A facilitator wants to encourage a hesitant beginner. Which message is most responsible?",
-            "options": [
-              "You must match experienced members immediately",
-              "A special purchase guarantees rapid progress",
-              "Every distraction proves you lack capacity",
-              "Try a manageable routine and observe patiently"
-            ],
-            "correct": 3,
-            "explanation": "A manageable invitation supports participation without promising outcomes or turning difficulty into a personal verdict.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 5–8"
+            "explanation": "Medicine at a bedside cannot help unless taken; similarly, teachings need assimilation through conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=12",
+            "sourceLabel": "Chapter II, PDF pages 12–14"
           }
         ]
       },
       {
-        "id": "dhyana-application",
-        "title": "Putting knowledge to work",
-        "chapter": "Pages 36–37",
-        "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-        "summary": "Study should lead to practice. Observe habitual tendencies, and train the wandering mind with sustained attention and detachment.",
+        "id": "chapter-03",
+        "title": "The Goal of Meditation",
+        "chapter": "Chapter III",
+        "chapterNumber": 3,
+        "pdfStartPage": 15,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+        "sourceLabel": "Chapter III, PDF pages 15–17",
+        "summary": "Pleasure and displeasure depend partly on the condition of the mind: the same object may attract at one time and repel at another. The chapter therefore calls for training the mind to meet life's changing circumstances with steadiness. Its river image portrays unavoidable rises, falls, and disturbances as part of the journey. Concentration selects an important object from competing promptings, while one-pointedness deliberately holds attention there. Both support successful effort, but worldly cravings scatter their power. Meditation helps overcome these distractions and direct the mind toward what is good.\n\nSpiritual yearning must become sustained endeavour. The sequence presented is yearning, choosing the goal, concentrating, and mastering the mind through discipline. At the culmination of meditation, the separation between meditator and meditation disappears in the realisation of the one reality. The resulting fulfilment is inward, free from possessiveness and dependence on passing ambitions. Discrimination continues to seek the eternal behind changing appearances. Repetition of the divine name restrains wandering thought, while self-examination opens the way to inward vision. Humility and devotion are essential to this inner quest, in which thought, speech, and action become guided by understanding.",
         "qa": [
           {
-            "q": "Why observe mental habits?",
-            "a": "Recognising tendencies helps direct and discipline the mind."
+            "q": "What explains why the same object can seem pleasant and later unpleasant?",
+            "a": "The changing condition of the mind. The chapter uses this contrast to show the importance of training mental attitudes."
+          },
+          {
+            "q": "What is one-pointedness?",
+            "a": "Deliberately directing and holding attention on a subject. Ekagratha fixes attention rather than letting it scatter."
+          },
+          {
+            "q": "How does the chapter relate yearning and endeavour?",
+            "a": "Endeavour is yearning put into action. Strong yearning inspires active effort, while weak yearning weakens endeavour."
+          },
+          {
+            "q": "What happens at the highest culmination described?",
+            "a": "Meditator and meditation merge in the one reality. The chapter describes the dissolution of separation in Atmic realisation."
+          },
+          {
+            "q": "Through which gate does the aspirant enter the inner quest?",
+            "a": "Self-examination. Self-examination, joined with humility and devotion, opens inward vision."
           }
         ],
         "quiz": [
           {
-            "q": "What helps a wandering mind?",
+            "q": "What explains why the same object can seem pleasant and later unpleasant?",
             "options": [
-              "Steady practice",
-              "Accumulating books",
-              "Boasting",
-              "Following every desire"
-            ],
-            "correct": 0,
-            "explanation": "The answer identifies an ongoing practice rather than the possession of resources.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
-          },
-          {
-            "q": "A reader studies concentration for months but never tries it. What is missing?",
-            "options": [
-              "A larger reading list",
-              "A concrete opportunity to practise",
-              "A more elaborate bibliography",
-              "A certificate naming the subject"
-            ],
-            "correct": 1,
-            "explanation": "The missing activity is an attempted practice rather than another description of it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
-          },
-          {
-            "q": "A learner reaches for their phone whenever a task becomes dull. What should they first notice?",
-            "options": [
-              "Only the phone's purchase date",
-              "Only how others use phones",
-              "The cue that precedes reaching",
-              "The attractiveness of the screen cover"
+              "A permanent change in the Atma",
+              "The disappearance of all memory",
+              "The changing condition of the mind",
+              "The number of people present"
             ],
             "correct": 2,
-            "explanation": "Identifying the cue makes the recurring sequence easier to examine and interrupt deliberately.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "The chapter uses this contrast to show the importance of training mental attitudes.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–17"
           },
           {
-            "q": "A participant understands a technique verbally but struggles using it. What helps most?",
+            "q": "What is one-pointedness?",
             "options": [
-              "More impressive terminology alone",
-              "Pretending the difficulty is resolved",
-              "Comparing themselves with experts publicly",
-              "A small guided attempt with reflection"
+              "Attending to every prompting at once",
+              "Avoiding all purposeful effort",
+              "Following each new desire",
+              "Deliberately directing and holding attention on a subject"
             ],
             "correct": 3,
-            "explanation": "A guided attempt gives the learner experience that a verbal account cannot supply.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Ekagratha fixes attention rather than letting it scatter.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–17"
           },
           {
-            "q": "A student wants to improve attention while reading. Which experiment is specific?",
+            "q": "How does the chapter relate yearning and endeavour?",
             "options": [
-              "Promise never to become distracted again",
-              "Read one paragraph before checking messages",
-              "Buy several unrelated reference books",
-              "Judge attention by others' reading speed"
-            ],
-            "correct": 1,
-            "explanation": "A limited experiment gives the student an observable task at the point where distraction occurs.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
-          },
-          {
-            "q": "A learner notices boredom leading to several unfinished tasks. What is useful?",
-            "options": [
-              "Start additional tasks for variety",
-              "Hide unfinished work from review",
-              "Observe the transition and finish one small segment",
-              "Assume boredom makes completion impossible"
-            ],
-            "correct": 2,
-            "explanation": "Observing the transition and completing a segment directly addresses the pattern being described.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
-          },
-          {
-            "q": "A study circle debates practice endlessly. Which addition would test understanding?",
-            "options": [
-              "Expand the debate to every possible method",
-              "Rank members by argument length",
-              "Collect more opinions without attempting anything",
-              "Try one agreed exercise before discussing further"
-            ],
-            "correct": 3,
-            "explanation": "An agreed attempt gives the next discussion concrete experience instead of additional speculation alone.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
-          },
-          {
-            "q": "A person blames all distraction on surroundings. What other factor should they examine?",
-            "options": [
-              "Their own repeated attention habits",
-              "Only the room's decorative style",
-              "Only neighbours' preferences",
-              "Whether their chair looks professional"
+              "Endeavour is yearning put into action",
+              "Yearning makes effort unnecessary",
+              "Endeavour destroys every worthy aim",
+              "They have no connection"
             ],
             "correct": 0,
-            "explanation": "Examining personal habits adds information about the part of the pattern the person can influence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Strong yearning inspires active effort, while weak yearning weakens endeavour.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–17"
           },
           {
-            "q": "A learner records each distraction without judging it. What can this record reveal?",
+            "q": "What happens at the highest culmination described?",
             "options": [
-              "A complete measure of spiritual worth",
-              "Recurring cues and responses",
-              "Other people's hidden intentions",
-              "A guarantee of instant mastery"
+              "The ego gains more possessions",
+              "Meditator and meditation merge in the one reality",
+              "Sensory cravings become the goal",
+              "The mind pursues more competing objects"
             ],
             "correct": 1,
-            "explanation": "A record of actual events can identify patterns without supporting claims it was never designed to establish.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "The chapter describes the dissolution of separation in Atmic realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–17"
           },
           {
-            "q": "A student keeps acquiring study resources after already choosing a practice. What question helps?",
+            "q": "Through which gate does the aspirant enter the inner quest?",
             "options": [
-              "Are there even more resources available?",
-              "Can the collection look more impressive?",
-              "Am I postponing the agreed attempt?",
-              "Will friends admire the new purchases?"
+              "Public recognition",
+              "Argument for its own sake",
+              "Self-examination",
+              "Accumulating comforts"
             ],
             "correct": 2,
-            "explanation": "The question tests whether collecting has become a way to delay the action already selected.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Self-examination, joined with humility and devotion, opens inward vision.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=15",
+            "sourceLabel": "Chapter III, PDF pages 15–17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Promote the Welfare of All Beings",
+        "chapter": "Chapter IV",
+        "chapterNumber": 4,
+        "pdfStartPage": 18,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+        "sourceLabel": "Chapter IV, PDF pages 18–20",
+        "summary": "Realising Atmic bliss and promoting the welfare of all beings are presented as equally important aims. Meditation therefore requires ethical discipline in body, speech, and mind. The ten harmful tendencies comprise three bodily wrongs, four verbal wrongs, and three mental wrongs. Their restraint makes room for helpful action, truthful speech, compassion, and goodwill. The chapter connects freedom from illusion with discrimination, fearless inquiry, and participation in the welfare of others. Simply declaring the world unreal does not produce spiritual progress; the character of the aspirant must become worthy of the goal.\n\nGood qualities must be cultivated before attempting to transcend qualities altogether. The comparison with a fertile field shows why character needs careful preparation and sustained attention. A mature mind rejoices in others' prosperity, avoids injury, forgives, speaks truth, and seeks universal welfare. Its quiet strength is contrasted with outward noise and passion. The text uses the persistence of tiny living forms amid violent upheaval to illustrate the power of calm life-consciousness. Meditation gives the first taste of inner bliss and sustains effort toward realisation. Within the eightfold discipline, it is the seventh stage, immediately preceding total absorption, or samadhi.",
+        "qa": [
+          {
+            "q": "Which two aims are equally important for the meditator?",
+            "a": "Atmic bliss and the welfare of the world. The opening places universal welfare alongside inner spiritual realisation."
           },
           {
-            "q": "A learner improves during a short exercise. What is a useful next experiment?",
-            "options": [
-              "Assume the skill works everywhere automatically",
-              "Abandon all further observation",
-              "Demand others recognise the achievement",
-              "Try the skill in an ordinary task"
-            ],
-            "correct": 3,
-            "explanation": "An ordinary task tests transfer beyond the setting in which the first improvement appeared.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "q": "How are the ten harmful tendencies grouped?",
+            "a": "Three physical, four verbal, and three mental. The chapter explicitly organises them by body, speech, and mind."
           },
           {
-            "q": "Someone has difficulty returning attention after every notification. Which adjustment is relevant?",
-            "options": [
-              "Reduce optional notifications during the exercise",
-              "Increase the number of open apps",
-              "Keep testing every alert sound",
-              "Switch devices whenever an alert arrives"
-            ],
-            "correct": 0,
-            "explanation": "Reducing avoidable interruptions makes it easier to observe and practise the intended attention skill.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "q": "What must precede the attempt to become free of qualities?",
+            "a": "Cultivation of good character. Good qualities prepare the mind for the later state beyond qualities."
           },
           {
-            "q": "A participant can explain distraction but cannot name their own triggers. What should they add?",
+            "q": "What does the fertile-field comparison emphasise?",
+            "a": "Spiritual growth needs a worthy, cultivated character. Character is the soil in which good qualities must be planted and tended."
+          },
+          {
+            "q": "Which stage immediately follows meditation in the eightfold discipline?",
+            "a": "Samadhi. Meditation is identified as the seventh stage and total absorption as the eighth."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two aims are equally important for the meditator?",
             "options": [
-              "A longer definition of distraction",
-              "Observation of a recent real episode",
-              "A list of other members' triggers",
-              "A claim that their habits are unique"
+              "Fame and wealth",
+              "Atmic bliss and the welfare of the world",
+              "Debate and victory",
+              "Comfort and prestige"
             ],
             "correct": 1,
-            "explanation": "A recent episode supplies personal details that general explanations cannot substitute for.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "The opening places universal welfare alongside inner spiritual realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+            "sourceLabel": "Chapter IV, PDF pages 18–20"
           },
           {
-            "q": "A reader attempts a lesson once and declares complete mastery. What would strengthen that claim?",
+            "q": "How are the ten harmful tendencies grouped?",
             "options": [
-              "A more confident announcement",
-              "A larger group hearing the claim",
-              "Consistent application across relevant situations",
-              "A photograph of the first attempt"
+              "Four physical, four verbal, and two mental",
+              "Five physical and five verbal",
+              "Three physical, four verbal, and three mental",
+              "Two physical, three verbal, and five mental"
             ],
             "correct": 2,
-            "explanation": "Repeated relevant experience provides stronger evidence than confidence attached to a single occasion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "The chapter explicitly organises them by body, speech, and mind.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+            "sourceLabel": "Chapter IV, PDF pages 18–20"
           },
           {
-            "q": "A learner notices comparison with others interrupting practice. What is the task now?",
+            "q": "What must precede the attempt to become free of qualities?",
             "options": [
-              "Calculate everyone else's likely progress",
-              "Ask the group to assign rankings",
-              "Continue comparing until reassured",
-              "Recognise the comparison and redirect attention"
+              "Rejection of all helpful action",
+              "Neglect of discrimination",
+              "Indifference to others' welfare",
+              "Cultivation of good character"
             ],
             "correct": 3,
-            "explanation": "The comparison itself becomes an observable distraction that can be addressed in the present moment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Good qualities prepare the mind for the later state beyond qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+            "sourceLabel": "Chapter IV, PDF pages 18–20"
           },
           {
-            "q": "A participant finds an exercise harder than its description suggested. What response supports learning?",
+            "q": "What does the fertile-field comparison emphasise?",
             "options": [
-              "Use the difficulty to refine the next attempt",
-              "Treat the description as proof of success",
-              "Stop recording what actually happens",
-              "Conclude that all practice is pointless"
+              "Spiritual growth needs a worthy, cultivated character",
+              "Progress depends on owning farmland",
+              "Inquiry prevents spiritual growth",
+              "Good qualities develop without attention"
             ],
             "correct": 0,
-            "explanation": "Actual difficulty offers information for adjustment that reading the description alone could not provide.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Character is the soil in which good qualities must be planted and tended.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+            "sourceLabel": "Chapter IV, PDF pages 18–20"
           },
           {
-            "q": "Someone plans an unrealistic two-hour routine and repeatedly avoids it. What could help?",
+            "q": "Which stage immediately follows meditation in the eightfold discipline?",
             "options": [
-              "Make the plan more demanding",
-              "Choose a modest routine they can attempt",
-              "Add more promises before trying",
-              "Wait until motivation never fluctuates"
+              "Asana",
+              "Samadhi",
+              "Pranayama",
+              "Yama"
             ],
             "correct": 1,
-            "explanation": "A smaller routine addresses the practical barrier between an ambitious intention and an actual attempt.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "Meditation is identified as the seventh stage and total absorption as the eighth.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=18",
+            "sourceLabel": "Chapter IV, PDF pages 18–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Cultivate the Blissful Atmic Experience",
+        "chapter": "Chapter V",
+        "chapterNumber": 5,
+        "pdfStartPage": 21,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+        "sourceLabel": "Chapter V, PDF pages 21–23",
+        "summary": "Cultivating Atmic experience is described as the central purpose of spiritual education and a right available to all. Its preliminary qualifications include discrimination, renunciation, and the qualities of good character. Contemplation should accompany a dharmic life: ordinary duties can become a setting for realising the Lord, without escape motivated by discouragement. Truthfulness and freedom from vanity are essential. Ego is compared to a commander and harmful traits to an army; anger supplies the territory in which that army flourishes. Inner peace requires addressing these roots of disorder.\n\nThe chapter presents eight gates leading toward realisation, with meditation seventh and samadhi eighth. It distinguishes a wish, arising from mental tendencies and craving, from will, associated with determination and the Atma. Both need moral and spiritual cultivation. Progress should be gradual, strengthening the inner foundation rather than seeking premature external achievements. Patience, faith, enthusiasm, and freedom from attachment to results protect the aspirant from discouragement. Meditation reveals enduring knowledge beyond the changing world. Finally, remembrance and contemplation are compared to cleansing and nourishing the mind: when desire's waves settle, its underlying Atmic reality can be recognised.",
+        "qa": [
+          {
+            "q": "Which preliminary qualifications does the chapter identify?",
+            "a": "Discrimination, renunciation, and good character. These qualifications prepare the student for Atmic knowledge."
           },
           {
-            "q": "A learner wants to understand their habit of rushing. Which example is most informative?",
-            "options": [
-              "A theory about everyone's personality",
-              "A collection of unrelated quotations",
-              "A detailed account of yesterday's rushed task",
-              "A list of famous patient people"
-            ],
-            "correct": 2,
-            "explanation": "A specific recent task contains the circumstances and choices needed for useful self-observation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "q": "Where can a householder realise the Lord?",
+            "a": "In faithfully performing a dharmic life and duties. The chapter joins contemplation with responsible daily living."
           },
           {
-            "q": "A study group wants to connect knowledge with experience. Which assignment fits?",
-            "options": [
-              "Copy the longest passage perfectly",
-              "Compare the weight of reference books",
-              "Memorise everyone's attendance record",
-              "Try a lesson and describe the result honestly"
-            ],
-            "correct": 3,
-            "explanation": "An honest report of an attempt connects what was discussed with something participants actually did.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "q": "What is compared to the commander of harmful qualities?",
+            "a": "Egotism. The army image connects ego and anger with the organisation of evil tendencies."
           },
           {
-            "q": "A learner becomes proud of owning many spiritual books. What shift supports practical growth?",
+            "q": "How does the text distinguish wish from will?",
+            "a": "Wish craves something; will determines to acquire it. It relates wish to mental tendencies and will to the fundamental nature of the Atma."
+          },
+          {
+            "q": "What obscures the Atma in the image of water?",
+            "a": "Waves of desire agitating the mind. Just as waves hide the bottom, desires prevent clear inward vision."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which preliminary qualifications does the chapter identify?",
             "options": [
-              "Use one understood lesson consistently",
-              "Arrange the collection more prominently",
-              "Mention its size more frequently",
-              "Choose books only for impressive titles"
+              "Discrimination, renunciation, and good character",
+              "Status, scholarship, and vanity",
+              "Wealth, power, and fame",
+              "Speed, rivalry, and display"
             ],
             "correct": 0,
-            "explanation": "Consistent use moves attention from possession of resources to the learning those resources can support.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dhyanavahini.html",
-            "sourceLabel": "Dhyana Vahini — Pages 36–37"
+            "explanation": "These qualifications prepare the student for Atmic knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+            "sourceLabel": "Chapter V, PDF pages 21–23"
+          },
+          {
+            "q": "Where can a householder realise the Lord?",
+            "options": [
+              "Only after abandoning every duty",
+              "In faithfully performing a dharmic life and duties",
+              "Only through public authority",
+              "Only by collecting scriptural books"
+            ],
+            "correct": 1,
+            "explanation": "The chapter joins contemplation with responsible daily living.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+            "sourceLabel": "Chapter V, PDF pages 21–23"
+          },
+          {
+            "q": "What is compared to the commander of harmful qualities?",
+            "options": [
+              "Contentment",
+              "Truthfulness",
+              "Egotism",
+              "Patience"
+            ],
+            "correct": 2,
+            "explanation": "The army image connects ego and anger with the organisation of evil tendencies.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+            "sourceLabel": "Chapter V, PDF pages 21–23"
+          },
+          {
+            "q": "How does the text distinguish wish from will?",
+            "options": [
+              "Wish is always wisdom; will is always ignorance",
+              "Wish and will are declared identical",
+              "Will means abandoning all determination",
+              "Wish craves something; will determines to acquire it"
+            ],
+            "correct": 3,
+            "explanation": "It relates wish to mental tendencies and will to the fundamental nature of the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+            "sourceLabel": "Chapter V, PDF pages 21–23"
+          },
+          {
+            "q": "What obscures the Atma in the image of water?",
+            "options": [
+              "Waves of desire agitating the mind",
+              "The stillness of the water",
+              "The absence of sensory rewards",
+              "The practice of remembrance"
+            ],
+            "correct": 0,
+            "explanation": "Just as waves hide the bottom, desires prevent clear inward vision.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=21",
+            "sourceLabel": "Chapter V, PDF pages 21–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Meditation Reveals the Eternal and the Non-Eternal",
+        "chapter": "Chapter VI",
+        "chapterNumber": 6,
+        "pdfStartPage": 24,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+        "sourceLabel": "Chapter VI, PDF pages 24–26",
+        "summary": "Meditation reveals the difference between the passing world and the enduring divine reality. The chapter warns against disregarding those who help point out the spiritual path and urges discrimination between what nourishes and what harms. Nature is compared to a vast ocean whose turbulence cannot be mastered through unaided personal effort. Divine grace is the raft for crossing it, and remembrance of the name and meditation cultivate receptivity to that grace. The Lord is described as the active principle within creation.\n\nAttachments to people, possessions, and comforts are examined in the light of their impermanence. The traveller resting briefly at an inn illustrates a life directed toward a larger destination rather than ownership of every temporary resting place. This reflection is accompanied by an appeal to reduce others' sorrow and bring encouragement rather than increase their burdens. The closing theatre analogy preserves the importance of duty: people are actors who must learn their roles while remaining attentive to the unseen divine prompter. Meditation develops both concentration on one's responsibilities and sensitivity to that inner guidance. Detachment thus accompanies faithful participation in life's work.",
+        "qa": [
+          {
+            "q": "What does meditation reveal about the visible world?",
+            "a": "It is transitory. The chapter contrasts changing appearances with the eternal Lord."
+          },
+          {
+            "q": "What is the raft for crossing the ocean of worldly life?",
+            "a": "The Lord's grace. Grace is described as essential, with remembrance and meditation supporting the crossing."
+          },
+          {
+            "q": "Which image illustrates the temporary nature of worldly residence?",
+            "a": "A traveller staying overnight at an inn. The traveller moves onward instead of claiming the resting place as a permanent possession."
+          },
+          {
+            "q": "What response to others' sorrow does the chapter encourage?",
+            "a": "Bring encouragement and lessen their suffering. The teaching asks people to spread smiles rather than make a sad world sadder."
+          },
+          {
+            "q": "In the theatre analogy, what must an actor attend to?",
+            "a": "The assigned role and the unseen prompter's directions. Duty and remembrance of the Lord are both necessary in the world-stage comparison."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does meditation reveal about the visible world?",
+            "options": [
+              "It is entirely unchanging",
+              "It belongs permanently to the individual",
+              "It needs no discrimination",
+              "It is transitory"
+            ],
+            "correct": 3,
+            "explanation": "The chapter contrasts changing appearances with the eternal Lord.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+            "sourceLabel": "Chapter VI, PDF pages 24–26"
+          },
+          {
+            "q": "What is the raft for crossing the ocean of worldly life?",
+            "options": [
+              "The Lord's grace",
+              "Personal pride",
+              "Unlimited possessions",
+              "Praise from others"
+            ],
+            "correct": 0,
+            "explanation": "Grace is described as essential, with remembrance and meditation supporting the crossing.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+            "sourceLabel": "Chapter VI, PDF pages 24–26"
+          },
+          {
+            "q": "Which image illustrates the temporary nature of worldly residence?",
+            "options": [
+              "A king owning an eternal palace",
+              "A traveller staying overnight at an inn",
+              "A seed that never changes",
+              "A mountain beyond all time"
+            ],
+            "correct": 1,
+            "explanation": "The traveller moves onward instead of claiming the resting place as a permanent possession.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+            "sourceLabel": "Chapter VI, PDF pages 24–26"
+          },
+          {
+            "q": "What response to others' sorrow does the chapter encourage?",
+            "options": [
+              "Add one's complaints to their burden",
+              "Make their difficulties a subject of ridicule",
+              "Bring encouragement and lessen their suffering",
+              "Ignore every opportunity to help"
+            ],
+            "correct": 2,
+            "explanation": "The teaching asks people to spread smiles rather than make a sad world sadder.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+            "sourceLabel": "Chapter VI, PDF pages 24–26"
+          },
+          {
+            "q": "In the theatre analogy, what must an actor attend to?",
+            "options": [
+              "Only the applause of the audience",
+              "Only the costumes of other actors",
+              "The wish to abandon the performance",
+              "The assigned role and the unseen prompter's directions"
+            ],
+            "correct": 3,
+            "explanation": "Duty and remembrance of the Lord are both necessary in the world-stage comparison.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=24",
+            "sourceLabel": "Chapter VI, PDF pages 24–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Remember God and Meditate",
+        "chapter": "Chapter VII",
+        "chapterNumber": 7,
+        "pdfStartPage": 27,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+        "sourceLabel": "Chapter VII, PDF pages 27–29",
+        "summary": "This chapter presents remembrance, repetition of the divine name, and meditation as widely accessible paths to the Lord. Different religions use different languages and practices, yet share the remembrance of the divine. The name is portrayed as especially sweet: recalling a rose evokes its beauty, while handling the plant may draw attention to thorns; recalling a mango evokes sweetness without the distractions of its parts. The name is also compared to wealth through which the divine form can be attained. These examples explain its value as a support for devotion.\n\nThe text contrasts the pursuit of extraordinary powers with the growth of extraordinary love. Powers can encourage pride and forgetfulness of the goal; remembrance and meditation nurture love and peace. An inexperienced aspirant should protect developing faith from indiscriminate argument about competing paths, while learning from those who have actually experienced the sweetness of the name. Young fish sheltered before entering the open sea illustrate this need for early care. Regularity and perseverance are stressed throughout. The chapter concludes by presenting remembrance of the name as particularly suited to the Kali age, counteracting its moral disorders and protecting human nature.",
+        "qa": [
+          {
+            "q": "What common practice does the chapter identify across religions?",
+            "a": "Remembering and glorifying the divine name. Religious differences do not prevent a shared devotion to the one Lord through His name."
+          },
+          {
+            "q": "What does remembering the word mango illustrate?",
+            "a": "The name brings sweetness to mind without attention to the fruit's parts. The example highlights the concentrated sweetness associated with remembrance."
+          },
+          {
+            "q": "What danger is associated with extraordinary powers?",
+            "a": "Pride may make the practitioner forget the Lord. The chapter warns that fascination with powers can obscure the spiritual goal."
+          },
+          {
+            "q": "What lesson is conveyed by young fish sheltered in shallow water?",
+            "a": "Early practice needs protection and care. Developing faith should be strengthened before exposure to unsettling disputes."
+          },
+          {
+            "q": "Which discipline is especially commended for the Kali age?",
+            "a": "Remembrance of the divine name. The closing discussion presents the name as the accessible remedy for the age's moral disorders."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What common practice does the chapter identify across religions?",
+            "options": [
+              "Using exactly the same language",
+              "Following one identical rosary design",
+              "Remembering and glorifying the divine name",
+              "Rejecting all devotional expression"
+            ],
+            "correct": 2,
+            "explanation": "Religious differences do not prevent a shared devotion to the one Lord through His name.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VII, PDF pages 27–29"
+          },
+          {
+            "q": "What does remembering the word mango illustrate?",
+            "options": [
+              "The fruit can never be recognised",
+              "The name creates a desire for argument",
+              "Only the rind deserves attention",
+              "The name brings sweetness to mind without attention to the fruit's parts"
+            ],
+            "correct": 3,
+            "explanation": "The example highlights the concentrated sweetness associated with remembrance.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VII, PDF pages 27–29"
+          },
+          {
+            "q": "What danger is associated with extraordinary powers?",
+            "options": [
+              "Pride may make the practitioner forget the Lord",
+              "They necessarily produce humility",
+              "They remove every need for discrimination",
+              "They always deepen love automatically"
+            ],
+            "correct": 0,
+            "explanation": "The chapter warns that fascination with powers can obscure the spiritual goal.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VII, PDF pages 27–29"
+          },
+          {
+            "q": "What lesson is conveyed by young fish sheltered in shallow water?",
+            "options": [
+              "Aspirants must never mature",
+              "Early practice needs protection and care",
+              "Discussion is more important than practice",
+              "Every spiritual path requires physical seclusion forever"
+            ],
+            "correct": 1,
+            "explanation": "Developing faith should be strengthened before exposure to unsettling disputes.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VII, PDF pages 27–29"
+          },
+          {
+            "q": "Which discipline is especially commended for the Kali age?",
+            "options": [
+              "Accumulation of wealth",
+              "Competitive scholarship",
+              "Remembrance of the divine name",
+              "Pursuit of public acclaim"
+            ],
+            "correct": 2,
+            "explanation": "The closing discussion presents the name as the accessible remedy for the age's moral disorders.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VII, PDF pages 27–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "One-pointed Attention is Essential for Meditation",
+        "chapter": "Chapter VIII",
+        "chapterNumber": 8,
+        "pdfStartPage": 30,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+        "sourceLabel": "Chapter VIII, PDF pages 30–32",
+        "summary": "One-pointedness supports both worldly work and spiritual growth; the spiritual life purifies the capacities already used in ordinary activity. The chapter distinguishes sleepy absence of attention from restless attention to many objects. Meditation avoids both by directing awareness toward the chosen divine name and form. Initial distractions are not a reason for despair. Steady determination and confidence in the name matter more than anxiety about formalities. Once a name and form have brought heartfelt contentment, the aspirant is urged to remain faithful to them.\n\nSeveral images explain patient training. A horse needs steady reins; a sapling must mature before yielding fruit; a net must remain whole to retain what it receives. Similarly, remembrance needs continuity rather than repeated changes or impatient demands for proof. The wandering mind should not be followed into every distraction, but allowed to return as practice continues. Confidence in the Lord's presence everywhere dispels preoccupation with ritual impurity. Uninterrupted love directed toward the divine name and form is described as true meditation. The chapter ends by contrasting temporary worldly relationships with the Lord's enduring relationship to the soul across births.",
+        "qa": [
+          {
+            "q": "Which two extremes should one-pointed meditation avoid?",
+            "a": "Sleepy inattention and restless attention to many objects. The text associates no-pointedness with thamas and many-pointedness with rajas."
+          },
+          {
+            "q": "What should be done with the name and form that first brought contentment?",
+            "a": "Hold to them steadily. Stability in the chosen name and form trains the mind."
+          },
+          {
+            "q": "What do the reins represent in the horse-training comparison?",
+            "a": "The divine name. Holding to the name helps tame the initially unruly mind."
+          },
+          {
+            "q": "What does demanding fruit immediately after planting a sapling illustrate?",
+            "a": "Impatience for the results of practice. Spiritual cultivation needs time, just as a plant must mature before bearing fruit."
+          },
+          {
+            "q": "What relationship is described as enduring across births?",
+            "a": "The soul's relationship with the Lord. The chapter contrasts changing earthly ties with the Lord as the unchanging relative."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two extremes should one-pointed meditation avoid?",
+            "options": [
+              "Patience and perseverance",
+              "Sleepy inattention and restless attention to many objects",
+              "Love and remembrance",
+              "Faith and contentment"
+            ],
+            "correct": 1,
+            "explanation": "The text associates no-pointedness with thamas and many-pointedness with rajas.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VIII, PDF pages 30–32"
+          },
+          {
+            "q": "What should be done with the name and form that first brought contentment?",
+            "options": [
+              "Replace them every day",
+              "Abandon them whenever a thought intrudes",
+              "Hold to them steadily",
+              "Compare them continually for public approval"
+            ],
+            "correct": 2,
+            "explanation": "Stability in the chosen name and form trains the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VIII, PDF pages 30–32"
+          },
+          {
+            "q": "What do the reins represent in the horse-training comparison?",
+            "options": [
+              "Material ambition",
+              "Anger at distraction",
+              "Intellectual rivalry",
+              "The divine name"
+            ],
+            "correct": 3,
+            "explanation": "Holding to the name helps tame the initially unruly mind.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VIII, PDF pages 30–32"
+          },
+          {
+            "q": "What does demanding fruit immediately after planting a sapling illustrate?",
+            "options": [
+              "Impatience for the results of practice",
+              "A necessary test of every meditation",
+              "The value of abandoning discipline",
+              "The final stage of liberation"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual cultivation needs time, just as a plant must mature before bearing fruit.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VIII, PDF pages 30–32"
+          },
+          {
+            "q": "What relationship is described as enduring across births?",
+            "options": [
+              "Every temporary social role",
+              "The soul's relationship with the Lord",
+              "Ownership of a particular house",
+              "The bond to worldly possessions"
+            ],
+            "correct": 1,
+            "explanation": "The chapter contrasts changing earthly ties with the Lord as the unchanging relative.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VIII, PDF pages 30–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Spiritual Development",
+        "chapter": "Chapter IX",
+        "chapterNumber": 9,
+        "pdfStartPage": 33,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+        "sourceLabel": "Chapter IX, PDF pages 33–35",
+        "summary": "Spiritual development is described through stages of uncertainty, active striving, and purity. Progress requires outgrowing tendencies such as pride, greed, fear, and vindictiveness. Swimming against a river's current illustrates the effort needed to move toward the source instead of drifting away from it. Meditation serves as a raft in this journey, helping steady the mind and sustain progress. The chapter values the inward beauty of character above outward charm or the shifting approval of others.\n\nSpeech and companionship influence this development. Dwelling on others' wrongdoing contaminates attention; reflecting on exemplary lives and offering constructive guidance strengthen good qualities. The stories named include Druva, Prahlada, Savithri, and Anasuya. Divine manifestation in an image is attributed to the devotee's intense love rather than a special physical property of wood, stone, or paper. Good company is characterised by conversation about God, truth, service, and equal love. Companionship that encourages falsehood and injustice should be avoided. The aspirant is urged to seek lasting contentment and wholesome association, accepting solitude rather than allowing harmful company to draw the mind away from its purpose.",
+        "qa": [
+          {
+            "q": "What are the three stages of spiritual development described?",
+            "a": "Uncertainty, active striving, and purity. They correspond to thamas, rajas, and sathwa in the chapter's account."
+          },
+          {
+            "q": "What does swimming against the current represent?",
+            "a": "Striving toward the divine source. Effort against harmful tendencies brings the aspirant nearer the source."
+          },
+          {
+            "q": "Where does the chapter locate true beauty?",
+            "a": "In character. Inner qualities are valued above external attraction and unstable worldly approval."
+          },
+          {
+            "q": "Why does the Lord manifest in a worshipped image, according to the chapter?",
+            "a": "Because of the intensity of the devotee's devotion. The explanation rests on devotion rather than the image's physical excellence."
+          },
+          {
+            "q": "What marks good spiritual company?",
+            "a": "Talk of God, truth, service, and equal love. Such association helps develop the qualities needed for concentration and meditation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What are the three stages of spiritual development described?",
+            "options": [
+              "Uncertainty, active striving, and purity",
+              "Wealth, fame, and power",
+              "Study, argument, and victory",
+              "Childhood, ownership, and retirement"
+            ],
+            "correct": 0,
+            "explanation": "They correspond to thamas, rajas, and sathwa in the chapter's account.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+            "sourceLabel": "Chapter IX, PDF pages 33–35"
+          },
+          {
+            "q": "What does swimming against the current represent?",
+            "options": [
+              "Drifting farther from the goal",
+              "Striving toward the divine source",
+              "Seeking ease at every step",
+              "Following every worldly tendency"
+            ],
+            "correct": 1,
+            "explanation": "Effort against harmful tendencies brings the aspirant nearer the source.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+            "sourceLabel": "Chapter IX, PDF pages 33–35"
+          },
+          {
+            "q": "Where does the chapter locate true beauty?",
+            "options": [
+              "In clothing alone",
+              "In public recognition",
+              "In character",
+              "In physical charm alone"
+            ],
+            "correct": 2,
+            "explanation": "Inner qualities are valued above external attraction and unstable worldly approval.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+            "sourceLabel": "Chapter IX, PDF pages 33–35"
+          },
+          {
+            "q": "Why does the Lord manifest in a worshipped image, according to the chapter?",
+            "options": [
+              "Because paper is inherently superior to stone",
+              "Because every image has equal material value",
+              "Because an expensive frame compels manifestation",
+              "Because of the intensity of the devotee's devotion"
+            ],
+            "correct": 3,
+            "explanation": "The explanation rests on devotion rather than the image's physical excellence.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+            "sourceLabel": "Chapter IX, PDF pages 33–35"
+          },
+          {
+            "q": "What marks good spiritual company?",
+            "options": [
+              "Talk of God, truth, service, and equal love",
+              "Encouragement of injustice",
+              "Rivalry for worldly authority",
+              "Persistent criticism of other faiths"
+            ],
+            "correct": 0,
+            "explanation": "Such association helps develop the qualities needed for concentration and meditation.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=33",
+            "sourceLabel": "Chapter IX, PDF pages 33–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Innocence, Purity, and Humility",
+        "chapter": "Chapter X",
+        "chapterNumber": 10,
+        "pdfStartPage": 36,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+        "sourceLabel": "Chapter X, PDF pages 36–38",
+        "summary": "Realised souls are compared to lighthouses guiding those caught in ignorance, while meditation is likened to an instrument for discerning spiritual wisdom. The chapter encourages wholehearted trust in the Lord as guide, together with loving contemplation of a chosen name and form. Innocence, purity, humility, courage, and respect for everyone create conditions in which meditation can deepen. Gentle, affectionate speech fosters joy and steadiness; contemptuous speech produces agitation in both speaker and listener. Character is presented as a lasting source of strength.\n\nContentment is the central theme of the later discussion. Desire unsettles the mind, whereas contentment permits concentration and inward joy. Dedication to the Lord redirects longing toward realisation instead of multiplying worldly wants. The body is distinguished from the enduring Atma but should still be cared for as an instrument, like a boat needed to cross a river. The text advocates moderation and disciplined activity in that context. Contentment does not mean laziness: it frees energy from unnecessary selfish pursuits and sustains enthusiastic work. Through it, discrimination, renunciation, inquiry, and perseverance can develop alongside meditation.",
+        "qa": [
+          {
+            "q": "What image describes realised souls?",
+            "a": "Lighthouses guiding ships in darkness. Their wisdom guides people struggling in ignorance."
+          },
+          {
+            "q": "Which qualities are especially associated with meditation here?",
+            "a": "Innocence, purity, and humility. These qualities accompany love, faith, and respect for others."
+          },
+          {
+            "q": "How does gentle speech help meditation?",
+            "a": "It supports a joyful, unagitated atmosphere. Sweetness of expression lightens the mind and assists concentration."
+          },
+          {
+            "q": "Why is the body compared to a boat?",
+            "a": "It must be cared for as an instrument until the crossing is complete. The comparison joins detachment from bodily identity with responsible care."
+          },
+          {
+            "q": "Does contentment make an aspirant idle, according to the chapter?",
+            "a": "No; it supports purposeful effort without selfish restlessness. Contentment provides enthusiasm while reducing needless pursuits."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What image describes realised souls?",
+            "options": [
+              "Merchants competing for profit",
+              "Actors seeking applause",
+              "Clouds hiding the sun",
+              "Lighthouses guiding ships in darkness"
+            ],
+            "correct": 3,
+            "explanation": "Their wisdom guides people struggling in ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+            "sourceLabel": "Chapter X, PDF pages 36–38"
+          },
+          {
+            "q": "Which qualities are especially associated with meditation here?",
+            "options": [
+              "Innocence, purity, and humility",
+              "Pride, rivalry, and display",
+              "Fear, resentment, and greed",
+              "Authority, wealth, and status"
+            ],
+            "correct": 0,
+            "explanation": "These qualities accompany love, faith, and respect for others.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+            "sourceLabel": "Chapter X, PDF pages 36–38"
+          },
+          {
+            "q": "How does gentle speech help meditation?",
+            "options": [
+              "It guarantees public fame",
+              "It supports a joyful, unagitated atmosphere",
+              "It replaces the need for inner discipline",
+              "It encourages blame"
+            ],
+            "correct": 1,
+            "explanation": "Sweetness of expression lightens the mind and assists concentration.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+            "sourceLabel": "Chapter X, PDF pages 36–38"
+          },
+          {
+            "q": "Why is the body compared to a boat?",
+            "options": [
+              "It is identified as the eternal Atma",
+              "It should be neglected at the beginning",
+              "It must be cared for as an instrument until the crossing is complete",
+              "Its appearance is the final goal"
+            ],
+            "correct": 2,
+            "explanation": "The comparison joins detachment from bodily identity with responsible care.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+            "sourceLabel": "Chapter X, PDF pages 36–38"
+          },
+          {
+            "q": "Does contentment make an aspirant idle, according to the chapter?",
+            "options": [
+              "Yes; all work must cease",
+              "Yes; inquiry becomes unnecessary",
+              "Only if the person has studied many books",
+              "No; it supports purposeful effort without selfish restlessness"
+            ],
+            "correct": 3,
+            "explanation": "Contentment provides enthusiasm while reducing needless pursuits.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=36",
+            "sourceLabel": "Chapter X, PDF pages 36–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Liberation: the Goal of Meditation",
+        "chapter": "Chapter XI",
+        "chapterNumber": 11,
+        "pdfStartPage": 39,
+        "pdfEndPage": 41,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+        "sourceLabel": "Chapter XI, PDF pages 39–41",
+        "summary": "Liberation is explained as freedom from the impulses, or vasanas, that bind the mind. Beneficent tendencies include truth, patience, charity, love, courage, and association with the wise. Harmful tendencies strengthen craving and instability; the chapter groups them into worldly, scholarly, and bodily ambitions. Seeking power, intellectual supremacy, or an idealised physique can all sustain attachment. Ignorance gives rise to ego, and ego is linked with possessiveness and desire. Meditation addresses this connected structure rather than merely suppressing its outward symptoms.\n\nThe mind is portrayed as a bundle of impulses and as cloth coloured by their qualities. Lasting progress requires uprooting tendencies instead of allowing them to remain ready to reappear. Pure impulses initially displace impure ones, as one thorn removes another, but ultimately both must be transcended. In the liberated person, any remaining tendencies resemble fried seeds that cannot produce further growth. Diminishing impulses, steadying the mind, and understanding the fundamental reality must work together. The Atma itself remains free from the body's characteristics and the mind's conditioning. Determination, faith, and sustained practice are therefore directed toward freedom from bondage, not toward adding another form of spiritual pride.",
+        "qa": [
+          {
+            "q": "How is liberation defined in this chapter?",
+            "a": "Freedom from binding impulses. Moksha is explained through release from vasanas."
+          },
+          {
+            "q": "Which three groups of impure impulses are identified?",
+            "a": "Worldly, scholarly, and bodily. Ambitions for power, intellectual superiority, and bodily perfection illustrate the groups."
+          },
+          {
+            "q": "What does the cloth-and-dye comparison explain?",
+            "a": "The mind takes the character of its impulses. Pure, restless, and ignorant tendencies shape the mind differently."
+          },
+          {
+            "q": "What lesson does removing a thorn with another thorn convey?",
+            "a": "Pure impulses overcome impure ones, and both are ultimately transcended. The remedy is useful on the way, but final freedom goes beyond both kinds of bondage."
+          },
+          {
+            "q": "Why are a liberated person's residual tendencies compared to fried seeds?",
+            "a": "They cannot generate further births. The comparison describes tendencies whose binding power has been exhausted."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is liberation defined in this chapter?",
+            "options": [
+              "Acquisition of public authority",
+              "Complete mastery of debate",
+              "Freedom from binding impulses",
+              "Ownership of every desired object"
+            ],
+            "correct": 2,
+            "explanation": "Moksha is explained through release from vasanas.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+            "sourceLabel": "Chapter XI, PDF pages 39–41"
+          },
+          {
+            "q": "Which three groups of impure impulses are identified?",
+            "options": [
+              "Physical, verbal, and geographical",
+              "Past, present, and seasonal",
+              "Domestic, agricultural, and commercial",
+              "Worldly, scholarly, and bodily"
+            ],
+            "correct": 3,
+            "explanation": "Ambitions for power, intellectual superiority, and bodily perfection illustrate the groups.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+            "sourceLabel": "Chapter XI, PDF pages 39–41"
+          },
+          {
+            "q": "What does the cloth-and-dye comparison explain?",
+            "options": [
+              "The mind takes the character of its impulses",
+              "The Atma changes colour physically",
+              "Clothing determines liberation",
+              "External appearance proves wisdom"
+            ],
+            "correct": 0,
+            "explanation": "Pure, restless, and ignorant tendencies shape the mind differently.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+            "sourceLabel": "Chapter XI, PDF pages 39–41"
+          },
+          {
+            "q": "What lesson does removing a thorn with another thorn convey?",
+            "options": [
+              "Every desire should be multiplied",
+              "Pure impulses overcome impure ones, and both are ultimately transcended",
+              "Good character should be skipped",
+              "Impure tendencies alone produce wisdom"
+            ],
+            "correct": 1,
+            "explanation": "The remedy is useful on the way, but final freedom goes beyond both kinds of bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+            "sourceLabel": "Chapter XI, PDF pages 39–41"
+          },
+          {
+            "q": "Why are a liberated person's residual tendencies compared to fried seeds?",
+            "options": [
+              "They grow more rapidly than ordinary seeds",
+              "They require more worldly possessions",
+              "They cannot generate further births",
+              "They remain the source of new cravings"
+            ],
+            "correct": 2,
+            "explanation": "The comparison describes tendencies whose binding power has been exhausted.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=39",
+            "sourceLabel": "Chapter XI, PDF pages 39–41"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Do not Be a Slave to Impulses",
+        "chapter": "Chapter XII",
+        "chapterNumber": 12,
+        "pdfStartPage": 42,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+        "sourceLabel": "Chapter XII, PDF pages 42–44",
+        "summary": "Repeated indulgence strengthens impulses and weakens discrimination. Attachment to the fruits of action feeds pride, acquisitiveness, and dependence on praise. The chapter places both the craving for approval and the habit of condemning others among impure tendencies. Even religious attachment can become narrow when it turns into praise of one's own group and contempt for another. Repetition of the divine name and meditation are presented as means of replacing this narrowness with a broader awareness of the Atma.\n\nLearning must lead to assimilation and practice. Bharadwaja's repeated study, Durvasa's cart of books, and Swethakethu's scholarship illustrate the limits of accumulation without realisation. Their stories turn attention toward Brahman knowledge and meditation. The aspirant must understand the mind's habits in order to train memory, will, and imagination. Arjuna's description of the restless mind is followed by Krishna's assurance that discipline and renunciation can bring it under control. Keeping selected desires secretly alive undermines progress, so mastery must extend to all the senses. The chapter closes with encouragement to remain patient and persistent rather than abandon practice when results are slower than hoped.",
+        "qa": [
+          {
+            "q": "What strengthens impulses when actions are performed?",
+            "a": "Continually seeking their fruits. Fixation on results feeds desire and pride."
+          },
+          {
+            "q": "How does the chapter classify craving praise?",
+            "a": "As an impure impulse. Dependence on approval binds the mind just as fear of blame does."
+          },
+          {
+            "q": "Who taught Bharadwaja Brahman knowledge in the account given?",
+            "a": "Indra. After repeated lives of study, Bharadwaja received this teaching and entered concentrated meditation."
+          },
+          {
+            "q": "What is the lesson of Durvasa's cart of books?",
+            "a": "Learning must be assimilated through actual practice. Narada's comparison exposes the burden of learning that has not become experience."
+          },
+          {
+            "q": "What answer does Krishna give about controlling the restless mind?",
+            "a": "It is possible through sustained discipline and renunciation. The chapter joins regular practice with detachment and patient perseverance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What strengthens impulses when actions are performed?",
+            "options": [
+              "Offering up attachment to results",
+              "Continually seeking their fruits",
+              "Cultivating renunciation",
+              "Practising patient discrimination"
+            ],
+            "correct": 1,
+            "explanation": "Fixation on results feeds desire and pride.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+            "sourceLabel": "Chapter XII, PDF pages 42–44"
+          },
+          {
+            "q": "How does the chapter classify craving praise?",
+            "options": [
+              "As proof of liberation",
+              "As the purpose of meditation",
+              "As an impure impulse",
+              "As a substitute for good conduct"
+            ],
+            "correct": 2,
+            "explanation": "Dependence on approval binds the mind just as fear of blame does.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+            "sourceLabel": "Chapter XII, PDF pages 42–44"
+          },
+          {
+            "q": "Who taught Bharadwaja Brahman knowledge in the account given?",
+            "options": [
+              "Arjuna",
+              "Narada",
+              "Swethakethu",
+              "Indra"
+            ],
+            "correct": 3,
+            "explanation": "After repeated lives of study, Bharadwaja received this teaching and entered concentrated meditation.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+            "sourceLabel": "Chapter XII, PDF pages 42–44"
+          },
+          {
+            "q": "What is the lesson of Durvasa's cart of books?",
+            "options": [
+              "Learning must be assimilated through actual practice",
+              "A greater load of books ensures realisation",
+              "Scholarship makes meditation unnecessary",
+              "Book ownership removes every impulse"
+            ],
+            "correct": 0,
+            "explanation": "Narada's comparison exposes the burden of learning that has not become experience.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+            "sourceLabel": "Chapter XII, PDF pages 42–44"
+          },
+          {
+            "q": "What answer does Krishna give about controlling the restless mind?",
+            "options": [
+              "It is impossible under every circumstance",
+              "It is possible through sustained discipline and renunciation",
+              "It requires keeping private desires untouched",
+              "It depends only on winning praise"
+            ],
+            "correct": 1,
+            "explanation": "The chapter joins regular practice with detachment and patient perseverance.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=42",
+            "sourceLabel": "Chapter XII, PDF pages 42–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Developing One-pointedness",
+        "chapter": "Chapter XIII",
+        "chapterNumber": 13,
+        "pdfStartPage": 45,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+        "sourceLabel": "Chapter XIII, PDF pages 45–47",
+        "summary": "One-pointedness develops through persistent training that returns the wandering mind to a chosen object. An uninterrupted stream of oil illustrates this continuity. Allowing attention to leap from object to object is termed monkey meditation and is said to hinder progress. The example of contemplating a table shows how related thoughts can remain within one subject rather than becoming confused with another. In meditation on the divine form, attention gathers its features into a unified whole, eventually leading toward absorption.\n\nThe chapter distinguishes the self-luminous Atma from the mind, which borrows its apparent awareness. Control of outward senses alone is insufficient while inward desire remains active; both inner and outer doors must be secured. Peace, renunciation, discrimination, and faith support this work. Good habits and right conduct must prepare the mind before advanced concentration is attempted. Beginners are encouraged to use a form that inspires joy and to increase practice gradually without forcing the pace. The name remains an essential support even when full confidence develops slowly. Steadfast practice is directed toward the Lord dwelling in the heart, rather than restless changes of object or method.",
+        "qa": [
+          {
+            "q": "Which image represents uninterrupted single-mindedness?",
+            "a": "Oil flowing steadily from one vessel to another. The continuous stream symbolises sustained attention."
+          },
+          {
+            "q": "What is monkey meditation?",
+            "a": "Following the mind as it jumps between objects. The term describes uncontrolled mental wandering during supposed meditation."
+          },
+          {
+            "q": "How is the mind's apparent awareness explained?",
+            "a": "It borrows illumination from the Atma. The mind is described as inert in itself, unlike the self-luminous Atma."
+          },
+          {
+            "q": "What does bolting both inner and outer doors illustrate?",
+            "a": "Restraining inward desire as well as outward senses. Safety requires both forms of discipline, just as a house needs both doors secured."
+          },
+          {
+            "q": "What must prepare the way for concentration?",
+            "a": "Good habits and purification of character. The chapter insists that concentration should follow moral purification and develop gradually."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which image represents uninterrupted single-mindedness?",
+            "options": [
+              "Oil flowing steadily from one vessel to another",
+              "A fly moving between many places",
+              "Waves scattered by a storm",
+              "A cart without trained bullocks"
+            ],
+            "correct": 0,
+            "explanation": "The continuous stream symbolises sustained attention.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+            "sourceLabel": "Chapter XIII, PDF pages 45–47"
+          },
+          {
+            "q": "What is monkey meditation?",
+            "options": [
+              "Returning attention to one chosen form",
+              "Following the mind as it jumps between objects",
+              "Preparing character through good habits",
+              "Maintaining uninterrupted remembrance"
+            ],
+            "correct": 1,
+            "explanation": "The term describes uncontrolled mental wandering during supposed meditation.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+            "sourceLabel": "Chapter XIII, PDF pages 45–47"
+          },
+          {
+            "q": "How is the mind's apparent awareness explained?",
+            "options": [
+              "It is the independent source of all light",
+              "It has no relation to intelligence",
+              "It borrows illumination from the Atma",
+              "It comes from bodily appearance"
+            ],
+            "correct": 2,
+            "explanation": "The mind is described as inert in itself, unlike the self-luminous Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+            "sourceLabel": "Chapter XIII, PDF pages 45–47"
+          },
+          {
+            "q": "What does bolting both inner and outer doors illustrate?",
+            "options": [
+              "Controlling the senses while indulging every desire",
+              "Avoiding all self-examination",
+              "Seeking a perfect building before practice",
+              "Restraining inward desire as well as outward senses"
+            ],
+            "correct": 3,
+            "explanation": "Safety requires both forms of discipline, just as a house needs both doors secured.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+            "sourceLabel": "Chapter XIII, PDF pages 45–47"
+          },
+          {
+            "q": "What must prepare the way for concentration?",
+            "options": [
+              "Good habits and purification of character",
+              "Public recognition of scholarship",
+              "Immediate lengthy practice without preparation",
+              "Frequent changes of the chosen form"
+            ],
+            "correct": 0,
+            "explanation": "The chapter insists that concentration should follow moral purification and develop gradually.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=45",
+            "sourceLabel": "Chapter XIII, PDF pages 45–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Remove Defects in Character",
+        "chapter": "Chapter XIV",
+        "chapterNumber": 14,
+        "pdfStartPage": 48,
+        "pdfEndPage": 51,
+        "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+        "sourceLabel": "Chapter XIV, PDF pages 48–51",
+        "summary": "The final chapter examines anger, pride, jealousy, fault-finding, and other obstacles that may operate beneath outward behaviour. The aspirant is urged to observe the mind honestly and remove accumulated tendencies through regular discipline. Helpful criticism should be welcomed with gratitude rather than met with hostility. Pride obstructs this inward examination by insisting on the correctness of one's own opinions and actions. Sympathy, friendliness, humility, and avoidance of needless argument protect the joyful atmosphere in which meditation can grow.\n\nDiscipline, regularity, and steadiness are central, accompanied by contentment. Peace, contentment, and discrimination are pictured as three guards at the gates of liberation: friendship with one helps gain access to the others. Contentment redirects effort toward the Lord instead of allowing desire to scatter attention; it is explicitly distinguished from idleness. The chapter also advises training the mind amid imperfect surroundings rather than continually seeking external comfort. Its conclusion calls for prompt attention to pride, a clear spiritual purpose, and cleansing of restless and ignorant tendencies. Meditation is presented as the means of overcoming ignorance and realising union with the divine.",
+        "qa": [
+          {
+            "q": "How should aspirants receive helpful identification of their faults?",
+            "a": "With gratitude and willingness to reform. Criticism can assist progress when pride does not block its acceptance."
+          },
+          {
+            "q": "Why is pride an obstacle to meditation?",
+            "a": "It prevents honest inward examination. Self-importance distorts the ability to recognise one's own shortcomings."
+          },
+          {
+            "q": "Which three qualities guard the gates of liberation?",
+            "a": "Peace, contentment, and discrimination. The text says cultivating one helps the aspirant gain the others."
+          },
+          {
+            "q": "What does the chapter advise about imperfect surroundings?",
+            "a": "Train the mind and remember the Lord within them. Inner steadiness can overcome ordinary environmental distractions."
+          },
+          {
+            "q": "What does meditation finally overcome, according to the conclusion?",
+            "a": "Ignorance. The concluding teaching connects the destruction of ignorance with union with the divine."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How should aspirants receive helpful identification of their faults?",
+            "options": [
+              "With hatred toward the speaker",
+              "By immediately asserting superiority",
+              "By refusing all inward examination",
+              "With gratitude and willingness to reform"
+            ],
+            "correct": 3,
+            "explanation": "Criticism can assist progress when pride does not block its acceptance.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XIV, PDF pages 48–51"
+          },
+          {
+            "q": "Why is pride an obstacle to meditation?",
+            "options": [
+              "It prevents honest inward examination",
+              "It naturally produces humility",
+              "It eliminates anger without effort",
+              "It makes every opinion correct"
+            ],
+            "correct": 0,
+            "explanation": "Self-importance distorts the ability to recognise one's own shortcomings.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XIV, PDF pages 48–51"
+          },
+          {
+            "q": "Which three qualities guard the gates of liberation?",
+            "options": [
+              "Wealth, authority, and fame",
+              "Peace, contentment, and discrimination",
+              "Anger, fear, and pride",
+              "Ritual expense, scholarship, and status"
+            ],
+            "correct": 1,
+            "explanation": "The text says cultivating one helps the aspirant gain the others.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XIV, PDF pages 48–51"
+          },
+          {
+            "q": "What does the chapter advise about imperfect surroundings?",
+            "options": [
+              "Wait indefinitely for a flawless environment",
+              "Abandon meditation whenever comfort is absent",
+              "Train the mind and remember the Lord within them",
+              "Make external luxury the main objective"
+            ],
+            "correct": 2,
+            "explanation": "Inner steadiness can overcome ordinary environmental distractions.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XIV, PDF pages 48–51"
+          },
+          {
+            "q": "What does meditation finally overcome, according to the conclusion?",
+            "options": [
+              "The need for kindness",
+              "All value in contentment",
+              "The importance of discipline",
+              "Ignorance"
+            ],
+            "correct": 3,
+            "explanation": "The concluding teaching connects the destruction of ignorance with union with the divine.",
+            "type": "recall",
+            "sourceUrl": "assets/dhyana-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XIV, PDF pages 48–51"
           }
         ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Dhyana Vahini PDF. This edition contains 14 titled chapters; its publisher explains that chapter and section headings were added to an earlier unsectioned text. Titles and order follow this edition. Summaries and answers are original study paraphrases. Refer to the linked PDF pages for the full teaching.",
+    "coverage": "All 14 chapters in the supplied edition"
   },
   {
     "id": "prashanthi-vahini",

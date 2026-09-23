@@ -26,7 +26,9 @@ Jnana Vahini follows all 47 numbered editorial sections of the supplied 53-page 
 
 Gita Vahini follows all 27 Roman-numbered chapters of the supplied 137-page PDF. The edition states that its chapters have no titles; the study preserves their Roman labels and sequence rather than substituting the Bhagavad Gita’s 18-chapter structure. Each chapter has a fuller two-paragraph summary, five Q&A, and five source-based quiz questions with explanations (135 of each). Source links use PDF pages 8–120 in the unchanged `dist/assets/gita-vahini.pdf`. Front matter and glossary remain in the PDF. The established URL identifier `geetha-vahini` and the existing Baba-with-Krishna image are preserved.
 
-The other 3 works retain their existing 9 selected topics and 180 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 365 study entries, 1,789 Q&A, and 1,960 quiz questions. Twelve works have complete chapter or section coverage.
+Dhyana Vahini follows all 14 titled chapters of the supplied 63-page PDF. This edition’s publisher explains that the chapter and section headings are editorial additions; their titles and order are retained. Every chapter has a fuller two-paragraph summary, five Q&A, and five source-based quizzes with explanations (70 of each). Source links use actual PDF pages 8–51 rather than the differing contents-page numbers. The unchanged source is served at `dist/assets/dhyana-vahini.pdf`; front matter and glossary remain available.
+
+The other 2 works retain their existing 6 selected topics and 120 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 376 study entries, 1,856 Q&A, and 1,970 quiz questions. Thirteen works have complete chapter or section coverage.
 
 ## Features
 
@@ -48,7 +50,7 @@ The site requires no build process or external JavaScript dependencies. Serve `d
 
 ## Content policy
 
-Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, Sandeha Nivarini, Prema Vahini, Prasnothara Vahini, Prasanthi Vahini, Leela Kaivalya Vahini, Jnana Vahini, and Gita Vahini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
+Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, Sandeha Nivarini, Prema Vahini, Prasnothara Vahini, Prasanthi Vahini, Leela Kaivalya Vahini, Jnana Vahini, Gita Vahini, and Dhyana Vahini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
 ## Image sources
 
