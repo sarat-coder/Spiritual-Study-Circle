@@ -21276,897 +21276,4951 @@ window.VAHINI_BOOKS = [
     "id": "jnana-vahini",
     "title": "Jnana Vahini",
     "hindiTitle": "ज्ञान वाहिनी",
-    "subtitle": "The stream of eternal wisdom",
-    "description": "Explore self-inquiry, discrimination, and the witnessing Self.",
-    "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Jnana.pdf",
+    "subtitle": "Stream of Spiritual Wisdom",
+    "description": "Study all 47 numbered sections in the supplied Jnana Vahini PDF, in their original order. Each section includes an English summary, five questions and answers, and five quizzes grounded in its teaching.",
+    "sourceUrl": "assets/jnana-vahini.pdf",
+    "pdfUrl": "assets/jnana-vahini.pdf",
     "topics": [
       {
-        "id": "jnana-inquiry",
-        "title": "Beginning self-inquiry",
-        "chapter": "Pages 1–2",
-        "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-        "summary": "Sustained inquiry into one's identity removes ignorance. Guidance from realised teachers should be followed through sincere practice.",
+        "id": "chapter-01",
+        "title": "Remove ignorance by incisive inquiry",
+        "chapter": "Section 1 · Remove ignorance by incisive inquiry",
+        "chapterNumber": 1,
+        "pdfStartPage": 9,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+        "sourceLabel": "Section 1, PDF page 9",
+        "summary": "The opening section presents sustained inquiry as the means of removing ignorance. The seeker examines Brahman, the reality behind the sense of “I”, and the changes associated with birth and death. Knowledge is compared to sunlight clearing fog, while inquiry removes ignorance as husking uncovers rice. Liberation requires this knowledge to become complete and to guide conduct, rather than remain an idea understood only in words.\n\nDoubts are to be clarified with those who know the truth. Until firmly established, the aspirant follows the guidance of the teacher and scriptures and remains close to realised people. Earnestness, renunciation, and faithful practice make this association fruitful. The section calls such disciplined adherence true tapas, leading toward the highest spiritual state.",
         "qa": [
           {
-            "q": "What follows understanding?",
-            "a": "Live according to the wisdom that inquiry has revealed."
+            "q": "What removes ignorance in the opening comparison?",
+            "a": "Knowledge, like sunlight clearing fog. The section compares ignorance to fog and knowledge to the sun’s rays."
+          },
+          {
+            "q": "What does incisive inquiry remove, like husking rice?",
+            "a": "Ignorance adhering to the mind. The husk illustrates what conceals the underlying reality."
+          },
+          {
+            "q": "What should follow the acquisition of Atmic knowledge?",
+            "a": "Conduct in accordance with that wisdom. Knowledge is to shape the path one follows and the actions one performs."
+          },
+          {
+            "q": "How should unresolved spiritual doubts be addressed?",
+            "a": "By consulting true teachers or those who know. Guidance from knowledgeable people is explicitly recommended."
+          },
+          {
+            "q": "What does the section call real penance?",
+            "a": "Earnest adherence to the teacher and holy scriptures. Renunciation and sincere obedience to sound guidance constitute the tapas described here."
           }
         ],
         "quiz": [
           {
-            "q": "What supports self-knowledge?",
+            "q": "What removes ignorance in the opening comparison?",
             "options": [
-              "Unexamined habits",
-              "Steady inquiry",
-              "Prestige",
-              "Avoiding doubts"
-            ],
-            "correct": 1,
-            "explanation": "The selected answer identifies an active process of examining a question carefully.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner repeats an answer about identity without understanding it. What should happen next?",
-            "options": [
-              "Repeat it more loudly",
-              "Ask what the answer means and examine it",
-              "Treat repetition as complete understanding",
-              "Avoid questions to appear confident"
-            ],
-            "correct": 1,
-            "explanation": "Examining meaning addresses the missing understanding that repetition alone has not supplied.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A student has an unresolved question after a lesson. What is most constructive?",
-            "options": [
-              "Hide it to protect appearances",
-              "Invent certainty in front of others",
-              "Present the question sincerely for clarification",
-              "Collect supporters for an untested conclusion"
-            ],
-            "correct": 2,
-            "explanation": "Sincere clarification gives the learner a way to investigate rather than conceal uncertainty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A reader adopts a new insight but acts exactly as before. What deserves examination?",
-            "options": [
-              "How impressive the insight sounds",
-              "Whether others use the same terminology",
-              "How quickly the insight can be announced",
-              "How the insight should affect an actual choice"
-            ],
-            "correct": 3,
-            "explanation": "Considering an actual choice tests whether the insight has practical meaning beyond its verbal expression.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone wants to investigate the statement that a role defines their whole identity. What question helps?",
-            "options": [
-              "What remains when this role changes?",
-              "How can the role gain more prestige?",
-              "Who has a less important role?",
-              "How can all changes be prevented?"
+              "Knowledge, like sunlight clearing fog",
+              "Ritual, like rain filling a lake",
+              "Wealth, like seed producing grain",
+              "Sleep, like a curtain hiding a room"
             ],
             "correct": 0,
-            "explanation": "The question examines the limits of identifying entirely with a role that can change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner meets an unfamiliar term in a teaching. What is a careful response?",
-            "options": [
-              "Assign a convenient meaning immediately",
-              "Clarify the intended meaning before drawing conclusions",
-              "Ignore surrounding context",
-              "Use the term to impress others first"
-            ],
-            "correct": 1,
-            "explanation": "Clarifying meaning reduces the risk of building conclusions on an assumption the teaching did not establish.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A student asks a thoughtful question but dislikes the answer. What supports inquiry?",
-            "options": [
-              "Reject it solely because it feels uncomfortable",
-              "Accept it only when friends approve",
-              "Examine the reasoning before accepting or rejecting it",
-              "Repeat the original question without listening"
-            ],
-            "correct": 2,
-            "explanation": "Examining reasoning gives the answer consideration beyond the learner's immediate preference.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner says asking questions shows weak commitment. Which response is more useful?",
-            "options": [
-              "Certainty should be claimed before investigation",
-              "Unfamiliar ideas should remain unexplored",
-              "Only impressive questions deserve attention",
-              "Sincere questions can support careful understanding"
-            ],
-            "correct": 3,
-            "explanation": "A sincere question can reveal precisely what needs clarification for understanding to grow.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone collects conflicting explanations. What is a sensible next step?",
-            "options": [
-              "Identify the exact point needing clarification",
-              "Treat every explanation as simultaneously identical",
-              "Choose the longest answer automatically",
-              "Avoid examining any difference"
-            ],
-            "correct": 0,
-            "explanation": "Identifying the disputed point makes clarification more focused than accumulating additional statements.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A student receives guidance for reflection. What completes the immediate learning step?",
-            "options": [
-              "Display the instructions without attempting them",
-              "Compare the handwriting of different teachers",
-              "Try the reflection and report difficulties honestly",
-              "Assume receiving guidance equals completing it"
-            ],
-            "correct": 2,
-            "explanation": "An actual attempt reveals how the guidance is understood and where further clarification may help.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A person says their opinion must be true because they feel certain. What is missing?",
-            "options": [
-              "A more emphatic tone",
-              "A larger audience hearing it",
-              "A list of people who admire them",
-              "Examination of the reasons supporting it"
-            ],
-            "correct": 3,
-            "explanation": "Confidence describes the person's feeling and does not itself establish the reasons for a conclusion.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner finds that a familiar label does not answer a deeper question. What next?",
-            "options": [
-              "Investigate what the label leaves unexplained",
-              "Repeat the label until discomfort ends",
-              "Add a more prestigious label",
-              "Assume every question has been settled"
-            ],
-            "correct": 0,
-            "explanation": "Examining the remaining question allows inquiry to continue beyond a convenient verbal stopping point.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A discussion turns into competition over who knows more. What restores inquiry?",
-            "options": [
-              "Count technical terms used by each person",
-              "Return to the question everyone is examining",
-              "Select the loudest speaker as winner",
-              "Discuss whose bookshelf is largest"
-            ],
-            "correct": 1,
-            "explanation": "Returning to the shared question shifts attention from personal standing to understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone changes their explanation after careful reflection. What may this indicate?",
-            "options": [
-              "Every previous effort was meaningless",
-              "They must now stop asking questions",
-              "A clearer understanding has become possible",
-              "The newest explanation is automatically final"
-            ],
-            "correct": 2,
-            "explanation": "Revision can reflect learning without proving that the current account is beyond further examination.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner wants to distinguish honest inquiry from argument for victory. Which question helps?",
-            "options": [
-              "Can I speak longer than everyone else?",
-              "How can I avoid acknowledging uncertainty?",
-              "Which words make my position sound superior?",
-              "Would I reconsider if the reasons warranted it?"
-            ],
-            "correct": 3,
-            "explanation": "Willingness to reconsider reveals whether understanding matters more than protecting a winning position.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A student says they understand but cannot explain the idea simply. What is useful?",
-            "options": [
-              "Identify which part remains unclear",
-              "Memorise an even longer explanation",
-              "Use unfamiliar terms to hide the gap",
-              "Avoid all opportunities for clarification"
-            ],
-            "correct": 0,
-            "explanation": "Locating the unclear part gives the next question a practical and specific focus.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A learner applies guidance once and encounters a difficulty. What should they bring back?",
-            "options": [
-              "A claim that everything was effortless",
-              "A clear account of the attempt and question",
-              "A list of other learners' faults",
-              "A demand for praise before discussing details"
-            ],
-            "correct": 1,
-            "explanation": "Specific experience helps further guidance respond to the learner's actual point of difficulty.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "Someone wants an immediate answer to every question about the Self. What attitude supports learning?",
-            "options": [
-              "Choosing any answer to end uncertainty",
-              "Avoiding all questions after one difficulty",
-              "Patient investigation without pretending completion",
-              "Claiming certainty for social reassurance"
-            ],
-            "correct": 2,
-            "explanation": "Patient investigation leaves room for understanding to develop instead of concealing unresolved questions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A participant quotes an authority to settle a question they have not examined. What can deepen learning?",
-            "options": [
-              "Repeat only the authority's name",
-              "Ask others to stop listening critically",
-              "Count how famous the speaker is",
-              "Explore the meaning and reasoning of the statement"
-            ],
-            "correct": 3,
-            "explanation": "Exploring the statement itself gives the learner more than an appeal to its speaker's reputation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          },
-          {
-            "q": "A reader has learned a distinction but forgets it during ordinary decisions. What might help?",
-            "options": [
-              "Choose one relevant situation for deliberate reflection",
-              "Collect more distinctions without using them",
-              "Declare ordinary decisions irrelevant",
-              "Judge everyone else's understanding first"
-            ],
-            "correct": 0,
-            "explanation": "A chosen situation gives the reader a manageable place to connect understanding with actual experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 1–2"
-          }
-        ]
-      },
-      {
-        "id": "jnana-distraction",
-        "title": "Recognising mental obstacles",
-        "chapter": "Pages 2–4",
-        "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-        "summary": "Distraction and attachment pull attention outward. Discrimination and disciplined self-examination help the seeker return to inward inquiry.",
-        "qa": [
-          {
-            "q": "How can distraction be addressed?",
-            "a": "Recognise changing attractions and patiently redirect attention toward the Self."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "What does discrimination examine?",
-            "options": [
-              "Social rank",
-              "Fashion",
-              "Permanence and change",
-              "Others' possessions"
-            ],
-            "correct": 2,
-            "explanation": "The distinction asks the learner to consider whether an experience changes.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner cannot begin because a desired purchase occupies every thought. What is useful?",
-            "options": [
-              "Keep researching the purchase throughout practice",
-              "Assume wanting makes the purchase essential",
-              "Notice how the desire is directing attention",
-              "Blame everyone who owns the item"
-            ],
-            "correct": 2,
-            "explanation": "Noticing the pattern gives the learner information about how attention is being repeatedly drawn away.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A student mistakes an intense passing wish for a permanent need. What question helps?",
-            "options": [
-              "How can everyone be persuaded to approve it?",
-              "Who has already satisfied the wish?",
-              "Can the wish be described more dramatically?",
-              "Has this wish changed before?"
-            ],
-            "correct": 3,
-            "explanation": "Looking at change over time tests the assumption that the wish is fixed and indispensable.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A person becomes distracted imagining future praise. What should be recognised?",
-            "options": [
-              "An anticipated reaction is occupying present attention",
-              "The praise has already occurred",
-              "Imagination guarantees the desired outcome",
-              "The present task no longer matters"
-            ],
-            "correct": 0,
-            "explanation": "Recognising anticipation as anticipation distinguishes a current thought from an event that has happened.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner feels discouraged after noticing repeated distraction. What is constructive?",
-            "options": [
-              "Treat noticing as proof of total failure",
-              "Examine one recurring pattern carefully",
-              "Avoid observing attention in future",
-              "Assume everyone else has no distractions"
-            ],
-            "correct": 1,
-            "explanation": "Careful examination turns the observation into useful information rather than a global judgment of the learner.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "An appealing object seems necessary for happiness, then loses interest days later. What is illustrated?",
-            "options": [
-              "The object changed every personal responsibility",
-              "All future interests will remain fixed",
-              "The earlier feeling proved permanent knowledge",
-              "The attraction changed over time"
-            ],
-            "correct": 3,
-            "explanation": "The changing interest offers a concrete reason to question assumptions about lasting satisfaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A student repeatedly plans an ideal future during reflection. What is the immediate task?",
-            "options": [
-              "Notice planning and return to the chosen inquiry",
-              "Improve every imagined detail first",
-              "Treat plans as already completed achievements",
-              "Compare the imagined future with others"
-            ],
-            "correct": 0,
-            "explanation": "Recognising the planning identifies what is happening now instead of becoming absorbed in its imagined results.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner notices envy interrupting attention. Which response supports examination?",
-            "options": [
-              "List reasons the other person is undeserving",
-              "Observe the comparison and what it demands",
-              "Seek more details to intensify comparison",
-              "Pretend envy is impossible for learners"
-            ],
-            "correct": 1,
-            "explanation": "Examining the demand reveals how comparison is influencing attention without requiring denial or accusation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A person repeatedly checks whether a pleasant feeling remains. What can be observed?",
-            "options": [
-              "Proof that the feeling is permanent",
-              "Certainty that inquiry is complete",
-              "Attachment to preserving the feeling",
-              "A requirement to intensify every sensation"
-            ],
-            "correct": 2,
-            "explanation": "The repeated checking itself reveals concern with holding an experience in a particular form.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner claims one difficult afternoon defines their entire capacity. What should be reconsidered?",
-            "options": [
-              "Only the afternoon's exact duration",
-              "Whether others heard the claim",
-              "How forcefully the conclusion was expressed",
-              "The leap from one event to a permanent conclusion"
-            ],
-            "correct": 3,
-            "explanation": "A limited event provides less evidence than the sweeping conclusion assumes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A participant keeps choosing whatever feels immediately pleasant. What question adds discrimination?",
-            "options": [
-              "What happens after the immediate attraction passes?",
-              "Which option produces the strongest first impression?",
-              "Who will admire the choice fastest?",
-              "Can unpleasant details be ignored indefinitely?"
-            ],
-            "correct": 0,
-            "explanation": "Considering what follows broadens the decision beyond the first moment of attraction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A person avoids reflection by endlessly reorganising their notes. What is worth investigating?",
-            "options": [
-              "Whether the headings use enough colours",
-              "Whether preparation has become a distraction",
-              "Whether every page looks identical",
-              "How others organise unrelated collections"
-            ],
-            "correct": 1,
-            "explanation": "Examining the function of the activity helps distinguish useful preparation from avoiding the intended inquiry.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner becomes absorbed in resentment over a small slight. What is a useful focus?",
-            "options": [
-              "An imagined list of future retaliations",
-              "Ways to recruit more sympathisers",
-              "The thoughts repeatedly renewing the resentment",
-              "Proof that the feeling must never change"
-            ],
-            "correct": 2,
-            "explanation": "Observing repeated thoughts directs attention to the process sustaining the present agitation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A student says a changing mood reveals an unchanging truth about themselves. What distinction matters?",
-            "options": [
-              "Every mood must be publicly described",
-              "Only pleasant moods deserve acknowledgment",
-              "Other people's moods are always more reliable",
-              "The mood is observed to vary"
-            ],
-            "correct": 3,
-            "explanation": "Observed variation gives a reason to question identifying a temporary state with something permanent.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A participant sees a desirable opportunity and feels unable to consider alternatives. What helps?",
-            "options": [
-              "Pause and examine the assumed necessity",
-              "Treat urgency as sufficient evidence",
-              "Ask only people who already agree",
-              "Ignore any information complicating the choice"
-            ],
-            "correct": 0,
-            "explanation": "Examining the assumption creates room for a decision beyond the intensity of the first attraction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner plans to eliminate every distraction before beginning inquiry. What is more practical?",
-            "options": [
-              "Wait until the mind is never unsettled",
-              "Begin by examining one distraction that is present",
-              "Find someone to guarantee perfect conditions",
-              "Collect ideal conditions without starting"
-            ],
-            "correct": 1,
-            "explanation": "A present distraction gives the learner an actual subject for examination instead of an impossible prerequisite.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A person remembers a once-urgent desire they no longer care about. How can this help?",
-            "options": [
-              "It proves all present decisions are pointless",
-              "It requires denying the earlier experience",
-              "It provides evidence that attractions can change",
-              "It guarantees every current wish will vanish tomorrow"
-            ],
-            "correct": 2,
-            "explanation": "The remembered change offers evidence for reflection without justifying universal predictions about every desire.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner feels proud of being less distracted than others. What should be noticed?",
-            "options": [
-              "The comparison proves inquiry is finished",
-              "Other learners must now follow them",
-              "Pride cannot itself become distracting",
-              "A new comparison has captured attention"
-            ],
-            "correct": 3,
-            "explanation": "The topic of distraction can itself generate another comparison that deserves observation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A participant suppresses every admission of attachment to look advanced. What supports inquiry better?",
-            "options": [
-              "Recognise the attachment honestly",
-              "Choose more convincing spiritual language",
-              "Discuss only other people's attachments",
-              "Claim the appearance of progress is sufficient"
-            ],
-            "correct": 0,
-            "explanation": "Honest recognition supplies a starting point that protecting an appearance would conceal.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          },
-          {
-            "q": "A learner wants to review a distracting episode. Which record is most useful?",
-            "options": [
-              "The names of people to blame",
-              "Trigger, recurring thought, response, and change",
-              "A declaration of permanent personal weakness",
-              "Only the final emotional intensity"
-            ],
-            "correct": 1,
-            "explanation": "The sequence gives practical detail about how the episode developed and where attention shifted.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 2–4"
-          }
-        ]
-      },
-      {
-        "id": "jnana-witness",
-        "title": "Discovering the witness",
-        "chapter": "Pages 36–38",
-        "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-        "summary": "The text distinguishes the changing ego from the witnessing Atma. Inquiry seeks the unity underlying apparent diversity.",
-        "qa": [
-          {
-            "q": "What is the Atma's nature?",
-            "a": "Being, awareness, and bliss describe its essential nature."
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Which remains the witness?",
-            "options": [
-              "Atma",
-              "Changing ego",
-              "Passing desire",
-              "Physical form"
-            ],
-            "correct": 0,
-            "explanation": "The correct answer names the witness described in the related reading.",
+            "explanation": "The section compares ignorance to fog and knowledge to the sun’s rays.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 1, PDF page 9"
           },
           {
-            "q": "A learner says a changing job title is their entire identity. What invites deeper inquiry?",
+            "q": "What does incisive inquiry remove, like husking rice?",
             "options": [
-              "Ask what notices the role changing",
-              "Choose a more impressive title",
-              "Prevent everyone from mentioning old roles",
-              "Rank people by current job titles"
+              "The need for any conduct",
+              "Ignorance adhering to the mind",
+              "All knowledge of the Self",
+              "The teacher’s understanding"
+            ],
+            "correct": 1,
+            "explanation": "The husk illustrates what conceals the underlying reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 1, PDF page 9"
+          },
+          {
+            "q": "What should follow the acquisition of Atmic knowledge?",
+            "options": [
+              "Withdrawal from every teacher before understanding",
+              "Satisfaction with memorised descriptions",
+              "Conduct in accordance with that wisdom",
+              "Increased pursuit of sensory pleasure"
+            ],
+            "correct": 2,
+            "explanation": "Knowledge is to shape the path one follows and the actions one performs.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 1, PDF page 9"
+          },
+          {
+            "q": "How should unresolved spiritual doubts be addressed?",
+            "options": [
+              "By treating every doubt as a final truth",
+              "By avoiding anyone with experience",
+              "By accumulating possessions",
+              "By consulting true teachers or those who know"
+            ],
+            "correct": 3,
+            "explanation": "Guidance from knowledgeable people is explicitly recommended.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 1, PDF page 9"
+          },
+          {
+            "q": "What does the section call real penance?",
+            "options": [
+              "Earnest adherence to the teacher and holy scriptures",
+              "Mere endurance without inquiry",
+              "Displaying learning before others",
+              "Replacing practice with argument"
             ],
             "correct": 0,
-            "explanation": "The question directs attention beyond a role toward the awareness through which its changes are noticed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Renunciation and sincere obedience to sound guidance constitute the tapas described here.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 1, PDF page 9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-02",
+        "title": "Cognize the shining inner Atma as oneself",
+        "chapter": "Section 2 · Cognize the shining inner Atma as oneself",
+        "chapterNumber": 2,
+        "pdfStartPage": 9,
+        "pdfEndPage": 9,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+        "sourceLabel": "Section 2, PDF page 9",
+        "summary": "When ignorance and delusion disappear, the Atma shines by its own nature. The perceived world is described through superimposition: changing appearances are mistaken for the underlying reality. Forms begin and end, and the discussion of dissolution distinguishes these changing forms from the causal basis that remains.\n\nGold purified in fire illustrates the central point. Fire removes dross but does not create the gold’s brilliance; an ordinary pebble does not acquire the same splendour merely by entering a flame. Likewise, spiritual purification reveals rather than manufactures the Self. The inner Atma is distinct from the five sheaths, witnesses the three qualities, and remains pure, peaceful, indivisible, eternal, and self-luminous. This is the reality to be recognised as oneself.",
+        "qa": [
+          {
+            "q": "What happens when ignorance and delusion disappear?",
+            "a": "The Atma shines in its own splendour. The light belongs to the Atma itself and is revealed when concealment ends."
           },
           {
-            "q": "A person observes happiness in the morning and disappointment later. What distinction is available?",
-            "options": [
-              "A permanent identity proven by each mood",
-              "Changing feelings and awareness of those feelings",
-              "Two unrelated people occupying one day",
-              "A requirement to deny both feelings"
-            ],
-            "correct": 1,
-            "explanation": "The observation distinguishes experiences that change from the fact that those changes are being noticed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "q": "What does fire do to gold in the illustration?",
+            "a": "Removes the dross. Gold’s own splendour becomes visible through purification."
           },
           {
-            "q": "A participant treats criticism of one action as a definition of their whole being. What helps?",
-            "options": [
-              "Reject every possible correction",
-              "Accept every label without examination",
-              "Separate the described action from the total identity claim",
-              "Assume the action never occurred"
-            ],
-            "correct": 2,
-            "explanation": "Separating the claims allows responsible reflection without treating one action as an exhaustive account of identity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "q": "Why is a pebble placed in fire mentioned?",
+            "a": "To show that fire alone does not confer gold’s splendour. The contrast establishes that gold’s brilliance is intrinsic."
           },
           {
-            "q": "A learner notices thoughts about success and failure. What question fits witnessing inquiry?",
+            "q": "How is the inner Atma related to the five sheaths?",
+            "a": "It is separate from them. The Atma is distinguished from the layers covering the individual."
+          },
+          {
+            "q": "What is the Atma’s relation to the three qualities?",
+            "a": "It witnesses their activities and consequences. The section describes an unchanging witness, not another changing quality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What happens when ignorance and delusion disappear?",
             "options": [
-              "Which thought will impress listeners most?",
-              "How can only flattering thoughts be reported?",
-              "Who should guarantee future success?",
-              "What is aware of these changing thoughts?"
+              "The Atma is newly manufactured",
+              "The Atma becomes a changing body",
+              "The five sheaths become eternal",
+              "The Atma shines in its own splendour"
             ],
             "correct": 3,
-            "explanation": "The question shifts attention from competing thought contents toward the awareness noticing them.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The light belongs to the Atma itself and is revealed when concealment ends.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
           },
           {
-            "q": "Someone wears different uniforms for different roles. What useful reflection follows?",
+            "q": "What does fire do to gold in the illustration?",
             "options": [
-              "Do changing roles exhaust who I am?",
-              "Which uniform gives permanent superiority?",
-              "Can one role erase all others?",
-              "Must every relationship use the same title?"
+              "Removes the dross",
+              "Supplies a brilliance absent from gold’s nature",
+              "Turns every material into gold",
+              "Destroys gold’s essential nature"
             ],
             "correct": 0,
-            "explanation": "Different roles provide a familiar example for examining whether a label fully accounts for identity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Gold’s own splendour becomes visible through purification.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
           },
           {
-            "q": "A person says a strong emotion leaves no room for observation. What small fact might they notice?",
+            "q": "Why is a pebble placed in fire mentioned?",
             "options": [
-              "The emotion proves every thought accurate",
-              "They can recognise that the emotion is present",
-              "Observation requires publicly denying emotion",
-              "The emotion must be maintained unchanged"
+              "To identify the pebble as the source of gold",
+              "To show that fire alone does not confer gold’s splendour",
+              "To show that all objects melt identically",
+              "To recommend fire as the only spiritual practice"
             ],
             "correct": 1,
-            "explanation": "Recognising the present emotion identifies an available act of awareness without requiring its denial.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The contrast establishes that gold’s brilliance is intrinsic.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
           },
           {
-            "q": "A learner mistakes witnessing for refusing responsibility. Which response preserves responsibility?",
+            "q": "How is the inner Atma related to the five sheaths?",
             "options": [
-              "Claim actions no longer affect other people",
-              "Ignore every consequence as irrelevant",
-              "Observe the reaction and repair the resulting mistake",
-              "Ask others to accept careless behaviour"
+              "It is only the food sheath",
+              "It is the sum of their changes",
+              "It is separate from them",
+              "It begins when they form"
             ],
             "correct": 2,
-            "explanation": "Observation can inform a responsible response instead of being used to dismiss the effects of action.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The Atma is distinguished from the layers covering the individual.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
           },
           {
-            "q": "A participant compares an old self-description with today's. What does the difference invite?",
+            "q": "What is the Atma’s relation to the three qualities?",
             "options": [
-              "Certainty that every description was meaningless",
-              "A demand to choose the most flattering version",
-              "A rule against describing experience",
-              "Inquiry into what notices changing descriptions"
+              "It is altered by each of them",
+              "It is merely the slothful quality",
+              "It ceases when they become active",
+              "It witnesses their activities and consequences"
             ],
             "correct": 3,
-            "explanation": "The difference offers an occasion to examine the relation between descriptions and awareness of their change.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The section describes an unchanging witness, not another changing quality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=9",
+            "sourceLabel": "Section 2, PDF page 9"
+          }
+        ]
+      },
+      {
+        "id": "chapter-03",
+        "title": "To realise the Atma, overcome four obstacles",
+        "chapter": "Section 3 · To realise the Atma, overcome four obstacles",
+        "chapterNumber": 3,
+        "pdfStartPage": 10,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+        "sourceLabel": "Section 3, PDF pages 10–11",
+        "summary": "Four obstacles to realisation are examined: sleep, waywardness, inertia, and enjoyment of an intermediate bliss. Sleep interrupts inward attention; the text asks the aspirant to notice its causes and return repeatedly to meditation. Waywardness is the mind’s pull toward sensory objects. Discrimination counters it by recognising that sensory pleasures and pains are temporary. A sheltered sparrow eager to fly outside illustrates this recurring outward impulse.\n\nInertia includes attachment-driven despondency, daydreaming, and schemes for future improvement; it must not be mistaken for samadhi. Even the bliss reached after earlier obstacles subside can become a stopping point. The section distinguishes that subject-object experience from the highest state beyond mental ideation. Killing a serpent guarding treasure is only preliminary: the treasure itself must still be gained.",
+        "qa": [
+          {
+            "q": "Which four obstacles are listed?",
+            "a": "Sleep, waywardness, inertia, and enjoyment of bliss. These are the four obstacles named and analysed in this section."
           },
           {
-            "q": "Someone dreams of receiving an award, then wakes. What distinction is clear?",
+            "q": "What does the sheltered sparrow illustrate?",
+            "a": "The mind’s urge to return to the outer world. Like the bird, the mind seeks to leave its refuge and resume outward movement."
+          },
+          {
+            "q": "What helps counter waywardness?",
+            "a": "Discriminating the temporary nature of sensory impressions. Inquiry weakens the attraction of impressions recognised as transient."
+          },
+          {
+            "q": "Why should inertia not be confused with samadhi?",
+            "a": "Despair and attachment-driven daydreaming can produce it. The section distinguishes a depressed or fantasising mind from genuine equanimity."
+          },
+          {
+            "q": "What does killing the serpent without gaining the treasure represent?",
+            "a": "Overcoming an obstacle without attaining the final goal. Intermediate relief or bliss must not be mistaken for the highest realisation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which four obstacles are listed?",
             "options": [
-              "An experienced scene differs from a current external event",
-              "The award must now be publicly claimed",
-              "The dream guarantees a future award",
-              "Every waking responsibility has disappeared"
+              "Charity, pilgrimage, worship, and study",
+              "Body, speech, service, and scripture",
+              "Sleep, waywardness, inertia, and enjoyment of bliss",
+              "Faith, courage, discrimination, and peace"
+            ],
+            "correct": 2,
+            "explanation": "These are the four obstacles named and analysed in this section.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+            "sourceLabel": "Section 3, PDF pages 10–11"
+          },
+          {
+            "q": "What does the sheltered sparrow illustrate?",
+            "options": [
+              "The final absence of all desire",
+              "The permanent stillness of the senses",
+              "The completion of liberation",
+              "The mind’s urge to return to the outer world"
+            ],
+            "correct": 3,
+            "explanation": "Like the bird, the mind seeks to leave its refuge and resume outward movement.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+            "sourceLabel": "Section 3, PDF pages 10–11"
+          },
+          {
+            "q": "What helps counter waywardness?",
+            "options": [
+              "Discriminating the temporary nature of sensory impressions",
+              "Assuming all sensory pleasures are permanent",
+              "Multiplying external attractions",
+              "Treating every desire as a command"
             ],
             "correct": 0,
-            "explanation": "The distinction avoids treating the content of an experienced dream as an event presently occurring outside it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Inquiry weakens the attraction of impressions recognised as transient.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+            "sourceLabel": "Section 3, PDF pages 10–11"
           },
           {
-            "q": "A learner wants to examine the statement 'I am my latest thought.' What question helps?",
+            "q": "Why should inertia not be confused with samadhi?",
             "options": [
-              "Which thought sounds most impressive?",
-              "What notices one thought giving way to another?",
-              "Can everyone agree with the latest thought?",
-              "How quickly can the thought be announced?"
+              "It is always the highest wisdom",
+              "Despair and attachment-driven daydreaming can produce it",
+              "It removes every hidden impulse automatically",
+              "It proves that no further inquiry is needed"
             ],
             "correct": 1,
-            "explanation": "Noticing succession allows the learner to question identifying entirely with a single passing thought.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The section distinguishes a depressed or fantasising mind from genuine equanimity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+            "sourceLabel": "Section 3, PDF pages 10–11"
           },
           {
-            "q": "A person experiences praise and begins thinking they are superior. What can they observe?",
+            "q": "What does killing the serpent without gaining the treasure represent?",
             "options": [
-              "Proof that praise reveals permanent rank",
-              "A requirement that others accept the story",
-              "The superiority story arising after praise",
-              "Certainty that examination is unnecessary"
+              "The completion of all spiritual effort",
+              "The uselessness of discrimination",
+              "Overcoming an obstacle without attaining the final goal",
+              "The creation of the Atma"
             ],
             "correct": 2,
-            "explanation": "Observing the story makes its appearance available for inquiry instead of automatically treating it as fact.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Intermediate relief or bliss must not be mistaken for the highest realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=10",
+            "sourceLabel": "Section 3, PDF pages 10–11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Eliminate egotism and desire and gain liberation by conquest of the mind",
+        "chapter": "Section 4 · Eliminate egotism and desire and gain liberation by conquest of the mind",
+        "chapterNumber": 4,
+        "pdfStartPage": 11,
+        "pdfEndPage": 11,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+        "sourceLabel": "Section 4, PDF page 11",
+        "summary": "Egotism makes a person forget the underlying truth and become caught in attachment, hatred, and self-centred activity. Desire sustains the cycle of birth and death and the worry associated with it. Freedom therefore involves release from body-identification and the opposing pulls of pleasure and pain. Moksha is explained as independence from reliance on outside things or people.\n\nThe mind can assist liberation when trained, purified, and filled with the thought of God. Its freedom from conflicting pulls allows ego-consciousness to fade. The section links mind, desire, and Self-knowledge: the mind is like a seed and desire like the tree growing from it. Atmic knowledge uproots the tree. Conquest of desire and mastery of the mind are thus mutually connected, rather than separate achievements.",
+        "qa": [
+          {
+            "q": "What is identified as a major cause of forgetting one’s basic truth?",
+            "a": "Egotism. Egotism produces divisions and draws the individual into binding activity."
           },
           {
-            "q": "A learner observes a body changing over many years. Which question fits this topic?",
+            "q": "What is called the foremost enemy of liberation?",
+            "a": "Desire. Desire binds the individual to repeated birth and death."
+          },
+          {
+            "q": "How is moksha explained here?",
+            "a": "Independence from outside things or persons. Liberation is described as freedom from dependence."
+          },
+          {
+            "q": "With what should the trained mind be saturated?",
+            "a": "The thought of God. This orientation supports inquiry into reality and purification of the mind."
+          },
+          {
+            "q": "In the seed-and-tree comparison, what uproots the tree of desire?",
+            "a": "Knowledge of the Atma. Self-knowledge addresses the root shared by mind and desire."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is identified as a major cause of forgetting one’s basic truth?",
             "options": [
-              "Which photograph should determine everyone's worth?",
-              "Can an old photograph stop change?",
-              "Does appearance settle every question of identity?",
-              "How are these changes known?"
+              "Equanimity",
+              "Egotism",
+              "Atmic inquiry",
+              "Freedom from attachment"
+            ],
+            "correct": 1,
+            "explanation": "Egotism produces divisions and draws the individual into binding activity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 4, PDF page 11"
+          },
+          {
+            "q": "What is called the foremost enemy of liberation?",
+            "options": [
+              "Discrimination",
+              "Knowledge of the Atma",
+              "Desire",
+              "Purity of mind"
+            ],
+            "correct": 2,
+            "explanation": "Desire binds the individual to repeated birth and death.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 4, PDF page 11"
+          },
+          {
+            "q": "How is moksha explained here?",
+            "options": [
+              "Acquisition of worldly honours",
+              "Permanent residence in a particular place",
+              "Fulfilment of every sensory wish",
+              "Independence from outside things or persons"
             ],
             "correct": 3,
-            "explanation": "The question turns reflection toward the knowing of change rather than comparison of appearances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Liberation is described as freedom from dependence.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 4, PDF page 11"
           },
           {
-            "q": "A participant uses witnessing language to sound detached while blaming others. What needs examination?",
+            "q": "With what should the trained mind be saturated?",
             "options": [
-              "The actual blaming reaction",
-              "Only the sophistication of the language",
-              "Whether the audience recognises the vocabulary",
-              "How many terms can be added"
+              "The thought of God",
+              "Fear of criticism",
+              "Rivalry with others",
+              "Plans for increasing possessions"
             ],
             "correct": 0,
-            "explanation": "Examining the reaction tests lived understanding beyond the appearance created by specialised language.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "This orientation supports inquiry into reality and purification of the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 4, PDF page 11"
           },
           {
-            "q": "A learner notices both a thought and the wish to hide it. What can be included in observation?",
+            "q": "In the seed-and-tree comparison, what uproots the tree of desire?",
             "options": [
-              "Only thoughts that appear admirable",
-              "Both the thought and the wish",
-              "Only what can be publicly praised",
-              "Only the final explanation offered to others"
+              "More branches of desire",
+              "Knowledge of the Atma",
+              "Praise from the world",
+              "Mere change of location"
             ],
             "correct": 1,
-            "explanation": "Including both observations avoids narrowing inquiry to experiences that support a preferred self-image.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Self-knowledge addresses the root shared by mind and desire.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 4, PDF page 11"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Brahman is perceived when all traces of “intention” disappear",
+        "chapter": "Section 5 · Brahman is perceived when all traces of “intention” disappear",
+        "chapterNumber": 5,
+        "pdfStartPage": 11,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+        "sourceLabel": "Section 5, PDF pages 11–12",
+        "summary": "The person liberated while living remains steady through pleasure, pain, praise, and blame. This steadiness follows sustained discipline, inquiry into the world’s transience, and renewed effort when difficulties arise. Direct knowledge removes doubt about the unity of the individual Self and Brahman. The rope-and-snake example shows that understanding corrects a mistaken appearance without changing the reality that was present throughout.\n\nThe Supreme Atma is within every being and sustains the whole world. The aspirant turns inward to examine the origins of mental modifications until intention and personal willing subside. Awareness rests in Brahman and its bliss. Constant contemplation of the Atma is called the practice of Brahman or cultivation of spiritual wisdom; it places the wise beyond the hold of worldly joy and grief.",
+        "qa": [
+          {
+            "q": "How does the liberated person receive praise and blame?",
+            "a": "With equanimity. The section describes steadiness through honour and dishonour."
           },
           {
-            "q": "Someone loses a valued role and asks who they are now. What supports inquiry?",
+            "q": "What certainty marks direct perception of Brahman?",
+            "a": "The individual Self and Brahman have always been one. Direct knowledge removes doubt about their enduring identity."
+          },
+          {
+            "q": "What remains when the snake-error is corrected?",
+            "a": "The rope that was there all along. Knowledge removes superimposition rather than producing a new underlying object."
+          },
+          {
+            "q": "Where does the section locate the Supreme Atma?",
+            "a": "In every individual and throughout the world. The ant and elephant both illustrate its universal presence."
+          },
+          {
+            "q": "What is meant by practice of Brahman here?",
+            "a": "Constant contemplation of the Atma and its glory. The text also calls this cultivation of spiritual wisdom."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How does the liberated person receive praise and blame?",
             "options": [
-              "Assume the lost role contained their entire being",
-              "Replace the title before reflecting at all",
-              "Examine identity beyond that particular role",
-              "Let strangers choose a final identity label"
+              "With equanimity",
+              "By seeking praise and fearing blame",
+              "By changing convictions with each response",
+              "By retaliating against criticism"
             ],
-            "correct": 2,
-            "explanation": "The question can be explored without assuming that one changing role fully defined the person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "correct": 0,
+            "explanation": "The section describes steadiness through honour and dishonour.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           },
           {
-            "q": "A learner describes themselves as many different things during one day. What is worth investigating?",
+            "q": "What certainty marks direct perception of Brahman?",
             "options": [
-              "Which description attracts the most approval",
-              "How to prevent every description from changing",
-              "Whether one label can excuse all actions",
-              "The awareness in which those descriptions appear"
-            ],
-            "correct": 3,
-            "explanation": "Investigating awareness offers a focus beyond selecting the most socially appealing description.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
-          },
-          {
-            "q": "A participant notices disagreement between two thoughts. What does a witnessing approach invite?",
-            "options": [
-              "Treat the louder thought as unquestionable",
-              "Observe both before identifying completely with either",
-              "Deny that either thought occurred",
-              "Announce whichever thought sounds more spiritual"
+              "Their unity is a temporary contract",
+              "The individual Self and Brahman have always been one",
+              "Brahman exists only outside the individual",
+              "The Self must first be created"
             ],
             "correct": 1,
-            "explanation": "Observing both creates room to investigate their contents without immediately equating either with the whole self.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Direct knowledge removes doubt about their enduring identity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           },
           {
-            "q": "A learner claims awareness means pretending not to feel disappointment. What is a clearer approach?",
+            "q": "What remains when the snake-error is corrected?",
             "options": [
-              "Conceal disappointment to look advanced",
-              "Repeat that disappointment never happens",
-              "Notice disappointment without making it the whole identity",
-              "Assign the feeling to someone else"
+              "A newly created rope",
+              "Both an actual snake and a rope",
+              "The rope that was there all along",
+              "Nothing at all"
             ],
             "correct": 2,
-            "explanation": "Acknowledging the experience allows observation while avoiding an exhaustive identity claim based on it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "Knowledge removes superimposition rather than producing a new underlying object.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
           },
           {
-            "q": "A person asks whether learning the word Atma completes self-inquiry. What is the better response?",
+            "q": "Where does the section locate the Supreme Atma?",
             "options": [
-              "Pronouncing it accurately settles every question",
-              "Displaying the word replaces personal inquiry",
-              "Knowing its spelling guarantees direct understanding",
-              "Understanding the term invites further reflection and experience"
+              "Only in the largest creatures",
+              "Only outside living beings",
+              "Only in one sacred location",
+              "In every individual and throughout the world"
             ],
             "correct": 3,
-            "explanation": "Knowing a term gives a starting point without establishing the experience it is intended to discuss.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/jnanavahini.html",
-            "sourceLabel": "Jnana Vahini — Pages 36–38"
+            "explanation": "The ant and elephant both illustrate its universal presence.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
+          },
+          {
+            "q": "What is meant by practice of Brahman here?",
+            "options": [
+              "Constant contemplation of the Atma and its glory",
+              "Constant pursuit of honour",
+              "Multiplication of personal intentions",
+              "Avoidance of inward examination"
+            ],
+            "correct": 0,
+            "explanation": "The text also calls this cultivation of spiritual wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=11",
+            "sourceLabel": "Section 5, PDF pages 11–12"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Train the mind to dwell ever on God",
+        "chapter": "Section 6 · Train the mind to dwell ever on God",
+        "chapterNumber": 6,
+        "pdfStartPage": 12,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+        "sourceLabel": "Section 6, PDF pages 12–13",
+        "summary": "The mind quickly pursues fleeting pleasures, so it must repeatedly be guided toward higher ideals. Initial difficulty does not make the task impossible: persistent training can steady it in the contemplation of Om. The disciplines described include inward withdrawal, endurance, sincerity, constancy, and mental balance, along with patient methods of directing the mind.\n\nStudy of the Upanishads, regular prayer, devotional singing with others, and truthfulness help turn attention toward Brahman. New desires may still arise as meditation develops; the response is earnest, regular practice rather than despair. The stated culmination is undifferentiated bliss-consciousness, bringing knowledge of Brahman and liberation from birth and death. The whole course trains the seeker to contemplate and live in Brahman.",
+        "qa": [
+          {
+            "q": "Why must the mind repeatedly be guided toward higher ideals?",
+            "a": "It quickly pursues fleeting objective pleasures. The section begins with the mind’s tendency to follow worldly attractions."
+          },
+          {
+            "q": "In what can persistent training fix the mind?",
+            "a": "Enjoyment of Om. The text names the pranava as the steady focus attained through training."
+          },
+          {
+            "q": "Which practices are recommended together?",
+            "a": "Upanishadic study, prayer, devotional singing, and truthfulness. These practices are explicitly linked to contemplation of Brahman."
+          },
+          {
+            "q": "What response is advised when new desires arise during meditation?",
+            "a": "Continue earnest and regular training. The appearance of desires is not presented as a reason to give up."
+          },
+          {
+            "q": "What is the stated culmination of this training?",
+            "a": "Nir-vikalpa-samadhi leading to knowledge of Brahman. The section links this bliss-consciousness with liberation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why must the mind repeatedly be guided toward higher ideals?",
+            "options": [
+              "It naturally rejects every sensory object",
+              "It is incapable of any training",
+              "It already rests permanently in Brahman",
+              "It quickly pursues fleeting objective pleasures"
+            ],
+            "correct": 3,
+            "explanation": "The section begins with the mind’s tendency to follow worldly attractions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          },
+          {
+            "q": "In what can persistent training fix the mind?",
+            "options": [
+              "Enjoyment of Om",
+              "Dependence on praise",
+              "Unending sensory novelty",
+              "Debate without practice"
+            ],
+            "correct": 0,
+            "explanation": "The text names the pranava as the steady focus attained through training.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          },
+          {
+            "q": "Which practices are recommended together?",
+            "options": [
+              "Wealth-seeking, rivalry, praise, and distraction",
+              "Upanishadic study, prayer, devotional singing, and truthfulness",
+              "Sleep, argument, display, and ambition",
+              "Travel alone without inward discipline"
+            ],
+            "correct": 1,
+            "explanation": "These practices are explicitly linked to contemplation of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          },
+          {
+            "q": "What response is advised when new desires arise during meditation?",
+            "options": [
+              "Despair and abandon the discipline",
+              "Treat the desires as final realisation",
+              "Continue earnest and regular training",
+              "Change the goal to sensory satisfaction"
+            ],
+            "correct": 2,
+            "explanation": "The appearance of desires is not presented as a reason to give up.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          },
+          {
+            "q": "What is the stated culmination of this training?",
+            "options": [
+              "Endless formation of new resolutions",
+              "Greater dependence on the outer world",
+              "Knowledge limited to book definitions",
+              "Nir-vikalpa-samadhi leading to knowledge of Brahman"
+            ],
+            "correct": 3,
+            "explanation": "The section links this bliss-consciousness with liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=12",
+            "sourceLabel": "Section 6, PDF pages 12–13"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Instincts and impulses must be put down",
+        "chapter": "Section 7 · Instincts and impulses must be put down",
+        "chapterNumber": 7,
+        "pdfStartPage": 13,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+        "sourceLabel": "Section 7, PDF page 13",
+        "summary": "Atmic knowledge requires three connected efforts: relinquishing impulses, uprooting the mind, and examining experience to discern reality. Impressions drive the mind toward the senses and bind the individual to pleasure and misery. Discrimination, inquiry, meditation, sense-control, and renunciation work against these forces. The mind is described as a collection of impressions; the individual’s experienced world appears and disappears with its cognitive activity.\n\nThe ego is compared to a seed and consciousness to the tree growing from it. Removing the seed ends the activities that depend on it. Vigilance remains necessary because the senses can regain control. The section urges persistence in seeking truth, restraint in multiplying wants, and regularity even in the place and time of prayer. Steady aspirants are sustained by the Atma.",
+        "qa": [
+          {
+            "q": "Which three efforts are required for Atmic knowledge?",
+            "a": "Giving up impulses, uprooting the mind, and analysing experience. The opening identifies these three as a connected path."
+          },
+          {
+            "q": "How is the mind described?",
+            "a": "A bundle of impressions. Vasanas prompt its activity and attraction to the sensory world."
+          },
+          {
+            "q": "What is the seed in the tree comparison?",
+            "a": "The ego or feeling of “I”. The activities of consciousness depend on this ego-seed."
+          },
+          {
+            "q": "Why must the aspirant remain vigilant?",
+            "a": "The senses can regain mastery and undo progress. The section warns of renewed enslavement to sensory attraction."
+          },
+          {
+            "q": "What regularity is specifically recommended for prayer?",
+            "a": "The same place and time. Prayer should not be governed by the mind’s changing whims."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which three efforts are required for Atmic knowledge?",
+            "options": [
+              "Collecting wealth, travelling, and gaining praise",
+              "Reading alone, debating, and displaying learning",
+              "Giving up impulses, uprooting the mind, and analysing experience",
+              "Sleeping, dreaming, and imagining"
+            ],
+            "correct": 2,
+            "explanation": "The opening identifies these three as a connected path.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF page 13"
+          },
+          {
+            "q": "How is the mind described?",
+            "options": [
+              "An unchanging physical organ alone",
+              "Something unrelated to experience",
+              "A force incapable of outward movement",
+              "A bundle of impressions"
+            ],
+            "correct": 3,
+            "explanation": "Vasanas prompt its activity and attraction to the sensory world.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF page 13"
+          },
+          {
+            "q": "What is the seed in the tree comparison?",
+            "options": [
+              "The ego or feeling of “I”",
+              "The external sky",
+              "The teacher’s body",
+              "The food sheath"
+            ],
+            "correct": 0,
+            "explanation": "The activities of consciousness depend on this ego-seed.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF page 13"
+          },
+          {
+            "q": "Why must the aspirant remain vigilant?",
+            "options": [
+              "All impressions vanish after one effort",
+              "The senses can regain mastery and undo progress",
+              "The senses never influence the mind",
+              "Vigilance replaces every other discipline"
+            ],
+            "correct": 1,
+            "explanation": "The section warns of renewed enslavement to sensory attraction.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF page 13"
+          },
+          {
+            "q": "What regularity is specifically recommended for prayer?",
+            "options": [
+              "A different goal every day",
+              "Following every passing mood",
+              "The same place and time",
+              "Only praying after every desire is satisfied"
+            ],
+            "correct": 2,
+            "explanation": "Prayer should not be governed by the mind’s changing whims.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 7, PDF page 13"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "The one who really knows God becomes God",
+        "chapter": "Section 8 · The one who really knows God becomes God",
+        "chapterNumber": 8,
+        "pdfStartPage": 13,
+        "pdfEndPage": 14,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+        "sourceLabel": "Section 8, PDF pages 13–14",
+        "summary": "The wise find happiness in the Atma instead of seeking it in external objects. By disciplining the mind and immersing it in the Self, they remain steady through favourable and unfavourable circumstances. The teaching that the knower of Brahman becomes Brahman expresses an experienced unity, illustrated by bubbles made of the same water and rivers losing themselves in the sea.\n\nThe Atma is distinguished from the body’s six changes: birth, existence, growth, ageing, decline, and death. It remains the unshaken witness of change in space and time. Knowledge of Brahman brings genuine self-rule and release from the mind’s hold. The mind is compared to a robber concealing the precious gem of the Atma; mastery of it restores awareness of that treasure.",
+        "qa": [
+          {
+            "q": "Where do the spiritually wise find full bliss?",
+            "a": "In their own Atma. They do not plan to obtain happiness from outside themselves."
+          },
+          {
+            "q": "What do bubbles made of the same water illustrate?",
+            "a": "The underlying unity of names and forms in Brahman. Multiplicity does not divide the underlying Brahman."
+          },
+          {
+            "q": "Which is unaffected by the six bodily changes?",
+            "a": "The Atma. Birth and decline belong to the transient body, not its witness."
+          },
+          {
+            "q": "What is genuine self-rule in this section?",
+            "a": "Liberation from the mind through Brahma-jnana. Swarajya is used here for inward freedom through knowledge of the Absolute."
+          },
+          {
+            "q": "What is compared to a robber of the Atmic gem?",
+            "a": "The mind. Recovering the gem is an image for overcoming the mind’s obstruction."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where do the spiritually wise find full bliss?",
+            "options": [
+              "Only in external possessions",
+              "In their own Atma",
+              "In constant changes of circumstance",
+              "In praise from others"
+            ],
+            "correct": 1,
+            "explanation": "They do not plan to obtain happiness from outside themselves.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 8, PDF pages 13–14"
+          },
+          {
+            "q": "What do bubbles made of the same water illustrate?",
+            "options": [
+              "The permanent separation of every being",
+              "The superiority of one physical form",
+              "The underlying unity of names and forms in Brahman",
+              "The absence of any common reality"
+            ],
+            "correct": 2,
+            "explanation": "Multiplicity does not divide the underlying Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 8, PDF pages 13–14"
+          },
+          {
+            "q": "Which is unaffected by the six bodily changes?",
+            "options": [
+              "The physical frame",
+              "Every sensory object",
+              "The growing body",
+              "The Atma"
+            ],
+            "correct": 3,
+            "explanation": "Birth and decline belong to the transient body, not its witness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 8, PDF pages 13–14"
+          },
+          {
+            "q": "What is genuine self-rule in this section?",
+            "options": [
+              "Liberation from the mind through Brahma-jnana",
+              "Control over other people",
+              "Fulfilment of every impulse",
+              "Possession of political authority"
+            ],
+            "correct": 0,
+            "explanation": "Swarajya is used here for inward freedom through knowledge of the Absolute.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 8, PDF pages 13–14"
+          },
+          {
+            "q": "What is compared to a robber of the Atmic gem?",
+            "options": [
+              "The ocean",
+              "The mind",
+              "The lotus leaf",
+              "The realised teacher"
+            ],
+            "correct": 1,
+            "explanation": "Recovering the gem is an image for overcoming the mind’s obstruction.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=13",
+            "sourceLabel": "Section 8, PDF pages 13–14"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "The four types of spiritually wise people",
+        "chapter": "Section 9 · The four types of spiritually wise people",
+        "chapterNumber": 9,
+        "pdfStartPage": 14,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+        "sourceLabel": "Section 9, PDF pages 14–15",
+        "summary": "The seeker is encouraged to honour realised people, learn from their experience, and share their joy. Four types of knowers of Brahman are then named, distinguished by the development of the pure quality and their spiritual stages. They range from Brahmavid to Brahma-vidvarishta, the supreme knower established in perpetual samadhi.\n\nThe first three retain varying degrees of bodily awareness and participate in worldly work accordingly. The supreme knower is described as unaware of bodily needs. The section also distinguishes grades of the destruction of mental agitation. Its concluding test is ethical and inward: those who have conquered the mind lack attachment, hatred, pride, jealousy, and greed and are free from sensory bondage. Such mastery makes them true heroes.",
+        "qa": [
+          {
+            "q": "How many types of spiritually wise people are named?",
+            "a": "Four. The section lists four grades of knowers of Brahman."
+          },
+          {
+            "q": "What differentiates these types?",
+            "a": "Development of the pure quality and spiritual stage. Their distinction concerns spiritual development, not social standing."
+          },
+          {
+            "q": "Which type is associated with perpetual samadhi?",
+            "a": "Brahma-vidvarishta. The fourth and supreme type is placed in the seventh, “beyond” stage."
+          },
+          {
+            "q": "How are the first three types related to bodily awareness?",
+            "a": "They retain it in varying degrees. Their worldly participation corresponds to their spiritual status."
+          },
+          {
+            "q": "What marks those who have truly conquered the mind?",
+            "a": "Freedom from attachment, hatred, pride, jealousy, and greed. The section calls people free of these agitations the real heroes."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How many types of spiritually wise people are named?",
+            "options": [
+              "Four",
+              "Two",
+              "Six",
+              "Eight"
+            ],
+            "correct": 0,
+            "explanation": "The section lists four grades of knowers of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+            "sourceLabel": "Section 9, PDF pages 14–15"
+          },
+          {
+            "q": "What differentiates these types?",
+            "options": [
+              "Birthplace alone",
+              "Development of the pure quality and spiritual stage",
+              "Amount of wealth",
+              "Number of followers"
+            ],
+            "correct": 1,
+            "explanation": "Their distinction concerns spiritual development, not social standing.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+            "sourceLabel": "Section 9, PDF pages 14–15"
+          },
+          {
+            "q": "Which type is associated with perpetual samadhi?",
+            "options": [
+              "Brahmavid",
+              "Brahmavidvara",
+              "Brahma-vidvarishta",
+              "Brahma-vidvariya"
+            ],
+            "correct": 2,
+            "explanation": "The fourth and supreme type is placed in the seventh, “beyond” stage.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+            "sourceLabel": "Section 9, PDF pages 14–15"
+          },
+          {
+            "q": "How are the first three types related to bodily awareness?",
+            "options": [
+              "They all possess none whatsoever",
+              "They value it above Self-knowledge",
+              "It is identical in all three",
+              "They retain it in varying degrees"
+            ],
+            "correct": 3,
+            "explanation": "Their worldly participation corresponds to their spiritual status.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+            "sourceLabel": "Section 9, PDF pages 14–15"
+          },
+          {
+            "q": "What marks those who have truly conquered the mind?",
+            "options": [
+              "Freedom from attachment, hatred, pride, jealousy, and greed",
+              "Skill in defeating opponents in argument",
+              "Strong desire for recognition",
+              "Indifference to whether the senses rule them"
+            ],
+            "correct": 0,
+            "explanation": "The section calls people free of these agitations the real heroes.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=14",
+            "sourceLabel": "Section 9, PDF pages 14–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "The effects of the three qualities",
+        "chapter": "Section 10 · The effects of the three qualities",
+        "chapterNumber": 10,
+        "pdfStartPage": 15,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+        "sourceLabel": "Section 10, PDF pages 15–16",
+        "summary": "Purity, activity, and sloth have different effects on the mind. When rajas and thamas are overcome, sathwa expresses itself through peace, wisdom, love, mercy, purity, and a sense of sameness. In the supreme liberated state even this quality is absent. When purity is mixed with the other two qualities, ignorance and illusion obscure the inner vision.\n\nRajas intensifies sensory contact and the pursuit of happiness or avoidance of sorrow, producing attachment and such disturbances as greed, anger, and pride. Thamas clouds perception and judgement through dullness, sleep, and inertia. The warning applies even to scholars: learning by itself does not provide moral strength. Under the influence of sloth, people can misread experience and confuse truth with untruth.",
+        "qa": [
+          {
+            "q": "Which two qualities are overcome when pure serenity shines?",
+            "a": "Rajas and thamas. The text contrasts activity and sloth with the splendour of sathwa."
+          },
+          {
+            "q": "Which qualities accompany sathwa?",
+            "a": "Peace, wisdom, purity, and a sense of sameness. These are among the unmistakable signs of the serene quality."
+          },
+          {
+            "q": "What does rajas intensify?",
+            "a": "Sensory contact, attachment, and restless activity. Its dual pulls of happiness and sorrow drive further action."
+          },
+          {
+            "q": "What effect is attributed to thamas?",
+            "a": "Clouding vision and weakening judgement. Sloth can prevent people from benefiting even from their experience."
+          },
+          {
+            "q": "Why are scholars included in the warning about thamas?",
+            "a": "Scholarship does not necessarily confer moral strength. Intellectual learning alone does not protect against delusion."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which two qualities are overcome when pure serenity shines?",
+            "options": [
+              "Sathwa and wisdom",
+              "Peace and purity",
+              "Love and mercy",
+              "Rajas and thamas"
+            ],
+            "correct": 3,
+            "explanation": "The text contrasts activity and sloth with the splendour of sathwa.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+            "sourceLabel": "Section 10, PDF pages 15–16"
+          },
+          {
+            "q": "Which qualities accompany sathwa?",
+            "options": [
+              "Peace, wisdom, purity, and a sense of sameness",
+              "Greed, trickery, conceit, and hatred",
+              "Dullness, confusion, sleep, and sloth",
+              "Envy, fear, rivalry, and ambition"
+            ],
+            "correct": 0,
+            "explanation": "These are among the unmistakable signs of the serene quality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+            "sourceLabel": "Section 10, PDF pages 15–16"
+          },
+          {
+            "q": "What does rajas intensify?",
+            "options": [
+              "Freedom from every worldly pull",
+              "Sensory contact, attachment, and restless activity",
+              "Permanent clarity beyond all qualities",
+              "The complete absence of desire"
+            ],
+            "correct": 1,
+            "explanation": "Its dual pulls of happiness and sorrow drive further action.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+            "sourceLabel": "Section 10, PDF pages 15–16"
+          },
+          {
+            "q": "What effect is attributed to thamas?",
+            "options": [
+              "Making every conclusion accurate",
+              "Automatically removing ignorance",
+              "Clouding vision and weakening judgement",
+              "Producing perfect discrimination"
+            ],
+            "correct": 2,
+            "explanation": "Sloth can prevent people from benefiting even from their experience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+            "sourceLabel": "Section 10, PDF pages 15–16"
+          },
+          {
+            "q": "Why are scholars included in the warning about thamas?",
+            "options": [
+              "Study makes sloth impossible",
+              "All learning is identical with liberation",
+              "Scholars have no sensory attractions",
+              "Scholarship does not necessarily confer moral strength"
+            ],
+            "correct": 3,
+            "explanation": "Intellectual learning alone does not protect against delusion.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=15",
+            "sourceLabel": "Section 10, PDF pages 15–16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Illusion hides the individual’s true blissful nature",
+        "chapter": "Section 11 · Illusion hides the individual’s true blissful nature",
+        "chapterNumber": 11,
+        "pdfStartPage": 16,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+        "sourceLabel": "Section 11, PDF page 16",
+        "summary": "Maya conceals the individual’s real nature as being-awareness-bliss by superimposing multiplicity on the One. The section explains creation and dissolution through the three qualities: in dissolution they are balanced, while the divine will disturbs that balance and activity unfolds into further consequences and actions.\n\nFrom subtle inward processes to the gross body, the apparent particular is thus distinguished from the universal Atma. The mirage provides the illustration: water seems to cover desert sand even though the appearance does not establish actual water. Vision of Brahman or Atma removes this superimposition. The discussion connects the cosmic account of changing qualities with the individual’s mistaken understanding of identity.",
+        "qa": [
+          {
+            "q": "What does maya conceal?",
+            "a": "The individual’s true being-awareness-bliss nature. Multiplicity is superimposed on the underlying One."
+          },
+          {
+            "q": "What is the condition of the three qualities during dissolution?",
+            "a": "Perfect equilibrium. This balanced condition is called guna-saamya-avastha."
+          },
+          {
+            "q": "What disturbs that equilibrium in the account of creation?",
+            "a": "The will of Iswara. Disturbance of the balance initiates activity and its consequences."
+          },
+          {
+            "q": "What does the mirage illustrate?",
+            "a": "Superimposition of an appearance on a real basis. Apparent water over sand parallels the mistaken overlay of the particular on the Universal."
+          },
+          {
+            "q": "What removes the superimposition described here?",
+            "a": "Vision of Brahman or Atma. Realisation corrects the illusion that hides the universal Self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does maya conceal?",
+            "options": [
+              "A second independent Atma",
+              "The permanent reality of every bodily form",
+              "The individual’s true being-awareness-bliss nature",
+              "A truth created only after death"
+            ],
+            "correct": 2,
+            "explanation": "Multiplicity is superimposed on the underlying One.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 11, PDF page 16"
+          },
+          {
+            "q": "What is the condition of the three qualities during dissolution?",
+            "options": [
+              "Permanent conflict",
+              "Complete absence from the account",
+              "Identical outward activity",
+              "Perfect equilibrium"
+            ],
+            "correct": 3,
+            "explanation": "This balanced condition is called guna-saamya-avastha.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 11, PDF page 16"
+          },
+          {
+            "q": "What disturbs that equilibrium in the account of creation?",
+            "options": [
+              "The will of Iswara",
+              "Mere scholarly debate",
+              "A human decision to rename things",
+              "The disappearance of all causation"
+            ],
+            "correct": 0,
+            "explanation": "Disturbance of the balance initiates activity and its consequences.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 11, PDF page 16"
+          },
+          {
+            "q": "What does the mirage illustrate?",
+            "options": [
+              "Proof that desert sand is water",
+              "Superimposition of an appearance on a real basis",
+              "The eternal independence of all forms",
+              "A change in the nature of the Atma"
+            ],
+            "correct": 1,
+            "explanation": "Apparent water over sand parallels the mistaken overlay of the particular on the Universal.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 11, PDF page 16"
+          },
+          {
+            "q": "What removes the superimposition described here?",
+            "options": [
+              "Increasing attachment to bodily identity",
+              "Multiplying sensory impressions",
+              "Vision of Brahman or Atma",
+              "Treating appearances as absolute"
+            ],
+            "correct": 2,
+            "explanation": "Realisation corrects the illusion that hides the universal Self.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 11, PDF page 16"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Use the “Who am I” inquiry to cease the agitations",
+        "chapter": "Section 12 · Use the “Who am I” inquiry to cease the agitations",
+        "chapterNumber": 12,
+        "pdfStartPage": 16,
+        "pdfEndPage": 17,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+        "sourceLabel": "Section 12, PDF pages 16–17",
+        "summary": "The feelings of “I” and “mine” generate mental agitation and bondage. Even sleep and dreams do not amount to realisation, because ignorance can persist in them. Inquiry into “Who am I?”, associated here with Ramana Maharshi, addresses agitation at its root. The image of a soldier guarding a narrow passage illustrates meeting each disturbance as it arises.\n\nThe section traces an inward progression beginning with yearning for true welfare, followed by study, good company, withdrawal from sensory pleasures, and inquiry. Meditation on the identity expressed by “You are That” weakens the persistent separate ego. As desires and object-consciousness subside, awareness rests in Atmic bliss beyond the division of seer, seeing, and seen. Knowing names and forms alone cannot accomplish this transformation.",
+        "qa": [
+          {
+            "q": "Which feelings generate repeated activities and agitations?",
+            "a": "“I” and “mine”. The section identifies possessive ego-consciousness as a source of bondage."
+          },
+          {
+            "q": "Which inquiry is associated with Ramana Maharshi?",
+            "a": "“Who am I?”. This inquiry is presented as a direct means of stopping agitation."
+          },
+          {
+            "q": "What does the soldier at a narrow passage illustrate?",
+            "a": "Addressing each agitation as it arises. Practice supplies the courage to meet disturbances one by one."
+          },
+          {
+            "q": "What is subhecha in this account?",
+            "a": "Yearning for one’s true welfare. It begins the movement toward study, good company, and liberation."
+          },
+          {
+            "q": "What division is absent in the realised state described here?",
+            "a": "Seer, seen, and sight. The realised person remains immersed in Atmic bliss beyond this threefold distinction."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which feelings generate repeated activities and agitations?",
+            "options": [
+              "Equal love and peace",
+              "“I” and “mine”",
+              "Renunciation and discrimination",
+              "Truth and constancy"
+            ],
+            "correct": 1,
+            "explanation": "The section identifies possessive ego-consciousness as a source of bondage.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 12, PDF pages 16–17"
+          },
+          {
+            "q": "Which inquiry is associated with Ramana Maharshi?",
+            "options": [
+              "“How can I gain more possessions?”",
+              "“Who will praise me?”",
+              "“Who am I?”",
+              "“How can appearances become permanent?”"
+            ],
+            "correct": 2,
+            "explanation": "This inquiry is presented as a direct means of stopping agitation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 12, PDF pages 16–17"
+          },
+          {
+            "q": "What does the soldier at a narrow passage illustrate?",
+            "options": [
+              "Following every thought outward",
+              "Defeating other spiritual seekers",
+              "Abandoning all vigilance",
+              "Addressing each agitation as it arises"
+            ],
+            "correct": 3,
+            "explanation": "Practice supplies the courage to meet disturbances one by one.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 12, PDF pages 16–17"
+          },
+          {
+            "q": "What is subhecha in this account?",
+            "options": [
+              "Yearning for one’s true welfare",
+              "Final sensory enjoyment",
+              "Pride in learning",
+              "The physical body"
+            ],
+            "correct": 0,
+            "explanation": "It begins the movement toward study, good company, and liberation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 12, PDF pages 16–17"
+          },
+          {
+            "q": "What division is absent in the realised state described here?",
+            "options": [
+              "Teacher, text, and glossary only",
+              "Seer, seen, and sight",
+              "Past chapters and later chapters",
+              "Food, clothing, and shelter"
+            ],
+            "correct": 1,
+            "explanation": "The realised person remains immersed in Atmic bliss beyond this threefold distinction.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=16",
+            "sourceLabel": "Section 12, PDF pages 16–17"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Remember constantly that You are not the body!",
+        "chapter": "Section 13 · Remember constantly that You are not the body!",
+        "chapterNumber": 13,
+        "pdfStartPage": 17,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+        "sourceLabel": "Section 13, PDF pages 17–18",
+        "summary": "Clouds may hide the sky briefly without changing it. In the same way, the body temporarily obscures awareness of the Self without altering the eternal Paramatma. The shadow supplies another comparison: changes in its length or appearance do not change the person. Reflection on the body’s brief existence helps distinguish it from one’s enduring reality.\n\nThe body is formed from five elements and returns to them; it is not permanent before birth or after death. Clay fashioned into vessels illustrates forms emerging and subsiding in a common substance. The section asks the seeker to remain established in identity with the formless Brahman beyond past, present, and future, rather than identifying with the bodily frame caught within time.",
+        "qa": [
+          {
+            "q": "What do clouds passing across the sky illustrate?",
+            "a": "The body temporarily obscuring the truth of the Self. Passing clouds do not alter the sky, just as bodily conditions do not alter Paramatma."
+          },
+          {
+            "q": "What is the point of the shadow comparison?",
+            "a": "Changes in the body do not change the true Self. The shadow’s changing appearance does not affect the person it accompanies."
+          },
+          {
+            "q": "What happens to the body made of five elements?",
+            "a": "It breaks up into its components. The section uses its composite nature to show its impermanence."
+          },
+          {
+            "q": "What do clay pots, pans, and plates illustrate?",
+            "a": "Temporary forms of an underlying common substance. The forms return to clay, paralleling the discussion of formless reality appearing with form."
+          },
+          {
+            "q": "In what understanding should the seeker remain established?",
+            "a": "One’s nature is Brahman beyond time. Constant contemplation of this identity leads toward realisation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do clouds passing across the sky illustrate?",
+            "options": [
+              "The body temporarily obscuring the truth of the Self",
+              "The destruction of the Self by the body",
+              "The sky depending on clouds for existence",
+              "The permanence of bodily states"
+            ],
+            "correct": 0,
+            "explanation": "Passing clouds do not alter the sky, just as bodily conditions do not alter Paramatma.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+            "sourceLabel": "Section 13, PDF pages 17–18"
+          },
+          {
+            "q": "What is the point of the shadow comparison?",
+            "options": [
+              "The Self is merely a shadow of the body",
+              "Changes in the body do not change the true Self",
+              "Every shadow is permanent",
+              "Physical size determines spiritual reality"
+            ],
+            "correct": 1,
+            "explanation": "The shadow’s changing appearance does not affect the person it accompanies.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+            "sourceLabel": "Section 13, PDF pages 17–18"
+          },
+          {
+            "q": "What happens to the body made of five elements?",
+            "options": [
+              "It becomes eternally unchanging",
+              "It existed in the same form before birth",
+              "It breaks up into its components",
+              "It ceases to depend on its components"
+            ],
+            "correct": 2,
+            "explanation": "The section uses its composite nature to show its impermanence.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+            "sourceLabel": "Section 13, PDF pages 17–18"
+          },
+          {
+            "q": "What do clay pots, pans, and plates illustrate?",
+            "options": [
+              "Independent realities with no common basis",
+              "Objects that never change",
+              "The creation of consciousness by names",
+              "Temporary forms of an underlying common substance"
+            ],
+            "correct": 3,
+            "explanation": "The forms return to clay, paralleling the discussion of formless reality appearing with form.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+            "sourceLabel": "Section 13, PDF pages 17–18"
+          },
+          {
+            "q": "In what understanding should the seeker remain established?",
+            "options": [
+              "One’s nature is Brahman beyond time",
+              "One is only the time-bound body",
+              "The Self begins at physical birth",
+              "Bodily change is the measure of absolute truth"
+            ],
+            "correct": 0,
+            "explanation": "Constant contemplation of this identity leads toward realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=17",
+            "sourceLabel": "Section 13, PDF pages 17–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Develop non-attachment: Be in the world but not of it",
+        "chapter": "Section 14 · Develop non-attachment: Be in the world but not of it",
+        "chapterNumber": 14,
+        "pdfStartPage": 18,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+        "sourceLabel": "Section 14, PDF page 18",
+        "summary": "Attachment is described as bondage and non-attachment as liberation. The mind reaches toward an object, the senses respond, and action gives rise to pleasure or pain and further emotional entanglement. Fear, anger, and affection accompany attachment; desire produces liking for what supports it and hostility toward what obstructs it.\n\nThe remedy is inward purification. As impure gold is refined, the mind is purified through inquiry and discrimination until awareness of the Atma shines. The seeker must retain mastery even in difficulty and turn the mind toward the Self within the heart. The section moves from differentiated samadhi to the undifferentiated state, where delusion and duality disappear and the bonds of ignorance and desire fall away.",
+        "qa": [
+          {
+            "q": "What does the section identify as bondage?",
+            "a": "Attachment. Craving for objects, company, or places binds the mind."
+          },
+          {
+            "q": "What can cause either bondage or liberation?",
+            "a": "The mind. Its direction and attachments determine its binding or freeing role."
+          },
+          {
+            "q": "Which three are named as close companions of attachment?",
+            "a": "Fear, anger, and affection. They accompany the cycle of desire and emotional involvement described here."
+          },
+          {
+            "q": "What purifies the mind in the gold-refining comparison?",
+            "a": "Inquiry and discrimination. Inquiry is the crucible and discrimination the heat that reveals inner brightness."
+          },
+          {
+            "q": "What must disappear completely for undifferentiated samadhi?",
+            "a": "Delusion. The section describes a state without duality when ignorance and desire no longer bind."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the section identify as bondage?",
+            "options": [
+              "Non-attachment",
+              "Atmic knowledge",
+              "Discrimination",
+              "Attachment"
+            ],
+            "correct": 3,
+            "explanation": "Craving for objects, company, or places binds the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 14, PDF page 18"
+          },
+          {
+            "q": "What can cause either bondage or liberation?",
+            "options": [
+              "The mind",
+              "Birthplace alone",
+              "Physical strength",
+              "Social rank"
+            ],
+            "correct": 0,
+            "explanation": "Its direction and attachments determine its binding or freeing role.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 14, PDF page 18"
+          },
+          {
+            "q": "Which three are named as close companions of attachment?",
+            "options": [
+              "Wisdom, peace, and freedom",
+              "Fear, anger, and affection",
+              "Faith, inquiry, and renunciation",
+              "Sleep, waking, and dreaming"
+            ],
+            "correct": 1,
+            "explanation": "They accompany the cycle of desire and emotional involvement described here.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 14, PDF page 18"
+          },
+          {
+            "q": "What purifies the mind in the gold-refining comparison?",
+            "options": [
+              "Praise and possessions",
+              "More sensory craving",
+              "Inquiry and discrimination",
+              "Change of physical location alone"
+            ],
+            "correct": 2,
+            "explanation": "Inquiry is the crucible and discrimination the heat that reveals inner brightness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 14, PDF page 18"
+          },
+          {
+            "q": "What must disappear completely for undifferentiated samadhi?",
+            "options": [
+              "The Atma",
+              "Brahman",
+              "The underlying reality",
+              "Delusion"
+            ],
+            "correct": 3,
+            "explanation": "The section describes a state without duality when ignorance and desire no longer bind.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 14, PDF page 18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Self-realization is the ultimate goal of life",
+        "chapter": "Section 15 · Self-realization is the ultimate goal of life",
+        "chapterNumber": 15,
+        "pdfStartPage": 18,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+        "sourceLabel": "Section 15, PDF pages 18–19",
+        "summary": "The snake abandoning its old skin illustrates freedom from identification with the body. Human life is directed toward realising the Atma, not merely obtaining passing pleasures. The wise remain in the world as instruments of the Lord without being inwardly bound by it. Ego and possessiveness are identified as roots of ignorance and sorrow.\n\nVasishta’s image of a bull tied in a dark forest portrays the individual bound by desire amid delusion and worry. The wise release it through discrimination and inquiry leading to knowledge of the Self. External withdrawal alone is insufficient: inward cravings must also end. When identification with thoughts, impulses, and bodily instruments is transcended, the declaration of identity with Brahman arises from actual experience rather than repetition.",
+        "qa": [
+          {
+            "q": "What does the snake leaving its old skin illustrate?",
+            "a": "Non-attachment to the body. The discarded skin represents the bodily identification to be left behind."
+          },
+          {
+            "q": "What is the ultimate goal identified in this section?",
+            "a": "Realisation of the Atma. Vasishta’s teaching points toward Self-knowledge beyond time."
+          },
+          {
+            "q": "In Vasishta’s illustration, what binds the bull?",
+            "a": "The rope of desire. The bull represents the individual caught in worldly delusion."
+          },
+          {
+            "q": "Why is giving up outward sense-related activities insufficient?",
+            "a": "Inward cravings must also be uprooted. The term thrishna includes both inward promptings and outward pursuits."
+          },
+          {
+            "q": "How does the wise person’s declaration of identity with Brahman arise?",
+            "a": "From sincere experience. The text connects the declaration with transcendence of limiting identifications."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the snake leaving its old skin illustrate?",
+            "options": [
+              "Preservation of bodily identity forever",
+              "Dependence on sensory pleasure",
+              "Non-attachment to the body",
+              "Fear of inquiry"
+            ],
+            "correct": 2,
+            "explanation": "The discarded skin represents the bodily identification to be left behind.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 15, PDF pages 18–19"
+          },
+          {
+            "q": "What is the ultimate goal identified in this section?",
+            "options": [
+              "Endless passing pleasure",
+              "Increased possessiveness",
+              "Prestige through learning",
+              "Realisation of the Atma"
+            ],
+            "correct": 3,
+            "explanation": "Vasishta’s teaching points toward Self-knowledge beyond time.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 15, PDF pages 18–19"
+          },
+          {
+            "q": "In Vasishta’s illustration, what binds the bull?",
+            "options": [
+              "The rope of desire",
+              "The light of wisdom",
+              "The freedom of inquiry",
+              "The protection of equanimity"
+            ],
+            "correct": 0,
+            "explanation": "The bull represents the individual caught in worldly delusion.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 15, PDF pages 18–19"
+          },
+          {
+            "q": "Why is giving up outward sense-related activities insufficient?",
+            "options": [
+              "Inner desire never affects bondage",
+              "Inward cravings must also be uprooted",
+              "External withdrawal creates the Atma",
+              "No further understanding is possible"
+            ],
+            "correct": 1,
+            "explanation": "The term thrishna includes both inward promptings and outward pursuits.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 15, PDF pages 18–19"
+          },
+          {
+            "q": "How does the wise person’s declaration of identity with Brahman arise?",
+            "options": [
+              "From a wish for social recognition",
+              "From bodily strength",
+              "From sincere experience",
+              "From memorising a sentence alone"
+            ],
+            "correct": 2,
+            "explanation": "The text connects the declaration with transcendence of limiting identifications.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=18",
+            "sourceLabel": "Section 15, PDF pages 18–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Being-Awareness-Bliss describes the experience of Brahman",
+        "chapter": "Section 16 · Being-Awareness-Bliss describes the experience of Brahman",
+        "chapterNumber": 16,
+        "pdfStartPage": 19,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+        "sourceLabel": "Section 16, PDF pages 19–20",
+        "summary": "Being-awareness-bliss describes the eternal, formless, all-pervading Brahman. The section explains several names and roots: Brahman suggests expansion, Purusha the one who fills or indwells, and Atma that through whose knowledge everything is known. These expressions point to one indivisible reality rather than separate entities.\n\nThe discussion draws on the Upanishads quoted in the book to describe all existence as arising, living, and resting in bliss. Brahman is limitless, self-illuminating, peaceful, free, and content. Actual experience of this reality is distinguished from information gained by reading. Vijnana names such realised knowledge, while chit and chaithanya indicate consciousness. The account ends by contrasting ever-conscious Brahman with the inert, stressing that Self-knowledge is experiential awareness, not an accumulation of facts.",
+        "qa": [
+          {
+            "q": "What does satchidananda mean here?",
+            "a": "Being-awareness-bliss. It describes the nature and experience of the eternal Brahman."
+          },
+          {
+            "q": "What meaning is associated with the root of Brahman?",
+            "a": "Expansion or enlargement. The text derives the word from Brih."
+          },
+          {
+            "q": "What does Bhuma mean?",
+            "a": "Limitless. The discussion associates true bliss with the limitless and eternal."
+          },
+          {
+            "q": "How does this section distinguish vijnana from ordinary information?",
+            "a": "It names actual experience of Brahman. The realised knowledge discussed here goes beyond learned information."
+          },
+          {
+            "q": "What is contrasted with pure consciousness?",
+            "a": "The inert or unconscious, jada. Brahman is described as eternally conscious, unlike inert objects."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does satchidananda mean here?",
+            "options": [
+              "Birth-growth-death",
+              "Being-awareness-bliss",
+              "Body-senses-mind",
+              "Name-form-action"
+            ],
+            "correct": 1,
+            "explanation": "It describes the nature and experience of the eternal Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+            "sourceLabel": "Section 16, PDF pages 19–20"
+          },
+          {
+            "q": "What meaning is associated with the root of Brahman?",
+            "options": [
+              "Division into separate selves",
+              "Forgetfulness",
+              "Expansion or enlargement",
+              "Bodily decay"
+            ],
+            "correct": 2,
+            "explanation": "The text derives the word from Brih.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+            "sourceLabel": "Section 16, PDF pages 19–20"
+          },
+          {
+            "q": "What does Bhuma mean?",
+            "options": [
+              "A temporary form",
+              "A sensory organ",
+              "A limited possession",
+              "Limitless"
+            ],
+            "correct": 3,
+            "explanation": "The discussion associates true bliss with the limitless and eternal.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+            "sourceLabel": "Section 16, PDF pages 19–20"
+          },
+          {
+            "q": "How does this section distinguish vijnana from ordinary information?",
+            "options": [
+              "It names actual experience of Brahman",
+              "It means only memorising books",
+              "It excludes every direct experience",
+              "It refers only to sensory descriptions"
+            ],
+            "correct": 0,
+            "explanation": "The realised knowledge discussed here goes beyond learned information.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+            "sourceLabel": "Section 16, PDF pages 19–20"
+          },
+          {
+            "q": "What is contrasted with pure consciousness?",
+            "options": [
+              "Eternal awareness",
+              "The inert or unconscious, jada",
+              "The experience of Brahman",
+              "Atmic knowledge"
+            ],
+            "correct": 1,
+            "explanation": "Brahman is described as eternally conscious, unlike inert objects.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=19",
+            "sourceLabel": "Section 16, PDF pages 19–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Atma is immanent nonchanging Unity beyond time and space",
+        "chapter": "Section 17 · Atma is immanent nonchanging Unity beyond time and space",
+        "chapterNumber": 17,
+        "pdfStartPage": 20,
+        "pdfEndPage": 21,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+        "sourceLabel": "Section 17, PDF pages 20–21",
+        "summary": "The realised person experiences the same Atma in everyone; distinctions of caste, colour, and creed belong to bodies. The Atma has no parts or blemish and remains the witness of changes attributed to nature. Absolute truth is that which persists without beginning, ending, or alteration, unlike body, senses, mind, and life-force, whose value is relative.\n\nBecause Brahman transcends time, space, and the mind, neither words nor the physical eye can contain it. The eye sees through Brahman and cannot turn that enabling reality into an ordinary object. Terms describing purity, inconceivability, and freedom from activity point toward this uniqueness. Understanding Brahman as the underlying source and indwelling reality of the universe is presented as experiential wisdom.",
+        "qa": [
+          {
+            "q": "Where do differences of caste, colour, and creed belong in this account?",
+            "a": "To the external body. The realised person experiences unity beneath bodily distinctions."
+          },
+          {
+            "q": "What is the Atma’s relation to modifications?",
+            "a": "It is the unchanging witness. Nature is associated with modification, while the Supreme Spirit witnesses it."
+          },
+          {
+            "q": "What qualifies as absolute truth here?",
+            "a": "That which persists unchanged beyond beginning and end. Transience distinguishes relative appearances from absolute reality."
+          },
+          {
+            "q": "Why can the eye not grasp Brahman as an ordinary object?",
+            "a": "Its own power to see depends on Brahman. The enabling reality exceeds the limited changing instrument."
+          },
+          {
+            "q": "What limits the mind but not the Supreme Self?",
+            "a": "Time, space, and causation. The section uses these limitations to explain why thought cannot contain Brahman."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where do differences of caste, colour, and creed belong in this account?",
+            "options": [
+              "To the external body",
+              "To separate eternal Atmas",
+              "To Brahman’s indivisible essence",
+              "To the unchanging witness"
+            ],
+            "correct": 0,
+            "explanation": "The realised person experiences unity beneath bodily distinctions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+            "sourceLabel": "Section 17, PDF pages 20–21"
+          },
+          {
+            "q": "What is the Atma’s relation to modifications?",
+            "options": [
+              "It undergoes every bodily alteration",
+              "It is the unchanging witness",
+              "It changes with each desire",
+              "It is created by the qualities"
+            ],
+            "correct": 1,
+            "explanation": "Nature is associated with modification, while the Supreme Spirit witnesses it.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+            "sourceLabel": "Section 17, PDF pages 20–21"
+          },
+          {
+            "q": "What qualifies as absolute truth here?",
+            "options": [
+              "Whatever produces momentary pleasure",
+              "Anything seen by the physical eye",
+              "That which persists unchanged beyond beginning and end",
+              "Every thought that arises"
+            ],
+            "correct": 2,
+            "explanation": "Transience distinguishes relative appearances from absolute reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+            "sourceLabel": "Section 17, PDF pages 20–21"
+          },
+          {
+            "q": "Why can the eye not grasp Brahman as an ordinary object?",
+            "options": [
+              "Brahman is merely too small physically",
+              "Brahman exists only in darkness",
+              "The eye has no relation to awareness",
+              "Its own power to see depends on Brahman"
+            ],
+            "correct": 3,
+            "explanation": "The enabling reality exceeds the limited changing instrument.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+            "sourceLabel": "Section 17, PDF pages 20–21"
+          },
+          {
+            "q": "What limits the mind but not the Supreme Self?",
+            "options": [
+              "Time, space, and causation",
+              "Peace and freedom",
+              "Purity and unity",
+              "Being and awareness"
+            ],
+            "correct": 0,
+            "explanation": "The section uses these limitations to explain why thought cannot contain Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=20",
+            "sourceLabel": "Section 17, PDF pages 20–21"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Highest spiritual wisdom is Brahman",
+        "chapter": "Section 18 · Highest spiritual wisdom is Brahman",
+        "chapterNumber": 18,
+        "pdfStartPage": 21,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+        "sourceLabel": "Section 18, PDF pages 21–22",
+        "summary": "Spiritual wisdom is declared to be Brahman itself, rather than an attribute Brahman possesses. The distinction matters because direct realisation ends the separation of knower, known, and knowledge. Debate about Brahman’s supposed properties is contrasted with the certainty of firsthand experience. Truth, knowledge, and bliss name the reality rather than additions to it.\n\nKnowledge conditioned by the three qualities remains limited; knowledge of the transcendental must transcend those conditions. The text therefore distinguishes this wisdom even from knowledge governed by serenity. Brahman and spiritual wisdom are both formless in the fullest sense. Forms attributed to Brahman serve the embodied individual’s conditioned understanding, while ignorance mistakes that temporary condition for the Atma’s essential nature.",
+        "qa": [
+          {
+            "q": "How is spiritual wisdom related to Brahman?",
+            "a": "It is Brahman itself. The section explicitly rejects treating jnana as a mere quality of Brahman."
+          },
+          {
+            "q": "What becomes one when Brahman is known?",
+            "a": "Knower, known, and knowledge. Direct realisation dissolves the threefold distinction."
+          },
+          {
+            "q": "What does Vijnanaghana indicate in this discussion?",
+            "a": "The sum and substance of highest knowledge. The term is used to describe Brahman as knowledge itself."
+          },
+          {
+            "q": "How is knowledge limited by the three qualities classified here?",
+            "a": "As ignorance relative to transcendental wisdom. The knowledge sought must transcend thamas, rajas, and sathwa."
+          },
+          {
+            "q": "Why is form attributed to Brahman?",
+            "a": "To serve the understanding of the embodied, conditioned soul. The apparent form belongs to conditioned understanding, not the formless Absolute."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is spiritual wisdom related to Brahman?",
+            "options": [
+              "It is only an external attribute",
+              "It is wholly separate from Brahman",
+              "It is a physical form of the body",
+              "It is Brahman itself"
+            ],
+            "correct": 3,
+            "explanation": "The section explicitly rejects treating jnana as a mere quality of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+            "sourceLabel": "Section 18, PDF pages 21–22"
+          },
+          {
+            "q": "What becomes one when Brahman is known?",
+            "options": [
+              "Knower, known, and knowledge",
+              "Only the body and its shadow",
+              "Only social identities",
+              "The three physical dimensions"
+            ],
+            "correct": 0,
+            "explanation": "Direct realisation dissolves the threefold distinction.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+            "sourceLabel": "Section 18, PDF pages 21–22"
+          },
+          {
+            "q": "What does Vijnanaghana indicate in this discussion?",
+            "options": [
+              "A collection of sensory objects",
+              "The sum and substance of highest knowledge",
+              "The absence of consciousness",
+              "A particular bodily organ"
+            ],
+            "correct": 1,
+            "explanation": "The term is used to describe Brahman as knowledge itself.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+            "sourceLabel": "Section 18, PDF pages 21–22"
+          },
+          {
+            "q": "How is knowledge limited by the three qualities classified here?",
+            "options": [
+              "As complete transcendental knowledge",
+              "As automatically beyond all conditioning",
+              "As ignorance relative to transcendental wisdom",
+              "As Brahman’s permanent physical form"
+            ],
+            "correct": 2,
+            "explanation": "The knowledge sought must transcend thamas, rajas, and sathwa.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+            "sourceLabel": "Section 18, PDF pages 21–22"
+          },
+          {
+            "q": "Why is form attributed to Brahman?",
+            "options": [
+              "Because the Absolute has a fixed bodily boundary",
+              "Because wisdom has a visible physical shape",
+              "Because Brahman changes with every body",
+              "To serve the understanding of the embodied, conditioned soul"
+            ],
+            "correct": 3,
+            "explanation": "The apparent form belongs to conditioned understanding, not the formless Absolute.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=21",
+            "sourceLabel": "Section 18, PDF pages 21–22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Take up the chief path to acquire spiritual wisdom: devotion",
+        "chapter": "Section 19 · Take up the chief path to acquire spiritual wisdom: devotion",
+        "chapterNumber": 19,
+        "pdfStartPage": 22,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+        "sourceLabel": "Section 19, PDF page 22",
+        "summary": "Spiritual wisdom is presented as the remedy for ignorance and its sufferings. Among the paths leading to it, devotion receives chief emphasis. The relationship is illustrated by oil sustaining a flame and water nourishing a tree: devotion supports and develops the joy of wisdom. The section recalls devotees named in the text and Krishna’s teaching that He is known through devotion.\n\nThis path is open across age, sex, and social position. The medical comparison explains why those in ignorance especially need spiritual teaching, just as the ill need treatment and the hungry need food. Wisdom removes the misunderstanding that conceals truth. The point is an invitation to begin, supported by devotion, rather than an exclusion of those still struggling with ignorance.",
+        "qa": [
+          {
+            "q": "Which path is given chief emphasis for acquiring wisdom?",
+            "a": "Devotion. Bhakthi is described as the chief among the many paths to jnana."
+          },
+          {
+            "q": "In the lamp comparison, what does devotion supply?",
+            "a": "The oil supporting the flame of wisdom. Devotion nourishes wisdom as oil sustains a lamp’s flame."
+          },
+          {
+            "q": "In the tree comparison, what nourishes the joy of wisdom?",
+            "a": "The refreshing waters of devotion. The two images show devotion sustaining spiritual knowledge."
+          },
+          {
+            "q": "Who is entitled to follow devotion in this section?",
+            "a": "Young and old, high and low, women and men. The path is described as accessible without these exclusions."
+          },
+          {
+            "q": "Who most urgently needs the teaching that removes ignorance?",
+            "a": "Those groping in ignorance. The text compares their need with a sick person’s need for treatment."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which path is given chief emphasis for acquiring wisdom?",
+            "options": [
+              "Social prestige",
+              "Accumulation of possessions",
+              "Devotion",
+              "Debate alone"
+            ],
+            "correct": 2,
+            "explanation": "Bhakthi is described as the chief among the many paths to jnana.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 19, PDF page 22"
+          },
+          {
+            "q": "In the lamp comparison, what does devotion supply?",
+            "options": [
+              "The darkness covering the flame",
+              "The smoke replacing knowledge",
+              "The wall hiding the lamp",
+              "The oil supporting the flame of wisdom"
+            ],
+            "correct": 3,
+            "explanation": "Devotion nourishes wisdom as oil sustains a lamp’s flame.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 19, PDF page 22"
+          },
+          {
+            "q": "In the tree comparison, what nourishes the joy of wisdom?",
+            "options": [
+              "The refreshing waters of devotion",
+              "The heat of rivalry",
+              "The weight of possessions",
+              "The fog of misunderstanding"
+            ],
+            "correct": 0,
+            "explanation": "The two images show devotion sustaining spiritual knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 19, PDF page 22"
+          },
+          {
+            "q": "Who is entitled to follow devotion in this section?",
+            "options": [
+              "Only elderly scholars",
+              "Young and old, high and low, women and men",
+              "Only one social class",
+              "Only those already free of ignorance"
+            ],
+            "correct": 1,
+            "explanation": "The path is described as accessible without these exclusions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 19, PDF page 22"
+          },
+          {
+            "q": "Who most urgently needs the teaching that removes ignorance?",
+            "options": [
+              "Only those already fully realised",
+              "Only those seeking worldly recognition",
+              "Those groping in ignorance",
+              "Those who reject every form of guidance"
+            ],
+            "correct": 2,
+            "explanation": "The text compares their need with a sick person’s need for treatment.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 19, PDF page 22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "Everyone can win spiritual wisdom, regardless of status, class, or sex",
+        "chapter": "Section 20 · Everyone can win spiritual wisdom, regardless of status, class, or sex",
+        "chapterNumber": 20,
+        "pdfStartPage": 22,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+        "sourceLabel": "Section 20, PDF pages 22–23",
+        "summary": "No distinction of status, class, or sex excludes a person from spiritual wisdom. The section cites teachings given to Parvathi, Devahuthi, Maitreyi, and Sabari, along with a woman’s philosophical discussion with Sankaracharya. These examples challenge the claim that women cannot receive the highest knowledge.\n\nThe relevant qualification is spiritual discipline, not a social label. The Lord is portrayed as wholly merciful and without prejudice: sparks belong to their fire and drops to their sea. A father’s relation to his children provides another image of inclusion. Krishna’s teaching in the Gita, as quoted here, affirms that faithful devotion leads to Him regardless of caste or sex. The aspirant is therefore asked to concentrate on practice.",
+        "qa": [
+          {
+            "q": "What is the section’s central claim about access to wisdom?",
+            "a": "Everyone can attain it regardless of status, class, or sex. The section expressly rejects these social restrictions."
+          },
+          {
+            "q": "Who is named as the recipient of Kapila’s teaching?",
+            "a": "His mother Devahuthi. This example supports the eligibility of women for spiritual knowledge."
+          },
+          {
+            "q": "Who taught Vedantic principles to Maitreyi?",
+            "a": "Yajnavalkya. The section refers to this teaching in the Brihadaranyaka Upanishad."
+          },
+          {
+            "q": "What is identified as the chief qualification for the path?",
+            "a": "Spiritual discipline and practice. Attention is to be directed to tapas rather than irrelevant labels."
+          },
+          {
+            "q": "What do sparks returning to fire and drops to the sea illustrate?",
+            "a": "The Lord’s acceptance of those who belong to Him. The images support the account of divine mercy without prejudice."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the section’s central claim about access to wisdom?",
+            "options": [
+              "It belongs exclusively to one inherited class",
+              "Everyone can attain it regardless of status, class, or sex",
+              "Women are excluded from it",
+              "Only public teachers may pursue it"
+            ],
+            "correct": 1,
+            "explanation": "The section expressly rejects these social restrictions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 20, PDF pages 22–23"
+          },
+          {
+            "q": "Who is named as the recipient of Kapila’s teaching?",
+            "options": [
+              "Sabari",
+              "Parvathi",
+              "His mother Devahuthi",
+              "Maitreyi"
+            ],
+            "correct": 2,
+            "explanation": "This example supports the eligibility of women for spiritual knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 20, PDF pages 22–23"
+          },
+          {
+            "q": "Who taught Vedantic principles to Maitreyi?",
+            "options": [
+              "Mathanga",
+              "Kapila",
+              "Narada",
+              "Yajnavalkya"
+            ],
+            "correct": 3,
+            "explanation": "The section refers to this teaching in the Brihadaranyaka Upanishad.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 20, PDF pages 22–23"
+          },
+          {
+            "q": "What is identified as the chief qualification for the path?",
+            "options": [
+              "Spiritual discipline and practice",
+              "Caste alone",
+              "Sex alone",
+              "Social reputation"
+            ],
+            "correct": 0,
+            "explanation": "Attention is to be directed to tapas rather than irrelevant labels.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 20, PDF pages 22–23"
+          },
+          {
+            "q": "What do sparks returning to fire and drops to the sea illustrate?",
+            "options": [
+              "Permanent exclusion of some seekers",
+              "The Lord’s acceptance of those who belong to Him",
+              "Rivalry among teachers",
+              "The superiority of one bodily form"
+            ],
+            "correct": 1,
+            "explanation": "The images support the account of divine mercy without prejudice.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=22",
+            "sourceLabel": "Section 20, PDF pages 22–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-21",
+        "title": "Wisdom consists of the feeling of oneness without distinctions",
+        "chapter": "Section 21 · Wisdom consists of the feeling of oneness without distinctions",
+        "chapterNumber": 21,
+        "pdfStartPage": 23,
+        "pdfEndPage": 24,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+        "sourceLabel": "Section 21, PDF pages 23–24",
+        "summary": "Purity is a consequence of moving toward God, not a condition that must already be perfected before one may begin. Requiring spiritual health before allowing discipline would be like demanding that a patient recover before receiving medicine. Yet the comparison also preserves the need for discipline: treatment succeeds when its accompanying restrictions and guidance are followed.\n\nThe examples of realised people from different backgrounds show that constant contemplation matters more than social labels. Wisdom culminates in oneness without high and low. Every part of a sugar doll has the same sweetness, and fruit on different parts of a tree shares its essential kind. Differences in ripeness illustrate stages of development, not an inherently superior or inferior spiritual substance.",
+        "qa": [
+          {
+            "q": "Why is prior perfection not required before beginning spiritual practice?",
+            "a": "Purity and goodness grow through the journey toward God. The patient-and-medicine analogy explains why treatment must be available to those who need it."
+          },
+          {
+            "q": "What does the medical analogy still require during treatment?",
+            "a": "Following the prescribed regulations and restrictions. The section balances open access with disciplined participation."
+          },
+          {
+            "q": "What matters more than caste or creed labels?",
+            "a": "Constant meditation on the Lord. The examples of realised people support this emphasis."
+          },
+          {
+            "q": "What does the sugar doll illustrate?",
+            "a": "Uniform divine essence throughout apparent differences. Every part shares the same sweetness, illustrating nonduality."
+          },
+          {
+            "q": "What do tender, green, and ripe fruits represent?",
+            "a": "Different stages or characteristics of development. The comparison separates maturity from essential nature."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is prior perfection not required before beginning spiritual practice?",
+            "options": [
+              "Purity and goodness grow through the journey toward God",
+              "Conduct never matters at any stage",
+              "Ignorance itself is the final goal",
+              "Practice is reserved for the already liberated"
+            ],
+            "correct": 0,
+            "explanation": "The patient-and-medicine analogy explains why treatment must be available to those who need it.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+            "sourceLabel": "Section 21, PDF pages 23–24"
+          },
+          {
+            "q": "What does the medical analogy still require during treatment?",
+            "options": [
+              "Ignoring all guidance once medicine is received",
+              "Following the prescribed regulations and restrictions",
+              "Judging the treatment only by its price",
+              "Replacing treatment with argument"
+            ],
+            "correct": 1,
+            "explanation": "The section balances open access with disciplined participation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+            "sourceLabel": "Section 21, PDF pages 23–24"
+          },
+          {
+            "q": "What matters more than caste or creed labels?",
+            "options": [
+              "Inherited prestige",
+              "Public acclaim",
+              "Constant meditation on the Lord",
+              "Bodily appearance"
+            ],
+            "correct": 2,
+            "explanation": "The examples of realised people support this emphasis.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+            "sourceLabel": "Section 21, PDF pages 23–24"
+          },
+          {
+            "q": "What does the sugar doll illustrate?",
+            "options": [
+              "Different spiritual substances in each limb",
+              "Greater sweetness determined by bodily height",
+              "Permanent division within Brahman",
+              "Uniform divine essence throughout apparent differences"
+            ],
+            "correct": 3,
+            "explanation": "Every part shares the same sweetness, illustrating nonduality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+            "sourceLabel": "Section 21, PDF pages 23–24"
+          },
+          {
+            "q": "What do tender, green, and ripe fruits represent?",
+            "options": [
+              "Different stages or characteristics of development",
+              "Different ultimate divine sources",
+              "A fixed hierarchy based on branch height",
+              "Proof that lower fruit must be bitter"
+            ],
+            "correct": 0,
+            "explanation": "The comparison separates maturity from essential nature.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=23",
+            "sourceLabel": "Section 21, PDF pages 23–24"
+          }
+        ]
+      },
+      {
+        "id": "chapter-22",
+        "title": "Caste depends more on qualities than on birth",
+        "chapter": "Section 22 · Caste depends more on qualities than on birth",
+        "chapterNumber": 22,
+        "pdfStartPage": 24,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+        "sourceLabel": "Section 22, PDF pages 24–25",
+        "summary": "The discussion of caste interprets its divisions through qualities, conduct, and stages of development. Sathwa predominating in thought and behaviour is associated with movement toward Brahman; rajas is associated with the protecting or warrior role. The reference to the Gita links classification to qualities and actions, rather than treating birth as its sufficient basis.\n\nSpiritual effort and disciplined conduct are decisive. A person born as a labourer may attain brahminhood through striving toward Brahman, while a person born a brahmin who lacks that ideal and effort does not retain its spiritual meaning merely by birth. The concluding principle is that the same Atma dwells in everyone and knows no caste, class, or conflict.",
+        "qa": [
+          {
+            "q": "What chiefly determines the classifications discussed here?",
+            "a": "Qualities, actions, and character. The section interprets caste through development and behaviour."
+          },
+          {
+            "q": "Which quality predominates in the description of brahmins?",
+            "a": "Sathwa. Purity in thought and conduct is linked to progress toward Brahman."
+          },
+          {
+            "q": "Which quality is associated with the protecting or warrior role?",
+            "a": "Rajas. The text relates this role to the active quality."
+          },
+          {
+            "q": "Can someone born as a labourer attain brahminhood in this account?",
+            "a": "Yes, through striving toward Brahman and spiritual exercise. Conduct and disciplined effort, rather than birth alone, are the deciding factors."
+          },
+          {
+            "q": "What caste distinctions belong to the inner Atma?",
+            "a": "None. The section closes by affirming the identical Atmic principle in all."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What chiefly determines the classifications discussed here?",
+            "options": [
+              "Birth alone without conduct",
+              "Wealth alone",
+              "Physical appearance alone",
+              "Qualities, actions, and character"
+            ],
+            "correct": 3,
+            "explanation": "The section interprets caste through development and behaviour.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+            "sourceLabel": "Section 22, PDF pages 24–25"
+          },
+          {
+            "q": "Which quality predominates in the description of brahmins?",
+            "options": [
+              "Sathwa",
+              "Thamas alone",
+              "Rajas alone",
+              "None of the three is discussed"
+            ],
+            "correct": 0,
+            "explanation": "Purity in thought and conduct is linked to progress toward Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+            "sourceLabel": "Section 22, PDF pages 24–25"
+          },
+          {
+            "q": "Which quality is associated with the protecting or warrior role?",
+            "options": [
+              "Sathwa alone",
+              "Rajas",
+              "Thamas alone",
+              "Complete absence of action"
+            ],
+            "correct": 1,
+            "explanation": "The text relates this role to the active quality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+            "sourceLabel": "Section 22, PDF pages 24–25"
+          },
+          {
+            "q": "Can someone born as a labourer attain brahminhood in this account?",
+            "options": [
+              "No, birth permanently prevents it",
+              "Only by gaining wealth",
+              "Yes, through striving toward Brahman and spiritual exercise",
+              "Only by changing physical appearance"
+            ],
+            "correct": 2,
+            "explanation": "Conduct and disciplined effort, rather than birth alone, are the deciding factors.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+            "sourceLabel": "Section 22, PDF pages 24–25"
+          },
+          {
+            "q": "What caste distinctions belong to the inner Atma?",
+            "options": [
+              "Only distinctions inherited at birth",
+              "Only distinctions based on wealth",
+              "The same distinctions as bodily occupations",
+              "None"
+            ],
+            "correct": 3,
+            "explanation": "The section closes by affirming the identical Atmic principle in all.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=24",
+            "sourceLabel": "Section 22, PDF pages 24–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-23",
+        "title": "Accept the rigours of spiritual discipline and follow the path of devotion",
+        "chapter": "Section 23 · Accept the rigours of spiritual discipline and follow the path of devotion",
+        "chapterNumber": 23,
+        "pdfStartPage": 25,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+        "sourceLabel": "Section 23, PDF page 25",
+        "summary": "Devotion ripens into wisdom as sugarcane becomes sugar. Realisation does not create a new divine Self; it removes the mistaken idea of being a separate individual. Washing a dirty white cloth illustrates the combined requirements: pure conduct, contemplation of Brahman, repetition of the name, meditation, and renunciation restore what ignorance has obscured.\n\nGood soap cannot clean cloth in dirty water. Likewise, long study and meditation cannot compensate for harmful daily conduct. The rigours of discipline must be accepted rather than dismissed as restrictions on freedom. The Supreme is already the being of every creature, whether acknowledged or denied. The vision of wisdom, compared to an instrument that makes distant things visible, enables recognition of this indwelling reality.",
+        "qa": [
+          {
+            "q": "What illustrates devotion ripening into wisdom?",
+            "a": "Sugarcane becoming sugar. The two are stages of one spiritual development, not unrelated paths."
+          },
+          {
+            "q": "What is removed when the individual recognises its divine nature?",
+            "a": "The mistaken separate-soul idea. The text describes recognition of what one already is."
+          },
+          {
+            "q": "In the cloth-washing analogy, what does dirty water represent?",
+            "a": "Wrong daily conduct. Good meditation cannot make up for behaviour that continues to soil the mind."
+          },
+          {
+            "q": "Why can years of study and meditation fail to bear fruit?",
+            "a": "Conduct and habits may remain impure. The washing illustration joins contemplation with moral discipline."
+          },
+          {
+            "q": "What is compared to a telescope for recognising indwelling Brahman?",
+            "a": "The vision of wisdom. Jnana-drishti enables perception of the divine reality already present."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What illustrates devotion ripening into wisdom?",
+            "options": [
+              "A stone becoming water",
+              "A shadow becoming the sun",
+              "Sugarcane becoming sugar",
+              "A tree losing all roots"
+            ],
+            "correct": 2,
+            "explanation": "The two are stages of one spiritual development, not unrelated paths.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 23, PDF page 25"
+          },
+          {
+            "q": "What is removed when the individual recognises its divine nature?",
+            "options": [
+              "The Atma itself",
+              "The existence of Brahman",
+              "Every possibility of understanding",
+              "The mistaken separate-soul idea"
+            ],
+            "correct": 3,
+            "explanation": "The text describes recognition of what one already is.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 23, PDF page 25"
+          },
+          {
+            "q": "In the cloth-washing analogy, what does dirty water represent?",
+            "options": [
+              "Wrong daily conduct",
+              "The purity of Brahman",
+              "Successful renunciation",
+              "The completed state of wisdom"
+            ],
+            "correct": 0,
+            "explanation": "Good meditation cannot make up for behaviour that continues to soil the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 23, PDF page 25"
+          },
+          {
+            "q": "Why can years of study and meditation fail to bear fruit?",
+            "options": [
+              "Brahman is absent from some beings",
+              "Conduct and habits may remain impure",
+              "Devotion can never mature into wisdom",
+              "The Atma must first be manufactured"
+            ],
+            "correct": 1,
+            "explanation": "The washing illustration joins contemplation with moral discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 23, PDF page 25"
+          },
+          {
+            "q": "What is compared to a telescope for recognising indwelling Brahman?",
+            "options": [
+              "Bodily eyesight alone",
+              "Social approval",
+              "The vision of wisdom",
+              "Mere denial of God"
+            ],
+            "correct": 2,
+            "explanation": "Jnana-drishti enables perception of the divine reality already present.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 23, PDF page 25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-24",
+        "title": "Serve selflessly, without attachment to the fruits thereof",
+        "chapter": "Section 24 · Serve selflessly, without attachment to the fruits thereof",
+        "chapterNumber": 24,
+        "pdfStartPage": 25,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+        "sourceLabel": "Section 24, PDF pages 25–26",
+        "summary": "Selfless service is the fruit of spiritual discipline and love that seeks no reward. The section challenges pride in service and contempt for devotion, comparing them to seeking fruit while neglecting the tree that produces it. Genuine renunciation of results rests on love for all beings and recognition of the divine presence in each.\n\nEgo, self-promotion, and fixation on wealth obstruct this selflessness. Reading or speaking about service does not by itself remove them. The understanding that the world and its beings are manifestations of God unites service, devotion, and righteousness. When God-consciousness replaces body-consciousness, actions are experienced as His will and work. Good can then be done without announcing one’s own selflessness or demanding a personal return.",
+        "qa": [
+          {
+            "q": "What is the essence of service in this section?",
+            "a": "Selflessness and relinquishment of its fruits. Seva is grounded in renunciation rather than personal reward."
+          },
+          {
+            "q": "What does seeking fruit while neglecting the tree illustrate?",
+            "a": "Claiming selfless service while disregarding its spiritual foundation. Spiritual discipline and love nurture the fruit of genuine service."
+          },
+          {
+            "q": "What supports renunciation of the fruits of action?",
+            "a": "Love for all beings without seeking reward. The section makes unselfish love its foundation."
+          },
+          {
+            "q": "What understanding unites service, devotion, and righteousness?",
+            "a": "Every being is a manifestation of God. Knowledge of reality reveals these paths as indivisible."
+          },
+          {
+            "q": "What replaces body-consciousness in truly selfless action?",
+            "a": "God-consciousness. With divine love as guide, action is understood as God’s work and will."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the essence of service in this section?",
+            "options": [
+              "Public recognition for every act",
+              "Selflessness and relinquishment of its fruits",
+              "Profit for the performer",
+              "Superiority over devotees"
+            ],
+            "correct": 1,
+            "explanation": "Seva is grounded in renunciation rather than personal reward.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 24, PDF pages 25–26"
+          },
+          {
+            "q": "What does seeking fruit while neglecting the tree illustrate?",
+            "options": [
+              "The need to avoid all outward work",
+              "The uselessness of devotion",
+              "Claiming selfless service while disregarding its spiritual foundation",
+              "The independence of service from love"
+            ],
+            "correct": 2,
+            "explanation": "Spiritual discipline and love nurture the fruit of genuine service.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 24, PDF pages 25–26"
+          },
+          {
+            "q": "What supports renunciation of the fruits of action?",
+            "options": [
+              "Desire for wealth",
+              "Ego-consciousness",
+              "Dependence on praise",
+              "Love for all beings without seeking reward"
+            ],
+            "correct": 3,
+            "explanation": "The section makes unselfish love its foundation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 24, PDF pages 25–26"
+          },
+          {
+            "q": "What understanding unites service, devotion, and righteousness?",
+            "options": [
+              "Every being is a manifestation of God",
+              "Each path has no relation to the others",
+              "Bodily differences are absolute",
+              "Personal gain is their common goal"
+            ],
+            "correct": 0,
+            "explanation": "Knowledge of reality reveals these paths as indivisible.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 24, PDF pages 25–26"
+          },
+          {
+            "q": "What replaces body-consciousness in truly selfless action?",
+            "options": [
+              "Greater concern for reputation",
+              "God-consciousness",
+              "Competition with other workers",
+              "Pride in renunciation"
+            ],
+            "correct": 1,
+            "explanation": "With divine love as guide, action is understood as God’s work and will.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=25",
+            "sourceLabel": "Section 24, PDF pages 25–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-25",
+        "title": "The paths of devotion, wisdom, and non-attachment are inseparable",
+        "chapter": "Section 25 · The paths of devotion, wisdom, and non-attachment are inseparable",
+        "chapterNumber": 25,
+        "pdfStartPage": 26,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+        "sourceLabel": "Section 25, PDF pages 26–27",
+        "summary": "Wisdom is compared to a lamp that makes the path visible and dispels the fear of moving in darkness. The section then brings devotion, wisdom, and non-attachment together. Non-attachment cannot remain firm without the support of devotion and understanding; neglecting this connection is identified as an obstacle to spiritual progress.\n\nNone of the three should become a separate identity in which the aspirant takes pride. Isolated pursuit may provide some training in purity but cannot achieve the full purpose described here. The image of immersion in a triveni, a meeting of three streams, expresses their necessary union. The seeker is asked to cultivate them together rather than claim to belong exclusively to one path.",
+        "qa": [
+          {
+            "q": "What is wisdom compared to at the start of this section?",
+            "a": "A lamp illuminating the path. Its light dispels the darkness and fear of ignorance."
+          },
+          {
+            "q": "On what does stable non-attachment depend?",
+            "a": "Wisdom and devotion. The text says non-attachment crumbles when deprived of these supports."
+          },
+          {
+            "q": "How should the three paths be cultivated?",
+            "a": "Together as inseparable disciplines. Devotion, wisdom, and non-attachment reinforce each other."
+          },
+          {
+            "q": "What can an isolated path provide at best in this account?",
+            "a": "Some training in purity. The text distinguishes partial training from the full integrated discipline."
+          },
+          {
+            "q": "What does the triveni image represent?",
+            "a": "The union of devotion, wisdom, and non-attachment. The confluence expresses the combined path to salvation described here."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is wisdom compared to at the start of this section?",
+            "options": [
+              "A lamp illuminating the path",
+              "A curtain hiding the road",
+              "A chain securing possessions",
+              "A wall excluding others"
+            ],
+            "correct": 0,
+            "explanation": "Its light dispels the darkness and fear of ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+            "sourceLabel": "Section 25, PDF pages 26–27"
+          },
+          {
+            "q": "On what does stable non-attachment depend?",
+            "options": [
+              "Wealth and recognition",
+              "Wisdom and devotion",
+              "Physical isolation alone",
+              "Refusal of all understanding"
+            ],
+            "correct": 1,
+            "explanation": "The text says non-attachment crumbles when deprived of these supports.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+            "sourceLabel": "Section 25, PDF pages 26–27"
+          },
+          {
+            "q": "How should the three paths be cultivated?",
+            "options": [
+              "In complete isolation from one another",
+              "By rejecting two permanently",
+              "Together as inseparable disciplines",
+              "By changing labels without practice"
+            ],
+            "correct": 2,
+            "explanation": "Devotion, wisdom, and non-attachment reinforce each other.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+            "sourceLabel": "Section 25, PDF pages 26–27"
+          },
+          {
+            "q": "What can an isolated path provide at best in this account?",
+            "options": [
+              "Guaranteed complete liberation by isolation itself",
+              "Freedom from every need for understanding",
+              "Permanent superiority over other seekers",
+              "Some training in purity"
+            ],
+            "correct": 3,
+            "explanation": "The text distinguishes partial training from the full integrated discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+            "sourceLabel": "Section 25, PDF pages 26–27"
+          },
+          {
+            "q": "What does the triveni image represent?",
+            "options": [
+              "The union of devotion, wisdom, and non-attachment",
+              "Three unrelated physical destinations",
+              "The division of spiritual seekers by status",
+              "Birth, growth, and death alone"
+            ],
+            "correct": 0,
+            "explanation": "The confluence expresses the combined path to salvation described here.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=26",
+            "sourceLabel": "Section 25, PDF pages 26–27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "See life as a manifestation of the three qualities",
+        "chapter": "Section 26 · See life as a manifestation of the three qualities",
+        "chapterNumber": 26,
+        "pdfStartPage": 27,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+        "sourceLabel": "Section 26, PDF page 27",
+        "summary": "The section contrasts spiritual practice with the ability to repeat or explain religious words. Many read the Gita or speak at length about it, but fewer practise its essence. A gramophone playing someone else’s song illustrates repetition without personal understanding or the joy of genuine participation.\n\nThe positive teaching is to recognise life as the manifestation of the three qualities, pictured as temperaments moving dolls by their strings. This awareness is to permeate thought, speech, and action. Purity of heart and lived understanding therefore matter more than performance or borrowed expression. The short section defines the wisdom needed in life through this constant recognition, rather than through the quantity of words one can reproduce.",
+        "qa": [
+          {
+            "q": "What contrast does the section draw concerning the Gita?",
+            "a": "Many repeat or explain it, but few practise its essence. The emphasis is on living the teaching."
+          },
+          {
+            "q": "What does the gramophone illustrate?",
+            "a": "Repeating another’s words without genuine participation. It plays a song without knowing the singer’s joy."
+          },
+          {
+            "q": "How should life be understood here?",
+            "a": "As a manifestation of the three qualities. The gunas are central to the section’s account."
+          },
+          {
+            "q": "What does the doll-and-strings image illustrate?",
+            "a": "Temperaments influencing life’s activity. The strings represent the play of qualities."
+          },
+          {
+            "q": "What should this awareness permeate?",
+            "a": "Thought, word, and deed. Understanding must become integral to life, not remain a verbal statement."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What contrast does the section draw concerning the Gita?",
+            "options": [
+              "Reading always guarantees realisation",
+              "Speaking is the only form of practice",
+              "Its essence cannot affect conduct",
+              "Many repeat or explain it, but few practise its essence"
+            ],
+            "correct": 3,
+            "explanation": "The emphasis is on living the teaching.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 26, PDF page 27"
+          },
+          {
+            "q": "What does the gramophone illustrate?",
+            "options": [
+              "Repeating another’s words without genuine participation",
+              "Perfect direct experience of the Self",
+              "The end of all mental conditioning",
+              "A superior substitute for practice"
+            ],
+            "correct": 0,
+            "explanation": "It plays a song without knowing the singer’s joy.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 26, PDF page 27"
+          },
+          {
+            "q": "How should life be understood here?",
+            "options": [
+              "As wholly unrelated to temperament",
+              "As a manifestation of the three qualities",
+              "As nothing but inherited social rank",
+              "As a guarantee of permanent sensory pleasure"
+            ],
+            "correct": 1,
+            "explanation": "The gunas are central to the section’s account.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 26, PDF page 27"
+          },
+          {
+            "q": "What does the doll-and-strings image illustrate?",
+            "options": [
+              "The Atma changing with age",
+              "The creation of wisdom by wealth",
+              "Temperaments influencing life’s activity",
+              "Scriptures acting without a reader"
+            ],
+            "correct": 2,
+            "explanation": "The strings represent the play of qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 26, PDF page 27"
+          },
+          {
+            "q": "What should this awareness permeate?",
+            "options": [
+              "Speech alone",
+              "Reading alone",
+              "Ceremonies alone",
+              "Thought, word, and deed"
+            ],
+            "correct": 3,
+            "explanation": "Understanding must become integral to life, not remain a verbal statement.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 26, PDF page 27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-27",
+        "title": "Be spiritually wise: without ego, without desires, with equal love for all",
+        "chapter": "Section 27 · Be spiritually wise: without ego, without desires, with equal love for all",
+        "chapterNumber": 27,
+        "pdfStartPage": 27,
+        "pdfEndPage": 27,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+        "sourceLabel": "Section 27, PDF page 27",
+        "summary": "The wise are described through freedom from hatred and ego, equal love for all, and agreement between speech and action. The ignorant instead identify with the body, senses, and mind, although these are instruments rather than the eternal Atma. The mind’s restless constructions obscure reality as ripples obscure the bottom of a lake.\n\nCalming the mind and recognising the defects of fleeting pleasures develop discrimination and detachment. Gold refined in a crucible illustrates purification through yoga and renunciation. Patient contemplation of one’s Atmic nature reveals the universal within the particular. When Self-knowledge dawns, ignorance and its worries subside. The section returns to its practical marks of wisdom: absence of ego, extinction of desire, and love without distinction.",
+        "qa": [
+          {
+            "q": "Which marks of wisdom conclude this section?",
+            "a": "Absence of ego, extinction of desire, and equal love. These are named as fundamentals of Atma-jnana."
+          },
+          {
+            "q": "What do the ignorant mistake for themselves?",
+            "a": "The body, senses, and mind. The text calls these bodily and mental faculties instruments."
+          },
+          {
+            "q": "Why must the lake’s waves become still?",
+            "a": "So its floor can be seen clearly. The image illustrates calming mental agitation to perceive truth."
+          },
+          {
+            "q": "What should be recognised about sensory pleasures?",
+            "a": "Their faults, failures, and transience. Such reflection supports discrimination and non-attachment."
+          },
+          {
+            "q": "What is illustrated by gold purified in a crucible?",
+            "a": "Purification through yoga and detachment. The comparison shows the removal of what conceals the original splendour."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which marks of wisdom conclude this section?",
+            "options": [
+              "Wealth, reputation, and physical power",
+              "Withdrawal of kindness from others",
+              "Absence of ego, extinction of desire, and equal love",
+              "Skill in argument and desire for praise"
+            ],
+            "correct": 2,
+            "explanation": "These are named as fundamentals of Atma-jnana.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 27, PDF page 27"
+          },
+          {
+            "q": "What do the ignorant mistake for themselves?",
+            "options": [
+              "Only the eternal witness",
+              "Brahman beyond all limitation",
+              "The universal Atma alone",
+              "The body, senses, and mind"
+            ],
+            "correct": 3,
+            "explanation": "The text calls these bodily and mental faculties instruments.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 27, PDF page 27"
+          },
+          {
+            "q": "Why must the lake’s waves become still?",
+            "options": [
+              "So its floor can be seen clearly",
+              "So the lake can create water",
+              "So the bottom will cease to exist",
+              "So the waves can become permanent"
+            ],
+            "correct": 0,
+            "explanation": "The image illustrates calming mental agitation to perceive truth.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 27, PDF page 27"
+          },
+          {
+            "q": "What should be recognised about sensory pleasures?",
+            "options": [
+              "Their ability to provide permanent bliss",
+              "Their faults, failures, and transience",
+              "Their independence from desire",
+              "Their identity with complete liberation"
+            ],
+            "correct": 1,
+            "explanation": "Such reflection supports discrimination and non-attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 27, PDF page 27"
+          },
+          {
+            "q": "What is illustrated by gold purified in a crucible?",
+            "options": [
+              "The superiority of possessions",
+              "Wisdom gained through appearance alone",
+              "Purification through yoga and detachment",
+              "The need to increase personal ambition"
+            ],
+            "correct": 2,
+            "explanation": "The comparison shows the removal of what conceals the original splendour.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=27",
+            "sourceLabel": "Section 27, PDF page 27"
+          }
+        ]
+      },
+      {
+        "id": "chapter-28",
+        "title": "The Lord’s eyes, ears, hands, and feet are everywhere",
+        "chapter": "Section 28 · The Lord’s eyes, ears, hands, and feet are everywhere",
+        "chapterNumber": 28,
+        "pdfStartPage": 28,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+        "sourceLabel": "Section 28, PDF page 28",
+        "summary": "The Supreme Self is not confined to bodily organs. The section contrasts identification with the senses with the divine vision of the wise. Drawing on the Gita’s description, it presents the Lord’s hands, feet, eyes, and ears as everywhere: He enables the senses while not depending on ordinary sensory instruments.\n\nThis mystery must be realised, not merely described. A distant observer can see a fire’s light without feeling its warmth; similarly, speaking about wisdom differs from experiencing its joy and freedom from illusion. Concentrated spiritual effort and continued meditation are required. Devotion leads to knowledge of the pure essence, and its goal is identified as wisdom, in which the limiting distinction between the individual and Brahman disappears.",
+        "qa": [
+          {
+            "q": "How is the Supreme Self related to ordinary sensory organs?",
+            "a": "It is not limited by them. The section describes divine awareness beyond bodily instruments."
+          },
+          {
+            "q": "What does the Gita description of the Lord’s hands and eyes everywhere express?",
+            "a": "His all-pervading presence and action. The Lord enables all senses without depending on them."
+          },
+          {
+            "q": "What distinguishes divine vision in this account?",
+            "a": "It is not confined to ordinary sensory perception. The wise are described as possessing divya-chakshu."
+          },
+          {
+            "q": "What does seeing fire from far away without feeling warmth illustrate?",
+            "a": "Description of wisdom without its direct experience. Nearness and immersion are needed to experience the warmth, just as wisdom must be realised."
+          },
+          {
+            "q": "What is identified as the goal of devotion?",
+            "a": "Spiritual wisdom. Bhakthi leads to knowledge of the pure essence."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is the Supreme Self related to ordinary sensory organs?",
+            "options": [
+              "It depends on one particular bodily eye",
+              "It is not limited by them",
+              "It ends when an organ changes",
+              "It is identical with the physical tongue alone"
+            ],
+            "correct": 1,
+            "explanation": "The section describes divine awareness beyond bodily instruments.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 28, PDF page 28"
+          },
+          {
+            "q": "What does the Gita description of the Lord’s hands and eyes everywhere express?",
+            "options": [
+              "His confinement to one body",
+              "The independence of senses from divinity",
+              "His all-pervading presence and action",
+              "The absence of consciousness"
+            ],
+            "correct": 2,
+            "explanation": "The Lord enables all senses without depending on them.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 28, PDF page 28"
+          },
+          {
+            "q": "What distinguishes divine vision in this account?",
+            "options": [
+              "It is merely sharper physical eyesight",
+              "It requires stronger attachment to the body",
+              "It excludes spiritual wisdom",
+              "It is not confined to ordinary sensory perception"
+            ],
+            "correct": 3,
+            "explanation": "The wise are described as possessing divya-chakshu.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 28, PDF page 28"
+          },
+          {
+            "q": "What does seeing fire from far away without feeling warmth illustrate?",
+            "options": [
+              "Description of wisdom without its direct experience",
+              "Complete realisation through description alone",
+              "The uselessness of every spiritual effort",
+              "Permanent separation from Brahman"
+            ],
+            "correct": 0,
+            "explanation": "Nearness and immersion are needed to experience the warmth, just as wisdom must be realised.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 28, PDF page 28"
+          },
+          {
+            "q": "What is identified as the goal of devotion?",
+            "options": [
+              "Sensory pride",
+              "Spiritual wisdom",
+              "Social distinction",
+              "Mere verbal description"
+            ],
+            "correct": 1,
+            "explanation": "Bhakthi leads to knowledge of the pure essence.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 28, PDF page 28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-29",
+        "title": "The world is the Lord’s three-act play",
+        "chapter": "Section 29 · The world is the Lord’s three-act play",
+        "chapterNumber": 29,
+        "pdfStartPage": 28,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+        "sourceLabel": "Section 29, PDF pages 28–29",
+        "summary": "An author knows a play’s whole design before writing, whereas an audience discovers it scene by scene. This comparison explains the Lord’s knowledge of past, present, and future, the three acts of the drama of time. Participants and spectators may be confused because a single scene does not reveal the whole meaning.\n\nThe seeker is therefore urged to discover the reality underlying life rather than remain bound to shifting joy and sorrow. When the play is understood, identity with the Lord becomes clear. The Atma is present in every heart and in subtle as well as gross forms, from ant to elephant and atom to atmosphere. Recognition of this universal presence frees the wise from sorrow’s hold.",
+        "qa": [
+          {
+            "q": "Who knows the entire play before it unfolds in the comparison?",
+            "a": "The author. The author’s complete conception contrasts with the audience’s gradual discovery."
+          },
+          {
+            "q": "What are the three acts of the drama of time?",
+            "a": "Past, present, and future. The section explicitly uses these three divisions of time."
+          },
+          {
+            "q": "Why are actors and spectators confused?",
+            "a": "One scene does not reveal the whole design. Their partial view contrasts with divine omniscience."
+          },
+          {
+            "q": "What conviction arises when the mystery of the play is understood?",
+            "a": "Identity with the Lord. Understanding the underlying reality resolves the mistaken separate identity."
+          },
+          {
+            "q": "Where is the Atma said to be present?",
+            "a": "In the ant and elephant, atom and atmosphere. The examples emphasise the universality of Brahman."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who knows the entire play before it unfolds in the comparison?",
+            "options": [
+              "The author",
+              "Each spectator from the first scene",
+              "Only the last actor",
+              "No one at all"
+            ],
+            "correct": 0,
+            "explanation": "The author’s complete conception contrasts with the audience’s gradual discovery.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 29, PDF pages 28–29"
+          },
+          {
+            "q": "What are the three acts of the drama of time?",
+            "options": [
+              "Waking, eating, and walking",
+              "Past, present, and future",
+              "Birth, occupation, and wealth",
+              "Study, debate, and praise"
+            ],
+            "correct": 1,
+            "explanation": "The section explicitly uses these three divisions of time.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 29, PDF pages 28–29"
+          },
+          {
+            "q": "Why are actors and spectators confused?",
+            "options": [
+              "The Lord has no knowledge of the plan",
+              "Every scene belongs to an unrelated reality",
+              "One scene does not reveal the whole design",
+              "The play has no underlying meaning"
+            ],
+            "correct": 2,
+            "explanation": "Their partial view contrasts with divine omniscience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 29, PDF pages 28–29"
+          },
+          {
+            "q": "What conviction arises when the mystery of the play is understood?",
+            "options": [
+              "Permanent separation from the divine",
+              "The supremacy of bodily identity",
+              "The need for more possessiveness",
+              "Identity with the Lord"
+            ],
+            "correct": 3,
+            "explanation": "Understanding the underlying reality resolves the mistaken separate identity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 29, PDF pages 28–29"
+          },
+          {
+            "q": "Where is the Atma said to be present?",
+            "options": [
+              "In the ant and elephant, atom and atmosphere",
+              "Only in the largest beings",
+              "Only in gross physical forms",
+              "Only outside living hearts"
+            ],
+            "correct": 0,
+            "explanation": "The examples emphasise the universality of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=28",
+            "sourceLabel": "Section 29, PDF pages 28–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-30",
+        "title": "Make God your constant focus",
+        "chapter": "Section 30 · Make God your constant focus",
+        "chapterNumber": 30,
+        "pdfStartPage": 29,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+        "sourceLabel": "Section 30, PDF page 29",
+        "summary": "The seeker turns inward to discover the source of mental disturbances. As their activity subsides, awareness of being Brahman becomes steady, and the wise remain immersed in Atmic bliss beyond worldly joy and sorrow. This is described as a sustained discipline rather than an occasional thought.\n\nPractice of Brahman includes remembering the reality underlying the universe, praying to its formful aspect, speaking of divine glory, and living in its presence. Passages cited from the Panchadasi and Gita describe thought, speech, conversation, and life centred on God. The section gives related names for this continuous orientation: reflection on Brahman, cultivation of wisdom, and practice of the Atma. Their common meaning is a consistently God-directed existence.",
+        "qa": [
+          {
+            "q": "Where should the seeker direct attention to find the origin of mental agitation?",
+            "a": "Inward. Inward examination reduces the mental activity that obscures awareness."
+          },
+          {
+            "q": "What becomes steady as agitation subsides?",
+            "a": "Awareness of being Brahman. The section connects this steadiness with being-awareness-bliss."
+          },
+          {
+            "q": "Which activity belongs to Brahma-abhyasa here?",
+            "a": "Remembering Brahman and speaking of divine glory. Prayer, remembrance, conversation, and living in the divine presence form this discipline."
+          },
+          {
+            "q": "What common focus do the cited passages give to thought and speech?",
+            "a": "God. The Panchadasi and Gita passages describe one-pointed divine orientation."
+          },
+          {
+            "q": "Which is another name for the ceaseless contemplation described?",
+            "a": "Brahma-chinthana. The text also calls it jnana-abhyasa and Atma-abhyasa."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Where should the seeker direct attention to find the origin of mental agitation?",
+            "options": [
+              "Only toward other people’s faults",
+              "Only toward new sensory objects",
+              "Toward increasing possessions",
+              "Inward"
+            ],
+            "correct": 3,
+            "explanation": "Inward examination reduces the mental activity that obscures awareness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 30, PDF page 29"
+          },
+          {
+            "q": "What becomes steady as agitation subsides?",
+            "options": [
+              "Awareness of being Brahman",
+              "Dependence on changing approval",
+              "The urge to multiply doubts endlessly",
+              "Identification with possessions"
+            ],
+            "correct": 0,
+            "explanation": "The section connects this steadiness with being-awareness-bliss.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 30, PDF page 29"
+          },
+          {
+            "q": "Which activity belongs to Brahma-abhyasa here?",
+            "options": [
+              "Replacing reflection with rivalry",
+              "Remembering Brahman and speaking of divine glory",
+              "Avoiding every thought of God",
+              "Pursuing recognition as the main goal"
+            ],
+            "correct": 1,
+            "explanation": "Prayer, remembrance, conversation, and living in the divine presence form this discipline.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 30, PDF page 29"
+          },
+          {
+            "q": "What common focus do the cited passages give to thought and speech?",
+            "options": [
+              "Personal status",
+              "Sensory competition",
+              "God",
+              "Fear of the future"
+            ],
+            "correct": 2,
+            "explanation": "The Panchadasi and Gita passages describe one-pointed divine orientation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 30, PDF page 29"
+          },
+          {
+            "q": "Which is another name for the ceaseless contemplation described?",
+            "options": [
+              "Bodily ambition",
+              "Sensory attachment",
+              "Social classification",
+              "Brahma-chinthana"
+            ],
+            "correct": 3,
+            "explanation": "The text also calls it jnana-abhyasa and Atma-abhyasa.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 30, PDF page 29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-31",
+        "title": "Calm the mind by steady, continuous discipline",
+        "chapter": "Section 31 · Calm the mind by steady, continuous discipline",
+        "chapterNumber": 31,
+        "pdfStartPage": 29,
+        "pdfEndPage": 30,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+        "sourceLabel": "Section 31, PDF pages 29–30",
+        "summary": "The mind repeatedly moves outward because of sensory attraction and the false attribution of permanence to external things. Steady training brings it back through Om, self-control, endurance, faith, and balance. Devotional singing, prayer, meditation, good company, and good actions help make inward attention increasingly natural.\n\nThree efforts must develop together: relinquishing craving, overcoming the mind, and understanding reality. None is sufficient in isolation. Because impulses may revive, the aspirant remains watchful and avoids multiplying wants. The final state is undisturbed, undifferentiated samadhi, identified with knowledge of Brahman and liberation. The wise find complete happiness in the Atma rather than in temporary external enjoyments. The section combines patient training with continued vigilance against renewed desire.",
+        "qa": [
+          {
+            "q": "What false quality does the mind attribute to external things?",
+            "a": "Permanence. This superimposition helps draw the mind outward."
+          },
+          {
+            "q": "What prayerful repetition is recommended for calming agitation?",
+            "a": "Om. The pranava is part of the mind’s repeated inward training."
+          },
+          {
+            "q": "Which three exercises must be cultivated equally?",
+            "a": "Relinquishing craving, overcoming the mind, and understanding reality. The section explicitly says no one of the three is enough."
+          },
+          {
+            "q": "Why should wants not be multiplied?",
+            "a": "One pleasant object can generate craving for another. The text urges cutting at the root of desire."
+          },
+          {
+            "q": "Where do the wise find complete and lasting happiness?",
+            "a": "In the Atma. External pleasures are recognised as fleeting."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What false quality does the mind attribute to external things?",
+            "options": [
+              "Their actual transience",
+              "Freedom from names",
+              "Permanence",
+              "Inability to attract the senses"
+            ],
+            "correct": 2,
+            "explanation": "This superimposition helps draw the mind outward.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 31, PDF pages 29–30"
+          },
+          {
+            "q": "What prayerful repetition is recommended for calming agitation?",
+            "options": [
+              "A list of possessions",
+              "Words of self-praise",
+              "Names of desired rewards",
+              "Om"
+            ],
+            "correct": 3,
+            "explanation": "The pranava is part of the mind’s repeated inward training.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 31, PDF pages 29–30"
+          },
+          {
+            "q": "Which three exercises must be cultivated equally?",
+            "options": [
+              "Relinquishing craving, overcoming the mind, and understanding reality",
+              "Travel, reputation, and debate",
+              "Eating, sleeping, and dreaming",
+              "Reading alone, speaking alone, and judging others"
+            ],
+            "correct": 0,
+            "explanation": "The section explicitly says no one of the three is enough.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 31, PDF pages 29–30"
+          },
+          {
+            "q": "Why should wants not be multiplied?",
+            "options": [
+              "Every fulfilled desire ends desire permanently",
+              "One pleasant object can generate craving for another",
+              "Wants never influence the senses",
+              "More wants guarantee equanimity"
+            ],
+            "correct": 1,
+            "explanation": "The text urges cutting at the root of desire.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 31, PDF pages 29–30"
+          },
+          {
+            "q": "Where do the wise find complete and lasting happiness?",
+            "options": [
+              "In continual sensory novelty",
+              "In public recognition",
+              "In the Atma",
+              "In the number of their possessions"
+            ],
+            "correct": 2,
+            "explanation": "External pleasures are recognised as fleeting.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=29",
+            "sourceLabel": "Section 31, PDF pages 29–30"
+          }
+        ]
+      },
+      {
+        "id": "chapter-32",
+        "title": "Worship the great souls who have won wisdom",
+        "chapter": "Section 32 · Worship the great souls who have won wisdom",
+        "chapterNumber": 32,
+        "pdfStartPage": 30,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+        "sourceLabel": "Section 32, PDF pages 30–31",
+        "summary": "The greatness of realised souls is described as beyond ordinary imagination. Their beneficial intentions have power, but the central point is their identity with the Brahman they have always been. Knowledge makes clear the difference between changing appearance and underlying reality, removing ignorance and its impulses.\n\nThe mind is again compared to a robber of wisdom’s gem. Recovering it restores recognition of one’s true status. Great souls who have attained Self-knowledge deserve reverence, while the same attainment remains the right of everyone. The mystery taught in the Vedas, Upanishads, and scriptures makes life worthwhile when realised. Wisdom, pictured as a sharp sword separating truth from untruth, leads toward the enduring bliss of Brahman.",
+        "qa": [
+          {
+            "q": "What is the central attainment of the realised souls described?",
+            "a": "Becoming the Brahman they have always been. The section links their greatness with realised Brahmanhood."
+          },
+          {
+            "q": "What is compared to the thief of wisdom’s gem?",
+            "a": "The mind. Mastering the mind recovers the concealed treasure."
+          },
+          {
+            "q": "Why do the great souls deserve reverence?",
+            "a": "They have attained Self-knowledge. Their holiness rests on realisation of Brahman."
+          },
+          {
+            "q": "Whose right is the attainment of Brahman?",
+            "a": "Everyone’s. The section explicitly presents it as a universal right."
+          },
+          {
+            "q": "What does the sharp sword of wisdom separate?",
+            "a": "Truth from untruth. Discrimination opens the way to the bliss of Brahman."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the central attainment of the realised souls described?",
+            "options": [
+              "Gaining a new material body",
+              "Becoming the Brahman they have always been",
+              "Securing permanent public fame",
+              "Establishing absolute separation from others"
+            ],
+            "correct": 1,
+            "explanation": "The section links their greatness with realised Brahmanhood.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+            "sourceLabel": "Section 32, PDF pages 30–31"
+          },
+          {
+            "q": "What is compared to the thief of wisdom’s gem?",
+            "options": [
+              "The scriptures",
+              "The liberated sage",
+              "The mind",
+              "Divine bliss"
+            ],
+            "correct": 2,
+            "explanation": "Mastering the mind recovers the concealed treasure.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+            "sourceLabel": "Section 32, PDF pages 30–31"
+          },
+          {
+            "q": "Why do the great souls deserve reverence?",
+            "options": [
+              "They have the largest possessions",
+              "They belong to one exclusive social group",
+              "They claim more praise than others",
+              "They have attained Self-knowledge"
+            ],
+            "correct": 3,
+            "explanation": "Their holiness rests on realisation of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+            "sourceLabel": "Section 32, PDF pages 30–31"
+          },
+          {
+            "q": "Whose right is the attainment of Brahman?",
+            "options": [
+              "Everyone’s",
+              "Only the wealthy person’s",
+              "Only one caste’s",
+              "Only the public speaker’s"
+            ],
+            "correct": 0,
+            "explanation": "The section explicitly presents it as a universal right.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+            "sourceLabel": "Section 32, PDF pages 30–31"
+          },
+          {
+            "q": "What does the sharp sword of wisdom separate?",
+            "options": [
+              "One eternal Atma from another",
+              "Truth from untruth",
+              "Worthy bodies from worthless bodies",
+              "Devotion permanently from wisdom"
+            ],
+            "correct": 1,
+            "explanation": "Discrimination opens the way to the bliss of Brahman.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=30",
+            "sourceLabel": "Section 32, PDF pages 30–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-33",
+        "title": "Illusion makes Brahman appear as soul, God, and world",
+        "chapter": "Section 33 · Illusion makes Brahman appear as soul, God, and world",
+        "chapterNumber": 33,
+        "pdfStartPage": 31,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+        "sourceLabel": "Section 33, PDF pages 31–32",
+        "summary": "Maya has two powers: concealing reality and superimposing the unreal. Through them, the one Brahman appears as individual soul, God, and world. When illusion becomes manifest as mind, impulses and intentions develop like leaves on a growing tree. The painting analogy shows apparently distinct figures arising from the same paint.\n\nThe terms “He”, “I”, and “this” describe these relative distinctions. They appear in waking and dreaming, but not when the mind is inactive in deep sleep. The section uses this observation to direct attention to mental processes, rather than grant the distinctions absolute existence. Analysing the mind through spiritual knowledge ends illusion and establishes nondual understanding. Ignorance and lack of discrimination sustain what inquiry removes.",
+        "qa": [
+          {
+            "q": "What are maya’s two powers in this section?",
+            "a": "Concealing reality and superimposing the unreal. These powers explain the appearance of multiplicity."
+          },
+          {
+            "q": "What three entities appear where Brahman alone is?",
+            "a": "Soul, God, and world. The terms are jiva, Iswara, and jagath."
+          },
+          {
+            "q": "What does the common paint in the painting analogy illustrate?",
+            "a": "One basis for apparently different entities. The analogy supports the teaching of a common underlying reality."
+          },
+          {
+            "q": "In which states do the three distinctions appear as real?",
+            "a": "Waking and dreaming. Their appearance is linked to mental activity."
+          },
+          {
+            "q": "What ends illusion according to the section’s conclusion?",
+            "a": "Spiritual knowledge through analysis of mental processes. Inquiry removes the ignorance on which maya flourishes."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What are maya’s two powers in this section?",
+            "options": [
+              "Concealing reality and superimposing the unreal",
+              "Creating two independent Brahmans",
+              "Producing wisdom without any inquiry",
+              "Ending all mental distinctions immediately"
+            ],
+            "correct": 0,
+            "explanation": "These powers explain the appearance of multiplicity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+            "sourceLabel": "Section 33, PDF pages 31–32"
+          },
+          {
+            "q": "What three entities appear where Brahman alone is?",
+            "options": [
+              "Body, food, and clothing",
+              "Soul, God, and world",
+              "Earth, river, and mountain only",
+              "Teacher, pupil, and school only"
+            ],
+            "correct": 1,
+            "explanation": "The terms are jiva, Iswara, and jagath.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+            "sourceLabel": "Section 33, PDF pages 31–32"
+          },
+          {
+            "q": "What does the common paint in the painting analogy illustrate?",
+            "options": [
+              "The independent substance of each figure",
+              "The absence of any relation among forms",
+              "One basis for apparently different entities",
+              "The eternal superiority of one image"
+            ],
+            "correct": 2,
+            "explanation": "The analogy supports the teaching of a common underlying reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+            "sourceLabel": "Section 33, PDF pages 31–32"
+          },
+          {
+            "q": "In which states do the three distinctions appear as real?",
+            "options": [
+              "Deep sleep alone",
+              "Only complete nondual realisation",
+              "Only before the mind exists",
+              "Waking and dreaming"
+            ],
+            "correct": 3,
+            "explanation": "Their appearance is linked to mental activity.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+            "sourceLabel": "Section 33, PDF pages 31–32"
+          },
+          {
+            "q": "What ends illusion according to the section’s conclusion?",
+            "options": [
+              "Spiritual knowledge through analysis of mental processes",
+              "Lack of discrimination",
+              "Increasing attachment to appearances",
+              "Accepting every mental construction as absolute"
+            ],
+            "correct": 0,
+            "explanation": "Inquiry removes the ignorance on which maya flourishes.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=31",
+            "sourceLabel": "Section 33, PDF pages 31–32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-34",
+        "title": "Destroy illusion by inquiry into the nature of Atma",
+        "chapter": "Section 34 · Destroy illusion by inquiry into the nature of Atma",
+        "chapterNumber": 34,
+        "pdfStartPage": 32,
+        "pdfEndPage": 32,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+        "sourceLabel": "Section 34, PDF page 32",
+        "summary": "Ignorance nourishes illusion by postponing inquiry into the Atma. A snake imagined in a rope persists until the rope is recognised; likewise, inquiry reveals Brahman as the reality beneath apparent multiplicity. This does not change Brahman, just as recognising clay in a pot or gold in ornaments does not create their substance.\n\nThe section examines differing descriptions of maya. The ignorant accept appearances as true; others call illusion indescribable, while the wise compare its supposed independent reality to a hare’s horn. Children frightened by an imagined ghost illustrate the power of unexamined belief. Discrimination distinguishes the underlying truth from its superimposed appearance. Knowledge therefore removes the mistake rather than fighting a second reality separate from Brahman.",
+        "qa": [
+          {
+            "q": "What allows illusion to flourish?",
+            "a": "Ignorance that delays inquiry into the Atma. Forgetting the underlying reality sustains the mistaken appearance."
+          },
+          {
+            "q": "What remains after inquiry removes the imagined snake?",
+            "a": "The rope. The illustration shows correction of error rather than transformation of reality."
+          },
+          {
+            "q": "What do crown, earring, and necklace have in common in the example?",
+            "a": "Gold as their underlying substance. Inquiry reveals unity beneath their different names and forms."
+          },
+          {
+            "q": "What does the hare’s horn represent?",
+            "a": "A supposed thing without independent existence. The phrase illustrates the wise person’s view of illusion’s supposed reality."
+          },
+          {
+            "q": "What distinguishes true Brahman from the false appearance of the world?",
+            "a": "Discrimination. Viveka enables the distinction that unexamined belief misses."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What allows illusion to flourish?",
+            "options": [
+              "Clear discrimination",
+              "Direct recognition of Brahman",
+              "Knowledge of the rope’s actual nature",
+              "Ignorance that delays inquiry into the Atma"
+            ],
+            "correct": 3,
+            "explanation": "Forgetting the underlying reality sustains the mistaken appearance.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 34, PDF page 32"
+          },
+          {
+            "q": "What remains after inquiry removes the imagined snake?",
+            "options": [
+              "The rope",
+              "A real snake created by knowledge",
+              "Two independent objects",
+              "A new underlying substance"
+            ],
+            "correct": 0,
+            "explanation": "The illustration shows correction of error rather than transformation of reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 34, PDF page 32"
+          },
+          {
+            "q": "What do crown, earring, and necklace have in common in the example?",
+            "options": [
+              "Permanently separate essential realities",
+              "Gold as their underlying substance",
+              "Identical outward shapes",
+              "No material basis"
+            ],
+            "correct": 1,
+            "explanation": "Inquiry reveals unity beneath their different names and forms.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 34, PDF page 32"
+          },
+          {
+            "q": "What does the hare’s horn represent?",
+            "options": [
+              "A bodily organ of the Atma",
+              "An example of lasting sensory pleasure",
+              "A supposed thing without independent existence",
+              "A method of ritual worship"
+            ],
+            "correct": 2,
+            "explanation": "The phrase illustrates the wise person’s view of illusion’s supposed reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 34, PDF page 32"
+          },
+          {
+            "q": "What distinguishes true Brahman from the false appearance of the world?",
+            "options": [
+              "Fear of an imagined ghost",
+              "Refusal to inquire",
+              "Attachment to names alone",
+              "Discrimination"
+            ],
+            "correct": 3,
+            "explanation": "Viveka enables the distinction that unexamined belief misses.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 34, PDF page 32"
+          }
+        ]
+      },
+      {
+        "id": "chapter-35",
+        "title": "Attaining enlightenment destroys ignorance as well as enlightenment!",
+        "chapter": "Section 35 · Attaining enlightenment destroys ignorance as well as enlightenment!",
+        "chapterNumber": 35,
+        "pdfStartPage": 32,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+        "sourceLabel": "Section 35, PDF pages 32–33",
+        "summary": "The section explains a striking paradox: the knowledge that removes ignorance also ends as a separate corrective process when its work is complete. Its imagery of a child cremating its mother represents wisdom arising within the experience of illusion and then destroying that source. These are philosophical illustrations of the removal of error.\n\nTrees rubbing together produce fire that eventually consumes both trees; similarly, enlightenment removes ignorance and does not remain as an opposing entity. A kataka nut used to clear water is itself spent in the cleansing. The final emphasis is complete peace and equilibrium, beyond the earlier opposition of ignorance and its remedy. What loses all meaning and apparent reality with knowledge is recognised as illusion.",
+        "qa": [
+          {
+            "q": "What philosophical relation does the mother-and-child image represent?",
+            "a": "Wisdom arising from the experience of illusion and ending it. The image concerns the destruction of illusion by the knowledge it occasions."
+          },
+          {
+            "q": "What happens to the trees in the fire comparison?",
+            "a": "The fire produced by their friction consumes them. The example illustrates a process consuming its own source."
+          },
+          {
+            "q": "What happens to corrective enlightenment after ignorance is destroyed?",
+            "a": "It too ends as a separate process. The section says the remedy does not remain independently after its task is finished."
+          },
+          {
+            "q": "What is the kataka nut used to illustrate?",
+            "a": "A cleanser that is itself spent in cleansing water. Its disappearance parallels the ending of the corrective instrument."
+          },
+          {
+            "q": "What culmination is described at the end?",
+            "a": "Complete peace and equilibrium. The account points beyond the opposition that the remedy resolves."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What philosophical relation does the mother-and-child image represent?",
+            "options": [
+              "Bodily ancestry determining liberation",
+              "The superiority of family status",
+              "Wisdom arising from the experience of illusion and ending it",
+              "Ignorance remaining eternally untouched"
+            ],
+            "correct": 2,
+            "explanation": "The image concerns the destruction of illusion by the knowledge it occasions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 35, PDF pages 32–33"
+          },
+          {
+            "q": "What happens to the trees in the fire comparison?",
+            "options": [
+              "They remain unchanged forever",
+              "They create a second permanent forest",
+              "They extinguish every possibility of knowledge",
+              "The fire produced by their friction consumes them"
+            ],
+            "correct": 3,
+            "explanation": "The example illustrates a process consuming its own source.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 35, PDF pages 32–33"
+          },
+          {
+            "q": "What happens to corrective enlightenment after ignorance is destroyed?",
+            "options": [
+              "It too ends as a separate process",
+              "It preserves ignorance indefinitely",
+              "It becomes another permanent opposition",
+              "It restores the original delusion"
+            ],
+            "correct": 0,
+            "explanation": "The section says the remedy does not remain independently after its task is finished.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 35, PDF pages 32–33"
+          },
+          {
+            "q": "What is the kataka nut used to illustrate?",
+            "options": [
+              "An object that makes water permanently dirty",
+              "A cleanser that is itself spent in cleansing water",
+              "A symbol of accumulating wealth",
+              "A means of preserving ignorance"
+            ],
+            "correct": 1,
+            "explanation": "Its disappearance parallels the ending of the corrective instrument.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 35, PDF pages 32–33"
+          },
+          {
+            "q": "What culmination is described at the end?",
+            "options": [
+              "Perpetual conflict between knowledge and ignorance",
+              "Increased attachment to appearances",
+              "Complete peace and equilibrium",
+              "Endless multiplication of distinctions"
+            ],
+            "correct": 2,
+            "explanation": "The account points beyond the opposition that the remedy resolves.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=32",
+            "sourceLabel": "Section 35, PDF pages 32–33"
+          }
+        ]
+      },
+      {
+        "id": "chapter-36",
+        "title": "Direct experience is obtained by continous reflection on truth",
+        "chapter": "Section 36 · Direct experience is obtained by continous reflection on truth",
+        "chapterNumber": 36,
+        "pdfStartPage": 33,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+        "sourceLabel": "Section 36, PDF pages 33–34",
+        "summary": "Hearing Vedanta gives indirect knowledge unless error is removed in actual experience. One may imagine Brahman as being-awareness-bliss or picture Vishnu’s four-armed form from scriptural descriptions, yet description and imagination are not direct vision. Brahman, the witness of the five sheaths, must be realised rather than treated only as something described.\n\nThe section does not dismiss scripture. Its declarations reveal the truth of one’s identity with Brahman, but merely hearing them does not complete the process. The aspirant considers what has been heard with faith and care and then practises manana, sustained reflection. This moves understanding toward actual experience. The distinction throughout is between knowing a teaching indirectly and directly recognising the reality to which it points.",
+        "qa": [
+          {
+            "q": "How is knowledge gained merely by hearing Vedanta classified?",
+            "a": "Indirect. Hearing does not by itself remove the error through personal experience."
+          },
+          {
+            "q": "What does imagining Vishnu from a description fail to establish?",
+            "a": "Direct vision. Scriptural iconography and imagination differ from actual seeing."
+          },
+          {
+            "q": "How is Brahman related to the five sheaths here?",
+            "a": "It is their witness. The section points beyond the coverings to their witness."
+          },
+          {
+            "q": "Does the distinction between indirect and direct knowledge reject scripture?",
+            "a": "No, scripture reveals truth but hearing alone is insufficient. The text preserves scriptural guidance while requiring actual realisation."
+          },
+          {
+            "q": "What is manana?",
+            "a": "Reflection on the truth that has been heard. Careful reflection brings indirect understanding toward lived experience."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is knowledge gained merely by hearing Vedanta classified?",
+            "options": [
+              "Automatically complete direct realisation",
+              "Indirect",
+              "Entirely unrelated to spiritual teaching",
+              "Physical perception alone"
+            ],
+            "correct": 1,
+            "explanation": "Hearing does not by itself remove the error through personal experience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+            "sourceLabel": "Section 36, PDF pages 33–34"
+          },
+          {
+            "q": "What does imagining Vishnu from a description fail to establish?",
+            "options": [
+              "Awareness that a description exists",
+              "The ability to form a mental picture",
+              "Direct vision",
+              "Familiarity with the named symbols"
+            ],
+            "correct": 2,
+            "explanation": "Scriptural iconography and imagination differ from actual seeing.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+            "sourceLabel": "Section 36, PDF pages 33–34"
+          },
+          {
+            "q": "How is Brahman related to the five sheaths here?",
+            "options": [
+              "It is only the food sheath",
+              "It is created by their activity",
+              "It changes whenever they change",
+              "It is their witness"
+            ],
+            "correct": 3,
+            "explanation": "The section points beyond the coverings to their witness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+            "sourceLabel": "Section 36, PDF pages 33–34"
+          },
+          {
+            "q": "Does the distinction between indirect and direct knowledge reject scripture?",
+            "options": [
+              "No, scripture reveals truth but hearing alone is insufficient",
+              "Yes, every scriptural statement is dismissed",
+              "Yes, reflection is forbidden",
+              "No, but scripture makes all practice unnecessary"
+            ],
+            "correct": 0,
+            "explanation": "The text preserves scriptural guidance while requiring actual realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+            "sourceLabel": "Section 36, PDF pages 33–34"
+          },
+          {
+            "q": "What is manana?",
+            "options": [
+              "Collecting unrelated information",
+              "Reflection on the truth that has been heard",
+              "Merely repeating a sound without understanding",
+              "Physical travel to a new place"
+            ],
+            "correct": 1,
+            "explanation": "Careful reflection brings indirect understanding toward lived experience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=33",
+            "sourceLabel": "Section 36, PDF pages 33–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-37",
+        "title": "Atma is the Universal Cause and Seer",
+        "chapter": "Section 37 · Atma is the Universal Cause and Seer",
+        "chapterNumber": 37,
+        "pdfStartPage": 34,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+        "sourceLabel": "Section 37, PDF page 34",
+        "summary": "The Atma is present everywhere yet remains unattached and unaffected. It is beyond limitations of space, time, and causation and cannot be confined by name or form. Although ether helps illustrate pervasiveness, the Atma is described as beyond even that element. It witnesses the six transformations of existence without itself undergoing them.\n\nThe section answers the apparent conflict between calling the Atma changeless and affirming nonduality. Nothing stands independently outside it; cause and effect cannot be separated in the way the objection assumes. The Atma is called universal cause because it is universal seer. Mistaking mother-of-pearl for silver and experiencing dream scenes illustrate the seer’s role in apparent multiplicity. The inquiry directs attention to the unchanging witness underlying experience.",
+        "qa": [
+          {
+            "q": "Which limitations do not confine the Atma?",
+            "a": "Space, time, and causation. The section declares it unlimited in all three respects."
+          },
+          {
+            "q": "How is the Atma related to the six transformations?",
+            "a": "It witnesses them without changing. The Atma is described as nir-vikara, changeless."
+          },
+          {
+            "q": "Why does calling the Atma changeless not require two independent realities?",
+            "a": "Nothing exists independently outside the Atma. Nonduality is maintained through the inseparability of the underlying cause and its appearance."
+          },
+          {
+            "q": "Why is the Atma called universal cause here?",
+            "a": "Because it is the universal seer. The explanation centres on the seer underlying the experienced world."
+          },
+          {
+            "q": "Which mistaken perception illustrates the seer’s role?",
+            "a": "Silver seen in mother-of-pearl. Along with dreams, this example illustrates apparent objects produced in experience."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which limitations do not confine the Atma?",
+            "options": [
+              "Space, time, and causation",
+              "Only a particular country’s boundaries",
+              "Only the limits of eyesight",
+              "Only the limits of speech"
+            ],
+            "correct": 0,
+            "explanation": "The section declares it unlimited in all three respects.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 37, PDF page 34"
+          },
+          {
+            "q": "How is the Atma related to the six transformations?",
+            "options": [
+              "It undergoes all of them",
+              "It witnesses them without changing",
+              "It exists only during growth",
+              "It ends at bodily decline"
+            ],
+            "correct": 1,
+            "explanation": "The Atma is described as nir-vikara, changeless.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 37, PDF page 34"
+          },
+          {
+            "q": "Why does calling the Atma changeless not require two independent realities?",
+            "options": [
+              "The text establishes two eternal Atmas",
+              "Cause and effect have no connection",
+              "Nothing exists independently outside the Atma",
+              "The witness is absent from experience"
+            ],
+            "correct": 2,
+            "explanation": "Nonduality is maintained through the inseparability of the underlying cause and its appearance.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 37, PDF page 34"
+          },
+          {
+            "q": "Why is the Atma called universal cause here?",
+            "options": [
+              "Because it is a limited physical object",
+              "Because it begins in time",
+              "Because it is one element among others",
+              "Because it is the universal seer"
+            ],
+            "correct": 3,
+            "explanation": "The explanation centres on the seer underlying the experienced world.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 37, PDF page 34"
+          },
+          {
+            "q": "Which mistaken perception illustrates the seer’s role?",
+            "options": [
+              "Silver seen in mother-of-pearl",
+              "Gold recognised in gold",
+              "Water correctly recognised as water",
+              "A pot identified as clay"
+            ],
+            "correct": 0,
+            "explanation": "Along with dreams, this example illustrates apparent objects produced in experience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 37, PDF page 34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-38",
+        "title": "Attachment and affection are the result of delusion",
+        "chapter": "Section 38 · Attachment and affection are the result of delusion",
+        "chapterNumber": 38,
+        "pdfStartPage": 34,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+        "sourceLabel": "Section 38, PDF pages 34–35",
+        "summary": "Names and forms appear to evolve and dissolve through maya. Spiritual knowledge removes this illusion as light corrects the mistaken perception of a snake in a rope. What remains is the recognition that all is Atma, whose nature is already contentment and bliss.\n\nAttraction to external objects is explained as a projection of this inherent bliss onto something temporary. The dog chewing a bone and relishing blood from its own tongue illustrates mistaking the source of enjoyment. Chasing another object repeats the same error. Such affection changes, is limited, and ultimately adds sorrow rather than supplying an independent lasting happiness. The section contrasts these shifting attractions with the fullness of the Self.",
+        "qa": [
+          {
+            "q": "What removes the play of illusion described here?",
+            "a": "Spiritual knowledge. Jnana dispels the mistake as light dispels the rope-snake error."
+          },
+          {
+            "q": "What knowledge fills the seeker when illusion disappears?",
+            "a": "All is Atma. The section affirms the fullness of Atmic reality."
+          },
+          {
+            "q": "In the dog-and-bone illustration, where does the added taste actually come from?",
+            "a": "Blood from the dog’s own tongue. The example illustrates misunderstanding the source of enjoyment."
+          },
+          {
+            "q": "What is superimposed on the external object?",
+            "a": "The Atma’s inherent bliss. The object appears attractive through bliss attributed to it."
+          },
+          {
+            "q": "How is attachment to external things characterised?",
+            "a": "Changing and limited. The section contrasts shifting sensual attraction with the contentment of Atma."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What removes the play of illusion described here?",
+            "options": [
+              "Greater greed for objects",
+              "Stronger attachment to names",
+              "Refusal to examine appearances",
+              "Spiritual knowledge"
+            ],
+            "correct": 3,
+            "explanation": "Jnana dispels the mistake as light dispels the rope-snake error.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 38, PDF pages 34–35"
+          },
+          {
+            "q": "What knowledge fills the seeker when illusion disappears?",
+            "options": [
+              "All is Atma",
+              "Every object is an independent absolute",
+              "Happiness exists only outside the Self",
+              "The Atma is incomplete"
+            ],
+            "correct": 0,
+            "explanation": "The section affirms the fullness of Atmic reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 38, PDF pages 34–35"
+          },
+          {
+            "q": "In the dog-and-bone illustration, where does the added taste actually come from?",
+            "options": [
+              "A new source inside the bone",
+              "Blood from the dog’s own tongue",
+              "Another dog’s gift",
+              "The surrounding air"
+            ],
+            "correct": 1,
+            "explanation": "The example illustrates misunderstanding the source of enjoyment.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 38, PDF pages 34–35"
+          },
+          {
+            "q": "What is superimposed on the external object?",
+            "options": [
+              "A permanently separate Self",
+              "The absence of all awareness",
+              "The Atma’s inherent bliss",
+              "A new unchanging substance"
+            ],
+            "correct": 2,
+            "explanation": "The object appears attractive through bliss attributed to it.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 38, PDF pages 34–35"
+          },
+          {
+            "q": "How is attachment to external things characterised?",
+            "options": [
+              "Unlimited and indestructible",
+              "Free from delusion in every case",
+              "Identical with unchanging Self-knowledge",
+              "Changing and limited"
+            ],
+            "correct": 3,
+            "explanation": "The section contrasts shifting sensual attraction with the contentment of Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=34",
+            "sourceLabel": "Section 38, PDF pages 34–35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-39",
+        "title": "The nature of Atma is Being-Awareness-Bliss",
+        "chapter": "Section 39 · The nature of Atma is Being-Awareness-Bliss",
+        "chapterNumber": 39,
+        "pdfStartPage": 35,
+        "pdfEndPage": 35,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+        "sourceLabel": "Section 39, PDF page 35",
+        "summary": "Being, awareness, and bliss are the Atma’s nature, not detachable qualities added to it. Fire’s heat and splendour and water’s characteristic nature illustrate how several descriptive terms can point to one reality. The Atma is unlimited and indestructible, remaining when body and senses fall away.\n\nIt is also the witness of the five sheaths and the conscious principle by which things are known. Inert objects cannot themselves know; the pot does not know the space within it, although that space is present. The apparent variety of bodies, places, and objects is traced to mental tendencies. Dreams show how a multiplicity can appear within the mind, and the section applies this insight to the mental pictures of waking experience.",
+        "qa": [
+          {
+            "q": "Are being, awareness, and bliss merely added attributes of Atma?",
+            "a": "No, they are its very nature. The fire and water comparisons clarify the distinction between essence and added qualities."
+          },
+          {
+            "q": "Which example illustrates inseparable nature?",
+            "a": "Heat and splendour belonging to fire. The example shows several descriptions pointing to one reality."
+          },
+          {
+            "q": "What is the Atma’s relation to the five sheaths?",
+            "a": "It witnesses them. The coverings are distinguished from the conscious witness."
+          },
+          {
+            "q": "Why can Atma know while an inert object cannot?",
+            "a": "Atma is consciousness. The section contrasts chit with jada."
+          },
+          {
+            "q": "What does the dream example show about multiplicity?",
+            "a": "Varied experiences can appear as mental creations. The illustration supports the analysis of waking appearances as mental pictures."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Are being, awareness, and bliss merely added attributes of Atma?",
+            "options": [
+              "Yes, they are temporary decorations",
+              "Yes, they exist only in the body",
+              "No, they are its very nature",
+              "No, because the Atma has no awareness"
+            ],
+            "correct": 2,
+            "explanation": "The fire and water comparisons clarify the distinction between essence and added qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 39, PDF page 35"
+          },
+          {
+            "q": "Which example illustrates inseparable nature?",
+            "options": [
+              "A borrowed ornament worn briefly",
+              "A name assigned to a village",
+              "A shadow changing at noon",
+              "Heat and splendour belonging to fire"
+            ],
+            "correct": 3,
+            "explanation": "The example shows several descriptions pointing to one reality.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 39, PDF page 35"
+          },
+          {
+            "q": "What is the Atma’s relation to the five sheaths?",
+            "options": [
+              "It witnesses them",
+              "It is confined to only one",
+              "It is produced by their combination",
+              "It disappears before they do"
+            ],
+            "correct": 0,
+            "explanation": "The coverings are distinguished from the conscious witness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 39, PDF page 35"
+          },
+          {
+            "q": "Why can Atma know while an inert object cannot?",
+            "options": [
+              "Inert objects have greater awareness",
+              "Atma is consciousness",
+              "Knowledge belongs only to physical size",
+              "The Atma is also merely inert"
+            ],
+            "correct": 1,
+            "explanation": "The section contrasts chit with jada.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 39, PDF page 35"
+          },
+          {
+            "q": "What does the dream example show about multiplicity?",
+            "options": [
+              "Every dream object has independent absolute existence",
+              "Awareness is impossible during any experience",
+              "Varied experiences can appear as mental creations",
+              "All names are permanent"
+            ],
+            "correct": 2,
+            "explanation": "The illustration supports the analysis of waking appearances as mental pictures.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 39, PDF page 35"
+          }
+        ]
+      },
+      {
+        "id": "chapter-40",
+        "title": "The realisation of  “I am Brahman”",
+        "chapter": "Section 40 · The realisation of  “I am Brahman”",
+        "chapterNumber": 40,
+        "pdfStartPage": 35,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+        "sourceLabel": "Section 40, PDF pages 35–37",
+        "summary": "The declaration “I am Brahman” requires careful inquiry into who the “I” is. The changing ego cannot simply claim the immutable reality as a new possession. Reflection reveals the unchanging witness of ego and its modifications. The section distinguishes this witness, untouched by ignorance, from the individual who needs knowledge to remove ignorance.\n\nIt is the individual who undertakes discipline and comes to understanding; with realisation, separate “I-ness” disappears. Merely glimpsing or describing the witness does not suffice, just as seeing a king does not make a beggar a monarch. The aspirant must become established in the witness-attitude beyond the division of knower, known, and knowledge. Boastful claims of having seen or attained cannot substitute for that inward transformation.",
+        "qa": [
+          {
+            "q": "What must be examined in “I am Brahman”?",
+            "a": "The identity of the “I” making the statement. The section distinguishes the changing ego from the unchanging witness."
+          },
+          {
+            "q": "Which is free from ignorance and therefore does not need to remove it?",
+            "a": "The witness. The corrective discipline belongs to the individual affected by ignorance."
+          },
+          {
+            "q": "Who undertakes the knowledge that removes ignorance?",
+            "a": "The individual soul. The section assigns the experience of overcoming ignorance to the jivi."
+          },
+          {
+            "q": "What does seeing a king without becoming one illustrate?",
+            "a": "A glimpse of the witness is not full establishment in it. Understanding must become actual identity rather than a passing observation."
+          },
+          {
+            "q": "What happens to separate “I-ness” when the knowledge fully dawns?",
+            "a": "It disappears. Realisation transcends the ego’s claim to be a separate knower."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What must be examined in “I am Brahman”?",
+            "options": [
+              "Only the volume of the speaker’s voice",
+              "The identity of the “I” making the statement",
+              "The speaker’s possessions",
+              "The number of listeners"
+            ],
+            "correct": 1,
+            "explanation": "The section distinguishes the changing ego from the unchanging witness.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 40, PDF pages 35–37"
+          },
+          {
+            "q": "Which is free from ignorance and therefore does not need to remove it?",
+            "options": [
+              "The ignorant individual as such",
+              "The changing ego",
+              "The witness",
+              "The body-conscious personality"
+            ],
+            "correct": 2,
+            "explanation": "The corrective discipline belongs to the individual affected by ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 40, PDF pages 35–37"
+          },
+          {
+            "q": "Who undertakes the knowledge that removes ignorance?",
+            "options": [
+              "The witness as an ignorant entity",
+              "An inert pot",
+              "The physical sky",
+              "The individual soul"
+            ],
+            "correct": 3,
+            "explanation": "The section assigns the experience of overcoming ignorance to the jivi.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 40, PDF pages 35–37"
+          },
+          {
+            "q": "What does seeing a king without becoming one illustrate?",
+            "options": [
+              "A glimpse of the witness is not full establishment in it",
+              "Any brief sight guarantees complete transformation",
+              "Social authority is the purpose of inquiry",
+              "No spiritual transformation is possible"
+            ],
+            "correct": 0,
+            "explanation": "Understanding must become actual identity rather than a passing observation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 40, PDF pages 35–37"
+          },
+          {
+            "q": "What happens to separate “I-ness” when the knowledge fully dawns?",
+            "options": [
+              "It becomes a permanent possession",
+              "It disappears",
+              "It gains greater grounds for boasting",
+              "It becomes the measure of Brahman"
+            ],
+            "correct": 1,
+            "explanation": "Realisation transcends the ego’s claim to be a separate knower.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=35",
+            "sourceLabel": "Section 40, PDF pages 35–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-41",
+        "title": "The sacred revelations allow a restricted identity of soul and Brahman",
+        "chapter": "Section 41 · The sacred revelations allow a restricted identity of soul and Brahman",
+        "chapterNumber": 41,
+        "pdfStartPage": 37,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+        "sourceLabel": "Section 41, PDF page 37",
+        "summary": "The identity taught by scripture is clarified through space in different vessels: the apparent boundaries do not divide the all-pervading space. Likewise, the witness in one body is the witness in all. The section does not equate the limited ego, while remaining limited, with Brahman. It explains an identity recognised when individual “I-ness” is removed.\n\nReasoning, inner devotion, and discipline overcome bodily identification and the limitations of the individualised self. The comparisons of freedom from dreaming, illness, or poverty point to release from a mistaken condition. The resulting understanding is not an enlarged ego but immersion in being-awareness-bliss beyond changing distinctions. The statement of identity becomes meaningful through the disappearance of limitation, not through preserving it and merely adopting a divine title.",
+        "qa": [
+          {
+            "q": "What does space in different pots illustrate?",
+            "a": "One undivided reality despite apparent boundaries. The witness in different bodies is compared to the same all-pervading space."
+          },
+          {
+            "q": "How is the witness in one body related to the witness in all bodies?",
+            "a": "It is the same witness. This is the primary identity stressed by the section."
+          },
+          {
+            "q": "What must be eliminated for the restricted identity with Brahman to be understood?",
+            "a": "Individual “I-ness”. Reasoning removes the limiting identification so Brahman remains."
+          },
+          {
+            "q": "What prevents an individual from grasping Brahman while remaining limited?",
+            "a": "Continued bodily and personal identification. The limitations of the individualised self must be overcome."
+          },
+          {
+            "q": "What is the fruition of spiritual wisdom described here?",
+            "a": "Immersion in the bliss of Brahman. The text describes identity in being-awareness-bliss beyond distinctions."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does space in different pots illustrate?",
+            "options": [
+              "One undivided reality despite apparent boundaries",
+              "Separate ultimate spaces with no relation",
+              "The superiority of one container",
+              "The creation of space by clay"
+            ],
+            "correct": 0,
+            "explanation": "The witness in different bodies is compared to the same all-pervading space.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 41, PDF page 37"
+          },
+          {
+            "q": "How is the witness in one body related to the witness in all bodies?",
+            "options": [
+              "It is an unrelated separate reality",
+              "It is the same witness",
+              "It is determined solely by bodily size",
+              "It exists only for that body’s lifetime"
+            ],
+            "correct": 1,
+            "explanation": "This is the primary identity stressed by the section.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 41, PDF page 37"
+          },
+          {
+            "q": "What must be eliminated for the restricted identity with Brahman to be understood?",
+            "options": [
+              "Brahman itself",
+              "The possibility of awareness",
+              "Individual “I-ness”",
+              "The underlying witness"
+            ],
+            "correct": 2,
+            "explanation": "Reasoning removes the limiting identification so Brahman remains.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 41, PDF page 37"
+          },
+          {
+            "q": "What prevents an individual from grasping Brahman while remaining limited?",
+            "options": [
+              "Freedom from ego",
+              "Inner devotion",
+              "Disciplined inquiry",
+              "Continued bodily and personal identification"
+            ],
+            "correct": 3,
+            "explanation": "The limitations of the individualised self must be overcome.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 41, PDF page 37"
+          },
+          {
+            "q": "What is the fruition of spiritual wisdom described here?",
+            "options": [
+              "Immersion in the bliss of Brahman",
+              "A stronger claim to separate status",
+              "Permanent attachment to bodily distinctions",
+              "Accumulation of worldly titles"
+            ],
+            "correct": 0,
+            "explanation": "The text describes identity in being-awareness-bliss beyond distinctions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 41, PDF page 37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-42",
+        "title": "Realise your true Self by destroying all limitations",
+        "chapter": "Section 42 · Realise your true Self by destroying all limitations",
+        "chapterNumber": 42,
+        "pdfStartPage": 37,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+        "sourceLabel": "Section 42, PDF pages 37–38",
+        "summary": "Realisation requires overcoming limitations, especially the mind. The section distinguishes the disappearance of mental forms or agitations from the disappearance of the formless aspect of mind. It connects the first with liberation while living and the latter with liberation after the body has fallen, preserving the difference between these stages.\n\nFor the present discipline, conquest of mental patterns brings the bliss of identity with Brahman. Body-consciousness and the feeling of a separate “I” must subside, while faith in wisdom becomes steady. Then delusion fades and being-awareness-bliss wells up continually. The passage presents direct realisation through the removal of constraints on awareness, rather than through adding another object or experience for the ego to possess.",
+        "qa": [
+          {
+            "q": "What is called the greatest limitation of the individual soul?",
+            "a": "The mind. The section places conquest of the mind at the centre of realisation."
+          },
+          {
+            "q": "What are the mind’s “forms” in this explanation?",
+            "a": "Its agitations. Rupa-laya refers to the disappearance of these mental forms."
+          },
+          {
+            "q": "Which distinction does the section make?",
+            "a": "Destruction of mental patterns and destruction of mind itself. The two forms of annihilation are linked to liberation while living and after death."
+          },
+          {
+            "q": "What disappearance is described as possible in the present discipline?",
+            "a": "Destruction of mental form or pattern. The text identifies rupa-laya as the present possibility."
+          },
+          {
+            "q": "What wells up as delusion and “I-feeling” disappear?",
+            "a": "Being-awareness-bliss. Steady wisdom reveals the satchidananda described as direct realisation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is called the greatest limitation of the individual soul?",
+            "options": [
+              "The all-pervading Atma",
+              "Brahman’s fullness",
+              "The unchanging witness",
+              "The mind"
+            ],
+            "correct": 3,
+            "explanation": "The section places conquest of the mind at the centre of realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 42, PDF pages 37–38"
+          },
+          {
+            "q": "What are the mind’s “forms” in this explanation?",
+            "options": [
+              "Its agitations",
+              "The physical shapes of books",
+              "Independent eternal souls",
+              "The limbs of the body alone"
+            ],
+            "correct": 0,
+            "explanation": "Rupa-laya refers to the disappearance of these mental forms.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 42, PDF pages 37–38"
+          },
+          {
+            "q": "Which distinction does the section make?",
+            "options": [
+              "Two permanently separate Brahmans",
+              "Destruction of mental patterns and destruction of mind itself",
+              "Two unrelated sources of Atma",
+              "Wisdom and peace as enemies"
+            ],
+            "correct": 1,
+            "explanation": "The two forms of annihilation are linked to liberation while living and after death.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 42, PDF pages 37–38"
+          },
+          {
+            "q": "What disappearance is described as possible in the present discipline?",
+            "options": [
+              "Destruction of Brahman",
+              "Elimination of the underlying witness",
+              "Destruction of mental form or pattern",
+              "Creation of a second Atma"
+            ],
+            "correct": 2,
+            "explanation": "The text identifies rupa-laya as the present possibility.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 42, PDF pages 37–38"
+          },
+          {
+            "q": "What wells up as delusion and “I-feeling” disappear?",
+            "options": [
+              "Increased possessiveness",
+              "Fear of bodily difference",
+              "Desire for recognition",
+              "Being-awareness-bliss"
+            ],
+            "correct": 3,
+            "explanation": "Steady wisdom reveals the satchidananda described as direct realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=37",
+            "sourceLabel": "Section 42, PDF pages 37–38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-43",
+        "title": "Four qualifications for inquiry into the Atma",
+        "chapter": "Section 43 · Four qualifications for inquiry into the Atma",
+        "chapterNumber": 43,
+        "pdfStartPage": 38,
+        "pdfEndPage": 38,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+        "sourceLabel": "Section 43, PDF page 38",
+        "summary": "Eligibility for inquiry into the Atma depends on inward qualifications, not scholarship, ritual accomplishment, caste, age, sex, or social status. The section quotes equanimity, self-control, withdrawal of the senses, and steadfastness as the qualities that confer this readiness. Reading about them does not replace developing them.\n\nIt then addresses how someone without scriptural learning may possess such preparation. Study can lead to dedicated action, purification, and renunciation, but the accumulated good influences and deeds of earlier births may also produce readiness in this life. Thus learning is neither dismissed nor made an exclusive gate. The decisive issue is the presence of the spiritual qualifications themselves, wherever and in whomever they have developed.",
+        "qa": [
+          {
+            "q": "What determines eligibility for Atmic inquiry here?",
+            "a": "The required inward spiritual qualifications. The section separates genuine readiness from external credentials."
+          },
+          {
+            "q": "Which qualities are quoted in this section?",
+            "a": "Equanimity, self-control, sensory withdrawal, and steadfastness. These are the qualities expressly named in the quoted passage."
+          },
+          {
+            "q": "Does mere reading confer the required eligibility?",
+            "a": "No, the qualifications must be attained. Knowing descriptions is distinguished from possessing the qualities."
+          },
+          {
+            "q": "How can scriptural study contribute to readiness?",
+            "a": "Through dedicated action, purification, and renunciation. The section describes these as fruits of rightly used understanding."
+          },
+          {
+            "q": "How can someone without scriptural study be qualified?",
+            "a": "Through good deeds and educative influences from past births. The explanation allows readiness developed through earlier spiritual influences."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What determines eligibility for Atmic inquiry here?",
+            "options": [
+              "Social status alone",
+              "Scholarship alone",
+              "The required inward spiritual qualifications",
+              "Age alone"
+            ],
+            "correct": 2,
+            "explanation": "The section separates genuine readiness from external credentials.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 43, PDF page 38"
+          },
+          {
+            "q": "Which qualities are quoted in this section?",
+            "options": [
+              "Wealth, prestige, rank, and lineage",
+              "Anger, ambition, rivalry, and pride",
+              "Travel, eloquence, strength, and fame",
+              "Equanimity, self-control, sensory withdrawal, and steadfastness"
+            ],
+            "correct": 3,
+            "explanation": "These are the qualities expressly named in the quoted passage.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 43, PDF page 38"
+          },
+          {
+            "q": "Does mere reading confer the required eligibility?",
+            "options": [
+              "No, the qualifications must be attained",
+              "Yes, regardless of conduct",
+              "Only if read publicly",
+              "Only if others recognise the reader"
+            ],
+            "correct": 0,
+            "explanation": "Knowing descriptions is distinguished from possessing the qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 43, PDF page 38"
+          },
+          {
+            "q": "How can scriptural study contribute to readiness?",
+            "options": [
+              "By replacing all inward practice",
+              "Through dedicated action, purification, and renunciation",
+              "By guaranteeing freedom from every past impression",
+              "By establishing superiority over others"
+            ],
+            "correct": 1,
+            "explanation": "The section describes these as fruits of rightly used understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 43, PDF page 38"
+          },
+          {
+            "q": "How can someone without scriptural study be qualified?",
+            "options": [
+              "Through social status alone",
+              "By refusing every discipline",
+              "Through good deeds and educative influences from past births",
+              "By possessing more objects"
+            ],
+            "correct": 2,
+            "explanation": "The explanation allows readiness developed through earlier spiritual influences.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 43, PDF page 38"
+          }
+        ]
+      },
+      {
+        "id": "chapter-44",
+        "title": "Mastery of the scriptures is not enough",
+        "chapter": "Section 44 · Mastery of the scriptures is not enough",
+        "chapterNumber": 44,
+        "pdfStartPage": 38,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+        "sourceLabel": "Section 44, PDF pages 38–39",
+        "summary": "Scriptural learning alone cannot reveal the Atmic basis of existence. Past impressions may hinder its fruit, while merit can express itself as longing for liberation, the search for a guru, and determination in practice. Understanding scripture can support steadier discipline, but it does not remove the need to undertake that discipline.\n\nFaith is given special emphasis because it prompts the seeker to put learning into action. Without it, scholarship becomes a burden rather than a living resource. Scholars and non-scholars alike require renunciation and spiritual exercise. The section distinguishes indirect conclusions drawn from texts from direct perception, which comes through sadhana. Before realisation, scripture is not indispensable in every case; after realisation, it is no longer needed as a means to know the Self.",
+        "qa": [
+          {
+            "q": "Can mastery of scripture without spiritual practice reveal the Atmic basis?",
+            "a": "No. The section insists on sadhana rather than learning alone."
+          },
+          {
+            "q": "How can merit from past births appear?",
+            "a": "As longing for liberation and determination in practice. Seeking a guru is also named among its expressions."
+          },
+          {
+            "q": "What moves the seeker to translate reading into practice?",
+            "a": "Faith. Sraddha is given special importance for success."
+          },
+          {
+            "q": "What happens to scholarship without this active faith?",
+            "a": "It can remain a burden on the brain. Unapplied knowledge does not accomplish the spiritual purpose."
+          },
+          {
+            "q": "What alone is called spiritual wisdom at the conclusion?",
+            "a": "Direct understanding. The section distinguishes lived perception from conclusions obtained through study."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Can mastery of scripture without spiritual practice reveal the Atmic basis?",
+            "options": [
+              "Yes, automatically",
+              "No",
+              "Only through public debate",
+              "Only through social recognition"
+            ],
+            "correct": 1,
+            "explanation": "The section insists on sadhana rather than learning alone.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 44, PDF pages 38–39"
+          },
+          {
+            "q": "How can merit from past births appear?",
+            "options": [
+              "Only as material wealth",
+              "Only as physical strength",
+              "As longing for liberation and determination in practice",
+              "As permanent freedom from effort"
+            ],
+            "correct": 2,
+            "explanation": "Seeking a guru is also named among its expressions.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 44, PDF pages 38–39"
+          },
+          {
+            "q": "What moves the seeker to translate reading into practice?",
+            "options": [
+              "Vanity",
+              "Attachment to reputation",
+              "Rivalry",
+              "Faith"
+            ],
+            "correct": 3,
+            "explanation": "Sraddha is given special importance for success.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 44, PDF pages 38–39"
+          },
+          {
+            "q": "What happens to scholarship without this active faith?",
+            "options": [
+              "It can remain a burden on the brain",
+              "It necessarily becomes direct vision",
+              "It makes discipline unnecessary",
+              "It ends every past impression by itself"
+            ],
+            "correct": 0,
+            "explanation": "Unapplied knowledge does not accomplish the spiritual purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 44, PDF pages 38–39"
+          },
+          {
+            "q": "What alone is called spiritual wisdom at the conclusion?",
+            "options": [
+              "Memorised terminology",
+              "Direct understanding",
+              "Indirect inference alone",
+              "Academic reputation"
+            ],
+            "correct": 1,
+            "explanation": "The section distinguishes lived perception from conclusions obtained through study.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=38",
+            "sourceLabel": "Section 44, PDF pages 38–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-45",
+        "title": "See the Atma by unraveling the five sheaths of the body",
+        "chapter": "Section 45 · See the Atma by unraveling the five sheaths of the body",
+        "chapterNumber": 45,
+        "pdfStartPage": 39,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+        "sourceLabel": "Section 45, PDF page 39",
+        "summary": "Atma-vichara is an inward analysis of the “I”, using discrimination to uncover what the five sheaths conceal. It is neither investigation of external objects nor purely academic interpretation. The Atma is being-awareness-bliss, beyond the gross, subtle, and causal bodies, and witness to waking, dream, and deep sleep.\n\nThe method described is to examine and negate each covering as “not this”, passing beyond it to the underlying Self. Searching for an object lost at home in a distant forest would fail; likewise, the hidden Brahman is to be sought within, not merely in a mass of scriptural information. Scripture still assists by identifying the sheaths and their characteristics, allowing the intellect to direct inquiry properly.",
+        "qa": [
+          {
+            "q": "What is Atma-vichara in this section?",
+            "a": "Inward analysis of the “I” through discrimination. The inquiry penetrates the coverings of identity toward the Self."
+          },
+          {
+            "q": "How many sheaths are to be examined?",
+            "a": "Five. The pancha-kosas are the coverings considered in this inquiry."
+          },
+          {
+            "q": "Of which three states is the Atma the witness?",
+            "a": "Waking, dream, and deep sleep. Its witnesshood is distinguished from these changing states of experience."
+          },
+          {
+            "q": "What does searching the forest for something lost at home illustrate?",
+            "a": "Looking in the wrong place instead of inquiring within. The analogy directs the search toward the five-sheathed person."
+          },
+          {
+            "q": "How can scriptures help this inward inquiry?",
+            "a": "By explaining the sheaths and their identifying characteristics. Their guidance supports the intellect without substituting for realisation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is Atma-vichara in this section?",
+            "options": [
+              "Inward analysis of the “I” through discrimination",
+              "Research only into external objects",
+              "Memorisation alone",
+              "Debate for academic reputation"
+            ],
+            "correct": 0,
+            "explanation": "The inquiry penetrates the coverings of identity toward the Self.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 45, PDF page 39"
+          },
+          {
+            "q": "How many sheaths are to be examined?",
+            "options": [
+              "Two",
+              "Five",
+              "Three",
+              "Seven"
+            ],
+            "correct": 1,
+            "explanation": "The pancha-kosas are the coverings considered in this inquiry.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 45, PDF page 39"
+          },
+          {
+            "q": "Of which three states is the Atma the witness?",
+            "options": [
+              "Childhood, employment, and retirement",
+              "Hunger, eating, and digestion",
+              "Waking, dream, and deep sleep",
+              "Reading, writing, and speaking"
+            ],
+            "correct": 2,
+            "explanation": "Its witnesshood is distinguished from these changing states of experience.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 45, PDF page 39"
+          },
+          {
+            "q": "What does searching the forest for something lost at home illustrate?",
+            "options": [
+              "The necessity of leaving every home",
+              "The superiority of travel over inquiry",
+              "The absence of a hidden Self",
+              "Looking in the wrong place instead of inquiring within"
+            ],
+            "correct": 3,
+            "explanation": "The analogy directs the search toward the five-sheathed person.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 45, PDF page 39"
+          },
+          {
+            "q": "How can scriptures help this inward inquiry?",
+            "options": [
+              "By explaining the sheaths and their identifying characteristics",
+              "By making direct inquiry unnecessary",
+              "By creating the Atma",
+              "By replacing all use of discrimination"
+            ],
+            "correct": 0,
+            "explanation": "Their guidance supports the intellect without substituting for realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 45, PDF page 39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-46",
+        "title": "Approach the preceptor for help in grasping the Atma",
+        "chapter": "Section 46 · Approach the preceptor for help in grasping the Atma",
+        "chapterNumber": 46,
+        "pdfStartPage": 39,
+        "pdfEndPage": 40,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+        "sourceLabel": "Section 46, PDF pages 39–40",
+        "summary": "Someone unfamiliar with scripture can learn the analysis of the Self from a guru or an experienced spiritual aspirant. Even great scholarship does not itself reach the Atma, which must be known directly. The section therefore stresses guidance from a teacher who has already realised the truth.\n\nNarada’s learning from Sanatkumara and Janaka’s guidance from Suka illustrate the role of the preceptor as presented in this edition. Maitreyi, Leela, and Chudala show that prolonged scriptural study is not the exclusive route to success. These examples support the same distinction made throughout the closing sections: learning about the Self and realising it are different, and experienced guidance helps the seeker make that transition.",
+        "qa": [
+          {
+            "q": "From whom can a person without scriptural learning learn this analysis?",
+            "a": "A guru or an elder spiritual aspirant. The section explicitly permits guidance in place of prolonged textual study."
+          },
+          {
+            "q": "What is required to understand the Atma principle?",
+            "a": "Direct experience. Even profound learning does not replace realisation."
+          },
+          {
+            "q": "Who is named as Narada’s guru?",
+            "a": "Sanatkumara. This teacher-disciple example is stated in the supplied section."
+          },
+          {
+            "q": "Who is named as Janaka’s guru in this section?",
+            "a": "Suka. The quiz follows the specific example given in the supplied PDF."
+          },
+          {
+            "q": "What do Maitreyi, Leela, and Chudala illustrate here?",
+            "a": "Success through guidance without prolonged scriptural study. The examples support access to realised guidance beyond scholarly qualifications."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "From whom can a person without scriptural learning learn this analysis?",
+            "options": [
+              "Only a person equally unfamiliar with it",
+              "Only a public official",
+              "No one",
+              "A guru or an elder spiritual aspirant"
+            ],
+            "correct": 3,
+            "explanation": "The section explicitly permits guidance in place of prolonged textual study.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 46, PDF pages 39–40"
+          },
+          {
+            "q": "What is required to understand the Atma principle?",
+            "options": [
+              "Direct experience",
+              "Scholarship alone",
+              "Inherited rank",
+              "Mere verbal repetition"
+            ],
+            "correct": 0,
+            "explanation": "Even profound learning does not replace realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 46, PDF pages 39–40"
+          },
+          {
+            "q": "Who is named as Narada’s guru?",
+            "options": [
+              "Suka",
+              "Sanatkumara",
+              "Janaka",
+              "Maitreyi"
+            ],
+            "correct": 1,
+            "explanation": "This teacher-disciple example is stated in the supplied section.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 46, PDF pages 39–40"
+          },
+          {
+            "q": "Who is named as Janaka’s guru in this section?",
+            "options": [
+              "Narada",
+              "Leela",
+              "Suka",
+              "Chudala"
+            ],
+            "correct": 2,
+            "explanation": "The quiz follows the specific example given in the supplied PDF.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 46, PDF pages 39–40"
+          },
+          {
+            "q": "What do Maitreyi, Leela, and Chudala illustrate here?",
+            "options": [
+              "Exclusion of women from Atmic knowledge",
+              "The sufficiency of social rank",
+              "The rejection of all teachers",
+              "Success through guidance without prolonged scriptural study"
+            ],
+            "correct": 3,
+            "explanation": "The examples support access to realised guidance beyond scholarly qualifications.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=39",
+            "sourceLabel": "Section 46, PDF pages 39–40"
+          }
+        ]
+      },
+      {
+        "id": "chapter-47",
+        "title": "The grace of the Lord makes everything else superfluous",
+        "chapter": "Section 47 · The grace of the Lord makes everything else superfluous",
+        "chapterNumber": 47,
+        "pdfStartPage": 40,
+        "pdfEndPage": 40,
+        "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+        "sourceLabel": "Section 47, PDF page 40",
+        "summary": "The brief closing section gives divine grace the decisive place. When the Lord’s grace is present, the Lord makes the truth known, and a separate guru may become unnecessary.\n\nEven deficiencies in the qualifications usually expected of a seeker do not prevent vision of the Atma when grace is granted. This final assurance places the power of grace above those ordinary requirements.",
+        "qa": [
+          {
+            "q": "What is the decisive condition in this closing section?",
+            "a": "The grace of the Lord. The passage makes grace the basis of its concluding assurance."
+          },
+          {
+            "q": "Who makes the truth known when this grace is present?",
+            "a": "The Lord. The Lord’s own guidance is the reason given for the exception."
+          },
+          {
+            "q": "What may become unnecessary under this condition?",
+            "a": "A separate guru. The text says the guru often becomes superfluous when the Lord makes everything known."
+          },
+          {
+            "q": "Do deficiencies in usual qualifications necessarily prevent vision when grace is granted?",
+            "a": "No. The passage explicitly says grace can overcome these deficiencies."
+          },
+          {
+            "q": "What attainment is assured to the seeker blessed with this grace?",
+            "a": "Vision of the Atma. The section’s promise concerns Atmic vision, not external rewards."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the decisive condition in this closing section?",
+            "options": [
+              "Social distinction",
+              "Wealth",
+              "The grace of the Lord",
+              "Public reputation"
+            ],
+            "correct": 2,
+            "explanation": "The passage makes grace the basis of its concluding assurance.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+            "sourceLabel": "Section 47, PDF page 40"
+          },
+          {
+            "q": "Who makes the truth known when this grace is present?",
+            "options": [
+              "The seeker’s possessions",
+              "Social convention",
+              "The physical body alone",
+              "The Lord"
+            ],
+            "correct": 3,
+            "explanation": "The Lord’s own guidance is the reason given for the exception.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+            "sourceLabel": "Section 47, PDF page 40"
+          },
+          {
+            "q": "What may become unnecessary under this condition?",
+            "options": [
+              "A separate guru",
+              "The Atma itself",
+              "Divine grace",
+              "The underlying truth"
+            ],
+            "correct": 0,
+            "explanation": "The text says the guru often becomes superfluous when the Lord makes everything known.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+            "sourceLabel": "Section 47, PDF page 40"
+          },
+          {
+            "q": "Do deficiencies in usual qualifications necessarily prevent vision when grace is granted?",
+            "options": [
+              "Yes, in every case",
+              "No",
+              "Only social rank can decide",
+              "Only wealth can decide"
+            ],
+            "correct": 1,
+            "explanation": "The passage explicitly says grace can overcome these deficiencies.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+            "sourceLabel": "Section 47, PDF page 40"
+          },
+          {
+            "q": "What attainment is assured to the seeker blessed with this grace?",
+            "options": [
+              "Guaranteed worldly status",
+              "Fulfilment of every material wish",
+              "Vision of the Atma",
+              "Superiority over other people"
+            ],
+            "correct": 2,
+            "explanation": "The section’s promise concerns Atmic vision, not external rewards.",
+            "type": "recall",
+            "sourceUrl": "assets/jnana-vahini.pdf#page=40",
+            "sourceLabel": "Section 47, PDF page 40"
           }
         ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "unitLabel": "section",
+    "studyNote": "Based solely on the supplied Jnana Vahini PDF. Its foreword explains that this edition added numbered subtitles to a work originally without section headings. These study aids follow those 47 sections; summaries and answers are paraphrases, not quotations. The brief final section has a proportionately shorter summary.",
+    "coverage": "All 47 numbered sections in the supplied edition"
   },
   {
     "id": "leela-kaivalya",

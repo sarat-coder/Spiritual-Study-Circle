@@ -22,7 +22,9 @@ Prasanthi Vahini follows all 29 editorial section headings of the supplied 53-pa
 
 Leela Kaivalya Vahini follows all 26 titled teaching sections of the supplied 31-page PDF in their original order. The opening two paragraphs accompany the first section; “Sai Speaks to a Spiritual Aspirant” is the umbrella heading for the dialogue that follows. Each study section has a two-paragraph summary, five Q&A, and five source-based quiz questions with explanations (130 of each). Source links use PDF pages 8–21 in the unchanged `dist/assets/leela-kaivalya.pdf`. Prefaces and glossary remain available in the PDF. Study numbers are navigation aids, not original chapter numbers.
 
-The other 5 works retain their existing 15 selected topics and 300 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 297 study entries, 1,425 Q&A, and 1,710 quiz questions. Ten works have complete chapter or section coverage.
+Jnana Vahini follows all 47 numbered editorial sections of the supplied 53-page PDF, with the exact headings and order of this edition. The foreword states that the original had no chapter or section titles. Each section has a two-paragraph summary, five Q&A, and five source-based quiz questions with explanations (235 of each); the final brief section is summarised proportionately. Source links use PDF pages 9–40 in the unchanged `dist/assets/jnana-vahini.pdf`. Front matter and glossary remain available in the PDF.
+
+The other 4 works retain their existing 12 selected topics and 240 quiz questions. Their hypothetical application exercises remain labelled. Total collection: 15 works, 341 study entries, 1,657 Q&A, and 1,885 quiz questions. Eleven works have complete chapter or section coverage.
 
 ## Features
 
@@ -44,7 +46,7 @@ The site requires no build process or external JavaScript dependencies. Serve `d
 
 ## Content policy
 
-Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, Sandeha Nivarini, Prema Vahini, Prasnothara Vahini, Prasanthi Vahini, and Leela Kaivalya Vahini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
+Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, Sandeha Nivarini, Prema Vahini, Prasnothara Vahini, Prasanthi Vahini, Leela Kaivalya Vahini, and Jnana Vahini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
 ## Image sources
 
