@@ -18375,897 +18375,1380 @@ window.VAHINI_BOOKS = [
     "id": "dharma-vahini",
     "title": "Dharma Vahini",
     "hindiTitle": "धर्म वाहिनी",
-    "subtitle": "The path of righteousness",
-    "description": "Connect conscience, inner awareness, and universal welfare.",
-    "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Dharma.pdf",
+    "subtitle": "Stream of Righteousness",
+    "description": "Study all 13 chapters of the supplied Dharma Vahini edition, with fuller English summaries, five questions and answers, and five source-based quiz questions per chapter.",
+    "sourceUrl": "assets/dharma-vahini.pdf",
+    "pdfUrl": "assets/dharma-vahini.pdf",
     "topics": [
       {
-        "id": "dharma-conscience",
-        "title": "Listening to conscience",
+        "id": "chapter-01",
+        "title": "What Is Dharma?",
         "chapter": "Chapter I",
-        "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-        "summary": "Dharma guides ordinary conduct through conscience, selflessness, and awareness of the divine presence in all life.",
+        "chapterNumber": 1,
+        "pdfStartPage": 9,
+        "pdfEndPage": 12,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+        "sourceLabel": "Chapter I, PDF pages 9–12",
+        "summary": "Dharma is introduced as the enduring foundation of human welfare, peace, and right relationship with God. It is broader than charity, customary occupation, obedience to law, or outward ritual considered separately. The chapter explains how its meaning becomes obscured when people mistake illustrative practices for the truths those practices convey. Restoring dharma requires overcoming lust, anger, greed, delusion, pride, and hatred. In the chapter's account, Buddha and Sankara exemplify adherence to its inner truth rather than rejection of righteous action. Selflessness, conscience, and freedom from identification with the body mark the path toward union with the divine.\n\nThe second part emphasises symbolic understanding. Sacrificing the animal is interpreted as surrendering body-consciousness and ego, rather than harming a living creature. Krishna's care for cows signifies care for individual souls. Nandi before the Siva lingam represents the individual whose separate identity is to merge in the divine; the worshipper is invited to recognise Siva within the individual. Everyday thought, speech, and action can become worship when offered with dedication. The chapter calls for recovering the purpose of inherited practices, preserving their spiritual aim while correcting distortions that have accumulated around them.",
         "qa": [
           {
-            "q": "What makes an action dharmic?",
-            "a": "Its selfless motive and respect for conscience support spiritual growth."
+            "q": "What is presented as the foundation of human welfare and peace?",
+            "a": "Dharma. The opening describes dharma as the enduring basis of humanity's welfare."
+          },
+          {
+            "q": "What error is compared to children attending only to a book's pictures?",
+            "a": "Treating rituals as ends while forgetting the truths they illustrate. The illustration distinguishes a teaching aid from its spiritual purpose."
+          },
+          {
+            "q": "Which group lists the six inner enemies named in this chapter?",
+            "a": "Lust, anger, greed, delusion, pride, and hate. The chapter connects their conquest with the restoration of dharma."
+          },
+          {
+            "q": "What does animal sacrifice signify in the chapter's spiritual interpretation?",
+            "a": "Giving up ego and body-consciousness. The text explains the animal symbol inwardly and rejects its replacement by literal harm."
+          },
+          {
+            "q": "What does Nandi represent in the temple symbolism?",
+            "a": "The individual soul. Nandi and the lingam convey the individual soul's union with Siva."
           }
         ],
         "quiz": [
           {
-            "q": "Which motive supports dharma?",
+            "q": "What is presented as the foundation of human welfare and peace?",
             "options": [
-              "Greed",
-              "Prestige",
-              "Others' welfare",
-              "Revenge"
-            ],
-            "correct": 2,
-            "explanation": "The selected motive considers other people when choosing how to act.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A cashier returns too much change. What is the clearest conscientious response?",
-            "options": [
-              "Point out the mistake",
-              "Wait to see whether noticed",
-              "Treat the extra as a reward",
-              "Ask friends what benefits you most"
+              "Dharma",
+              "Sensory pleasure",
+              "Public acclaim",
+              "Material comfort alone"
             ],
             "correct": 0,
-            "explanation": "Pointing out the error resolves the situation honestly without depending on whether anyone noticed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
+            "explanation": "The opening describes dharma as the enduring basis of humanity's welfare.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+            "sourceLabel": "Chapter I, PDF pages 9–12"
           },
           {
-            "q": "A coordinator can hide a scheduling mistake. What should guide the next step?",
+            "q": "What error is compared to children attending only to a book's pictures?",
             "options": [
-              "Whether the mistake can be concealed",
-              "The impact on people relying on it",
-              "The coordinator's desire to look flawless",
-              "How quickly others forget problems"
+              "Reading with careful understanding",
+              "Treating rituals as ends while forgetting the truths they illustrate",
+              "Acting without selfish desire",
+              "Seeking the meaning of symbols"
             ],
             "correct": 1,
-            "explanation": "Considering affected people directs the decision toward responsibility rather than protecting appearances.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
+            "explanation": "The illustration distinguishes a teaching aid from its spiritual purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+            "sourceLabel": "Chapter I, PDF pages 9–12"
           },
           {
-            "q": "A worker is asked to take credit for a colleague's idea. What should they do?",
+            "q": "Which group lists the six inner enemies named in this chapter?",
             "options": [
-              "Accept because the manager suggested it",
-              "Wait until the colleague complains",
-              "Acknowledge the colleague's contribution",
-              "Describe only their own enthusiasm"
+              "Truth, peace, love, patience, courage, and charity",
+              "Study, work, rest, speech, memory, and sleep",
+              "Lust, anger, greed, delusion, pride, and hate",
+              "Wealth, health, learning, skill, strength, and beauty"
             ],
             "correct": 2,
-            "explanation": "Acknowledging the contribution makes the public account match what actually happened.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
+            "explanation": "The chapter connects their conquest with the restoration of dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+            "sourceLabel": "Chapter I, PDF pages 9–12"
           },
           {
-            "q": "A student finds an answer sheet before a practice test. What best preserves honest learning?",
+            "q": "What does animal sacrifice signify in the chapter's spiritual interpretation?",
             "options": [
-              "Use only the difficult answers",
-              "Study it but keep quiet",
-              "Share it with selected friends",
-              "Return it without using the answers"
+              "Injuring a helpless creature",
+              "Displaying wealth through ceremony",
+              "Avoiding all daily duties",
+              "Giving up ego and body-consciousness"
             ],
             "correct": 3,
-            "explanation": "Returning the sheet preserves the purpose of assessing what the student has actually learned.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
+            "explanation": "The text explains the animal symbol inwardly and rejects its replacement by literal harm.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+            "sourceLabel": "Chapter I, PDF pages 9–12"
           },
           {
-            "q": "A helper wonders whether a shortcut is appropriate. What question is most useful?",
+            "q": "What does Nandi represent in the temple symbolism?",
             "options": [
-              "Could this unfairly burden someone else?",
-              "Will anyone see the shortcut?",
-              "Can it improve my reputation?",
-              "Did someone previously get away with it?"
+              "The individual soul",
+              "Material wealth",
+              "The passage of time",
+              "A competing deity opposed to Siva"
             ],
             "correct": 0,
-            "explanation": "Considering the burden on others examines the action itself beyond its visibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A host accidentally omits a guest's name. What is a responsible correction?",
-            "options": [
-              "Leave it to preserve the programme",
-              "Acknowledge and correct the omission",
-              "Blame the guest for not reminding",
-              "Correct only if an important guest objects"
-            ],
-            "correct": 1,
-            "explanation": "A direct correction respects the overlooked person without making status determine the response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A clerk notices that a convenient procedure disadvantages new visitors. What should happen?",
-            "options": [
-              "Keep it because staff prefer it",
-              "Explain that newcomers must adapt",
-              "Raise the concern and suggest a fairer process",
-              "Change it only for personal acquaintances"
-            ],
-            "correct": 2,
-            "explanation": "Questioning the procedure considers those affected instead of treating convenience as sufficient justification.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A friend requests a favourable recommendation containing an exaggeration. What is appropriate?",
-            "options": [
-              "Include it as friendly support",
-              "Use vague language to conceal it",
-              "Ask the friend to sign your name",
-              "Describe strengths accurately"
-            ],
-            "correct": 3,
-            "explanation": "An accurate account supports the friend without misleading someone who will rely on it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A volunteer is offered an unearned prize after a recording error. What should they do?",
-            "options": [
-              "Tell organisers about the error",
-              "Accept because refusing feels awkward",
-              "Share the prize without explaining",
-              "Wait until the true recipient asks"
-            ],
-            "correct": 0,
-            "explanation": "Disclosing the error helps restore the result to the people who actually earned it.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A person feels uneasy after a dismissive remark. What is a useful next step?",
-            "options": [
-              "Keep busy until the feeling fades",
-              "Reflect and repair the interaction",
-              "Collect reasons the listener deserved it",
-              "Ask only friends who will agree"
-            ],
-            "correct": 1,
-            "explanation": "Reflection becomes practical when it leads to acknowledging and repairing a harmful interaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "An organiser discovers a rule was applied differently to a friend. What should be reviewed?",
-            "options": [
-              "Whether the friendship is longstanding",
-              "Whether others are likely to notice",
-              "Whether the decision can be justified fairly",
-              "Whether the friend expressed gratitude"
-            ],
-            "correct": 2,
-            "explanation": "A fair review examines the reason for the exception independently of personal closeness.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A learner can meet a target by reporting unfinished work as complete. What is best?",
-            "options": [
-              "Round up to protect morale",
-              "Copy last week's completion record",
-              "Ask someone else to make the report",
-              "Report progress accurately"
-            ],
-            "correct": 3,
-            "explanation": "Accurate reporting gives others a sound basis for decisions about the remaining work.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A popular group mocks an absent member. What response best preserves respect?",
-            "options": [
-              "Decline to join and redirect discussion",
-              "Join briefly to avoid awkwardness",
-              "Save the remarks for later sharing",
-              "Wait until the absent member returns"
-            ],
-            "correct": 0,
-            "explanation": "Declining participation prevents the wish to belong from determining how an absent person is treated.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "An organiser has made a promise that conflicts with a prior commitment. What should they do?",
-            "options": [
-              "Hide the earlier commitment",
-              "Explain honestly and arrange a fair solution",
-              "Let the less influential group wait",
-              "Promise both that everything is settled"
-            ],
-            "correct": 1,
-            "explanation": "Honest clarification allows the affected people to plan around the actual conflict.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A worker sees an unattended shared resource being wasted. What is conscientious?",
-            "options": [
-              "Ignore it outside formal duties",
-              "Take some before others do",
-              "Secure it and notify the responsible person",
-              "Photograph the waste without addressing it"
-            ],
-            "correct": 2,
-            "explanation": "A proportionate helpful action protects a shared resource without needing personal ownership.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A student is unsure whether their quotation attribution is correct. What should they do?",
-            "options": [
-              "Use it because it sounds convincing",
-              "Attribute it to the best-known author",
-              "Avoid naming any source at all",
-              "Check before presenting it as certain"
-            ],
-            "correct": 3,
-            "explanation": "Checking uncertainty prevents confidence in presentation from substituting for an accurate account.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A committee rewards only highly visible tasks. What concern should be raised?",
-            "options": [
-              "Unseen necessary work may be overlooked",
-              "Visible work always takes longer",
-              "Quiet workers cannot contribute much",
-              "Recognition eliminates the need for fairness"
-            ],
-            "correct": 0,
-            "explanation": "Identifying overlooked contributions lets the committee assess work more accurately and respectfully.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A driver at a crowded venue notices someone struggling with directions. What is appropriate?",
-            "options": [
-              "Ignore them because no duty was assigned",
-              "Offer clear help if safely possible",
-              "Give a confident guess",
-              "Help only if they recognise you"
-            ],
-            "correct": 1,
-            "explanation": "Accurate assistance addresses a present need without making recognition the reason for helping.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
-          },
-          {
-            "q": "A person wants to justify a choice by saying everyone does it. What is missing?",
-            "options": [
-              "A count of how many agree",
-              "A more persuasive slogan",
-              "The names of influential supporters",
-              "An examination of the choice's fairness"
-            ],
-            "correct": 3,
-            "explanation": "Common practice does not answer whether a particular action treats affected people fairly.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter I"
+            "explanation": "Nandi and the lingam convey the individual soul's union with Siva.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=9",
+            "sourceLabel": "Chapter I, PDF pages 9–12"
           }
         ]
       },
       {
-        "id": "dharma-inner",
-        "title": "Inner basis of duty",
+        "id": "chapter-02",
+        "title": "Divine Versus Worldly Dharma",
         "chapter": "Chapter II",
-        "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-        "summary": "Daily responsibilities gain spiritual depth when grounded in the Atma. Love translates this inner awareness into action.",
+        "chapterNumber": 2,
+        "pdfStartPage": 13,
+        "pdfEndPage": 16,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+        "sourceLabel": "Chapter II, PDF pages 13–16",
+        "summary": "The chapter distinguishes eternal Atma-dharma from the changing rules that organise worldly conduct. Customs concerning occupation, community, and stages of life have practical importance, but their value depends on an underlying awareness of the one Atma. Dharma is not confined to a nation or religious group. Love-filled action brings its universal basis into daily life. The contrast between seeing God as merely stone and seeing the divine through a stone image illustrates the required change of vision: outward form should reveal rather than conceal the spiritual reality.\n\nGenuine freedom means release from delusion and servitude to the senses, not simply freedom from employment or other responsibilities. Changing surroundings cannot by itself overcome ego. Wearing footwear rather than removing every thorn from the earth illustrates the value of transforming one's understanding. Good conduct and spiritual truth must support each other. Atmic bliss, inward vision, faith in one's identity with the Absolute, and recognition of Brahman everywhere find practical expression through truth, peace, love, and nonviolence. Actions rooted in this awareness become worship; actions driven by convenience and selfish interest remain binding, even when outwardly attractive or religious.",
         "qa": [
           {
-            "q": "How do inner and outer duties connect?",
-            "a": "Awareness of the divine Self should guide everyday responsibilities."
+            "q": "What is the fundamental dharma discussed in this chapter?",
+            "a": "Atma-dharma. Particular codes are treated as applications of the universal spiritual foundation."
+          },
+          {
+            "q": "What does seeing the stone as God illustrate?",
+            "a": "Recognising the divine through a concrete form. The example shows how inner vision transforms the significance of an outward act."
+          },
+          {
+            "q": "What is genuine freedom according to the chapter?",
+            "a": "Freedom from delusion and slavery to the senses. Freedom depends on spiritual understanding rather than a change of external situation."
+          },
+          {
+            "q": "What lesson is conveyed by wearing footwear instead of removing every thorn?",
+            "a": "Transform one's vision rather than demand a perfectly comfortable world. The analogy explains how knowledge of reality protects against dependence on external conditions."
+          },
+          {
+            "q": "Which four values express the inner dharma in daily life?",
+            "a": "Truth, peace, love, and nonviolence. The chapter connects these practical values with the Atmic foundation."
           }
         ],
         "quiz": [
           {
-            "q": "What strengthens everyday duty?",
+            "q": "What is the fundamental dharma discussed in this chapter?",
             "options": [
-              "Atmic awareness",
-              "Fear of opinion",
-              "Convenience alone",
-              "Withdrawal alone"
-            ],
-            "correct": 0,
-            "explanation": "The correct answer connects inward understanding with the ordinary responsibilities described.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "An office worker thinks spiritual practice ends when work begins. What could bridge the gap?",
-            "options": [
-              "Wait until retirement to practise",
-              "Bring respectful awareness into ordinary duties",
-              "Add only spiritual decorations",
-              "Consider colleagues unrelated to practice"
-            ],
-            "correct": 1,
-            "explanation": "The workplace provides ordinary interactions where an inward commitment can guide actual conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "Someone performs chores resentfully after peaceful reflection. What should they examine?",
-            "options": [
-              "Whether chores can all be avoided",
-              "Whether reflection lasted long enough to impress",
-              "How reflection influences their response to chores",
-              "Who is responsible for their peaceful mood"
-            ],
-            "correct": 2,
-            "explanation": "Examining the connection helps carry an inward intention into the task currently being performed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A devotee is attentive during worship but rude to a cleaner. What needs integration?",
-            "options": [
-              "The worship schedule and room lighting",
-              "The cleaner's status and qualifications",
-              "The length and complexity of prayers",
-              "Reverence and everyday treatment of people"
+              "A rule limited to one nation",
+              "A custom chosen only for convenience",
+              "A code based solely on bodily comfort",
+              "Atma-dharma"
             ],
             "correct": 3,
-            "explanation": "The contrasting interactions reveal where an inward value has not yet shaped ordinary behaviour.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
+            "explanation": "Particular codes are treated as applications of the universal spiritual foundation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+            "sourceLabel": "Chapter II, PDF pages 13–16"
           },
           {
-            "q": "An artist wants routine preparation to express devotion. Which approach fits?",
+            "q": "What does seeing the stone as God illustrate?",
             "options": [
-              "Work carefully with a sincere intention",
-              "Reserve care only for public exhibits",
-              "Ignore practical responsibilities during reflection",
-              "Measure devotion by expensive materials"
+              "Recognising the divine through a concrete form",
+              "Reducing God to an ordinary object",
+              "Rejecting every form of worship",
+              "Treating material appearance as the whole reality"
             ],
             "correct": 0,
-            "explanation": "Careful preparation gives the intention a concrete expression within the artist's actual responsibilities.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
+            "explanation": "The example shows how inner vision transforms the significance of an outward act.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+            "sourceLabel": "Chapter II, PDF pages 13–16"
           },
           {
-            "q": "A learner sees quiet tasks as less worthy than ceremonial roles. What broadens this view?",
+            "q": "What is genuine freedom according to the chapter?",
             "options": [
-              "Choose only roles beside the stage",
-              "Consider how each task can serve others",
-              "Compare costumes used in each role",
-              "Treat ordinary responsibilities as interruptions"
+              "Having no job",
+              "Freedom from delusion and slavery to the senses",
+              "Moving to another relative's house",
+              "Satisfying every bodily demand"
             ],
             "correct": 1,
-            "explanation": "Looking at each task's contribution makes its value visible beyond its ceremonial prominence.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
+            "explanation": "Freedom depends on spiritual understanding rather than a change of external situation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+            "sourceLabel": "Chapter II, PDF pages 13–16"
           },
           {
-            "q": "A family seeks to connect prayer with its shared meal. What action fits?",
+            "q": "What lesson is conveyed by wearing footwear instead of removing every thorn?",
             "options": [
-              "Discuss who prayed most fluently",
-              "Give the best seat by spiritual rank",
-              "Include everyone with considerate attention",
-              "Finish quickly to resume formal practice"
+              "Eliminate all work before seeking peace",
+              "Avoid developing spiritual understanding",
+              "Transform one's vision rather than demand a perfectly comfortable world",
+              "Replace conscience with convenience"
             ],
             "correct": 2,
-            "explanation": "Considerate participation carries the family's inward intention into a familiar shared activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
+            "explanation": "The analogy explains how knowledge of reality protects against dependence on external conditions.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+            "sourceLabel": "Chapter II, PDF pages 13–16"
           },
           {
-            "q": "Someone changes jobs hoping all inner conflict will vanish. What else deserves attention?",
+            "q": "Which four values express the inner dharma in daily life?",
             "options": [
-              "Only the title of the new position",
-              "Only the appearance of the workspace",
-              "Only colleagues' agreement with them",
-              "The attitudes they bring to responsibilities"
+              "Wealth, fame, strength, and comfort",
+              "Rivalry, ambition, praise, and power",
+              "Pleasure, ownership, status, and success",
+              "Truth, peace, love, and nonviolence"
             ],
             "correct": 3,
-            "explanation": "Changing circumstances leaves personal patterns unexamined unless the person also considers their own responses.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A volunteer wants every action to express reverence. Which habit makes this concrete?",
-            "options": [
-              "Handle shared belongings with care",
-              "Use reverent language only in meetings",
-              "Seek only symbolically important assignments",
-              "Assume intention makes careless work acceptable"
-            ],
-            "correct": 0,
-            "explanation": "Care with shared belongings turns an inward intention into behaviour that other people can experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A participant says ordinary duties prevent spiritual growth. Which experiment is useful?",
-            "options": [
-              "Postpone all responsibilities indefinitely",
-              "Perform one duty with attentive kindness",
-              "Add more duties without reflection",
-              "Rank duties only by public prestige"
-            ],
-            "correct": 1,
-            "explanation": "The experiment tests whether a familiar responsibility can become a setting for intentional practice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A devotee chooses a favourite form for contemplation. How might this inform a difficult interaction?",
-            "options": [
-              "Expect the other person to share the preference",
-              "Discuss symbols instead of the immediate concern",
-              "Respond with the respect they hope to cultivate",
-              "Assume disagreement cancels the person's dignity"
-            ],
-            "correct": 2,
-            "explanation": "The chosen practice becomes relevant through the quality of the response during the interaction.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "An organiser praises unity while assigning unpleasant tasks unfairly. What should change?",
-            "options": [
-              "The speech should become more poetic",
-              "Only the task names should change",
-              "The unfair pattern should remain unmentioned",
-              "Assignments should reflect the stated equal regard"
-            ],
-            "correct": 3,
-            "explanation": "A fairer allocation connects the stated intention with decisions that directly affect participants.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A reader confuses detachment with neglecting responsibilities. Which choice clarifies the difference?",
-            "options": [
-              "Leave the task unfinished and unreported",
-              "Fulfil the task without demanding personal acclaim",
-              "Avoid learning the necessary skills",
-              "Let others absorb the consequences"
-            ],
-            "correct": 1,
-            "explanation": "Completing the task keeps responsibility intact while loosening the demand for recognition.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A household wants to make everyday care meaningful. Which practice is most concrete?",
-            "options": [
-              "Wait for a special celebration",
-              "Compare the household with neighbours",
-              "Give attentive care during small responsibilities",
-              "Discuss ideals without changing routines"
-            ],
-            "correct": 2,
-            "explanation": "Small recurring responsibilities provide regular opportunities to express a considered inward commitment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "An employee feels superior after learning spiritual terminology. What would better support practice?",
-            "options": [
-              "Correct everyone's vocabulary immediately",
-              "Display the largest glossary",
-              "Avoid colleagues unfamiliar with the terms",
-              "Use the learning to become more considerate"
-            ],
-            "correct": 3,
-            "explanation": "Greater consideration shows the learning influencing relationships rather than becoming a marker of status.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A learner divides people into those worth kindness and everyone else. What should be reconsidered?",
-            "options": [
-              "The condition placed on basic respect",
-              "The length of the kindness list",
-              "The learner's preferred meeting place",
-              "The labels used for each group"
-            ],
-            "correct": 0,
-            "explanation": "Examining the condition tests whether the person's inward commitment includes those outside familiar preferences.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "Someone claims sincere intention excuses unreliable work. What is the better integration?",
-            "options": [
-              "Keep the intention private and ignore outcomes",
-              "Join sincere intention with dependable action",
-              "Replace deadlines with spiritual discussion",
-              "Ask others to accept every inconvenience"
-            ],
-            "correct": 1,
-            "explanation": "Dependable action gives others a practical expression of the sincerity being claimed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A person prepares a room for a gathering with nobody watching. What can guide the effort?",
-            "options": [
-              "The chance of being photographed later",
-              "Whether a senior person checks every corner",
-              "Care for the people who will use it",
-              "How visible each task appears"
-            ],
-            "correct": 2,
-            "explanation": "Considering future users keeps the work meaningful even when immediate observers are absent.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A devotee feels peaceful alone but impatient in queues. Where is a useful practice opportunity?",
-            "options": [
-              "Only in a quieter retreat",
-              "Only after everyone else improves",
-              "Only during formal discussion",
-              "In the next ordinary queue"
-            ],
-            "correct": 3,
-            "explanation": "The recurring difficulty provides a specific place to connect inner intention with outward response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
-          },
-          {
-            "q": "A team wants its values to shape routine decisions. What should it examine?",
-            "options": [
-              "Whether daily procedures treat people consistently",
-              "Whether its motto is displayed prominently",
-              "Whether its clothing shares a colour",
-              "Whether meetings begin with impressive language"
-            ],
-            "correct": 0,
-            "explanation": "Examining procedures tests how values operate repeatedly in the ordinary life of the team.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter II"
+            "explanation": "The chapter connects these practical values with the Atmic foundation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=13",
+            "sourceLabel": "Chapter II, PDF pages 13–16"
           }
         ]
       },
       {
-        "id": "dharma-welfare",
-        "title": "Working for everyone's good",
-        "chapter": "Chapter XIII",
-        "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-        "summary": "Dharma calls for impartiality, cooperation, and truth. Test proposed actions against their contribution to universal welfare.",
+        "id": "chapter-03",
+        "title": "The Basic Flaw",
+        "chapter": "Chapter III",
+        "chapterNumber": 3,
+        "pdfStartPage": 17,
+        "pdfEndPage": 19,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+        "sourceLabel": "Chapter III, PDF pages 17–19",
+        "summary": "The basic flaw is acting without genuine dedication while claiming to follow dharma. Altering outward circumstances without removing ignorance resembles rearranging furniture in an unlit room; spiritual wisdom supplies the needed light. Dedication cannot be used to excuse cruelty. Truth, peace, love, nonviolence, and purity of thought, speech, and action are necessary for an offering to be authentic. The chapter connects this dharmic life with the Gita's teaching about those dear to the Lord and asks the aspirant to examine the quality of devotion rather than merely claim it.\n\nThe inquiry then turns to identity. A person may be called king, father, son, or husband, yet none of these temporary relationships fully defines the self. The Atma has no limiting form or gender and remains unchanged beneath bodily differences. Wood made into a chair or palanquin illustrates the relation between one substance and its various forms. Likewise, the duties of different life stages are applications of a common spiritual principle. They retain practical importance without becoming identical to the unlimited Absolute. Dharma is finally characterised through justice, self-control, dignity, sympathy, truth, and nonviolence, leading toward universal love and unity.",
         "qa": [
           {
-            "q": "How should differing opinions be evaluated?",
-            "a": "Examine them cooperatively by the standard of everyone's good."
+            "q": "What does rearranging furniture in a dark room illustrate?",
+            "a": "Changing circumstances without removing ignorance. Lighting the room represents the understanding needed for a genuine change of life."
+          },
+          {
+            "q": "Can cruelty become dharmic merely by naming the Lord?",
+            "a": "No; true dedication requires purity and nonviolence. The chapter explicitly rejects using dedication as an excuse for injury."
+          },
+          {
+            "q": "Why do labels such as king, father, or son not fully identify the self?",
+            "a": "They describe temporary relationships and roles. The text directs inquiry beyond bodily and social identities."
+          },
+          {
+            "q": "How is the Atma described?",
+            "a": "Formless, unchanging, and beyond gender distinctions. Such distinctions belong to forms and activities rather than the Atma."
+          },
+          {
+            "q": "What does wood made into different furniture illustrate?",
+            "a": "One basic dharma expressed through varied practical duties. The substance remains one while its useful forms differ."
           }
         ],
         "quiz": [
           {
-            "q": "Which approach reflects dharma?",
+            "q": "What does rearranging furniture in a dark room illustrate?",
             "options": [
-              "Favouritism",
-              "Hostility",
-              "Pride",
-              "Impartial cooperation"
-            ],
-            "correct": 3,
-            "explanation": "The selected approach gives cooperation and fairness a practical shared role.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
-          },
-          {
-            "q": "A community hall has two competing booking requests. What process is fairest?",
-            "options": [
-              "Choose the organiser's closest friend",
-              "Prefer the louder group automatically",
-              "Apply clear criteria to both requests",
-              "Decide according to private compliments"
+              "The completion of spiritual wisdom",
+              "The uselessness of every duty",
+              "Changing circumstances without removing ignorance",
+              "The final state of liberation"
             ],
             "correct": 2,
-            "explanation": "Shared criteria allow both requests to be considered without personal influence determining the result.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Lighting the room represents the understanding needed for a genuine change of life.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+            "sourceLabel": "Chapter III, PDF pages 17–19"
           },
           {
-            "q": "A group is divided over a proposal. What helps cooperative evaluation?",
+            "q": "Can cruelty become dharmic merely by naming the Lord?",
             "options": [
-              "Repeat the leader's view until agreement",
-              "Exclude the quietest participants",
-              "Vote before explaining the proposal",
-              "List likely benefits and burdens for everyone"
+              "Yes; any declared intention is enough",
+              "Yes; outward success proves it righteous",
+              "Only if performed publicly",
+              "No; true dedication requires purity and nonviolence"
             ],
             "correct": 3,
-            "explanation": "Examining both benefits and burdens keeps attention on the people affected by the proposal.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The chapter explicitly rejects using dedication as an excuse for injury.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+            "sourceLabel": "Chapter III, PDF pages 17–19"
           },
           {
-            "q": "A new activity suits most members but excludes those with mobility limitations. What next?",
+            "q": "Why do labels such as king, father, or son not fully identify the self?",
             "options": [
-              "Explore an accessible arrangement",
-              "Assume majority benefit ends discussion",
-              "Invite excluded members only to watch",
-              "Describe exclusion as unavoidable without checking"
+              "They describe temporary relationships and roles",
+              "They are all names of the Atma's permanent forms",
+              "They remove the need for self-inquiry",
+              "They prove that each person has several eternal selves"
             ],
             "correct": 0,
-            "explanation": "Exploring alternatives gives overlooked participants a place in decisions about the shared activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The text directs inquiry beyond bodily and social identities.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+            "sourceLabel": "Chapter III, PDF pages 17–19"
           },
           {
-            "q": "A club assigns equipment by seniority alone. What should it also consider?",
+            "q": "How is the Atma described?",
             "options": [
-              "Which members praise the committee",
-              "Current needs and fair access",
-              "Who can advertise the club",
-              "Whose request sounds most confident"
+              "Defined by a single bodily shape",
+              "Formless, unchanging, and beyond gender distinctions",
+              "Changed by each occupation",
+              "Confined to one stage of life"
             ],
             "correct": 1,
-            "explanation": "Considering need and access broadens evaluation beyond a single status based rule.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Such distinctions belong to forms and activities rather than the Atma.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+            "sourceLabel": "Chapter III, PDF pages 17–19"
           },
           {
-            "q": "Two proposals have different strengths. What is a cooperative next step?",
+            "q": "What does wood made into different furniture illustrate?",
             "options": [
-              "Declare one group entirely mistaken",
-              "End discussion to avoid further effort",
-              "Seek a version combining useful features",
-              "Choose whichever proposal was first"
+              "Unrelated spiritual principles with no common basis",
+              "The superiority of one household object",
+              "One basic dharma expressed through varied practical duties",
+              "The disappearance of all responsibility"
             ],
             "correct": 2,
-            "explanation": "Combining useful features can preserve shared aims without requiring one side to lose everything.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The substance remains one while its useful forms differ.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=17",
+            "sourceLabel": "Chapter III, PDF pages 17–19"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Masculine and Feminine Natures",
+        "chapter": "Chapter IV",
+        "chapterNumber": 4,
+        "pdfStartPage": 20,
+        "pdfEndPage": 23,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+        "sourceLabel": "Chapter IV, PDF pages 20–23",
+        "summary": "This chapter discusses masculine and feminine roles as practical expressions of a deeper spiritual order. It associates their symbolism with consciousness and creation and presents women as embodiments of divine energy, not as spiritually inferior. Within its account of household life, it praises patience, fortitude, self-control, knowledge, and selfless love. A home where husband and wife share devotion, sacred reading, and remembrance of the Lord is described as a divine dwelling. Stories of Savithri, Anasuya, Nalayani, and Damayanthi illustrate the spiritual power the chapter attributes to chastity and steadfastness.\n\nThe text gives particular importance to modesty, explaining it through humility, purity of thought and conduct, sensitivity, sweetness, and dedication to high ideals. It distinguishes genuine self-respect from a desire for flattering public praise. In its traditional account of a wife's responsibilities, care for the home, service to the husband, and encouragement of his spiritual progress are treated as worship. It also condemns either spouse's attempt to obstruct the other's spiritual life. The larger aim remains Atmic awareness: shared truth, peace, love, good deeds, and recognition of unity should make the household a place of spiritual growth.",
+        "qa": [
+          {
+            "q": "With what principle does the chapter associate woman?",
+            "a": "Divine energy or sakthi. The chapter describes the feminine principle through the Lord's energy and explicitly denies inferiority."
           },
           {
-            "q": "A notice is difficult for new readers to understand. What would improve shared access?",
+            "q": "Which woman is described as winning back her husband's life?",
+            "a": "Savithri. Her encounter with the Lord of Death illustrates the power attributed to steadfast virtue."
+          },
+          {
+            "q": "Which qualities form part of the chapter's explanation of modesty?",
+            "a": "Humility, purity, sensitivity, and sweetness. Modesty is explained as a combination of moral and inward qualities."
+          },
+          {
+            "q": "What makes the household resemble a divine dwelling in this account?",
+            "a": "Shared devotion, holy reading, and remembrance of the Lord. The chapter joins mutual love with a shared spiritual life."
+          },
+          {
+            "q": "How does the chapter view one spouse obstructing the other's spiritual endeavour?",
+            "a": "As destructive of the home's spiritual purpose. Its account asks both partners to support rather than undermine the Godward path."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "With what principle does the chapter associate woman?",
             "options": [
-              "Blame readers for asking questions",
-              "Add more technical abbreviations",
-              "Explain it only to established members",
-              "Use clear wording and helpful explanations"
+              "Spiritual inferiority",
+              "Divine energy or sakthi",
+              "Mere material wealth",
+              "Absence of consciousness"
+            ],
+            "correct": 1,
+            "explanation": "The chapter describes the feminine principle through the Lord's energy and explicitly denies inferiority.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+            "sourceLabel": "Chapter IV, PDF pages 20–23"
+          },
+          {
+            "q": "Which woman is described as winning back her husband's life?",
+            "options": [
+              "Gargi",
+              "Meera",
+              "Savithri",
+              "Sulabha"
+            ],
+            "correct": 2,
+            "explanation": "Her encounter with the Lord of Death illustrates the power attributed to steadfast virtue.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+            "sourceLabel": "Chapter IV, PDF pages 20–23"
+          },
+          {
+            "q": "Which qualities form part of the chapter's explanation of modesty?",
+            "options": [
+              "Vanity, rivalry, and display",
+              "Anger, impatience, and greed",
+              "Indifference to every ideal",
+              "Humility, purity, sensitivity, and sweetness"
             ],
             "correct": 3,
-            "explanation": "Clear communication lets more people participate without depending on familiarity with internal language.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Modesty is explained as a combination of moral and inward qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+            "sourceLabel": "Chapter IV, PDF pages 20–23"
           },
           {
-            "q": "A committee receives criticism from someone outside its usual circle. What should it do?",
+            "q": "What makes the household resemble a divine dwelling in this account?",
             "options": [
-              "Examine the concern on its merits",
-              "Dismiss it because of the source",
-              "Accept it without checking details",
-              "Discuss only the critic's personality"
+              "Shared devotion, holy reading, and remembrance of the Lord",
+              "Wealth without discipline",
+              "Public honour alone",
+              "Competition between spouses"
             ],
             "correct": 0,
-            "explanation": "Evaluating the concern itself avoids substituting group membership for a reasoned assessment.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The chapter joins mutual love with a shared spiritual life.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+            "sourceLabel": "Chapter IV, PDF pages 20–23"
           },
           {
-            "q": "A group can complete a project faster by repeatedly burdening one helper. What deserves review?",
+            "q": "How does the chapter view one spouse obstructing the other's spiritual endeavour?",
             "options": [
-              "Whether the helper usually stays quiet",
-              "Whether work can be distributed more fairly",
-              "Whether the helper has asked for praise",
-              "Whether others prefer easier tasks"
+              "As proof of household harmony",
+              "As destructive of the home's spiritual purpose",
+              "As a necessary form of worship",
+              "As a substitute for self-knowledge"
             ],
             "correct": 1,
-            "explanation": "A quiet response does not establish that the repeated burden is reasonable or fairly shared.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Its account asks both partners to support rather than undermine the Godward path.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=20",
+            "sourceLabel": "Chapter IV, PDF pages 20–23"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Education for Women",
+        "chapter": "Chapter V",
+        "chapterNumber": 5,
+        "pdfStartPage": 24,
+        "pdfEndPage": 26,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+        "sourceLabel": "Chapter V, PDF pages 24–26",
+        "summary": "Education is affirmed as necessary for women and men, while this chapter develops a traditional account of women's particular educational responsibilities. It argues that learning must rest on discrimination, character, and knowledge of the Atma rather than degrees alone. Sulabha's discussion of the Atma, alongside the examples of Gargi, Savithri, Meera, and Chudala, demonstrates the place of women as scholars, devotees, and spiritual guides. Mastery of worldly subjects is compatible with spiritual study, provided inward development is not neglected. Parents are assigned responsibility for enabling such education.\n\nThe chapter links women's education with the moral formation of children and the welfare of family, community, and nation. Its prescriptions emphasise household responsibility, modesty, truthfulness, and fidelity, and criticise learning used for vanity or self-indulgence. At the same time, it explicitly states that study and participation in society are not harmful in themselves. Their results depend on the character and purpose of the person using them. Knowledge can nourish service, inquiry, and discrimination, or strengthen deceit and injustice. The central educational test is therefore the development of virtue and useful service rather than the accumulation of credentials.",
+        "qa": [
+          {
+            "q": "On what foundation should education be built, according to the chapter?",
+            "a": "Discrimination. Viveka is identified as the basis for education directed toward spiritual and moral growth."
           },
           {
-            "q": "A disagreement becomes personal. Which move best restores useful discussion?",
-            "options": [
-              "Collect examples of past personal faults",
-              "Ask supporters to speak more loudly",
-              "Return to the decision and affected needs",
-              "Refuse to explain any reasoning"
-            ],
-            "correct": 2,
-            "explanation": "Refocusing on the decision provides common ground that personal accusations have obscured.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "q": "Whose discourse on the Atma is said to have astonished Janaka?",
+            "a": "Sulabha's. Sulabha is presented as an example of women's scholarship and spiritual experience."
           },
           {
-            "q": "An organiser wants feedback from all participants. Which method helps?",
+            "q": "What limitation does the chapter identify in diplomas alone?",
+            "a": "They do not establish moral and spiritual development. The discussion distinguishes credentials from character and inward understanding."
+          },
+          {
+            "q": "Does the chapter declare study and society harmful in themselves?",
+            "a": "No; their effects depend on the person using them. It explicitly allows beneficial learning and social service when joined with good qualities."
+          },
+          {
+            "q": "What makes education worthwhile in the chapter's account?",
+            "a": "Virtue expressed through good conduct and service. Knowledge is valued for its capacity to develop discrimination and benefit others."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "On what foundation should education be built, according to the chapter?",
             "options": [
-              "Offer several comfortable ways to respond",
-              "Ask only confident speakers publicly",
-              "Consult only longstanding members",
-              "Treat silence as complete agreement"
+              "Discrimination",
+              "Vanity",
+              "Social display",
+              "Mere memorisation"
             ],
             "correct": 0,
-            "explanation": "Several response routes make it easier for different participants to contribute relevant experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Viveka is identified as the basis for education directed toward spiritual and moral growth.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+            "sourceLabel": "Chapter V, PDF pages 24–26"
           },
           {
-            "q": "A popular plan benefits one group but creates an overlooked burden elsewhere. What should happen?",
+            "q": "Whose discourse on the Atma is said to have astonished Janaka?",
             "options": [
-              "Ignore it because supporters are numerous",
-              "Include that burden in the assessment",
-              "Hide the detail until after approval",
-              "Assume affected people will adapt"
+              "Nalayani's",
+              "Sulabha's",
+              "Damayanthi's",
+              "Radha's"
             ],
             "correct": 1,
-            "explanation": "Including the burden improves the assessment of the plan's overall effects on the community.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Sulabha is presented as an example of women's scholarship and spiritual experience.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+            "sourceLabel": "Chapter V, PDF pages 24–26"
           },
           {
-            "q": "A team evaluates volunteers for a shared role. Which evidence is most relevant?",
+            "q": "What limitation does the chapter identify in diplomas alone?",
             "options": [
-              "Friendship with the selection panel",
-              "Ability to flatter senior members",
-              "Skills and reliability needed for the role",
-              "Preference for the panel's hobbies"
+              "They automatically prevent service",
+              "They always prove self-realisation",
+              "They do not establish moral and spiritual development",
+              "They remove the need for any education"
             ],
             "correct": 2,
-            "explanation": "Role relevant evidence connects selection to the work instead of unrelated personal advantage.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The discussion distinguishes credentials from character and inward understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+            "sourceLabel": "Chapter V, PDF pages 24–26"
           },
           {
-            "q": "A meeting has limited time and several viewpoints. What preserves fair participation?",
+            "q": "Does the chapter declare study and society harmful in themselves?",
             "options": [
-              "Let the loudest voices use all time",
-              "Allow only the chair's friends to speak",
-              "End questions after the first opinion",
-              "Set equal opportunities for relevant contributions"
+              "Yes; every subject must be abandoned",
+              "Yes; service to the community is rejected",
+              "Only study is always harmful",
+              "No; their effects depend on the person using them"
             ],
             "correct": 3,
-            "explanation": "Clear participation arrangements help different viewpoints receive consideration within the available time.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "It explicitly allows beneficial learning and social service when joined with good qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+            "sourceLabel": "Chapter V, PDF pages 24–26"
           },
           {
-            "q": "A group discovers that a decision relied on incomplete information. What is appropriate?",
+            "q": "What makes education worthwhile in the chapter's account?",
             "options": [
-              "Review it openly using the missing information",
-              "Defend it solely to avoid embarrassment",
-              "Conceal the new information",
-              "Blame those who noticed the gap"
+              "Virtue expressed through good conduct and service",
+              "A title without practice",
+              "Greater skill in deception",
+              "Freedom from every moral responsibility"
             ],
             "correct": 0,
-            "explanation": "Reconsidering the evidence allows the decision to improve without making pride the governing concern.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Knowledge is valued for its capacity to develop discrimination and benefit others.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=24",
+            "sourceLabel": "Chapter V, PDF pages 24–26"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Practise Dharma!",
+        "chapter": "Chapter VI",
+        "chapterNumber": 6,
+        "pdfStartPage": 27,
+        "pdfEndPage": 29,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+        "sourceLabel": "Chapter VI, PDF pages 27–29",
+        "summary": "The principles of dharma are described as enduring, even though their practical applications may respond to changing circumstances. Convenience or immediate advantage is not an adequate standard for deciding what is right. The chapter places scriptural guidance above calculations of personal gain and warns that practice pursued only for rewards will be abandoned when results seem delayed. It explains the Lord's incarnation as protection against the decline of dharma: the term used signifies weakening, not the complete destruction of dharma followed by a belated rescue.\n\nFaith, earnestness, and willingness to practise are necessary for understanding the joy of righteous living. The text criticises reducing spiritual disciplines to health devices, social display, or other merely worldly purposes. The orderly activity of the sun, moon, and elements illustrates fidelity to an assigned nature. People should similarly make their own conduct an example of peace and avoid harm. The closing discussion applies fidelity and restraint to men as well as women. A husband must honour his wife, and both partners are equally accountable to dharma. The chapter thus joins steady personal practice, spiritual motivation, and mutual responsibility.",
+        "qa": [
+          {
+            "q": "What may change while dharma's principles endure?",
+            "a": "Practical rules and applications. The chapter distinguishes enduring principle from circumstance-dependent practice."
           },
           {
-            "q": "A shared garden plan overlooks neighbours affected by noise. What should planners do?",
-            "options": [
-              "Consult only those using the garden",
-              "Hear their concerns before finalising details",
-              "Assume nearby residents will appreciate it",
-              "Wait for conflict before listening"
-            ],
-            "correct": 1,
-            "explanation": "Early consultation lets affected neighbours contribute information before avoidable problems become established.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "q": "Why is immediate advantage an unreliable test of dharma?",
+            "a": "It may lead people to abandon practice when rewards are not visible. Reward-centred observance makes commitment dependent on external results."
           },
           {
-            "q": "A committee wants a rule that serves everyone fairly. What useful test can it apply?",
-            "options": [
-              "Does it favour current leaders?",
-              "Can it prevent every criticism?",
-              "Would we accept it when roles reverse?",
-              "Will it require the least explanation?"
-            ],
-            "correct": 2,
-            "explanation": "Reversing roles can reveal advantages the decision makers might otherwise overlook.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "q": "What does the discussion of glaani emphasise?",
+            "a": "Dharma declines or weakens rather than being utterly destroyed. The incarnation protects dharma when it is in danger."
           },
           {
-            "q": "A team member changes their mind after new evidence. How should this be treated?",
+            "q": "What lesson is drawn from the sun, moon, and elements?",
+            "a": "Steadfast adherence to their respective duties. Their orderly functioning illustrates the sustaining role of dharma."
+          },
+          {
+            "q": "What does the closing discussion say about marital responsibility?",
+            "a": "Both men and women are bound by fidelity and dharma. It requires the husband to honour his wife and rejects a double standard of freedom."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What may change while dharma's principles endure?",
             "options": [
-              "As proof they never cared",
-              "As a reason to silence them",
-              "As an automatic victory for opponents",
-              "As a possible improvement in judgment"
+              "The need for truth itself",
+              "The value of non-injury",
+              "The spiritual foundation at every whim",
+              "Practical rules and applications"
             ],
             "correct": 3,
-            "explanation": "Reconsidering evidence can strengthen a shared decision rather than undermine sincere participation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The chapter distinguishes enduring principle from circumstance-dependent practice.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–29"
           },
           {
-            "q": "A programme's success is measured only by attendance. What else should be examined?",
+            "q": "Why is immediate advantage an unreliable test of dharma?",
             "options": [
-              "Whether participants' needs were meaningfully served",
-              "How often organisers were applauded",
-              "Which guests had the highest status",
-              "How prominent the banner appeared"
+              "It may lead people to abandon practice when rewards are not visible",
+              "Every righteous act guarantees wealth at once",
+              "No practice has any inner significance",
+              "Personal convenience always agrees with scripture"
             ],
             "correct": 0,
-            "explanation": "Examining actual benefit adds information that attendance numbers alone cannot provide.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "Reward-centred observance makes commitment dependent on external results.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–29"
           },
           {
-            "q": "A dispute ends in a compromise. What is the next useful check?",
+            "q": "What does the discussion of glaani emphasise?",
             "options": [
-              "Assume every burden has disappeared",
-              "Confirm that all sides understand the agreement",
-              "Avoid reviewing the arrangement ever again",
-              "Announce that one group has surrendered"
+              "Dharma is created anew without any continuity",
+              "Dharma declines or weakens rather than being utterly destroyed",
+              "Dharma means only a bodily illness",
+              "The Lord acts only after all dharma has vanished"
             ],
             "correct": 1,
-            "explanation": "Checking understanding helps turn an agreement into a workable arrangement for the people involved.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/dharmavahini.html",
-            "sourceLabel": "Dharma Vahini — Chapter XIII"
+            "explanation": "The incarnation protects dharma when it is in danger.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–29"
+          },
+          {
+            "q": "What lesson is drawn from the sun, moon, and elements?",
+            "options": [
+              "Freedom from every order",
+              "The superiority of personal whim",
+              "Steadfast adherence to their respective duties",
+              "The need to change one's goal constantly"
+            ],
+            "correct": 2,
+            "explanation": "Their orderly functioning illustrates the sustaining role of dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–29"
+          },
+          {
+            "q": "What does the closing discussion say about marital responsibility?",
+            "options": [
+              "Only women have moral obligations",
+              "Men are exempt from restraint",
+              "Mutual honour has no place in marriage",
+              "Both men and women are bound by fidelity and dharma"
+            ],
+            "correct": 3,
+            "explanation": "It requires the husband to honour his wife and rejects a double standard of freedom.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=27",
+            "sourceLabel": "Chapter VI, PDF pages 27–29"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Gayatri: Mother Of Mantras",
+        "chapter": "Chapter VII",
+        "chapterNumber": 7,
+        "pdfStartPage": 30,
+        "pdfEndPage": 33,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+        "sourceLabel": "Chapter VII, PDF pages 30–33",
+        "summary": "Gayatri is explained through its relationship to speech, objects, world, body, breath, and heart. The visible universe is portrayed as only a portion of the Supreme's magnificence, while waking, dreaming, and deep sleep point toward the reality that underlies experience. The chapter treats the highest meaning of brahmin as one who knows and contemplates Brahman, rather than as a merely inherited designation. It also assigns special responsibility for the traditional observance to those who inherit that name. Understanding is essential: mechanical repetition misses the purpose of the discipline.\n\nSandhya is interpreted as concentrated meditation on the Lord. Prayer helps counter the pull of the qualities of nature; dawn practice uses the mind's clarity, midday remembrance dedicates work and its results, and evening devotion resists dullness through prayer, sacred reading, and good conduct. The chapter calls for recognising the inner significance of these observances and the identity of the worshipper's spiritual reality with the divine effulgence. Gayatri is described as protecting the life-breaths and senses and saving those who contemplate it. Its role is to strengthen the inner life, guide the intellect, and support virtue and spiritual uplift.",
+        "qa": [
+          {
+            "q": "Which six categories are associated with Gayatri here?",
+            "a": "Speech, objects, world, body, breath, and heart. These six are explicitly named in the opening explanation."
+          },
+          {
+            "q": "What is the inner meaning given to sandhya?",
+            "a": "Proper or intense meditation on the Lord. The chapter explains the word through concentrated divine contemplation."
+          },
+          {
+            "q": "What is the purpose of midday remembrance?",
+            "a": "Dedicate one's work and its fruits to the Lord. The observance checks restless activity by bringing dedication into daily work."
+          },
+          {
+            "q": "Why is purely mechanical observance insufficient?",
+            "a": "The inner meaning must be understood and contemplated. Understanding gives spiritual purpose to the traditional practice."
+          },
+          {
+            "q": "What meaning of Gayatri is given near the chapter's end?",
+            "a": "That which protects life-breaths and saves those who contemplate it. The explanation connects protection, sacred recitation, and meditation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which six categories are associated with Gayatri here?",
+            "options": [
+              "Earth, water, wealth, fame, sleep, and food",
+              "Charity, trade, travel, study, rest, and work",
+              "Speech, objects, world, body, breath, and heart",
+              "Sun, moon, stars, mountains, rivers, and oceans"
+            ],
+            "correct": 2,
+            "explanation": "These six are explicitly named in the opening explanation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VII, PDF pages 30–33"
+          },
+          {
+            "q": "What is the inner meaning given to sandhya?",
+            "options": [
+              "Merely the counting of ritual expenses",
+              "A form of intellectual rivalry",
+              "The pursuit of sensory reward",
+              "Proper or intense meditation on the Lord"
+            ],
+            "correct": 3,
+            "explanation": "The chapter explains the word through concentrated divine contemplation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VII, PDF pages 30–33"
+          },
+          {
+            "q": "What is the purpose of midday remembrance?",
+            "options": [
+              "Dedicate one's work and its fruits to the Lord",
+              "Increase pride in achievement",
+              "Replace every duty with sleep",
+              "Measure the wealth of others"
+            ],
+            "correct": 0,
+            "explanation": "The observance checks restless activity by bringing dedication into daily work.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VII, PDF pages 30–33"
+          },
+          {
+            "q": "Why is purely mechanical observance insufficient?",
+            "options": [
+              "Correct timing always destroys devotion",
+              "The inner meaning must be understood and contemplated",
+              "All ritual is declared useless",
+              "The name has only a social function"
+            ],
+            "correct": 1,
+            "explanation": "Understanding gives spiritual purpose to the traditional practice.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VII, PDF pages 30–33"
+          },
+          {
+            "q": "What meaning of Gayatri is given near the chapter's end?",
+            "options": [
+              "That which increases every worldly desire",
+              "A title reserved for physical strength",
+              "That which protects life-breaths and saves those who contemplate it",
+              "A word with no relation to the senses"
+            ],
+            "correct": 2,
+            "explanation": "The explanation connects protection, sacred recitation, and meditation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=30",
+            "sourceLabel": "Chapter VII, PDF pages 30–33"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "The Householder Stage",
+        "chapter": "Chapter VIII",
+        "chapterNumber": 8,
+        "pdfStartPage": 34,
+        "pdfEndPage": 36,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+        "sourceLabel": "Chapter VIII, PDF pages 34–36",
+        "summary": "The householder stage supports the student, forest-dweller, and renunciate by providing material care and opportunities for sacred learning. Its responsibilities do not make it spiritually inferior. All four stages can lead to liberation when their duties are sincerely followed. Conduct and inward understanding matter more than external appearance. The chapter distinguishes bodily and social classifications from the nature of the Atma, while presenting the traditional disciplines of life stage and occupation as preparation for those still identified with worldly conditions.\n\nPurity of the inner instrument and clear recognition of the Atma are essential. Someone living in a forest may remain attached, while a householder who has mastered the senses may possess genuine renunciation. Janaka, Aswapathi, and Dilipa illustrate attainment within household life. Husband and wife should share a steady spiritual aim and support one another. The chapter rejects using renunciation as a simple escape from difficulty, stresses the wife's approval, and insists that dependent children must first be cared for. Duties and obstacles alike can be offered to the Lord, making the home a setting for non-attachment and spiritual growth.",
+        "qa": [
+          {
+            "q": "Why is the householder stage called a support for the other stages?",
+            "a": "It provides sustenance and facilities for their activities. The chapter compares their dependence on householders to living beings' dependence on air."
+          },
+          {
+            "q": "Which stages can lead to liberation?",
+            "a": "All four, when their dharma is sincerely followed. Conduct and disciplined spiritual effort are the essential tests."
+          },
+          {
+            "q": "What is essential for liberation in this account?",
+            "a": "Inner purity and clear vision of the Atma. The text places spiritual understanding above physical distinctions."
+          },
+          {
+            "q": "Which rulers illustrate attainment while remaining householders?",
+            "a": "Janaka, Aswapathi, and Dilipa. These kingly sages are named as evidence that household life need not obstruct the goal."
+          },
+          {
+            "q": "What responsibility must be met before leaving for forest life?",
+            "a": "Children needing care must become independent of that care. The chapter insists that spiritual transition must not neglect dependent children."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is the householder stage called a support for the other stages?",
+            "options": [
+              "It removes the need for spiritual practice",
+              "It provides sustenance and facilities for their activities",
+              "It alone has access to the Atma",
+              "It makes all other stages meaningless"
+            ],
+            "correct": 1,
+            "explanation": "The chapter compares their dependence on householders to living beings' dependence on air.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+            "sourceLabel": "Chapter VIII, PDF pages 34–36"
+          },
+          {
+            "q": "Which stages can lead to liberation?",
+            "options": [
+              "Only the renunciate stage",
+              "Only the student stage",
+              "All four, when their dharma is sincerely followed",
+              "Only the forest-dweller stage"
+            ],
+            "correct": 2,
+            "explanation": "Conduct and disciplined spiritual effort are the essential tests.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+            "sourceLabel": "Chapter VIII, PDF pages 34–36"
+          },
+          {
+            "q": "What is essential for liberation in this account?",
+            "options": [
+              "External appearance alone",
+              "Possession of wealth",
+              "A particular bodily colour",
+              "Inner purity and clear vision of the Atma"
+            ],
+            "correct": 3,
+            "explanation": "The text places spiritual understanding above physical distinctions.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+            "sourceLabel": "Chapter VIII, PDF pages 34–36"
+          },
+          {
+            "q": "Which rulers illustrate attainment while remaining householders?",
+            "options": [
+              "Janaka, Aswapathi, and Dilipa",
+              "Kamsa, Jarasandha, and Sisupala",
+              "Nala, Ravana, and Duryodhana",
+              "Hiranyakasipu, Bali, and Somaka"
+            ],
+            "correct": 0,
+            "explanation": "These kingly sages are named as evidence that household life need not obstruct the goal.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+            "sourceLabel": "Chapter VIII, PDF pages 34–36"
+          },
+          {
+            "q": "What responsibility must be met before leaving for forest life?",
+            "options": [
+              "All neighbours must praise the decision",
+              "Children needing care must become independent of that care",
+              "The family must acquire unlimited wealth",
+              "Every household difficulty must disappear"
+            ],
+            "correct": 1,
+            "explanation": "The chapter insists that spiritual transition must not neglect dependent children.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=34",
+            "sourceLabel": "Chapter VIII, PDF pages 34–36"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "All May Seek Spiritual Wisdom",
+        "chapter": "Chapter IX",
+        "chapterNumber": 9,
+        "pdfStartPage": 37,
+        "pdfEndPage": 39,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+        "sourceLabel": "Chapter IX, PDF pages 37–39",
+        "summary": "Knowledge of Brahman is presented as the heritage of everyone, irrespective of wealth, status, or gender. The comparison with illness and treatment explains both universal entitlement and the need for preparation: spiritual knowledge must be accompanied by equanimity, self-control, devotion, and disciplined living. The chapter explicitly affirms women's capacity for realisation, citing teachings given to Bhudevi, Parvathi, and Maitreyi and the examples of women sages and householders. Since the Atma has no gender distinction, no such distinction can invalidate the spiritual goal.\n\nScholarship must become experience. The image of a spoon moving through food without tasting it exposes learning that never becomes inward understanding. Personal prejudices should not be imposed upon scripture, and those who guide others need assimilated wisdom rather than mere verbal mastery. The final discussion interprets the four ages through the condition of dharma in a person's life. Truth, compassion, austerity, and giving are its four legs. Possession of all four constitutes a golden age inwardly, regardless of calendar chronology. The examples of virtuous and wicked people living at the same time show that conduct determines this spiritual classification.",
+        "qa": [
+          {
+            "q": "Who is entitled to seek knowledge of Brahman?",
+            "a": "Everyone, irrespective of status, wealth, or gender. Universal entitlement is paired with the need for spiritual preparation."
+          },
+          {
+            "q": "Who is named as receiving Brahman knowledge from Yajnavalkya?",
+            "a": "Maitreyi. The chapter cites this teaching in support of women's access to spiritual wisdom."
+          },
+          {
+            "q": "What does the spoon that never tastes the food illustrate?",
+            "a": "Scholarship without assimilation or practice. Mere contact with scriptural words does not amount to experienced wisdom."
+          },
+          {
+            "q": "What are the four legs of dharma in the explanation of the ages?",
+            "a": "Truth, compassion, austerity, and giving. The presence or absence of these qualities determines the inward age described."
+          },
+          {
+            "q": "Can a person inwardly live in the golden age regardless of chronology?",
+            "a": "Yes, by possessing all four qualities of dharma. The chapter treats the ages as descriptions of moral and spiritual condition."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Who is entitled to seek knowledge of Brahman?",
+            "options": [
+              "Everyone, irrespective of status, wealth, or gender",
+              "Only rulers",
+              "Only those living in forests",
+              "Only people with inherited titles"
+            ],
+            "correct": 0,
+            "explanation": "Universal entitlement is paired with the need for spiritual preparation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+            "sourceLabel": "Chapter IX, PDF pages 37–39"
+          },
+          {
+            "q": "Who is named as receiving Brahman knowledge from Yajnavalkya?",
+            "options": [
+              "Damayanthi",
+              "Maitreyi",
+              "Nalayani",
+              "Sakkubai"
+            ],
+            "correct": 1,
+            "explanation": "The chapter cites this teaching in support of women's access to spiritual wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+            "sourceLabel": "Chapter IX, PDF pages 37–39"
+          },
+          {
+            "q": "What does the spoon that never tastes the food illustrate?",
+            "options": [
+              "Perfect realisation",
+              "The rejection of all learning",
+              "Scholarship without assimilation or practice",
+              "The need for material abundance"
+            ],
+            "correct": 2,
+            "explanation": "Mere contact with scriptural words does not amount to experienced wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+            "sourceLabel": "Chapter IX, PDF pages 37–39"
+          },
+          {
+            "q": "What are the four legs of dharma in the explanation of the ages?",
+            "options": [
+              "Wealth, power, beauty, and strength",
+              "Sleep, food, work, and rest",
+              "Fame, victory, pleasure, and ownership",
+              "Truth, compassion, austerity, and giving"
+            ],
+            "correct": 3,
+            "explanation": "The presence or absence of these qualities determines the inward age described.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+            "sourceLabel": "Chapter IX, PDF pages 37–39"
+          },
+          {
+            "q": "Can a person inwardly live in the golden age regardless of chronology?",
+            "options": [
+              "Yes, by possessing all four qualities of dharma",
+              "No, conduct has no role",
+              "Only by knowing the exact calendar date",
+              "Only by withdrawing from every duty"
+            ],
+            "correct": 0,
+            "explanation": "The chapter treats the ages as descriptions of moral and spiritual condition.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=37",
+            "sourceLabel": "Chapter IX, PDF pages 37–39"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "The House of God",
+        "chapter": "Chapter X",
+        "chapterNumber": 10,
+        "pdfStartPage": 40,
+        "pdfEndPage": 43,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+        "sourceLabel": "Chapter X, PDF pages 40–43",
+        "summary": "Temples are presented as centres of spiritual education and discipline whose purpose is to awaken awareness of the divine within humanity. Rules and ceremonies should serve this aim rather than obscure it. Devotion is compared to a queen, with rites as her attendants. Worship redirects ordinary emotions and sensory interests toward dedication, gradually elevating them. The chapter asks worshippers to recognise divine presence in daily relationships rather than reduce the Lord to an ordinary person confined by human limitations.\n\nCeremonies of feeding, awakening, and putting the deity to rest are therefore interpreted devotionally. They must not imply that the omnipresent Lord becomes unavailable whenever a shrine is closed. The story of Ramakrishna and the damaged Gopala image illustrates loving understanding: a broken foot was repaired rather than used as a reason to discard the image. Regular temple hours still have a legitimate place in organising service and cultivating discipline. The distinction is between practical arrangements and imagined restrictions on God. Priests, managers, and devotees share responsibility for maintaining a temple life that strengthens faith and serves spiritual welfare.",
+        "qa": [
+          {
+            "q": "What is the central purpose of the temple?",
+            "a": "Awaken awareness of divinity within humanity. The chapter describes temples as schools for spiritual growth and realisation."
+          },
+          {
+            "q": "In the queen-and-attendants comparison, who is the queen?",
+            "a": "Devotion. Rites are to assist devotion rather than overrule it."
+          },
+          {
+            "q": "How should ceremonies of feeding or resting the deity be understood?",
+            "a": "As means of elevating devotional feeling. The chapter insists on preserving awareness of divine omnipresence."
+          },
+          {
+            "q": "What did Ramakrishna advise concerning the Gopala image's broken foot?",
+            "a": "Repair it and continue worship. His comparison with treating an injured relative expressed a loving devotional understanding."
+          },
+          {
+            "q": "Why can fixed temple hours still be useful?",
+            "a": "They organise service and help cultivate discipline. Practical regulations are distinguished from limitations falsely attributed to Divinity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is the central purpose of the temple?",
+            "options": [
+              "Display wealth alone",
+              "Make God subject to human limitations",
+              "Replace devotion with rules",
+              "Awaken awareness of divinity within humanity"
+            ],
+            "correct": 3,
+            "explanation": "The chapter describes temples as schools for spiritual growth and realisation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+            "sourceLabel": "Chapter X, PDF pages 40–43"
+          },
+          {
+            "q": "In the queen-and-attendants comparison, who is the queen?",
+            "options": [
+              "Devotion",
+              "Ritual expense",
+              "Administrative authority",
+              "Public reputation"
+            ],
+            "correct": 0,
+            "explanation": "Rites are to assist devotion rather than overrule it.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+            "sourceLabel": "Chapter X, PDF pages 40–43"
+          },
+          {
+            "q": "How should ceremonies of feeding or resting the deity be understood?",
+            "options": [
+              "As proof that God becomes helpless without food",
+              "As means of elevating devotional feeling",
+              "As limits on God's knowledge",
+              "As reasons the Lord cannot hear urgent prayer"
+            ],
+            "correct": 1,
+            "explanation": "The chapter insists on preserving awareness of divine omnipresence.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+            "sourceLabel": "Chapter X, PDF pages 40–43"
+          },
+          {
+            "q": "What did Ramakrishna advise concerning the Gopala image's broken foot?",
+            "options": [
+              "Discard it immediately",
+              "Stop all temple worship",
+              "Repair it and continue worship",
+              "Replace devotion with debate"
+            ],
+            "correct": 2,
+            "explanation": "His comparison with treating an injured relative expressed a loving devotional understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+            "sourceLabel": "Chapter X, PDF pages 40–43"
+          },
+          {
+            "q": "Why can fixed temple hours still be useful?",
+            "options": [
+              "They bind God's awareness to a clock",
+              "They prove the Lord sleeps like a person",
+              "They make devotion unnecessary",
+              "They organise service and help cultivate discipline"
+            ],
+            "correct": 3,
+            "explanation": "Practical regulations are distinguished from limitations falsely attributed to Divinity.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=40",
+            "sourceLabel": "Chapter X, PDF pages 40–43"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Three Eras",
+        "chapter": "Chapter XI",
+        "chapterNumber": 11,
+        "pdfStartPage": 44,
+        "pdfEndPage": 47,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+        "sourceLabel": "Chapter XI, PDF pages 44–47",
+        "summary": "The chapter describes three spiritual eras by their principal emphasis: Vedic ritual, Upanishadic wisdom, and Puranic devotion. Vedic literature includes the samhithas, Brahmanas, Aranyakas, and Upanishads; the first three are associated with action and the last with spiritual knowledge. The account emphasises that worship of many divine names existed alongside recognition of one underlying reality. Faith animated early ritual, but excessive formalism later shifted attention from the divine purpose to performance and its expected rewards.\n\nThe Upanishads redirect inquiry toward the enduring reality beneath changing names and forms. Learning alone cannot secure this realisation; devotion gives it living depth. The Puranas develop the devotional seeds already present in earlier literature, presenting the Lord through attractive and elevating qualities. Devotees are likened to clouds carrying the ocean's gifts to the land. The account of Ambarisha and Durvasa illustrates divine protection of a devotee. Worship of God with qualities provides an accessible support for concentration, from which the aspirant may proceed toward the formless Absolute. The three emphases are thus connected within a continuing movement toward spiritual fulfilment.",
+        "qa": [
+          {
+            "q": "Which sequence matches the chapter's three eras?",
+            "a": "Vedic action, Upanishadic wisdom, and Puranic devotion. The eras are classified by their principal spiritual emphasis."
+          },
+          {
+            "q": "Which part of Vedic literature is identified as Jnana-kanda?",
+            "a": "The Upanishads. In this chapter's classification, the Upanishads concern spiritual wisdom."
+          },
+          {
+            "q": "What problem developed when ritual became excessively formal?",
+            "a": "Attention shifted from the divine purpose to the ritual itself. The text describes a loss of the original devotional orientation."
+          },
+          {
+            "q": "What does the cloud-and-ocean comparison say about devotees?",
+            "a": "They carry divine love and goodness to others. Clouds bring the ocean's waters to fields, just as devotees convey divine qualities."
+          },
+          {
+            "q": "Why do the Puranas emphasise God with qualities?",
+            "a": "This gives aspirants an accessible basis for devotion and concentration. The chapter describes movement from a more concrete support toward the subtle, formless reality."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which sequence matches the chapter's three eras?",
+            "options": [
+              "Vedic trade, Upanishadic warfare, and Puranic agriculture",
+              "Vedic doubt, Upanishadic wealth, and Puranic status",
+              "Vedic action, Upanishadic wisdom, and Puranic devotion",
+              "Vedic sleep, Upanishadic ritual expense, and Puranic debate"
+            ],
+            "correct": 2,
+            "explanation": "The eras are classified by their principal spiritual emphasis.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+            "sourceLabel": "Chapter XI, PDF pages 44–47"
+          },
+          {
+            "q": "Which part of Vedic literature is identified as Jnana-kanda?",
+            "options": [
+              "The samhithas",
+              "The Brahmanas",
+              "The Aranyakas",
+              "The Upanishads"
+            ],
+            "correct": 3,
+            "explanation": "In this chapter's classification, the Upanishads concern spiritual wisdom.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+            "sourceLabel": "Chapter XI, PDF pages 44–47"
+          },
+          {
+            "q": "What problem developed when ritual became excessively formal?",
+            "options": [
+              "Attention shifted from the divine purpose to the ritual itself",
+              "Faith became entirely unnecessary from the beginning",
+              "The one reality ceased to exist",
+              "Every act of worship became identical to wisdom"
+            ],
+            "correct": 0,
+            "explanation": "The text describes a loss of the original devotional orientation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+            "sourceLabel": "Chapter XI, PDF pages 44–47"
+          },
+          {
+            "q": "What does the cloud-and-ocean comparison say about devotees?",
+            "options": [
+              "They create a separate source of divinity",
+              "They carry divine love and goodness to others",
+              "They prevent grace from reaching the world",
+              "They depend on worldly fame alone"
+            ],
+            "correct": 1,
+            "explanation": "Clouds bring the ocean's waters to fields, just as devotees convey divine qualities.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+            "sourceLabel": "Chapter XI, PDF pages 44–47"
+          },
+          {
+            "q": "Why do the Puranas emphasise God with qualities?",
+            "options": [
+              "The formless Absolute is declared nonexistent",
+              "Qualities replace every need for practice",
+              "This gives aspirants an accessible basis for devotion and concentration",
+              "Material beauty alone grants liberation"
+            ],
+            "correct": 2,
+            "explanation": "The chapter describes movement from a more concrete support toward the subtle, formless reality.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=44",
+            "sourceLabel": "Chapter XI, PDF pages 44–47"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Temples",
+        "chapter": "Chapter XII",
+        "chapterNumber": 12,
+        "pdfStartPage": 48,
+        "pdfEndPage": 51,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+        "sourceLabel": "Chapter XII, PDF pages 48–51",
+        "summary": "Temples are described as places of spiritual wisdom and as the heart of a community. Their atmosphere should encourage devotion, discipline, and inward refinement. Neglect or use merely for amusement obscures that purpose. The temple gateway is interpreted as an invitation to return from worldly distraction toward truth and peace; its light symbolises inner illumination. The chapter treats care for the temple as a shared responsibility of devotees and those entrusted with community administration, because its influence extends to the spiritual life of the people.\n\nWorldly possessions, learning, beauty, and strength do not by themselves produce lasting peace. The text locates fulfilment in recognition of the divine foundation and surrender to the Lord. Temples serve as reminders and signposts toward that inward home. Thyagaraja's prayer to remove the veil of pride and hatred illustrates the transformation sought in worship. Remembrance of the divine name is central, supported by the temple's image and sacred atmosphere. External supports such as worship and holy company work with inner disciplines such as meditation and reflection. The name on the tongue is compared to a lamp at the doorway, spreading light both within and beyond the individual.",
+        "qa": [
+          {
+            "q": "What place does the temple occupy in the chapter's community image?",
+            "a": "The heart of the village. Its spiritual atmosphere is treated as vital to the community."
+          },
+          {
+            "q": "What does the temple gateway symbolise?",
+            "a": "An invitation toward truth, remembrance, and peace. The gateway calls distracted people back toward the divine source."
+          },
+          {
+            "q": "What veil does Thyagaraja ask to have removed?",
+            "a": "Pride and hatred. The temple prayer is interpreted as a request for inner transformation."
+          },
+          {
+            "q": "Which practices are identified as sources of inner illumination?",
+            "a": "Meditation, austerity, and reflection. They complement external supports such as temple worship and holy company."
+          },
+          {
+            "q": "What does the lamp on the doorstep represent?",
+            "a": "The divine name on the tongue illuminating within and without. Tulsidas's analogy links remembrance with peace for oneself and others."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What place does the temple occupy in the chapter's community image?",
+            "options": [
+              "A storehouse for private wealth",
+              "The heart of the village",
+              "A substitute for every moral duty",
+              "A venue only for amusement"
+            ],
+            "correct": 1,
+            "explanation": "Its spiritual atmosphere is treated as vital to the community.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XII, PDF pages 48–51"
+          },
+          {
+            "q": "What does the temple gateway symbolise?",
+            "options": [
+              "A guarantee of worldly status",
+              "The confinement of God to one building",
+              "An invitation toward truth, remembrance, and peace",
+              "A rejection of inward understanding"
+            ],
+            "correct": 2,
+            "explanation": "The gateway calls distracted people back toward the divine source.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XII, PDF pages 48–51"
+          },
+          {
+            "q": "What veil does Thyagaraja ask to have removed?",
+            "options": [
+              "The absence of wealth",
+              "Lack of public fame",
+              "The need for all activity",
+              "Pride and hatred"
+            ],
+            "correct": 3,
+            "explanation": "The temple prayer is interpreted as a request for inner transformation.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XII, PDF pages 48–51"
+          },
+          {
+            "q": "Which practices are identified as sources of inner illumination?",
+            "options": [
+              "Meditation, austerity, and reflection",
+              "Games, display, and rivalry",
+              "Wealth, beauty, and physical strength",
+              "Argument, criticism, and comparison"
+            ],
+            "correct": 0,
+            "explanation": "They complement external supports such as temple worship and holy company.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XII, PDF pages 48–51"
+          },
+          {
+            "q": "What does the lamp on the doorstep represent?",
+            "options": [
+              "A ritual that replaces all remembrance",
+              "The divine name on the tongue illuminating within and without",
+              "Wealth displayed for others to admire",
+              "Knowledge kept entirely unused"
+            ],
+            "correct": 1,
+            "explanation": "Tulsidas's analogy links remembrance with peace for oneself and others.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=48",
+            "sourceLabel": "Chapter XII, PDF pages 48–51"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "The Dharmic Person",
+        "chapter": "Chapter XIII",
+        "chapterNumber": 13,
+        "pdfStartPage": 52,
+        "pdfEndPage": 55,
+        "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+        "sourceLabel": "Chapter XIII, PDF pages 52–55",
+        "summary": "Dharma is characterised by impartiality, truth, justice, and concern for everyone's welfare. Understanding it involves learning from wise practitioners, aspiring to purification and truth, and recognising the value of Vedic knowledge. Inquiry should proceed cooperatively, testing opinions against universal good rather than personal prejudice. The mind and conscience must be trained toward service, equanimity, and honest conduct. Another person's suffering is no occasion for pride; one's happiness is connected with the happiness of all. Steady practice deepens confidence in dharma.\n\nThe discipline of truth includes courage, self-control, fortitude, sweet and straightforward speech, mastery of the senses, and the removal of prejudice. The final discussion presents the four varnas through characteristic responsibilities: knowledge and exemplary virtue, protection, commerce and public benefit, and productive labour. It describes their cooperation as a way of sustaining society and states that occupational names arose from the work performed. Within this traditional account of differentiated duties, the repeated requirement is inner morality in every profession. The chapter ends by urging truthfulness, steadiness, and righteous conduct as the means by which individual work can contribute to shared welfare and spiritual fulfilment.",
+        "qa": [
+          {
+            "q": "What standard should be used to test opinions in the search for truth?",
+            "a": "Universal good. The chapter names the welfare of all as the touchstone of dharma."
+          },
+          {
+            "q": "What is the first stage in learning dharma?",
+            "a": "Training under wise people who practise dharma. Knowledge begins with guidance from those whose understanding is joined to righteous conduct."
+          },
+          {
+            "q": "Toward what should mind and conscience be directed?",
+            "a": "The welfare of all humanity. Service and the happiness of all are central to the chapter's account."
+          },
+          {
+            "q": "Which qualities belong to the discipline of truth described here?",
+            "a": "Courage, self-control, equanimity, and straightforward speech. The discipline joins inward steadiness with truthful and loving conduct."
+          },
+          {
+            "q": "What should be infused into every profession in the concluding teaching?",
+            "a": "Inner morality, truth, and steadfastness. The traditional account of differentiated duties ends with a shared demand for righteous conduct."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What standard should be used to test opinions in the search for truth?",
+            "options": [
+              "Universal good",
+              "Personal advantage alone",
+              "The speaker's wealth",
+              "Popularity without examination"
+            ],
+            "correct": 0,
+            "explanation": "The chapter names the welfare of all as the touchstone of dharma.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XIII, PDF pages 52–55"
+          },
+          {
+            "q": "What is the first stage in learning dharma?",
+            "options": [
+              "Acquiring authority over others",
+              "Training under wise people who practise dharma",
+              "Accumulating possessions",
+              "Rejecting every form of guidance"
+            ],
+            "correct": 1,
+            "explanation": "Knowledge begins with guidance from those whose understanding is joined to righteous conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XIII, PDF pages 52–55"
+          },
+          {
+            "q": "Toward what should mind and conscience be directed?",
+            "options": [
+              "Delight in another's suffering",
+              "Personal fame at any cost",
+              "The welfare of all humanity",
+              "The defence of every prejudice"
+            ],
+            "correct": 2,
+            "explanation": "Service and the happiness of all are central to the chapter's account.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XIII, PDF pages 52–55"
+          },
+          {
+            "q": "Which qualities belong to the discipline of truth described here?",
+            "options": [
+              "Conceit, rivalry, greed, and blame",
+              "Display, impatience, indulgence, and deceit",
+              "Withdrawal from every responsibility",
+              "Courage, self-control, equanimity, and straightforward speech"
+            ],
+            "correct": 3,
+            "explanation": "The discipline joins inward steadiness with truthful and loving conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XIII, PDF pages 52–55"
+          },
+          {
+            "q": "What should be infused into every profession in the concluding teaching?",
+            "options": [
+              "Inner morality, truth, and steadfastness",
+              "Rivalry without restraint",
+              "Concern only for personal profit",
+              "Indifference to public welfare"
+            ],
+            "correct": 0,
+            "explanation": "The traditional account of differentiated duties ends with a shared demand for righteous conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/dharma-vahini.pdf#page=52",
+            "sourceLabel": "Chapter XIII, PDF pages 52–55"
           }
         ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Dharma Vahini PDF. The 13 chapter titles and their order follow the supplied edition. Summaries and answers are original study paraphrases. Refer to the linked PDF pages for the full teaching.",
+    "coverage": "All 13 chapters in the supplied edition"
   },
   {
     "id": "dhyana-vahini",
