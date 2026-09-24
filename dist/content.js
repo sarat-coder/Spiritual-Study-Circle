@@ -40463,896 +40463,2009 @@ window.VAHINI_BOOKS = [
     "id": "vidya",
     "title": "Vidya Vahini",
     "hindiTitle": "विद्या वाहिनी",
-    "subtitle": "Education for inner growth",
-    "description": "Connect learning, character, reflection, and service.",
-    "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-    "pdfUrl": "https://vahini.org/downloads/vahinis-pdf/Vidya.pdf",
+    "subtitle": "Stream of Illuminating Knowledge",
+    "description": "Study all 19 chapters of the supplied Vidya Vahini edition, with fuller English summaries, five questions and answers, and five source-based quiz questions per chapter.",
+    "sourceUrl": "assets/vidya-vahini.pdf",
+    "pdfUrl": "assets/vidya-vahini.pdf",
     "topics": [
       {
-        "id": "learning",
-        "title": "The purpose of learning",
-        "chapter": "Chapter I",
-        "summary": "Vidya concerns awareness of the enduring spiritual principle. Vedic learning moves from outer forms toward inner discipline and understanding.",
+        "id": "chapter-01",
+        "title": "Higher Learning",
+        "chapter": "Chapter 1",
+        "chapterNumber": 1,
+        "pdfStartPage": 8,
+        "pdfEndPage": 10,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+        "sourceLabel": "Chapter 1, PDF pages 8–10",
+        "summary": "Vidya is introduced as knowledge that illumines the beginningless spiritual reality underlying the universe. The seers communicate their experience out of compassion, awakening others to the same inward fulfilment. The chapter surveys Vedic literature: the four Vedas and their branches of mantras, Brahmanas, Aranyakas, and Upanishads. It explains the Upanishads as the culmination of Vedic inquiry, bringing external practice and inward understanding into harmony. The Upanishads, Brahma Sutra, and Bhagavad Gita together form the foundational triad of philosophical study.\n\nThe material and non-material worlds are described as expressions of one indivisible consciousness. Education should reveal this unity and free the learner from possessiveness and ego. Such understanding does not require abandoning legitimate duties. Instead, actions should be performed with detachment, gratitude, and awareness of their consequences. Their spiritual worth is tested by whether they loosen bondage or promote greed. The Atma is presented as unchanging and everywhere present, beyond the limits of ordinary description. At the highest level of understanding, apparently opposed categories are transcended in the recognition of one reality, rather than remaining merely subjects of textual learning.",
         "qa": [
           {
-            "q": "What does higher learning seek?",
-            "a": "Awareness of the supreme principle underlying the universe."
+            "q": "What is the basic meaning of vidya in this chapter?",
+            "a": "Knowledge that illumines. Vidya reveals the supreme spiritual principle rather than merely adding information."
+          },
+          {
+            "q": "Which texts form the Authentic Triad?",
+            "a": "Upanishads, Brahma Sutra, and Bhagavad Gita. The chapter names these three as Prasthana Thraya."
+          },
+          {
+            "q": "Which Vedic branch deals especially with inward disciplines and meanings?",
+            "a": "Aranyakas. The Aranyakas address inward significance, withdrawal of the senses, and release from attachment."
+          },
+          {
+            "q": "How should legitimate worldly duties be performed?",
+            "a": "With detachment and understanding. The teaching calls for responsible action without entanglement."
+          },
+          {
+            "q": "What test helps distinguish a sacred activity?",
+            "a": "Whether it avoids bondage rather than increasing attachment. The chapter evaluates action through its relationship to attachment and greed."
           }
         ],
         "quiz": [
           {
-            "q": "A school measures learning only by future salary. What dimension would this topic add?",
+            "q": "What is the basic meaning of vidya in this chapter?",
             "options": [
-              "More detailed salary forecasts",
-              "A ranking of prestigious employers",
-              "Inner understanding and responsible character",
-              "A stronger competition for titles"
-            ],
-            "correct": 2,
-            "explanation": "The added dimension asks what education develops within the learner beyond economic outcomes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A student knows many facts but never asks about purpose. What question broadens learning?",
-            "options": [
-              "How many facts can I display publicly?",
-              "How does this knowledge help me understand and live?",
-              "Which facts make classmates seem uninformed?",
-              "What certificate replaces the need for reflection?"
-            ],
-            "correct": 1,
-            "explanation": "The question connects knowledge with understanding and conduct rather than its outward display.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A course combines practical skills with reflection on values. What makes this worthwhile?",
-            "options": [
-              "Competence and inward growth can support each other",
-              "Practical skill automatically guarantees wisdom",
-              "Reflection makes every technical skill unnecessary",
-              "Values matter only after all qualifications are earned"
+              "Knowledge that illumines",
+              "Knowledge that guarantees wealth",
+              "Skill in public argument alone",
+              "The accumulation of titles"
             ],
             "correct": 0,
-            "explanation": "The combination develops ability while examining the purposes for which it is used.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A learner treats a sacred text as information to collect. What would deepen engagement?",
-            "options": [
-              "Focus only on finishing the page count",
-              "Memorise the cover details",
-              "Compare the rarity of different editions",
-              "Ask how its ideas illuminate experience"
-            ],
-            "correct": 3,
-            "explanation": "Illuminating experience gives learning a reflective purpose beyond the acquisition of more material.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A teacher chooses between display and understanding. Which assessment is more revealing?",
-            "options": [
-              "Reward only confident delivery",
-              "Count how many terms appear",
-              "Ask students to explain an idea in their own words",
-              "Rank students by their speaking volume"
-            ],
-            "correct": 2,
-            "explanation": "An explanation in the learner's own words reveals understanding beyond polished presentation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A student seeks the most difficult vocabulary first. What is a better foundation?",
-            "options": [
-              "The longest available glossary",
-              "Clear understanding of central ideas",
-              "A reputation for using rare terms",
-              "Agreement with every confident speaker"
-            ],
-            "correct": 1,
-            "explanation": "Central ideas provide a basis for meaningful learning that terminology alone cannot supply.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A person claims useful skills and spirituality cannot coexist. What is a balanced view?",
-            "options": [
-              "Skills can be directed by thoughtful values",
-              "All practical work prevents inner growth",
-              "Every skilled person has complete wisdom",
-              "Spirituality requires neglecting ordinary competence"
-            ],
-            "correct": 0,
-            "explanation": "Thoughtful values can guide practical ability without treating either as a replacement for the other.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A reader wants to connect outer study with inward discipline. Which activity fits?",
-            "options": [
-              "Replace reflection with more comparisons",
-              "Judge learning only by visible accessories",
-              "Treat memorisation as the final purpose",
-              "Examine how attention and motives shape learning"
-            ],
-            "correct": 3,
-            "explanation": "Examining attention and motives links the learning process with its inward dimensions.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A school celebrates top marks despite repeated dishonesty. What should be reconsidered?",
-            "options": [
-              "Whether the marks are advertised enough",
-              "Whether cheating improves the school's reputation",
-              "Whether achievement is being separated from character",
-              "Whether academic success removes ethical responsibility"
-            ],
-            "correct": 2,
-            "explanation": "Character matters to the meaning of education rather than being cancelled by high performance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A learner studies to become superior to others. What change broadens the aim?",
-            "options": [
-              "Choose a more exclusive subject",
-              "Seek understanding that improves life and relationships",
-              "Collect additional symbols of status",
-              "Avoid classmates who need help"
-            ],
-            "correct": 1,
-            "explanation": "A broader aim directs learning toward growth instead of using it to establish superiority.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "An adult feels learning ended with graduation. What invitation fits this topic?",
-            "options": [
-              "Continue inquiry into meaning and conduct",
-              "Replace inquiry with pride in past results",
-              "Study only if another title is available",
-              "Treat unfamiliar ideas as threats to status"
-            ],
-            "correct": 0,
-            "explanation": "Continuing inquiry recognises that education can extend beyond the period of formal qualification.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A student hears Vedic learning discussed without knowing its structure. What is appropriate?",
-            "options": [
-              "Assume all terms mean exactly the same",
-              "Invent a convenient order for the texts",
-              "Avoid every clarifying question",
-              "Study the distinctions before claiming mastery"
-            ],
-            "correct": 3,
-            "explanation": "Learning the distinctions supports an accurate account without manufacturing confidence or convenient details.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A group wants a purpose for studying together. Which aim best fits?",
-            "options": [
-              "Produce a permanent ranking of members",
-              "Finish quickly regardless of comprehension",
-              "Grow in understanding and thoughtful living",
-              "Collect agreement without examining meaning"
-            ],
-            "correct": 2,
-            "explanation": "The aim places understanding and living at the centre of collective study.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A learner asks whether information alone produces wisdom. What distinction helps?",
-            "options": [
-              "More information always guarantees self-knowledge",
-              "Information needs interpretation and assimilation",
-              "Wisdom means avoiding all factual knowledge",
-              "A large collection proves complete understanding"
-            ],
-            "correct": 1,
-            "explanation": "Interpretation and assimilation explain why possessing information differs from understanding its significance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "A teacher plans a lesson on a difficult concept. What should come first?",
-            "options": [
-              "An accessible central question",
-              "A long list of unexplained terms",
-              "A warning that beginners cannot understand",
-              "A contest rewarding immediate certainty"
-            ],
-            "correct": 0,
-            "explanation": "An accessible question gives learners a meaningful entry into a difficult subject.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "Which texts are identified as forming Vedanta in this topic?",
-            "options": [
-              "Travel diaries",
-              "Royal ledgers",
-              "Grammar exercises alone",
-              "The Upanishads"
-            ],
-            "correct": 3,
-            "explanation": "The topic identifies the Upanishads with the culmination of Vedic study.",
+            "explanation": "Vidya reveals the supreme spiritual principle rather than merely adding information.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
+            "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "What does higher learning seek in this topic?",
+            "q": "Which texts form the Authentic Triad?",
             "options": [
-              "Only occupational prestige",
-              "Only a larger store of facts",
-              "Awareness of the enduring spiritual principle",
-              "Only success in public argument"
-            ],
-            "correct": 2,
-            "explanation": "The stated aim extends learning toward awareness of the underlying spiritual principle.",
-            "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
-          },
-          {
-            "q": "Why distinguish outer forms from inward understanding?",
-            "options": [
-              "Every outward activity is automatically useless",
-              "An activity's meaning can go beyond its appearance",
-              "Appearance alone establishes complete knowledge",
-              "Inward learning removes all need for conduct"
+              "Rig-veda, Sama-veda, and Yajur-veda",
+              "Upanishads, Brahma Sutra, and Bhagavad Gita",
+              "Ramayana, Mahabharatha, and Manusmrithi",
+              "Brahmanas, Aranyakas, and Puranas"
             ],
             "correct": 1,
-            "explanation": "The distinction invites attention to significance without dismissing every outward activity.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
+            "explanation": "The chapter names these three as Prasthana Thraya.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "A student uses knowledge to mislead less informed classmates. What educational failure appears?",
+            "q": "Which Vedic branch deals especially with inward disciplines and meanings?",
             "options": [
-              "Ability has become disconnected from responsible purpose",
-              "The student needs more persuasive techniques",
-              "Knowledge itself must be abandoned",
-              "Classmates alone are responsible for being misled"
+              "Brahmanas alone",
+              "Collections of ritual formulae alone",
+              "Aranyakas",
+              "Hymns of praise alone"
             ],
-            "correct": 0,
-            "explanation": "Responsible purpose matters because greater ability can otherwise make misleading conduct more effective.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
+            "correct": 2,
+            "explanation": "The Aranyakas address inward significance, withdrawal of the senses, and release from attachment.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           },
           {
-            "q": "A reader finishes an introductory study. What is a useful sign of progress?",
+            "q": "How should legitimate worldly duties be performed?",
             "options": [
-              "A claim that nothing remains to learn",
-              "A stronger need to impress listeners",
-              "An increased contempt for beginners",
-              "Clearer understanding and better questions"
+              "With increasing possessiveness",
+              "Only for admiration",
+              "Without regard to consequences",
+              "With detachment and understanding"
             ],
             "correct": 3,
-            "explanation": "Clearer understanding and questions indicate growth without pretending the subject has been exhausted.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter I"
+            "explanation": "The teaching calls for responsible action without entanglement.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
+          },
+          {
+            "q": "What test helps distinguish a sacred activity?",
+            "options": [
+              "Whether it avoids bondage rather than increasing attachment",
+              "Whether it brings immediate fame",
+              "Whether it requires expensive materials",
+              "Whether many people watch it"
+            ],
+            "correct": 0,
+            "explanation": "The chapter evaluates action through its relationship to attachment and greed.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=8",
+            "sourceLabel": "Chapter 1, PDF pages 8–10"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/vidyavahini.html"
+        ]
       },
       {
-        "id": "reflection",
-        "title": "From listening to living",
-        "chapter": "Chapter IX",
-        "summary": "Hearing spiritual instruction is a beginning. Reflection, purity, and practice allow its meaning to become visible in thought, speech, and action.",
+        "id": "chapter-02",
+        "title": "Knowledge of Self",
+        "chapter": "Chapter 2",
+        "chapterNumber": 2,
+        "pdfStartPage": 11,
+        "pdfEndPage": 13,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+        "sourceLabel": "Chapter 2, PDF pages 11–13",
+        "summary": "A pure mind is needed to receive and communicate spiritual knowledge. The chapter compares an unclean heart to a place where harmful creatures gather, and ignorance to darkness that only light can dispel. Washing coal cannot change it as fire does; similarly, Atmic awareness transforms what superficial measures leave untouched. This wisdom cannot be purchased or borrowed. It must be assimilated through faith, devotion, and personal effort. The rearrangement of “God is nowhere” into “God is now here” illustrates a change of vision that discovers unity.\n\nThe lives of saints are contrasted with scholarship that does not transform conduct. Genuine understanding produces harmony among thought, speech, and action. A person must recognise faults and accept helpful correction rather than remain satisfied with advice that is never practised. Sugar water and plain water may look alike, but their taste differs: realised wisdom similarly differs from verbal learning. Wet matches illustrate the ineffectiveness of instruction coming from a heart absorbed in worldly desire. The chapter closes by distinguishing externally acquired information from inward knowledge that purifies the mind and widens the heart's vision.",
         "qa": [
           {
-            "q": "What should follow listening?",
-            "a": "Reflect on the teaching and express it through daily conduct."
+            "q": "What is necessary for spiritual knowledge to reveal its meaning?",
+            "a": "A pure mind. The chapter makes purity the condition for receiving and communicating higher learning."
+          },
+          {
+            "q": "What transforms coal into white ash in the example?",
+            "a": "Fire. Fire illustrates the transforming power of Atmic knowledge over ignorance."
+          },
+          {
+            "q": "What is shown by reading nowhere as now here?",
+            "a": "A changed vision can reveal divine presence. The example turns a negative statement into recognition of presence."
+          },
+          {
+            "q": "What does the comparison of sugar water and plain water distinguish?",
+            "a": "Experienced wisdom from mere textual scholarship. Their outward similarity does not remove the difference known through direct experience."
+          },
+          {
+            "q": "What is a chief sign of a great soul in this chapter?",
+            "a": "Harmony of thought, word, and deed. Inward purity expresses itself consistently through speech and action."
           }
         ],
         "quiz": [
           {
-            "q": "A participant hears a lesson on patient speech. What next step begins assimilation?",
+            "q": "What is necessary for spiritual knowledge to reveal its meaning?",
             "options": [
-              "Record only the speaker's popularity",
-              "Share the title without considering it",
-              "Assume attendance changed every habit",
-              "Try a deliberate pause in one difficult conversation"
+              "A large collection of titles",
+              "A costly ceremony alone",
+              "Approval from every listener",
+              "A pure mind"
             ],
             "correct": 3,
-            "explanation": "A specific experiment connects the heard idea with an actual opportunity to practise.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A student writes detailed notes but never revisits them. What would help?",
-            "options": [
-              "Buy another notebook immediately",
-              "Compare note length with friends",
-              "Review one idea and identify an application",
-              "Store the notes as proof of wisdom"
-            ],
-            "correct": 2,
-            "explanation": "Review and application turn stored information into material for continued personal learning.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A group leaves a discussion inspired but unchanged. What follow-up is useful?",
-            "options": [
-              "Schedule more inspiration without reflection",
-              "Agree on one small action and review it",
-              "Assume enthusiasm proves full understanding",
-              "Measure success only by attendance numbers"
-            ],
-            "correct": 1,
-            "explanation": "A small reviewed action tests whether inspiration becomes a change in everyday conduct.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "Someone repeats a lesson accurately but contradicts it in behaviour. What should be examined?",
-            "options": [
-              "The gap between remembering and applying",
-              "The quality of the quotation's formatting",
-              "The prestige of the original speaker",
-              "The number of times it was repeated"
-            ],
-            "correct": 0,
-            "explanation": "Examining the gap focuses on assimilation instead of confusing recall with lived understanding.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A listener disagrees with part of a teaching. What supports thoughtful reflection?",
-            "options": [
-              "Pretend agreement to avoid discomfort",
-              "Reject the whole discussion immediately",
-              "Repeat the uncertain part as established truth",
-              "Clarify the disagreement and examine the reasoning"
-            ],
-            "correct": 3,
-            "explanation": "Clarifying the disagreement makes reflection more honest than either pretence or immediate dismissal.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A student tries a new response and it feels awkward. What is a useful review?",
-            "options": [
-              "Assume awkwardness proves the idea worthless",
-              "Return permanently to every old habit",
-              "Consider what was learned and what needs adjustment",
-              "Pretend the attempt was flawless"
-            ],
-            "correct": 2,
-            "explanation": "Review treats an imperfect attempt as information for learning rather than a final verdict.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A facilitator asks participants to explain a lesson plainly. Why?",
-            "options": [
-              "To remove every difference of perspective",
-              "To check understanding beyond memorised wording",
-              "To reward the longest explanation",
-              "To prove one discussion completes learning"
-            ],
-            "correct": 1,
-            "explanation": "Plain explanation reveals how a learner understands the idea instead of merely reproducing language.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A reader chooses too many changes at once. What plan is more sustainable?",
-            "options": [
-              "Practise one relevant change consistently",
-              "Add more promises to maintain enthusiasm",
-              "Wait for perfect conditions before trying anything",
-              "Measure sincerity by the number of promises"
-            ],
-            "correct": 0,
-            "explanation": "One relevant change makes practice observable and manageable enough for meaningful review.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A journal contains only judgments about others. What would deepen reflection?",
-            "options": [
-              "Make the judgments more sophisticated",
-              "Collect supporting gossip",
-              "Treat observation of others as complete self-study",
-              "Examine the writer's own choices and reactions"
-            ],
-            "correct": 3,
-            "explanation": "Examining personal choices returns reflection to the learner's own responsibility and experience.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A person studies honesty but avoids admitting a small mistake. What application is immediate?",
-            "options": [
-              "Explain honesty more impressively",
-              "Wait until nobody remembers",
-              "Acknowledge the mistake accurately",
-              "Compare the mistake with someone else's larger one"
-            ],
-            "correct": 2,
-            "explanation": "Accurate acknowledgment turns the studied value into conduct at the moment it is tested.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A listener asks how to review a week of practice. Which question helps?",
-            "options": [
-              "How many people praised my attendance?",
-              "Where did the idea influence an actual choice?",
-              "Did my notes look complete?",
-              "Which member appeared least committed?"
-            ],
-            "correct": 1,
-            "explanation": "An actual choice offers concrete evidence of application rather than impressions about status or participation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A group shares personal examples after study. What makes the sharing constructive?",
-            "options": [
-              "Describe learning without claiming universal results",
-              "Treat each example as a new verified teaching",
-              "Rank members by dramatic experiences",
-              "Require everyone to report the same change"
-            ],
-            "correct": 0,
-            "explanation": "Clear personal framing allows useful reflection without exaggerating what any single example establishes.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A student forgets a lesson during conflict. What should follow?",
-            "options": [
-              "Declare that studying has no value",
-              "Hide the lapse from personal awareness",
-              "Demand that conflict never recur",
-              "Reflect afterward and prepare a useful reminder"
-            ],
-            "correct": 3,
-            "explanation": "Afterward reflection can turn the lapse into preparation for a more thoughtful future response.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A learner understands a principle only abstractly. What example helps most?",
-            "options": [
-              "An impressive but unexplained phrase",
-              "A distant story with no discussion",
-              "A familiar situation where choices differ",
-              "A ranking of famous interpreters"
-            ],
-            "correct": 2,
-            "explanation": "A familiar situation makes the principle's practical implications easier to identify and examine.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A facilitator wants evidence of progress beyond enthusiasm. What should be invited?",
-            "options": [
-              "Claims of permanent spiritual superiority",
-              "Specific accounts of changed thought, speech, or action",
-              "Only compliments about the session",
-              "Comparisons of personal study equipment"
-            ],
-            "correct": 1,
-            "explanation": "Specific accounts connect progress with lived expression rather than excitement or public appearance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "What should follow listening in this topic?",
-            "options": [
-              "Reflection and practical expression",
-              "Automatic claims of mastery",
-              "Public ranking of listeners",
-              "Collection without examination"
-            ],
-            "correct": 0,
-            "explanation": "The topic presents listening as a beginning that should develop through reflection and practice.",
+            "explanation": "The chapter makes purity the condition for receiving and communicating higher learning.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
+            "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
           },
           {
-            "q": "Why is agreement alone an incomplete measure of learning?",
+            "q": "What transforms coal into white ash in the example?",
             "options": [
-              "Every agreement is dishonest",
-              "Disagreement always proves deeper wisdom",
-              "Only written tests can establish any learning",
-              "Agreement may occur without understanding or application"
-            ],
-            "correct": 3,
-            "explanation": "The distinction recognises that assent does not necessarily show comprehension or changed conduct.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A person wants a reminder during daily work. Which note is most actionable?",
-            "options": [
-              "Become perfect immediately",
-              "Remember every lecture at once",
-              "Pause before responding when irritation arises",
-              "Never encounter a difficult person"
-            ],
-            "correct": 2,
-            "explanation": "A specific reminder identifies a moment where the learner can make a practical choice.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A student reflects endlessly but postpones every attempt. What restores balance?",
-            "options": [
-              "Add more analysis before any action",
-              "Choose a modest application and learn from it",
-              "Wait for complete certainty about every outcome",
-              "Treat hesitation as completed practice"
-            ],
-            "correct": 1,
-            "explanation": "A modest attempt lets reflection and experience inform each other instead of remaining separate.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
-          },
-          {
-            "q": "A study circle ends each meeting with a commitment. What should happen next?",
-            "options": [
-              "Revisit the commitment honestly at the next meeting",
-              "Assume making it guarantees completion",
-              "Use it to shame anyone with difficulty",
-              "Replace it immediately with a grander promise"
+              "Fire",
+              "Soap alone",
+              "Milk",
+              "Cold water"
             ],
             "correct": 0,
-            "explanation": "Honest review makes the commitment a learning tool rather than an empty declaration.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter IX"
+            "explanation": "Fire illustrates the transforming power of Atmic knowledge over ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "What is shown by reading nowhere as now here?",
+            "options": [
+              "God must be physically moved",
+              "A changed vision can reveal divine presence",
+              "Language alone replaces practice",
+              "Differences must always be multiplied"
+            ],
+            "correct": 1,
+            "explanation": "The example turns a negative statement into recognition of presence.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "What does the comparison of sugar water and plain water distinguish?",
+            "options": [
+              "Two identical forms of liberation",
+              "Wealth from poverty",
+              "Experienced wisdom from mere textual scholarship",
+              "Two kinds of physical strength"
+            ],
+            "correct": 2,
+            "explanation": "Their outward similarity does not remove the difference known through direct experience.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
+          },
+          {
+            "q": "What is a chief sign of a great soul in this chapter?",
+            "options": [
+              "Skill in concealing faults",
+              "Constant criticism of others",
+              "Knowledge used only for gain",
+              "Harmony of thought, word, and deed"
+            ],
+            "correct": 3,
+            "explanation": "Inward purity expresses itself consistently through speech and action.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=11",
+            "sourceLabel": "Chapter 2, PDF pages 11–13"
           }
-        ],
-        "sourceUrl": "https://vahini.org/downloads/vidyavahini.html"
+        ]
       },
       {
-        "id": "service",
-        "title": "Character in education",
-        "chapter": "Chapter XVIII",
-        "summary": "Teachers should develop students' character and abilities. Students apply learning in service, while beneficial activity helps reduce ego and restless inner talk.",
+        "id": "chapter-03",
+        "title": "Modern Education",
+        "chapter": "Chapter 3",
+        "chapterNumber": 3,
+        "pdfStartPage": 14,
+        "pdfEndPage": 15,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+        "sourceLabel": "Chapter 3, PDF pages 14–15",
+        "summary": "The chapter criticises an educational system that develops expense and complexity while neglecting moral training. It contrasts this with the discipline, humility, and sense-control associated with the earlier gurukula ideal. Teachers are given responsibility for the welfare and formation of their students, not merely for conveying information. The discussion then explains how people experience the same world differently. One person is seen as father, son, husband, or friend according to the observer's relationship. A wiser vision changes the way creation is understood.\n\nThe story of Narayana and Lakshmi exposes the displacement of spiritual value by greed. Narayana appears as a learned teacher and attracts enthusiastic audiences. Lakshmi appears as an ascetic who leaves gold plates and cups with her hosts. When she makes the scholar's departure a condition of her visit, those eager for gold drive him away. The narrative illustrates how apparent reverence for learning can conceal a stronger attachment to wealth. The chapter concludes that education loses its purpose when knowledge is treated chiefly as something to market for financial reward rather than as a means of moral and spiritual growth.",
         "qa": [
           {
-            "q": "How can useful service help the mind?",
-            "a": "It turns attention toward others and away from self-centred chatter."
+            "q": "What major omission does the chapter identify in modern education?",
+            "a": "Moral instruction. Its criticism centres on the neglect of humility, virtue, discipline, and sense-control."
+          },
+          {
+            "q": "Why do different people see the same individual differently?",
+            "a": "Their relationships and responses shape their perception. The father, son, husband, and friend example shows the influence of perspective."
+          },
+          {
+            "q": "What role does Narayana assume in the story?",
+            "a": "A celebrated scholar. His learning and discourses initially attract widespread honour."
+          },
+          {
+            "q": "What does Lakshmi leave with those who host her?",
+            "a": "Gold plates and cups. Her gifts draw people away from their professed admiration for the scholar."
+          },
+          {
+            "q": "Why do the villagers drive the scholar away?",
+            "a": "They want the ascetic's gold gifts. The story exposes greed beneath outward respect for knowledge."
           }
         ],
         "quiz": [
           {
-            "q": "A teacher excels academically but humiliates slower learners. What requires improvement?",
+            "q": "What major omission does the chapter identify in modern education?",
             "options": [
-              "The way ability is joined with character",
-              "The difficulty of the next examination",
-              "The visibility of academic achievements",
-              "The speed of classroom explanations alone"
-            ],
-            "correct": 0,
-            "explanation": "Teaching ability should support learners' growth without making humiliation part of the method.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A student asks why knowledge should benefit society. Which project explores that purpose?",
-            "options": [
-              "Display certificates at a larger event",
-              "Compare qualifications with neighbours",
-              "Choose work only for public visibility",
-              "Use learned skills to address a genuine community need"
-            ],
-            "correct": 3,
-            "explanation": "A real need gives skills a practical purpose beyond displaying personal achievement.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A class designs a service project without consulting recipients. What should come next?",
-            "options": [
-              "Proceed because enthusiasm is sufficient",
-              "Choose the most photogenic activity",
-              "Ask what assistance would actually be useful",
-              "Assume recipients should accept every proposal"
+              "Expensive arrangements",
+              "Complex organisation",
+              "Moral instruction",
+              "Interest in material advancement"
             ],
             "correct": 2,
-            "explanation": "Consultation connects students' effort with the people the project is intended to benefit.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A gifted learner refuses to cooperate with classmates. What educational aim is incomplete?",
-            "options": [
-              "Accumulating more individual prizes",
-              "Using ability with consideration and responsibility",
-              "Selecting a more impressive subject",
-              "Finding a larger platform for performance"
-            ],
-            "correct": 1,
-            "explanation": "Consideration and responsibility show how individual ability can contribute within a wider community.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A teacher wants students to admit uncertainty. What should the teacher model?",
-            "options": [
-              "Honest acknowledgment of limits and mistakes",
-              "An appearance of never being wrong",
-              "Avoidance of difficult questions",
-              "Praise only for immediate certainty"
-            ],
-            "correct": 0,
-            "explanation": "Modelling honest limits makes responsible learning more credible than an impossible appearance of perfection.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "Students volunteer mainly for certificates. What discussion would deepen the project?",
-            "options": [
-              "Which certificate design seems most prestigious",
-              "How to maximise photographs per hour",
-              "Which task produces the quickest recognition",
-              "How their work serves the community's actual needs"
-            ],
-            "correct": 3,
-            "explanation": "Discussing actual needs redirects attention toward the people and purpose behind the activity.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A technically strong project repeatedly misses promises. What needs strengthening?",
-            "options": [
-              "The elegance of its publicity",
-              "The number of specialist terms used",
-              "Reliability and responsibility toward those served",
-              "Its ranking against unrelated projects"
-            ],
-            "correct": 2,
-            "explanation": "Reliability matters because people depend on commitments as well as technical capability.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A teacher gives all responsibility to the strongest student. What approach better develops others?",
-            "options": [
-              "Let other students only watch indefinitely",
-              "Share appropriate tasks with guidance",
-              "Assume ability can never grow",
-              "Assign identical difficult tasks without support"
-            ],
-            "correct": 1,
-            "explanation": "Appropriate guided participation allows more students to develop their skills and responsibility.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A group enjoys discussing community problems but avoids useful tasks. What is a practical shift?",
-            "options": [
-              "Undertake one realistic contribution",
-              "Extend discussion without making any choice",
-              "Wait until the entire problem can be solved",
-              "Measure commitment only by concern expressed"
-            ],
-            "correct": 0,
-            "explanation": "A realistic contribution turns concern into useful activity without requiring a complete solution.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A student corrects a mistake that nobody noticed. What quality is demonstrated?",
-            "options": [
-              "Dependence on public approval",
-              "A need to appear infallible",
-              "Indifference to the work's accuracy",
-              "Integrity beyond external supervision"
-            ],
-            "correct": 3,
-            "explanation": "Correcting an unseen mistake shows responsibility that does not depend on being observed.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A service team has skilled members but poor coordination. What would improve its usefulness?",
-            "options": [
-              "Assume talent makes planning unnecessary",
-              "Increase competition within the group",
-              "Clarify roles and communicate dependably",
-              "Leave every decision to whoever speaks first"
-            ],
-            "correct": 2,
-            "explanation": "Clear roles and dependable communication help individual abilities become an effective collective contribution.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A teacher praises marks while ignoring kindness. What should assessment also recognise?",
-            "options": [
-              "Only the speed of correct answers",
-              "Responsible conduct and contribution to others",
-              "Only the quantity of homework",
-              "Only ambition for future status"
-            ],
-            "correct": 1,
-            "explanation": "Recognition of conduct broadens the educational aim beyond a narrow measure of academic performance.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A student spends hours criticising classmates internally. What activity may redirect attention?",
-            "options": [
-              "A focused useful task supporting the group",
-              "A longer private list of faults",
-              "Finding classmates who share the criticism",
-              "Turning every complaint into a public ranking"
-            ],
-            "correct": 0,
-            "explanation": "A useful task gives attention a constructive direction beyond repeated judgments about others.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A project lead treats recipients as an audience. What perspective should replace that?",
-            "options": [
-              "People exist to validate the project's image",
-              "Recipients should never influence the plan",
-              "Public approval settles whether assistance is useful",
-              "People are participants with needs and agency"
-            ],
-            "correct": 3,
-            "explanation": "Recognising needs and agency keeps the project accountable to those it aims to serve.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A class wants a fair division of service work. What should be considered?",
-            "options": [
-              "Prestige attached to each family",
-              "Who can avoid being noticed",
-              "Capacity, learning opportunities, and shared responsibility",
-              "Who already has the most certificates"
-            ],
-            "correct": 2,
-            "explanation": "Considering capacity and learning supports fairness while preserving a shared responsibility to contribute.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "What educational purpose is emphasised in this topic?",
-            "options": [
-              "Securing status without responsibility",
-              "Developing character and abilities for service",
-              "Collecting qualifications without application",
-              "Avoiding all practical involvement"
-            ],
-            "correct": 1,
-            "explanation": "The topic connects developed abilities and character with contribution to the wider community.",
+            "explanation": "Its criticism centres on the neglect of humility, virtue, discipline, and sense-control.",
             "type": "recall",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
+            "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–15"
           },
           {
-            "q": "Why can beneficial activity quiet unhelpful inner talk?",
+            "q": "Why do different people see the same individual differently?",
             "options": [
-              "Attention becomes engaged in a constructive purpose",
-              "Every task guarantees complete spiritual attainment",
-              "Busyness removes all need for judgment",
-              "Service makes reflection permanently unnecessary"
-            ],
-            "correct": 0,
-            "explanation": "Constructive engagement redirects attention without claiming that activity automatically completes inward development.",
-            "type": "understanding",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
-          },
-          {
-            "q": "A teacher discovers a successful method is excluding some students. What should happen?",
-            "options": [
-              "Protect the method's reputation at any cost",
-              "Assume excluded learners lack worth",
-              "Stop assessing whether anyone understands",
-              "Adapt the method while preserving meaningful learning"
+              "The individual becomes physically different for each observer",
+              "No one can ever recognise another person",
+              "Every observer has identical feelings",
+              "Their relationships and responses shape their perception"
             ],
             "correct": 3,
-            "explanation": "Adaptation places student growth ahead of attachment to a method's existing reputation.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
+            "explanation": "The father, son, husband, and friend example shows the influence of perspective.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–15"
           },
           {
-            "q": "A student finishes a project and wants to judge its value. What evidence matters?",
+            "q": "What role does Narayana assume in the story?",
             "options": [
-              "Only the applause at the final presentation",
-              "Only the number of photographs collected",
-              "The benefit delivered and lessons for improvement",
-              "Only whether the student outperformed friends"
+              "A celebrated scholar",
+              "A village merchant",
+              "A royal guard",
+              "A wandering musician"
             ],
-            "correct": 2,
-            "explanation": "Benefit and learning provide a service-centred evaluation beyond recognition or comparison.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
+            "correct": 0,
+            "explanation": "His learning and discourses initially attract widespread honour.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–15"
           },
           {
-            "q": "A volunteer becomes indispensable by withholding instructions. What would express mature service?",
+            "q": "What does Lakshmi leave with those who host her?",
             "options": [
-              "Preserve dependence to ensure personal importance",
-              "Share knowledge so others can contribute well",
-              "Offer help only when praised",
-              "Treat collaboration as a threat to identity"
+              "Books of grammar",
+              "Gold plates and cups",
+              "A wooden staff",
+              "A bag of grain"
             ],
             "correct": 1,
-            "explanation": "Sharing knowledge strengthens collective capacity instead of making the project dependent on one person.",
-            "type": "application",
-            "sourceUrl": "https://vahini.org/downloads/vidyavahini.html",
-            "sourceLabel": "Vidya Vahini — Chapter XVIII"
+            "explanation": "Her gifts draw people away from their professed admiration for the scholar.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–15"
+          },
+          {
+            "q": "Why do the villagers drive the scholar away?",
+            "options": [
+              "They discover that he cannot speak",
+              "He refuses all discussion",
+              "They want the ascetic's gold gifts",
+              "They have renounced material rewards"
+            ],
+            "correct": 2,
+            "explanation": "The story exposes greed beneath outward respect for knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=14",
+            "sourceLabel": "Chapter 3, PDF pages 14–15"
+          }
+        ]
+      },
+      {
+        "id": "chapter-04",
+        "title": "Removal of Primal Ignorance",
+        "chapter": "Chapter 4",
+        "chapterNumber": 4,
+        "pdfStartPage": 16,
+        "pdfEndPage": 18,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+        "sourceLabel": "Chapter 4, PDF pages 16–18",
+        "summary": "The chapter begins with the ideal of happiness and welfare for all and identifies pride and ego as obstacles to spiritual knowledge. Parvathi's austerities and the burning of Manmatha are interpreted symbolically: outward beauty and power cannot secure the divine while self-importance remains. Spiritual learning reveals itself in humility, tolerance, and discipline. The episode points toward the transformation of ego-consciousness and the fulfilment described as union or liberation.\n\nDetachment is the second major virtue discussed. Real renunciation is inward, particularly the relinquishment of desire, rather than simply disposing of property or leaving home. Emptying water from a pot removes the reflected sky but leaves the actual space, illustrating what remains when false identification is discarded. Desire is traced to ignorance, with anger and greed following in its train. Human life offers the capacity to understand guidance and transform tendencies through effort and education. Sense-control is therefore essential to its fulfilment. The closing sequence connects genuine learning with humility, fitness for responsible work, prosperity, charity, righteous living, and happiness.",
+        "qa": [
+          {
+            "q": "What does the Manmatha episode symbolise in this chapter?",
+            "a": "The need to destroy ego before divine knowledge can shine. The story is interpreted as an inward transformation rather than a triumph of outward charm."
+          },
+          {
+            "q": "What is real renunciation?",
+            "a": "Giving up desire. The chapter places the decisive change within the mind."
+          },
+          {
+            "q": "What does emptying the pot of water illustrate?",
+            "a": "Removing false identification so the Atma remains evident. The reflected image disappears, while the real space remains."
+          },
+          {
+            "q": "What is identified as the basic source behind desire?",
+            "a": "Ignorance. Desire gives rise to further disturbances, so its underlying ignorance must be addressed."
+          },
+          {
+            "q": "What does genuine education first confer in the closing sequence?",
+            "a": "Humility. Humility prepares the learner for worthy work and the right use of prosperity."
           }
         ],
-        "sourceUrl": "https://vahini.org/downloads/vidyavahini.html"
+        "quiz": [
+          {
+            "q": "What does the Manmatha episode symbolise in this chapter?",
+            "options": [
+              "The supremacy of physical beauty",
+              "The need to destroy ego before divine knowledge can shine",
+              "The value of financial power over devotion",
+              "The rejection of all discipline"
+            ],
+            "correct": 1,
+            "explanation": "The story is interpreted as an inward transformation rather than a triumph of outward charm.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–18"
+          },
+          {
+            "q": "What is real renunciation?",
+            "options": [
+              "Merely changing one's residence",
+              "Displaying charitable gifts",
+              "Giving up desire",
+              "Abandoning every responsibility"
+            ],
+            "correct": 2,
+            "explanation": "The chapter places the decisive change within the mind.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–18"
+          },
+          {
+            "q": "What does emptying the pot of water illustrate?",
+            "options": [
+              "Destroying the actual sky",
+              "Acquiring more possessions",
+              "Replacing knowledge with ignorance",
+              "Removing false identification so the Atma remains evident"
+            ],
+            "correct": 3,
+            "explanation": "The reflected image disappears, while the real space remains.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–18"
+          },
+          {
+            "q": "What is identified as the basic source behind desire?",
+            "options": [
+              "Ignorance",
+              "Humility",
+              "Discrimination",
+              "Contentment"
+            ],
+            "correct": 0,
+            "explanation": "Desire gives rise to further disturbances, so its underlying ignorance must be addressed.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–18"
+          },
+          {
+            "q": "What does genuine education first confer in the closing sequence?",
+            "options": [
+              "Pride",
+              "Humility",
+              "Public power",
+              "Sensory indulgence"
+            ],
+            "correct": 1,
+            "explanation": "Humility prepares the learner for worthy work and the right use of prosperity.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=16",
+            "sourceLabel": "Chapter 4, PDF pages 16–18"
+          }
+        ]
+      },
+      {
+        "id": "chapter-05",
+        "title": "Spiritual Discipline",
+        "chapter": "Chapter 5",
+        "chapterNumber": 5,
+        "pdfStartPage": 19,
+        "pdfEndPage": 20,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+        "sourceLabel": "Chapter 5, PDF pages 19–20",
+        "summary": "Spiritual education seeks the reality beneath outward appearances and requires truth to be lived as well as understood. Philosophy is explained as love of knowledge, pursued with commitment despite difficulty. The human being is considered through body, mind, and Atma, and through animal, human, and divine tendencies. Education fulfils its purpose by awakening awareness of the divine nature. Images of a machine, a tree, and a world in miniature explain the body's place within a larger spiritual order.\n\nThe chapter stresses discrimination in judging good and bad, including the way suffering can awaken compassion. Thoughts shape life, while unfulfilled material desires sustain the cycle of birth and death. The desire to know and love God is distinguished from desires that bind. Spiritual learning stabilises good thoughts and reduces attachment instead of expanding it. Death concerns the bodily form rather than the indestructible Atma. The conclusion presents one divine energy as active through all beings, beneath differences of nationality and religion. Knowledge of that common reality is the centre around which other beliefs and forms of learning should be understood.",
+        "qa": [
+          {
+            "q": "How is philosophy defined here?",
+            "a": "Love of knowledge. The chapter connects it with a devoted search for truth."
+          },
+          {
+            "q": "What threefold composition of the human being is described?",
+            "a": "Body, mind, and Atma. Spiritual education awakens recognition of the deepest, divine nature."
+          },
+          {
+            "q": "Which desire is explicitly said not to bind?",
+            "a": "The desire to know and love God. Divine yearning is distinguished from attachment to material objects."
+          },
+          {
+            "q": "What role do thoughts play according to the chapter?",
+            "a": "They help shape one's life. Spiritual learning is intended to establish good thoughts steadily."
+          },
+          {
+            "q": "What remains unaffected by bodily death?",
+            "a": "The Atma. The Atma is described as indestructible rather than subject to bodily extinction."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How is philosophy defined here?",
+            "options": [
+              "Love of knowledge",
+              "Love of argument for its own sake",
+              "Skill in earning titles",
+              "Rejection of all inquiry"
+            ],
+            "correct": 0,
+            "explanation": "The chapter connects it with a devoted search for truth.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 5, PDF pages 19–20"
+          },
+          {
+            "q": "What threefold composition of the human being is described?",
+            "options": [
+              "Wealth, status, and occupation",
+              "Body, mind, and Atma",
+              "Speech, clothing, and reputation",
+              "Birth, travel, and retirement"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual education awakens recognition of the deepest, divine nature.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 5, PDF pages 19–20"
+          },
+          {
+            "q": "Which desire is explicitly said not to bind?",
+            "options": [
+              "The desire for unlimited possessions",
+              "The desire to defeat every rival",
+              "The desire to know and love God",
+              "The desire for constant sensory pleasure"
+            ],
+            "correct": 2,
+            "explanation": "Divine yearning is distinguished from attachment to material objects.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 5, PDF pages 19–20"
+          },
+          {
+            "q": "What role do thoughts play according to the chapter?",
+            "options": [
+              "They have no influence on conduct",
+              "They replace the need for discrimination",
+              "They are always beyond training",
+              "They help shape one's life"
+            ],
+            "correct": 3,
+            "explanation": "Spiritual learning is intended to establish good thoughts steadily.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 5, PDF pages 19–20"
+          },
+          {
+            "q": "What remains unaffected by bodily death?",
+            "options": [
+              "The Atma",
+              "The body's temporary form",
+              "Every unfulfilled material plan",
+              "Physical appearance"
+            ],
+            "correct": 0,
+            "explanation": "The Atma is described as indestructible rather than subject to bodily extinction.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=19",
+            "sourceLabel": "Chapter 5, PDF pages 19–20"
+          }
+        ]
+      },
+      {
+        "id": "chapter-06",
+        "title": "Spiritual Preceptors",
+        "chapter": "Chapter 6",
+        "chapterNumber": 6,
+        "pdfStartPage": 21,
+        "pdfEndPage": 22,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+        "sourceLabel": "Chapter 6, PDF pages 21–22",
+        "summary": "The chapter explains present and future conditions through thoughts, feelings, and actions while recognising the value of help from others. Spiritual progress requires more than sharpened intelligence or impressive discourse. Learning becomes fruitful when the spirit is cultivated and the mind purified. Living contact with a qualified teacher can provide inspiration that reading alone does not supply. A guru should possess realised Atmic truth, and the pupil should be sincerely eager and receptive. A living seed and a prepared field illustrate their complementary qualifications.\n\nAvatars are described as teachers with a distinctive power to awaken spiritual strength. The chapter then examines how the form in which a being conceives God is shaped by its own nature. Different vessels brought to the ocean contain the same water in different shapes and quantities. This image points to the one divine reality beneath differing conceptions. Mere reasoning confined to sense experience cannot fully grasp omnipresence or omnipotence. Spiritual education is therefore identified with inward experience and awareness of truth, rather than eloquence, speculation, or the ability to speak convincingly about what has not been realised.",
+        "qa": [
+          {
+            "q": "Why is intellectual learning alone insufficient?",
+            "a": "It need not transform or cultivate the spirit. The chapter separates intellectual ability from inward spiritual development."
+          },
+          {
+            "q": "What qualification should a guru possess?",
+            "a": "Atmic truth established in the heart. Realisation, rather than appearance or eloquence, grounds the teacher's authority."
+          },
+          {
+            "q": "What does the prepared field represent?",
+            "a": "The receptive pupil. A fruitful spiritual harvest needs both a living seed and a suitable field."
+          },
+          {
+            "q": "What do differently shaped vessels filled from one ocean illustrate?",
+            "a": "Different conceptions containing the same divine reality. Each being receives and imagines according to its capacity and nature."
+          },
+          {
+            "q": "What is spiritual education finally identified with?",
+            "a": "Experience and awareness of truth. The chapter locates its fulfilment in the innermost self."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Why is intellectual learning alone insufficient?",
+            "options": [
+              "It always eliminates the need for guidance",
+              "It guarantees complete wisdom",
+              "It makes every speaker a realised teacher",
+              "It need not transform or cultivate the spirit"
+            ],
+            "correct": 3,
+            "explanation": "The chapter separates intellectual ability from inward spiritual development.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 6, PDF pages 21–22"
+          },
+          {
+            "q": "What qualification should a guru possess?",
+            "options": [
+              "Atmic truth established in the heart",
+              "Mere skill in collecting fees",
+              "Public reputation alone",
+              "Ability to win every argument"
+            ],
+            "correct": 0,
+            "explanation": "Realisation, rather than appearance or eloquence, grounds the teacher's authority.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 6, PDF pages 21–22"
+          },
+          {
+            "q": "What does the prepared field represent?",
+            "options": [
+              "The teacher's wealth",
+              "The receptive pupil",
+              "The audience's size",
+              "A collection of books"
+            ],
+            "correct": 1,
+            "explanation": "A fruitful spiritual harvest needs both a living seed and a suitable field.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 6, PDF pages 21–22"
+          },
+          {
+            "q": "What do differently shaped vessels filled from one ocean illustrate?",
+            "options": [
+              "Separate ultimate realities with no connection",
+              "The superiority of material form over truth",
+              "Different conceptions containing the same divine reality",
+              "The impossibility of any divine awareness"
+            ],
+            "correct": 2,
+            "explanation": "Each being receives and imagines according to its capacity and nature.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 6, PDF pages 21–22"
+          },
+          {
+            "q": "What is spiritual education finally identified with?",
+            "options": [
+              "Pleasing oratory alone",
+              "Repetition without understanding",
+              "Debate about another's attainments",
+              "Experience and awareness of truth"
+            ],
+            "correct": 3,
+            "explanation": "The chapter locates its fulfilment in the innermost self.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=21",
+            "sourceLabel": "Chapter 6, PDF pages 21–22"
+          }
+        ]
+      },
+      {
+        "id": "chapter-07",
+        "title": "Culture of Dharma",
+        "chapter": "Chapter 7",
+        "chapterNumber": 7,
+        "pdfStartPage": 23,
+        "pdfEndPage": 25,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+        "sourceLabel": "Chapter 7, PDF pages 23–25",
+        "summary": "Human development requires knowledge both of the means of living and of the goal of life. Worldly skills meet daily needs; deeper inquiry asks who we are, why we live, and what fulfilment means. Discipline supports this inquiry, gradually leading beyond the senses toward recognition of the one reality within the cosmos. True education also forms beneficial relationships and social conduct. Teachers bear a particular responsibility because their habits and character deeply influence the children entrusted to them.\n\nThe chapter uses Gandhi's response to stories of Sravana and Harischandra to illustrate the formative power of worthy examples. It presents the Vedas as a source of duties and moral guidance. Advice given to departing pupils includes reverence for mother, father, and teacher, speaking truth, and acting righteously. Dharmavyadha, Rama, Harischandra, and Buddha illustrate service, truth, and nonviolence. These principles are to become lived discipline rather than ceremonial words. The mind must be guarded against its inner enemies, especially desire and anger, which bring further disturbances with them. Spiritual learning supplies the practices needed for that training.",
+        "qa": [
+          {
+            "q": "What two kinds of knowledge does human growth require?",
+            "a": "Knowledge of livelihood and knowledge of life's goal. The chapter distinguishes means of living from ultimate purpose."
+          },
+          {
+            "q": "Why is a teacher's character especially important?",
+            "a": "Pupils absorb the teacher's habits and example. Their influence can shape society through generations of students."
+          },
+          {
+            "q": "Which two stories influenced the young Gandhi in the chapter?",
+            "a": "Sravana and Harischandra. They inspired devotion to parents and steadfast truthfulness."
+          },
+          {
+            "q": "What instruction was given to pupils completing their studies?",
+            "a": "Speak truth and act righteously. The advice joins moral conduct with reverence for those who guide life."
+          },
+          {
+            "q": "Which two inner enemies are said to bring the other four in their train?",
+            "a": "Lust and anger. The chapter stresses discipline to prevent these disturbances from taking hold."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What two kinds of knowledge does human growth require?",
+            "options": [
+              "Knowledge of wealth and fame alone",
+              "Knowledge of clothing and entertainment",
+              "Knowledge of livelihood and knowledge of life's goal",
+              "Knowledge of competition and power"
+            ],
+            "correct": 2,
+            "explanation": "The chapter distinguishes means of living from ultimate purpose.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 7, PDF pages 23–25"
+          },
+          {
+            "q": "Why is a teacher's character especially important?",
+            "options": [
+              "Character has no effect on learning",
+              "Only examination results matter",
+              "Teachers influence adults but never children",
+              "Pupils absorb the teacher's habits and example"
+            ],
+            "correct": 3,
+            "explanation": "Their influence can shape society through generations of students.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 7, PDF pages 23–25"
+          },
+          {
+            "q": "Which two stories influenced the young Gandhi in the chapter?",
+            "options": [
+              "Sravana and Harischandra",
+              "Kamsa and Jarasandha",
+              "Durvasa and Ambarisha",
+              "Narayana and Lakshmi"
+            ],
+            "correct": 0,
+            "explanation": "They inspired devotion to parents and steadfast truthfulness.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 7, PDF pages 23–25"
+          },
+          {
+            "q": "What instruction was given to pupils completing their studies?",
+            "options": [
+              "Seek wealth above every other aim",
+              "Speak truth and act righteously",
+              "Disregard parents and teachers",
+              "Avoid every social responsibility"
+            ],
+            "correct": 1,
+            "explanation": "The advice joins moral conduct with reverence for those who guide life.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 7, PDF pages 23–25"
+          },
+          {
+            "q": "Which two inner enemies are said to bring the other four in their train?",
+            "options": [
+              "Humility and patience",
+              "Faith and devotion",
+              "Lust and anger",
+              "Truth and nonviolence"
+            ],
+            "correct": 2,
+            "explanation": "The chapter stresses discipline to prevent these disturbances from taking hold.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=23",
+            "sourceLabel": "Chapter 7, PDF pages 23–25"
+          }
+        ]
+      },
+      {
+        "id": "chapter-08",
+        "title": "Loving Service",
+        "chapter": "Chapter 8",
+        "chapterNumber": 8,
+        "pdfStartPage": 26,
+        "pdfEndPage": 28,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+        "sourceLabel": "Chapter 8, PDF pages 26–28",
+        "summary": "Work performed without desire for profit, from love or duty, is described as yoga. Serving others as kindred Atmas weakens selfishness and deepens awareness of one's spiritual reality. This urge to serve is placed at the heart of education. Wealth, skill, intelligence, and position find their worthy use in promoting human welfare. The chapter insists that service should express inner goodness and must never inflict harm, pain, or grief under a benevolent label.\n\nEvery act can become worship when offered without expectation of a return. Service is compared to love's blossom, with harmlessness as its fragrance. The aspirant should first undergo personal transformation and then help others, extending concern beyond a narrow group or nation to all humanity. Humility allows continued learning from others, and difficulties can strengthen resolve. Unity makes hatred self-defeating, since the divine reality is shared. The closing images describe a heart cultivated with divinity, humility, and generosity, and a symbolic medicine chest containing discrimination, self-control, faith, devotion, and patience. These qualities counter ignorance and direct strength toward constructive service.",
+        "qa": [
+          {
+            "q": "What kind of work is called yoga here?",
+            "a": "Work done from love or duty without desire for profit. Its spiritual value lies in motive and dedication."
+          },
+          {
+            "q": "What is described as the heart of education?",
+            "a": "The ideal and practice of selfless service. Education is fulfilled through love expressed in service."
+          },
+          {
+            "q": "What is the fragrance of the flower of service?",
+            "a": "Harmlessness. The image links genuine service with care that causes no injury."
+          },
+          {
+            "q": "What should precede an attempt to reform others?",
+            "a": "Transforming oneself. The chapter asks learners to apply spiritual understanding inwardly first."
+          },
+          {
+            "q": "Which three symbolic powders are kept in the student's medicine chest?",
+            "a": "Faith, devotion, and patience. Together with discrimination and self-control, they counter the illness of ignorance."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What kind of work is called yoga here?",
+            "options": [
+              "Work done only for applause",
+              "Work done from love or duty without desire for profit",
+              "Work avoiding every responsibility",
+              "Work that increases selfishness"
+            ],
+            "correct": 1,
+            "explanation": "Its spiritual value lies in motive and dedication.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 8, PDF pages 26–28"
+          },
+          {
+            "q": "What is described as the heart of education?",
+            "options": [
+              "Accumulating authority",
+              "Competing for recognition",
+              "The ideal and practice of selfless service",
+              "Memorising slogans alone"
+            ],
+            "correct": 2,
+            "explanation": "Education is fulfilled through love expressed in service.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 8, PDF pages 26–28"
+          },
+          {
+            "q": "What is the fragrance of the flower of service?",
+            "options": [
+              "Pride",
+              "Reward",
+              "Rivalry",
+              "Harmlessness"
+            ],
+            "correct": 3,
+            "explanation": "The image links genuine service with care that causes no injury.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 8, PDF pages 26–28"
+          },
+          {
+            "q": "What should precede an attempt to reform others?",
+            "options": [
+              "Transforming oneself",
+              "Winning an official title",
+              "Securing praise from everyone",
+              "Withdrawing all concern for society"
+            ],
+            "correct": 0,
+            "explanation": "The chapter asks learners to apply spiritual understanding inwardly first.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 8, PDF pages 26–28"
+          },
+          {
+            "q": "Which three symbolic powders are kept in the student's medicine chest?",
+            "options": [
+              "Wealth, beauty, and power",
+              "Faith, devotion, and patience",
+              "Anger, pride, and ambition",
+              "Fame, comfort, and authority"
+            ],
+            "correct": 1,
+            "explanation": "Together with discrimination and self-control, they counter the illness of ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=26",
+            "sourceLabel": "Chapter 8, PDF pages 26–28"
+          }
+        ]
+      },
+      {
+        "id": "chapter-09",
+        "title": "Purity of Thought, Word, Deed",
+        "chapter": "Chapter 9",
+        "chapterNumber": 9,
+        "pdfStartPage": 29,
+        "pdfEndPage": 31,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+        "sourceLabel": "Chapter 9, PDF pages 29–31",
+        "summary": "Faith and purity are presented as conditions for receiving spiritual teaching deeply. A heart prepared through refinement is compared to cultivated ground in which the seed of Atmic wisdom can grow. Listening alone does not complete learning: what is heard must be reflected upon, experienced, and expressed in thought, word, and deed. As harmful desires and anger diminish, confidence in the Atma becomes steadier. Devotion, detachment, and concentration are brought together in the image of a garland's string, needle, and flowers.\n\nThe chapter interprets victory through the conjunction of divine refuge and courageous purity, using Krishna and Arjuna as its example. Worldly success is compared to a shadow that escapes pursuit but follows when a person turns toward the sun. The direction of attention should therefore change from illusion toward the divine. A parrot in a golden cage illustrates the difference between comfort and freedom: despite rich food and royal care, it longs for its forest home. Similarly, luxury does not remove bondage to the senses. Recognition of one's Atmic identity should awaken the longing for genuine spiritual freedom.",
+        "qa": [
+          {
+            "q": "What does the well-ploughed field represent?",
+            "a": "A purified heart ready for spiritual wisdom. The seed of understanding requires suitable inward preparation."
+          },
+          {
+            "q": "What should follow listening to spiritual advice?",
+            "a": "Reflection, experience, and expression in conduct. Learning must become lived truth rather than remain something heard."
+          },
+          {
+            "q": "In the garland comparison, what does the needle represent?",
+            "a": "Non-attachment. Devotion is the string, non-attachment the needle, and steady attention the flowers."
+          },
+          {
+            "q": "What happens when the person turns toward the sun in the shadow example?",
+            "a": "The shadow follows behind. The example advises turning toward God rather than chasing worldly illusion."
+          },
+          {
+            "q": "Why is the royal parrot unhappy?",
+            "a": "It longs for freedom in its native forest. Comfort and admiration do not compensate for captivity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the well-ploughed field represent?",
+            "options": [
+              "A purified heart ready for spiritual wisdom",
+              "A wealthy household",
+              "An audience seeking entertainment",
+              "A mind full of conflicting desires"
+            ],
+            "correct": 0,
+            "explanation": "The seed of understanding requires suitable inward preparation.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 9, PDF pages 29–31"
+          },
+          {
+            "q": "What should follow listening to spiritual advice?",
+            "options": [
+              "Immediate claims of complete knowledge",
+              "Reflection, experience, and expression in conduct",
+              "Repetition without attention",
+              "Criticism of every other listener"
+            ],
+            "correct": 1,
+            "explanation": "Learning must become lived truth rather than remain something heard.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 9, PDF pages 29–31"
+          },
+          {
+            "q": "In the garland comparison, what does the needle represent?",
+            "options": [
+              "Devotion",
+              "Wealth",
+              "Non-attachment",
+              "Public recognition"
+            ],
+            "correct": 2,
+            "explanation": "Devotion is the string, non-attachment the needle, and steady attention the flowers.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 9, PDF pages 29–31"
+          },
+          {
+            "q": "What happens when the person turns toward the sun in the shadow example?",
+            "options": [
+              "The shadow becomes the sun",
+              "The person must chase it faster",
+              "All direction becomes impossible",
+              "The shadow follows behind"
+            ],
+            "correct": 3,
+            "explanation": "The example advises turning toward God rather than chasing worldly illusion.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 9, PDF pages 29–31"
+          },
+          {
+            "q": "Why is the royal parrot unhappy?",
+            "options": [
+              "It longs for freedom in its native forest",
+              "It has no food",
+              "Its cage is not valuable enough",
+              "The queen never cares for it"
+            ],
+            "correct": 0,
+            "explanation": "Comfort and admiration do not compensate for captivity.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=29",
+            "sourceLabel": "Chapter 9, PDF pages 29–31"
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "Need for Spirituality",
+        "chapter": "Chapter 10",
+        "chapterNumber": 10,
+        "pdfStartPage": 32,
+        "pdfEndPage": 34,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+        "sourceLabel": "Chapter 10, PDF pages 32–34",
+        "summary": "The chapter contrasts growing technical achievement with persistent conflict, rivalry, and moral disorder. It asks why abundant scriptures, teachers, and institutions have not by themselves produced peace. Its answer centres on untransformed motives: hatred, envy, greed, and the urge to display superiority can corrupt even those who claim to guide others. The remedy proposed is holiness of mind and heart, especially cultivated among the young, rather than another external system without inner change. Knowledge of Brahman should replace mere accumulation and repeated moral slogans.\n\nThe discussion distinguishes temporary appearance from enduring truth. A clay pot has a particular name and form for a time, yet remains dependent on clay; similarly, bodies and worldly arrangements arise and pass away. Treating them as the final source of fulfilment directs attention away from the Atma. The imagery of distant mountains and a mirage shows how attraction can mislead until examined through discrimination. Lasting happiness is located in spiritual reality rather than passing possessions or experiences. Learning and living Atma-vidya is presented as a means of relieving one's own spiritual thirst and helping others do the same.",
+        "qa": [
+          {
+            "q": "What contradiction opens the chapter?",
+            "a": "Technical progress alongside moral disorder and conflict. External development has not automatically transformed human motives."
+          },
+          {
+            "q": "Where does the chapter locate the needed remedy?",
+            "a": "In a mind and heart filled with holiness. Spiritual purification must accompany social and educational effort."
+          },
+          {
+            "q": "What is called apparent rather than eternal truth?",
+            "a": "What appears only for an interval and then passes away. The chapter uses beginning and ending as tests of permanence."
+          },
+          {
+            "q": "What does the clay-pot example demonstrate?",
+            "a": "A temporary name and form depend on an underlying substance. The pot's form changes while its material basis remains clay."
+          },
+          {
+            "q": "What does the mirage illustrate?",
+            "a": "The failure of deceptive appearances to satisfy genuine thirst. Attractive appearances cannot provide the lasting fulfilment attributed to Atmic knowledge."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What contradiction opens the chapter?",
+            "options": [
+              "A complete absence of learning and institutions",
+              "Universal peace despite no effort",
+              "The disappearance of all material knowledge",
+              "Technical progress alongside moral disorder and conflict"
+            ],
+            "correct": 3,
+            "explanation": "External development has not automatically transformed human motives.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 10, PDF pages 32–34"
+          },
+          {
+            "q": "Where does the chapter locate the needed remedy?",
+            "options": [
+              "In a mind and heart filled with holiness",
+              "In outward rearrangement alone",
+              "In greater rivalry",
+              "In public declarations without practice"
+            ],
+            "correct": 0,
+            "explanation": "Spiritual purification must accompany social and educational effort.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 10, PDF pages 32–34"
+          },
+          {
+            "q": "What is called apparent rather than eternal truth?",
+            "options": [
+              "The unchanging Atma",
+              "What appears only for an interval and then passes away",
+              "The spiritual basis of existence",
+              "The reality beyond birth and decay"
+            ],
+            "correct": 1,
+            "explanation": "The chapter uses beginning and ending as tests of permanence.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 10, PDF pages 32–34"
+          },
+          {
+            "q": "What does the clay-pot example demonstrate?",
+            "options": [
+              "Every form is permanent",
+              "A name alone creates lasting fulfilment",
+              "A temporary name and form depend on an underlying substance",
+              "Matter needs no examination"
+            ],
+            "correct": 2,
+            "explanation": "The pot's form changes while its material basis remains clay.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 10, PDF pages 32–34"
+          },
+          {
+            "q": "What does the mirage illustrate?",
+            "options": [
+              "A source of dependable water",
+              "The uselessness of discrimination",
+              "The certainty of happiness from possessions",
+              "The failure of deceptive appearances to satisfy genuine thirst"
+            ],
+            "correct": 3,
+            "explanation": "Attractive appearances cannot provide the lasting fulfilment attributed to Atmic knowledge.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=32",
+            "sourceLabel": "Chapter 10, PDF pages 32–34"
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "Pathway to Peace",
+        "chapter": "Chapter 11",
+        "chapterNumber": 11,
+        "pdfStartPage": 35,
+        "pdfEndPage": 37,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+        "sourceLabel": "Chapter 11, PDF pages 35–37",
+        "summary": "Winning divine love and grace is presented as the highest aim because it brings wisdom and steady peace. A chosen form can support the beginning of devotion, but the seeker must also cultivate service and good deeds that purify consciousness. Renunciation is not defined as mere withdrawal. The renunciant should move among people, understand their needs, and offer guidance through example and teaching. A fish that cleans water while moving through it illustrates this active responsibility. Devotion and dedication are described as roots that education and public service should nourish.\n\nThe chapter distinguishes three kinds of happiness. Sathwic happiness may begin with difficult discipline but culminates in the nectar of Atmic awareness. Rajasic happiness begins as attractive sensory pleasure and later becomes painful. Thamasic happiness rests in dullness, sleep, and neglect of the spiritual goal. The discussion of absorption describes the ending of divisive thought in awareness of the one reality. Education should guide the learner toward the enduring happiness earned through effort and self-mastery. Material learning has a place, but it should be accompanied by education directed toward immortality and the bliss of the Atma.",
+        "qa": [
+          {
+            "q": "What active duty is assigned to the renunciant?",
+            "a": "Guide and serve people through example and teaching. Renunciation includes responsibility for the spiritual welfare of society."
+          },
+          {
+            "q": "What does the moving fish illustrate?",
+            "a": "Cleansing society through active spiritual service. The fish cleans the water as it moves, like the renunciant's beneficial presence."
+          },
+          {
+            "q": "How does sathwic happiness develop?",
+            "a": "From difficult discipline toward lasting inner bliss. Its beginning may be demanding, but its result is compared to nectar."
+          },
+          {
+            "q": "Which happiness begins pleasantly but later becomes bitter?",
+            "a": "Rajasic happiness. The chapter associates this pattern with sensory pleasure."
+          },
+          {
+            "q": "What should accompany material education?",
+            "a": "Education directed toward immortality and Atmic awareness. Both livelihood and the deeper purpose of life must be addressed."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What active duty is assigned to the renunciant?",
+            "options": [
+              "Avoid all awareness of others' difficulties",
+              "Seek authority for its own sake",
+              "Guide and serve people through example and teaching",
+              "Remain concerned only with personal reputation"
+            ],
+            "correct": 2,
+            "explanation": "Renunciation includes responsibility for the spiritual welfare of society.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 11, PDF pages 35–37"
+          },
+          {
+            "q": "What does the moving fish illustrate?",
+            "options": [
+              "Escaping every obligation",
+              "Remaining permanently inactive",
+              "Seeking pleasure in one place",
+              "Cleansing society through active spiritual service"
+            ],
+            "correct": 3,
+            "explanation": "The fish cleans the water as it moves, like the renunciant's beneficial presence.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 11, PDF pages 35–37"
+          },
+          {
+            "q": "How does sathwic happiness develop?",
+            "options": [
+              "From difficult discipline toward lasting inner bliss",
+              "From pleasure toward bitterness",
+              "From laziness toward deeper ignorance",
+              "From pride toward greater rivalry"
+            ],
+            "correct": 0,
+            "explanation": "Its beginning may be demanding, but its result is compared to nectar.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 11, PDF pages 35–37"
+          },
+          {
+            "q": "Which happiness begins pleasantly but later becomes bitter?",
+            "options": [
+              "Sathwic happiness",
+              "Rajasic happiness",
+              "Atmic bliss",
+              "Undifferentiated awareness"
+            ],
+            "correct": 1,
+            "explanation": "The chapter associates this pattern with sensory pleasure.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 11, PDF pages 35–37"
+          },
+          {
+            "q": "What should accompany material education?",
+            "options": [
+              "Indifference to spiritual questions",
+              "Greater attachment to status",
+              "Education directed toward immortality and Atmic awareness",
+              "The abandonment of all service"
+            ],
+            "correct": 2,
+            "explanation": "Both livelihood and the deeper purpose of life must be addressed.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=35",
+            "sourceLabel": "Chapter 11, PDF pages 35–37"
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "Instruments of Learning",
+        "chapter": "Chapter 12",
+        "chapterNumber": 12,
+        "pdfStartPage": 38,
+        "pdfEndPage": 40,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+        "sourceLabel": "Chapter 12, PDF pages 38–40",
+        "summary": "Vidya is explained as that which gives light, dispelling the darkness of ignorance. Worldly learning provides means of livelihood, while Brahman knowledge reveals the universal Self and freedom from bondage. Other fields of knowledge are compared to rivers finding fulfilment in the ocean of spiritual understanding. Learning and tapas must work together like two wings or two wheels. Tapas is defined through purity and agreement of thought, speech, and action, rather than outward hardship or unusual physical performance.\n\nThe relationship between Krishna and Arjuna illustrates a qualified teacher and receptive pupil. Arjuna relinquishes ego, not his bow or his duty. The guru should awaken the pupil from ignorance rather than exploit surrender for wealth or domination. Mature understanding allows responsible freedom of action. A story about a traveller seeking a river crossing illustrates the inadequacy of guidance without scriptural understanding or practical experience. Both are needed in a complete teacher. The chapter closes with the meeting of Parikshith and Suka, showing the fruitfulness of sincere aspiration joined with authentic guidance. Their relationship benefits not only the learner but the wider world.",
+        "qa": [
+          {
+            "q": "What do the rivers and ocean represent?",
+            "a": "Fields of knowledge finding fulfilment in Brahman knowledge. Spiritual understanding provides the unifying culmination."
+          },
+          {
+            "q": "What is real tapas in this chapter?",
+            "a": "Purity and unity of thought, speech, and action. The definition emphasises inward integrity rather than external display."
+          },
+          {
+            "q": "What does Arjuna give up after Krishna's teaching?",
+            "a": "His ego. The chapter explicitly distinguishes surrender of ego from discarding the Gandiva."
+          },
+          {
+            "q": "What should a guru do rather than exploit a pupil?",
+            "a": "Awaken awareness of the pupil's Atmic reality. The guru is compared to an alarm that wakes one from ignorance."
+          },
+          {
+            "q": "Which two qualifications make a complete spiritual teacher?",
+            "a": "Scriptural understanding and practical experience. The river-crossing story stresses the inadequacy of either knowledge or practice in isolation."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do the rivers and ocean represent?",
+            "options": [
+              "Separate truths that can never meet",
+              "Fields of knowledge finding fulfilment in Brahman knowledge",
+              "Worldly wealth replacing all understanding",
+              "The rejection of every form of learning"
+            ],
+            "correct": 1,
+            "explanation": "Spiritual understanding provides the unifying culmination.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 12, PDF pages 38–40"
+          },
+          {
+            "q": "What is real tapas in this chapter?",
+            "options": [
+              "Physical hardship alone",
+              "Possession of special clothing",
+              "Purity and unity of thought, speech, and action",
+              "Abandoning property without inner change"
+            ],
+            "correct": 2,
+            "explanation": "The definition emphasises inward integrity rather than external display.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 12, PDF pages 38–40"
+          },
+          {
+            "q": "What does Arjuna give up after Krishna's teaching?",
+            "options": [
+              "His bow",
+              "Every duty",
+              "His capacity to act",
+              "His ego"
+            ],
+            "correct": 3,
+            "explanation": "The chapter explicitly distinguishes surrender of ego from discarding the Gandiva.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 12, PDF pages 38–40"
+          },
+          {
+            "q": "What should a guru do rather than exploit a pupil?",
+            "options": [
+              "Awaken awareness of the pupil's Atmic reality",
+              "Accumulate the pupil's wealth",
+              "Enforce dependence indefinitely",
+              "Encourage pride in surrender"
+            ],
+            "correct": 0,
+            "explanation": "The guru is compared to an alarm that wakes one from ignorance.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 12, PDF pages 38–40"
+          },
+          {
+            "q": "Which two qualifications make a complete spiritual teacher?",
+            "options": [
+              "Wealth and reputation",
+              "Scriptural understanding and practical experience",
+              "Physical strength and age",
+              "Eloquence and popularity alone"
+            ],
+            "correct": 1,
+            "explanation": "The river-crossing story stresses the inadequacy of either knowledge or practice in isolation.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=38",
+            "sourceLabel": "Chapter 12, PDF pages 38–40"
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "Unity in Diversity",
+        "chapter": "Chapter 13",
+        "chapterNumber": 13,
+        "pdfStartPage": 41,
+        "pdfEndPage": 42,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+        "sourceLabel": "Chapter 13, PDF pages 41–42",
+        "summary": "Students are urged to recognise themselves as heirs to spiritual fullness rather than condemn themselves as weak or sinful. Material things should serve human purpose, not become masters. Love of the divine should accompany useful work, as a lotus leaf lives in water without being wetted by it. The chapter presents spiritual growth as movement from partial understanding toward fuller truth, tested through experience and the fruits of conduct rather than contention alone.\n\nUnity within multiplicity is its central theme. Every religion can awaken awareness beyond the material and kindle recognition of the divine. Communities have their own contributions while sharing a deeper foundation. The chapter celebrates faith and inherited spiritual ideals as sources of endurance, and calls for strengthening these resources alongside material knowledge. Creeds are compared to branches of a tree: conflict between them damages the whole. Different understandings of God, whether with form or without form, can coexist within recognition of one sustaining reality. The desired result of education is therefore a broad, confident, tolerant vision that joins spiritual conviction with love and service in the world.",
+        "qa": [
+          {
+            "q": "What does the lotus leaf illustrate?",
+            "a": "Living and working in the world without attachment. Its relation to water symbolises engaged yet inwardly detached living."
+          },
+          {
+            "q": "How is spiritual progress described?",
+            "a": "Movement from partial truth toward fuller truth. The chapter emphasises growth in understanding."
+          },
+          {
+            "q": "What is the basic truth of creation identified here?",
+            "a": "Unity in multiplicity. Many forms express a shared spiritual basis."
+          },
+          {
+            "q": "What do competing branches of one tree symbolise?",
+            "a": "Creeds harming the larger religion through rivalry. Injury to the shared tree harms all its branches."
+          },
+          {
+            "q": "Which conceptions of God can find support in the chapter's account?",
+            "a": "Both form-based and formless conceptions. Different conceptions share faith in the source and sustainer of existence."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does the lotus leaf illustrate?",
+            "options": [
+              "Living and working in the world without attachment",
+              "Refusing all contact with society",
+              "Accumulating possessions without limit",
+              "Replacing love with commerce"
+            ],
+            "correct": 0,
+            "explanation": "Its relation to water symbolises engaged yet inwardly detached living.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+            "sourceLabel": "Chapter 13, PDF pages 41–42"
+          },
+          {
+            "q": "How is spiritual progress described?",
+            "options": [
+              "The rejection of every experience",
+              "Movement from partial truth toward fuller truth",
+              "The pursuit of constant controversy",
+              "Movement from humility toward pride"
+            ],
+            "correct": 1,
+            "explanation": "The chapter emphasises growth in understanding.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+            "sourceLabel": "Chapter 13, PDF pages 41–42"
+          },
+          {
+            "q": "What is the basic truth of creation identified here?",
+            "options": [
+              "Complete separation of all beings",
+              "Permanent rivalry among creeds",
+              "Unity in multiplicity",
+              "Material difference as the final reality"
+            ],
+            "correct": 2,
+            "explanation": "Many forms express a shared spiritual basis.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+            "sourceLabel": "Chapter 13, PDF pages 41–42"
+          },
+          {
+            "q": "What do competing branches of one tree symbolise?",
+            "options": [
+              "Independent roots with no common life",
+              "A necessary route to tolerance",
+              "The superiority of conflict over devotion",
+              "Creeds harming the larger religion through rivalry"
+            ],
+            "correct": 3,
+            "explanation": "Injury to the shared tree harms all its branches.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+            "sourceLabel": "Chapter 13, PDF pages 41–42"
+          },
+          {
+            "q": "Which conceptions of God can find support in the chapter's account?",
+            "options": [
+              "Both form-based and formless conceptions",
+              "Only one physical image",
+              "Only descriptions that reject all faith",
+              "Only the customs of one family"
+            ],
+            "correct": 0,
+            "explanation": "Different conceptions share faith in the source and sustainer of existence.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=41",
+            "sourceLabel": "Chapter 13, PDF pages 41–42"
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "Vedas, the Authentic Voice of God",
+        "chapter": "Chapter 14",
+        "chapterNumber": 14,
+        "pdfStartPage": 43,
+        "pdfEndPage": 44,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+        "sourceLabel": "Chapter 14, PDF pages 43–44",
+        "summary": "The chapter urges people not to quarrel over differences in divine names and forms. It sets out the Vedic understanding of reality as fullness, with gross and subtle manifestations rather than an origin in emptiness. The individual is more than the physical body: the Atma has neither beginning nor end. The Vedas are presented as the divine voice emerging through sages, and worship is directed toward inward discovery. Faith in one's spiritual nature is essential; repeated self-condemnation weakens effort, while awareness of the divine within supports strength and completeness.\n\nReligion must become experience through personal striving and practice, not remain memorised doctrine. The distinction between leaving the body and losing life expresses confidence in the enduring Self. The final discussion rejects imitation while encouraging learning from others. A seed takes nourishment from soil, manure, and water without becoming any of them; it grows according to its own nature. In the same way, students should absorb what is good and spiritually useful without surrendering their identity. Genuine education cultivates self-knowledge, openness to beneficial learning, and confidence grounded in the Atma rather than borrowed appearance.",
+        "qa": [
+          {
+            "q": "What should not become a cause of quarrelling?",
+            "a": "Differences in divine names and forms. The chapter asks that spiritual instruction not be reduced to disputes over these differences."
+          },
+          {
+            "q": "How is the Atma described?",
+            "a": "Without beginning, end, death, or decay. The text distinguishes the enduring Self from temporary embodiment."
+          },
+          {
+            "q": "What should education awaken in the learner?",
+            "a": "Faith in the fullness of the spiritual Self. Confidence arises from recognising one's divine basis."
+          },
+          {
+            "q": "What is necessary for religion to become meaningful here?",
+            "a": "Personal experience through effort and practice. Religious teachings must be assimilated rather than merely recited."
+          },
+          {
+            "q": "What lesson is conveyed by a seed nourished by soil and water?",
+            "a": "Learn what is good from others while growing according to one's own nature. The seed assimilates nourishment without losing its identity."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should not become a cause of quarrelling?",
+            "options": [
+              "The need for personal practice",
+              "The value of inner purity",
+              "The importance of learning",
+              "Differences in divine names and forms"
+            ],
+            "correct": 3,
+            "explanation": "The chapter asks that spiritual instruction not be reduced to disputes over these differences.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 14, PDF pages 43–44"
+          },
+          {
+            "q": "How is the Atma described?",
+            "options": [
+              "Without beginning, end, death, or decay",
+              "Identical only with the gross body",
+              "Created by public approval",
+              "Dependent on clothing and status"
+            ],
+            "correct": 0,
+            "explanation": "The text distinguishes the enduring Self from temporary embodiment.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 14, PDF pages 43–44"
+          },
+          {
+            "q": "What should education awaken in the learner?",
+            "options": [
+              "Habitual self-condemnation",
+              "Faith in the fullness of the spiritual Self",
+              "Dependence on imitation",
+              "Pride in external appearance alone"
+            ],
+            "correct": 1,
+            "explanation": "Confidence arises from recognising one's divine basis.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 14, PDF pages 43–44"
+          },
+          {
+            "q": "What is necessary for religion to become meaningful here?",
+            "options": [
+              "Repetition of doctrine alone",
+              "Inherited labels without inquiry",
+              "Personal experience through effort and practice",
+              "Success in every argument"
+            ],
+            "correct": 2,
+            "explanation": "Religious teachings must be assimilated rather than merely recited.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 14, PDF pages 43–44"
+          },
+          {
+            "q": "What lesson is conveyed by a seed nourished by soil and water?",
+            "options": [
+              "Become identical to every influence",
+              "Reject all outside learning",
+              "Value appearance above growth",
+              "Learn what is good from others while growing according to one's own nature"
+            ],
+            "correct": 3,
+            "explanation": "The seed assimilates nourishment without losing its identity.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=43",
+            "sourceLabel": "Chapter 14, PDF pages 43–44"
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "Ego-less Service",
+        "chapter": "Chapter 15",
+        "chapterNumber": 15,
+        "pdfStartPage": 45,
+        "pdfEndPage": 46,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+        "sourceLabel": "Chapter 15, PDF pages 45–46",
+        "summary": "Sharing knowledge and serving others are identified as genuine expressions of education. Service should be free from selfishness and expectation of repayment. Trees offering fruit, rivers giving water, and cows sharing milk illustrate generosity joined with detachment. A scholar's learning loses its value when reserved only for personal advantage or a narrow circle. Knowledge, skill, and insight should contribute to human progress. Since the divine is present in all beings, service cannot properly be restricted to those who are already useful or agreeable to the giver.\n\nThe chapter praises helpfulness even toward those who have caused harm, while also calling for caution and attention to circumstances. It distinguishes this inward attitude from the role of law in addressing wrongdoing. Simplicity and humility are further marks of education. Ostentation and boastfulness conceal weakness rather than establish wisdom. The proverb of an empty leaf-plate blown about by the wind contrasts shallow display with the quiet weight of genuine learning. Students are asked to discover their responsibilities and serve them without self-advertisement. Personal goodness should develop into concern for world peace and prosperity, making service a sustained commitment rather than a slogan.",
+        "qa": [
+          {
+            "q": "What is called the genuine expression of spiritual knowledge?",
+            "a": "Sharing and serving others. Education becomes noble when it benefits others without selfish motive."
+          },
+          {
+            "q": "What do trees, rivers, and cows illustrate?",
+            "a": "Generosity and detachment. Each gives something beneficial without consuming it solely for itself."
+          },
+          {
+            "q": "Why should service extend beyond one's own circle?",
+            "a": "The divine is present in all beings. The chapter rejects narrowing service to those who benefit the giver."
+          },
+          {
+            "q": "What does the empty leaf-plate blown by the wind symbolise?",
+            "a": "Boastfulness without the weight of genuine learning. By contrast, the filled plate stays low, illustrating unassuming worth."
+          },
+          {
+            "q": "What broad ideal should a true student keep before them?",
+            "a": "World peace and prosperity. Individual goodness is to support the welfare of the wider world."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is called the genuine expression of spiritual knowledge?",
+            "options": [
+              "Hoarding insight for personal advantage",
+              "Displaying every attainment",
+              "Sharing and serving others",
+              "Demanding repayment for help"
+            ],
+            "correct": 2,
+            "explanation": "Education becomes noble when it benefits others without selfish motive.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 15, PDF pages 45–46"
+          },
+          {
+            "q": "What do trees, rivers, and cows illustrate?",
+            "options": [
+              "Competition for recognition",
+              "The need to withhold resources",
+              "A preference for praise over service",
+              "Generosity and detachment"
+            ],
+            "correct": 3,
+            "explanation": "Each gives something beneficial without consuming it solely for itself.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 15, PDF pages 45–46"
+          },
+          {
+            "q": "Why should service extend beyond one's own circle?",
+            "options": [
+              "The divine is present in all beings",
+              "Only strangers deserve help",
+              "Family responsibilities are declared meaningless",
+              "Recognition is greater elsewhere"
+            ],
+            "correct": 0,
+            "explanation": "The chapter rejects narrowing service to those who benefit the giver.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 15, PDF pages 45–46"
+          },
+          {
+            "q": "What does the empty leaf-plate blown by the wind symbolise?",
+            "options": [
+              "A person established in humility",
+              "Boastfulness without the weight of genuine learning",
+              "The fulfilment of detachment",
+              "The strength of deep knowledge"
+            ],
+            "correct": 1,
+            "explanation": "By contrast, the filled plate stays low, illustrating unassuming worth.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 15, PDF pages 45–46"
+          },
+          {
+            "q": "What broad ideal should a true student keep before them?",
+            "options": [
+              "Personal fame alone",
+              "Victory over every colleague",
+              "World peace and prosperity",
+              "Increasing outward show"
+            ],
+            "correct": 2,
+            "explanation": "Individual goodness is to support the welfare of the wider world.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=45",
+            "sourceLabel": "Chapter 15, PDF pages 45–46"
+          }
+        ]
+      },
+      {
+        "id": "chapter-16",
+        "title": "Compassion and Cleanliness",
+        "chapter": "Chapter 16",
+        "chapterNumber": 16,
+        "pdfStartPage": 47,
+        "pdfEndPage": 48,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+        "sourceLabel": "Chapter 16, PDF pages 47–48",
+        "summary": "Compassion toward all living beings is presented as indispensable to spiritual knowledge. Love must reach beyond humanity and beyond one's own community. The chapter uses the Gita's examples of varied beings receiving equal consideration to explain a broad spiritual vision. Book learning should be tested and brought into life through service and right action. Students must consider both the goal they choose and the means used to pursue it, ensuring that neither depends on injustice, violence, or narrow personal gain.\n\nCleanliness is then considered externally and internally. Care of the body, clothing, study materials, and surroundings reflects orderly living, while uplifting images can encourage worthy thoughts. Inner cleanliness requires a serene mind and intellect free from hostility and agitation. Before reacting to another person's conduct, the student should inquire sympathetically and discriminate rather than rush to judgment. Copying a group's reaction or adopting someone else's resentment is not independent understanding. The chapter calls for wide, inclusive feelings, fidelity to one's own considered experience, and distance from selfish schemes. Compassion and cleanliness thus meet in a disciplined way of relating to oneself and others.",
+        "qa": [
+          {
+            "q": "How far should compassion extend?",
+            "a": "To all living beings. The chapter explicitly extends love beyond humanity and narrow group boundaries."
+          },
+          {
+            "q": "How should book learning become spiritual knowledge?",
+            "a": "Through tested understanding and practice in life. Knowledge must reveal its value in relationships and action."
+          },
+          {
+            "q": "Which belongs to outer cleanliness in this chapter?",
+            "a": "Caring for clothing, books, and surroundings. Material objects used in daily life are included in the discipline of care."
+          },
+          {
+            "q": "What is inner cleanliness?",
+            "a": "Keeping mind and intellect serene and free from impurity. The emphasis is on thoughts, feelings, and the quality of one's responses."
+          },
+          {
+            "q": "What should precede judgment of another person's actions?",
+            "a": "Sympathetic inquiry and intelligent discrimination. The chapter warns against hasty conclusions and borrowed hostility."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "How far should compassion extend?",
+            "options": [
+              "Only to one's own community",
+              "To all living beings",
+              "Only to human beings",
+              "Only to those who offer praise"
+            ],
+            "correct": 1,
+            "explanation": "The chapter explicitly extends love beyond humanity and narrow group boundaries.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 16, PDF pages 47–48"
+          },
+          {
+            "q": "How should book learning become spiritual knowledge?",
+            "options": [
+              "By increasing memorised pages alone",
+              "By avoiding every social responsibility",
+              "Through tested understanding and practice in life",
+              "By collecting credentials without conduct"
+            ],
+            "correct": 2,
+            "explanation": "Knowledge must reveal its value in relationships and action.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 16, PDF pages 47–48"
+          },
+          {
+            "q": "Which belongs to outer cleanliness in this chapter?",
+            "options": [
+              "Concealing anger from others",
+              "Repeating another person's judgment",
+              "Seeking status",
+              "Caring for clothing, books, and surroundings"
+            ],
+            "correct": 3,
+            "explanation": "Material objects used in daily life are included in the discipline of care.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 16, PDF pages 47–48"
+          },
+          {
+            "q": "What is inner cleanliness?",
+            "options": [
+              "Keeping mind and intellect serene and free from impurity",
+              "Owning expensive materials",
+              "Avoiding every difficult question",
+              "Following every group's reaction"
+            ],
+            "correct": 0,
+            "explanation": "The emphasis is on thoughts, feelings, and the quality of one's responses.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 16, PDF pages 47–48"
+          },
+          {
+            "q": "What should precede judgment of another person's actions?",
+            "options": [
+              "Immediate imitation of others' anger",
+              "Sympathetic inquiry and intelligent discrimination",
+              "A search only for faults",
+              "Concern only for personal advantage"
+            ],
+            "correct": 1,
+            "explanation": "The chapter warns against hasty conclusions and borrowed hostility.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=47",
+            "sourceLabel": "Chapter 16, PDF pages 47–48"
+          }
+        ]
+      },
+      {
+        "id": "chapter-17",
+        "title": "Shun Jealousy and Hatred",
+        "chapter": "Chapter 17",
+        "chapterNumber": 17,
+        "pdfStartPage": 49,
+        "pdfEndPage": 50,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+        "sourceLabel": "Chapter 17, PDF pages 49–50",
+        "summary": "Jealousy and hatred are described as forces that damage character at its roots. A flourishing tree attacked by hidden pests illustrates how outward accomplishment can collapse when these tendencies enter the heart. Resenting another person's learning, reputation, wealth, or beauty can lead to attempts to diminish them. The chapter instead encourages joy in others' virtues and an ambition to improve oneself. Emulation through effort is distinguished from wishing that another should fail.\n\nSelf-praise, exaggeration, concealment of faults, and habitual criticism belong to the same harmful pattern. Personal likes and dislikes can distort judgment, making the same action seem good in a friend and bad in someone disliked. Students are urged to examine their minds in the morning and before sleep, seek divine help, and cultivate good company, words, and deeds. Self-confidence is then presented as essential to progress and sincere trust. Reading about people who lived justly and studying moral guidance can strengthen it. Education should therefore combine honest self-examination with confidence, protecting aspiration from both envy and discouragement.",
+        "qa": [
+          {
+            "q": "What do pests attacking a flourishing tree represent?",
+            "a": "Jealousy and hatred undermining character. Hidden damage at the roots explains the collapse of outward splendour."
+          },
+          {
+            "q": "What response to another's excellence does the chapter encourage?",
+            "a": "Rejoice and strive to improve oneself. Constructive emulation is distinguished from envy."
+          },
+          {
+            "q": "How can personal liking distort judgment?",
+            "a": "The same act may be praised in a friend and condemned in someone disliked. The chapter warns against judgments controlled by attachment and aversion."
+          },
+          {
+            "q": "When is self-examination specifically recommended?",
+            "a": "Early in the day and before sleep. Regular review helps detect faults before they become established habits."
+          },
+          {
+            "q": "Which quality is emphasised in the chapter's closing section?",
+            "a": "Self-confidence. Faith in oneself is presented as a foundation for progress and sincere relationships."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What do pests attacking a flourishing tree represent?",
+            "options": [
+              "Jealousy and hatred undermining character",
+              "Healthy ambition and discipline",
+              "Faith and courage",
+              "The growth of compassion"
+            ],
+            "correct": 0,
+            "explanation": "Hidden damage at the roots explains the collapse of outward splendour.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+            "sourceLabel": "Chapter 17, PDF pages 49–50"
+          },
+          {
+            "q": "What response to another's excellence does the chapter encourage?",
+            "options": [
+              "Wish for the person's downfall",
+              "Rejoice and strive to improve oneself",
+              "Deny every good quality",
+              "Spread damaging rumours"
+            ],
+            "correct": 1,
+            "explanation": "Constructive emulation is distinguished from envy.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+            "sourceLabel": "Chapter 17, PDF pages 49–50"
+          },
+          {
+            "q": "How can personal liking distort judgment?",
+            "options": [
+              "It guarantees impartiality",
+              "It removes every prejudice",
+              "The same act may be praised in a friend and condemned in someone disliked",
+              "It always reveals the full truth"
+            ],
+            "correct": 2,
+            "explanation": "The chapter warns against judgments controlled by attachment and aversion.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+            "sourceLabel": "Chapter 17, PDF pages 49–50"
+          },
+          {
+            "q": "When is self-examination specifically recommended?",
+            "options": [
+              "Only after gaining public office",
+              "Only during an examination",
+              "Only when someone offers praise",
+              "Early in the day and before sleep"
+            ],
+            "correct": 3,
+            "explanation": "Regular review helps detect faults before they become established habits.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+            "sourceLabel": "Chapter 17, PDF pages 49–50"
+          },
+          {
+            "q": "Which quality is emphasised in the chapter's closing section?",
+            "options": [
+              "Self-confidence",
+              "Ostentation",
+              "Rivalry",
+              "Suspicion"
+            ],
+            "correct": 0,
+            "explanation": "Faith in oneself is presented as a foundation for progress and sincere relationships.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=49",
+            "sourceLabel": "Chapter 17, PDF pages 49–50"
+          }
+        ]
+      },
+      {
+        "id": "chapter-18",
+        "title": "Sense Control",
+        "chapter": "Chapter 18",
+        "chapterNumber": 18,
+        "pdfStartPage": 51,
+        "pdfEndPage": 52,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+        "sourceLabel": "Chapter 18, PDF pages 51–52",
+        "summary": "Teachers should guide students toward character, knowledge, and service rather than treating education solely as a route to salary or employment. The chapter identifies mind, speech, and action as the three instruments through which human potential is expressed. The mind can lead toward bondage or freedom according to its direction. A distinction is drawn between purposeful thought that addresses a problem and incessant inner chatter that multiplies confusion, often by dwelling on other people's affairs and faults.\n\nSeveral disciplines are described as preparation for a clearer mind: attentive regulation of breathing, beneficial service, listening to spiritual guidance, reflection, contemplation, repetition of the divine name, and withdrawal from sensory distraction. Their common purpose is to quiet irrelevant mental activity and purify the instrument of understanding. The discussion then turns to speech. Words can discourage and weaken a listener or bring renewed courage and joy, so they must be used responsibly. Silence helps restrain misuse, while constructive and devotional speech supports spiritual strength. The aim is inward clarity expressed through communication that is pure, purposeful, and beneficial.",
+        "qa": [
+          {
+            "q": "Which three instruments are identified?",
+            "a": "Mind, speech, and action. They carry thought into expression and practical activity."
+          },
+          {
+            "q": "How is purposeful thinking distinguished from inner chatter?",
+            "a": "It addresses problems rather than multiplying confusion. The chapter contrasts useful thought with repetitive, distracting inner dialogue."
+          },
+          {
+            "q": "Which activity is recommended to redirect the mind from chatter?",
+            "a": "Beneficial service that reduces ego. Good work engages attention in a constructive and unselfish direction."
+          },
+          {
+            "q": "Why are practices such as listening, reflection, and name-repetition prescribed?",
+            "a": "To cleanse and clarify the mind. They prepare the mind for deeper understanding of reality."
+          },
+          {
+            "q": "How should speech be used?",
+            "a": "Carefully, for pure and productive purposes. The chapter emphasises the strength of words to harm or encourage."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which three instruments are identified?",
+            "options": [
+              "Wealth, status, and strength",
+              "Memory, clothing, and profession",
+              "Study, travel, and leisure",
+              "Mind, speech, and action"
+            ],
+            "correct": 3,
+            "explanation": "They carry thought into expression and practical activity.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 18, PDF pages 51–52"
+          },
+          {
+            "q": "How is purposeful thinking distinguished from inner chatter?",
+            "options": [
+              "It addresses problems rather than multiplying confusion",
+              "It always concerns others' faults",
+              "It never seeks a solution",
+              "It depends on constant gossip"
+            ],
+            "correct": 0,
+            "explanation": "The chapter contrasts useful thought with repetitive, distracting inner dialogue.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 18, PDF pages 51–52"
+          },
+          {
+            "q": "Which activity is recommended to redirect the mind from chatter?",
+            "options": [
+              "Comparison of others' fortunes",
+              "Beneficial service that reduces ego",
+              "Rehearsal of grievances",
+              "Pursuit of admiration"
+            ],
+            "correct": 1,
+            "explanation": "Good work engages attention in a constructive and unselfish direction.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 18, PDF pages 51–52"
+          },
+          {
+            "q": "Why are practices such as listening, reflection, and name-repetition prescribed?",
+            "options": [
+              "To replace every moral responsibility",
+              "To make distraction permanent",
+              "To cleanse and clarify the mind",
+              "To encourage superiority over others"
+            ],
+            "correct": 2,
+            "explanation": "They prepare the mind for deeper understanding of reality.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 18, PDF pages 51–52"
+          },
+          {
+            "q": "How should speech be used?",
+            "options": [
+              "Freely for every rumour",
+              "Chiefly to unsettle others",
+              "Only to display knowledge",
+              "Carefully, for pure and productive purposes"
+            ],
+            "correct": 3,
+            "explanation": "The chapter emphasises the strength of words to harm or encourage.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=51",
+            "sourceLabel": "Chapter 18, PDF pages 51–52"
+          }
+        ]
+      },
+      {
+        "id": "chapter-19",
+        "title": "Love and Brotherhood",
+        "chapter": "Chapter 19",
+        "chapterNumber": 19,
+        "pdfStartPage": 53,
+        "pdfEndPage": 55,
+        "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+        "sourceLabel": "Chapter 19, PDF pages 53–55",
+        "summary": "The closing chapter relates the consequences of life to action and calls for purity across thought, word, and deed. Education should enter the mind clearly, become assimilated, and then appear in conduct. Teachers are described as lifelong students because their responsibility requires continued learning. They should adapt instruction to the learner's level, just as a mother bends to lift a child. Such adjustment is an expression of love rather than a loss of dignity.\n\nTeaching must include concern for whether pupils understand, consistency between instruction and example, and equal affection without favouritism. Teachers should cooperate despite differences, and students should develop the same spirit of fellowship. Expertise in separate subjects does not remove the need for a shared spiritual foundation. The chapter describes divine reality as the basis of humanity and warns against building education only around material gain. Its conclusion offers two closely related aims: knowledge of the one Being underlying all change, and the lived truth of love and brotherhood. These establish the starting point and destination of education, linking individual development with collective welfare.",
+        "qa": [
+          {
+            "q": "What should students do with lessons received through words?",
+            "a": "Assimilate them and express them in action. Learning is fulfilled when it transforms thought, speech, and conduct."
+          },
+          {
+            "q": "Who is called the genuine lifelong student?",
+            "a": "The teacher. Teachers must continue studying to fulfil their responsibility."
+          },
+          {
+            "q": "What does the mother bending to lift her child illustrate?",
+            "a": "Adapting teaching to the pupil's level with love. The teacher's descent to the learner's level is a caring act."
+          },
+          {
+            "q": "How should teachers handle differences among themselves?",
+            "a": "Cooperate without letting rivalry harm learning. Differences need not damage mutual respect or educational work."
+          },
+          {
+            "q": "Which practical truth accompanies knowledge of the one divine Being in the conclusion?",
+            "a": "Love and brotherhood. These are named as essential boundaries and goals of education."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What should students do with lessons received through words?",
+            "options": [
+              "Leave them only as sounds heard",
+              "Repeat them without understanding",
+              "Assimilate them and express them in action",
+              "Use them solely for comparison"
+            ],
+            "correct": 2,
+            "explanation": "Learning is fulfilled when it transforms thought, speech, and conduct.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 19, PDF pages 53–55"
+          },
+          {
+            "q": "Who is called the genuine lifelong student?",
+            "options": [
+              "Only the youngest pupil",
+              "Only a person awaiting employment",
+              "Only an examiner",
+              "The teacher"
+            ],
+            "correct": 3,
+            "explanation": "Teachers must continue studying to fulfil their responsibility.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 19, PDF pages 53–55"
+          },
+          {
+            "q": "What does the mother bending to lift her child illustrate?",
+            "options": [
+              "Adapting teaching to the pupil's level with love",
+              "Losing dignity through helpfulness",
+              "Refusing to understand the learner",
+              "Expecting beginners to know everything already"
+            ],
+            "correct": 0,
+            "explanation": "The teacher's descent to the learner's level is a caring act.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 19, PDF pages 53–55"
+          },
+          {
+            "q": "How should teachers handle differences among themselves?",
+            "options": [
+              "Turn differences into permanent hostility",
+              "Cooperate without letting rivalry harm learning",
+              "Encourage pupils to take sides",
+              "Ignore the institution's welfare"
+            ],
+            "correct": 1,
+            "explanation": "Differences need not damage mutual respect or educational work.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 19, PDF pages 53–55"
+          },
+          {
+            "q": "Which practical truth accompanies knowledge of the one divine Being in the conclusion?",
+            "options": [
+              "Wealth and authority",
+              "Competition and display",
+              "Love and brotherhood",
+              "Fame and ownership"
+            ],
+            "correct": 2,
+            "explanation": "These are named as essential boundaries and goals of education.",
+            "type": "recall",
+            "sourceUrl": "assets/vidya-vahini.pdf#page=53",
+            "sourceLabel": "Chapter 19, PDF pages 53–55"
+          }
+        ]
       }
-    ]
+    ],
+    "organization": "chapters",
+    "studyNote": "Based solely on the supplied Vidya Vahini PDF. The 19 chapter titles and their order follow the supplied edition. Its preface explains that chapter and section titles were added editorially to the original text. Summaries and answers are original study paraphrases. Refer to the linked PDF pages for the full teaching.",
+    "coverage": "All 19 chapters in the supplied edition"
   }
 ];
