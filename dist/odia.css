@@ -1,0 +1,9 @@
+:root{font-family:'Nirmala UI','Kalinga','Noto Sans Oriya',sans-serif}
+h1,h2,h3,h4,.summary-text,.brand strong,.brand-sub,.quiz-result strong{font-family:inherit;letter-spacing:normal}
+.brand strong{letter-spacing:0}.brand-sub,.eyebrow{letter-spacing:0;line-height:1.8}
+h1{line-height:1.55;font-size:clamp(26px,2.7vw,38px)}
+.summary-text{line-height:2;font-size:19px}.description,.option,details p,summary{line-height:1.9}
+.chapter-select{line-height:1.8}.tab{line-height:1.8}.tabs{gap:22px}
+#chapter-list{padding:0 8px 8px}.book-name{line-height:1.8}.book-item{align-items:baseline}
+.language{font-size:15px;white-space:nowrap}.study-note,.source-card p{line-height:1.9}
+@media(max-width:720px){.library{display:none}.summary-text{font-size:18px}.tabs{gap:18px}.tab{font-size:15px}.topic-navigation{gap:18px}.text-button{line-height:1.8;text-align:left}.language{display:block}.masthead{gap:16px}.section-label{align-items:baseline}}
