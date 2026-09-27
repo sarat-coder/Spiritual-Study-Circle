@@ -1,4 +1,5 @@
 :root{font-family:'Nirmala UI','Kalinga','Noto Sans Oriya',sans-serif}
+.odia-book-picker{margin-bottom:20px}.odia-book-picker label{display:block;margin-bottom:10px;font-weight:600;line-height:1.8}
 h1,h2,h3,h4,.summary-text,.brand strong,.brand-sub,.quiz-result strong{font-family:inherit;letter-spacing:normal}
 .brand strong{letter-spacing:0}.brand-sub,.eyebrow{letter-spacing:0;line-height:1.8}
 h1{line-height:1.55;font-size:clamp(26px,2.7vw,38px)}

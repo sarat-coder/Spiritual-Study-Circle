@@ -3,23 +3,32 @@
   const $ = id => document.getElementById(id);
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const num = n => String(n).replace(/\d/g, d => '୦୧୨୩୪୫୬୭୮୯'[d]);
-  const original = window.VAHINI_BOOKS?.find(b => b.id === 'upanishad');
-  const chapters = (original ? window.UPANISHAD_ODIA || [] : []).map((translation, i) => ({...original.topics[i], ...translation,
-    quiz: translation.quiz.map(([q, options, explanation], j) => ({q, options, explanation, correct: original.topics[i].quiz[j].correct}))
-  }));
+  const editions = [
+    {id:'upanishad',title:'ଉପନିଷଦ ବାହିନୀ',translations:window.UPANISHAD_ODIA},
+    {id:'sutra',title:'ସୂତ୍ର ବାହିନୀ',translations:window.SUTRA_ODIA}
+  ].filter(b => b.translations?.length);
+  const books = editions.map(b => {
+    const original = window.VAHINI_BOOKS?.find(x => x.id === b.id);
+    return {...b, sourceUrl:original.sourceUrl, chapters:b.translations.map((t,i) => ({...original.topics[i],...t,
+      quiz:t.quiz.map(([q,options,explanation],j)=>({q,options,explanation,correct:original.topics[i].quiz[j].correct}))
+    }))};
+  });
+  let bookIndex = 0, chapters = books[0]?.chapters || [];
+  const book = () => books[bookIndex];
   const tabs = {summary:'ସାରାଂଶ', questions:'ପ୍ରଶ୍ନୋତ୍ତର', quiz:'ପ୍ରଶ୍ନମାଳା', notes:'ମୋ ସାରାଂଶ'};
   const attempts = new Map(), notes = new Map();
   let index = 0, tab = 'summary';
   const current = () => chapters[index];
-  const noteKey = () => `vahini-note:or:upanishad/${current().id}`;
-  const attempt = () => { if (!attempts.has(index)) attempts.set(index, {answers:[], checked:false}); return attempts.get(index); };
-  const pdfLink = t => `assets/upanishad-vahini.pdf#page=${t.pdfStartPage}`;
+  const noteKey = () => `vahini-note:or:${book().id}/${current().id}`;
+  const attemptKey = () => `${book().id}/${current().id}`;
+  const attempt = () => { if (!attempts.has(attemptKey())) attempts.set(attemptKey(), {answers:[], checked:false}); return attempts.get(attemptKey()); };
+  const pdfLink = t => `${book().sourceUrl}#page=${t.pdfStartPage}`;
   const source = t => `<a href="${pdfLink(t)}" target="_blank" rel="noopener noreferrer">ମୂଳ ପାଠ: PDF ପୃଷ୍ଠା ${num(t.pdfStartPage)}–${num(t.pdfEndPage)} ↗</a>`;
   const focusActivity = () => { $('activity').focus({preventScroll:true}); $('activity').scrollIntoView({block:'start'}); };
   function go(i, nextTab = 'summary') {
     if (!chapters[i] || !Object.hasOwn(tabs, nextTab)) return;
     index = i; tab = nextTab;
-    const hash = `#upanishad/${current().id}/${tab}`;
+    const hash = `#${book().id}/${current().id}/${tab}`;
     history.replaceState(null, '', hash);
     $('english-link').href = `./${hash}`;
     document.querySelector('.collection-source').href = `./${hash}`;
@@ -28,13 +37,19 @@
   }
   function readHash() {
     if (location.hash === '#study') { $('study').focus(); return; }
-    const [book, chapter, activity] = location.hash.slice(1).split('/');
-    const i = book === 'upanishad' ? chapters.findIndex(t => t.id === chapter) : -1;
+    const [bookId, chapter, activity] = location.hash.slice(1).split('/');
+    const bi = books.findIndex(b => b.id === bookId);
+    bookIndex = bi < 0 ? 0 : bi; chapters = book().chapters;
+    const i = chapters.findIndex(t => t.id === chapter);
     go(i < 0 ? 0 : i, Object.hasOwn(tabs, activity) ? activity : 'summary');
   }
   function render() {
     const t = current();
-    document.title = `${t.title} — ଉପନିଷଦ ବାହିନୀ`;
+    document.title = `${t.title} — ${book().title}`;
+    $('odia-book').innerHTML=books.map((b,i)=>`<option value="${i}" ${i===bookIndex?'selected':''}>${esc(b.title)}</option>`).join('');
+    document.querySelector('.book-header h2').textContent=book().title;
+    document.querySelector('.book-header .description').textContent=`ମୂଳ ପୁସ୍ତକର କ୍ରମରେ ${num(chapters.length)}ଟି ଅଧ୍ୟାୟ। ପ୍ରତି ଅଧ୍ୟାୟରେ ସାରାଂଶ, ପାଞ୍ଚଟି ପ୍ରଶ୍ନୋତ୍ତର ଓ ପାଞ୍ଚଟି ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନ ରହିଛି।`;
+    document.querySelector('.book-meta a').href=book().sourceUrl;
     $('chapter-list').innerHTML = chapters.map((c,i) => `<button class="book-item ${i===index?'active':''}" data-chapter="${i}" ${i===index?'aria-current="true"':''}><span class="book-number">${num(i+1)}</span><span class="book-name">${esc(c.title)}</span></button>`).join('');
     $('chapter-select').innerHTML = chapters.map((c,i) => `<option value="${i}" ${i===index?'selected':''}>${num(i+1)} · ${esc(c.title)}</option>`).join('');
     $('topic-position').textContent = `ଅଧ୍ୟାୟ ${num(index+1)} / ${num(chapters.length)}`;
@@ -47,7 +62,7 @@
   function renderActivity() {
     const t = current(), heading = `<h3 class="activity-title">${esc(t.title)}</h3>`;
     if (tab === 'summary') {
-      $('activity').innerHTML = `${heading}<div class="summary-grid"><div>${t.summary.split('\n\n').map(p=>`<p class="summary-text">${esc(p)}</p>`).join('')}<div class="action-row"><button class="primary-button" data-tab="questions">ପ୍ରଶ୍ନୋତ୍ତର ପଢ଼ନ୍ତୁ</button><button class="secondary-button" data-tab="quiz">ପ୍ରଶ୍ନମାଳା ଚେଷ୍ଟା କରନ୍ତୁ</button></div><p class="study-note">ପ୍ରଦତ୍ତ ଉପନିଷଦ ବାହିନୀ ପୁସ୍ତକ ଉପରେ ଆଧାରିତ ଅଧ୍ୟୟନ ସାରାଂଶର ଓଡ଼ିଆ ରୂପାନ୍ତର।</p></div><aside class="source-card"><p class="eyebrow">ମୂଳ ପୁସ୍ତକ ପଢ଼ନ୍ତୁ</p><h4>ଅଧ୍ୟାୟ ${num(index+1)} · ${esc(t.title)}</h4><p>ସମ୍ପୂର୍ଣ୍ଣ ଶିକ୍ଷା ଓ ପ୍ରସଙ୍ଗ ପାଇଁ ପ୍ରଦତ୍ତ ଇଂରାଜୀ ପୁସ୍ତକ ପଢ଼ନ୍ତୁ।</p>${source(t)}</aside></div>`;
+      $('activity').innerHTML = `${heading}<div class="summary-grid"><div>${t.summary.split('\n\n').map(p=>`<p class="summary-text">${esc(p)}</p>`).join('')}<div class="action-row"><button class="primary-button" data-tab="questions">ପ୍ରଶ୍ନୋତ୍ତର ପଢ଼ନ୍ତୁ</button><button class="secondary-button" data-tab="quiz">ପ୍ରଶ୍ନମାଳା ଚେଷ୍ଟା କରନ୍ତୁ</button></div><p class="study-note">ପ୍ରଦତ୍ତ ପୁସ୍ତକ ଉପରେ ଆଧାରିତ ଅଧ୍ୟୟନ ସାରାଂଶର ଓଡ଼ିଆ ରୂପାନ୍ତର।</p></div><aside class="source-card"><p class="eyebrow">ମୂଳ ପୁସ୍ତକ ପଢ଼ନ୍ତୁ</p><h4>ଅଧ୍ୟାୟ ${num(index+1)} · ${esc(t.title)}</h4><p>ସମ୍ପୂର୍ଣ୍ଣ ଶିକ୍ଷା ଓ ପ୍ରସଙ୍ଗ ପାଇଁ ପ୍ରଦତ୍ତ ଇଂରାଜୀ ପୁସ୍ତକ ପଢ଼ନ୍ତୁ।</p>${source(t)}</aside></div>`;
     } else if (tab === 'questions') {
       $('activity').innerHTML = `${heading}<p class="qa-intro">ପ୍ରତି ପ୍ରଶ୍ନ ଉପରେ ଚିନ୍ତନ କରନ୍ତୁ, ତାପରେ ଉତ୍ତର ଖୋଲନ୍ତୁ।</p>${t.quiz.map(q=>`<details><summary>${esc(q.q)}</summary><p>${esc(q.options[q.correct])}। ${esc(q.explanation)}</p></details>`).join('')}<p class="study-note">${source(t)}</p><div class="action-row"><button class="primary-button" data-tab="quiz">ନିଜ ବୁଝାମଣା ପରଖନ୍ତୁ</button><button class="secondary-button" data-tab="notes">ମୋ ସାରାଂଶ ଲେଖିବି</button></div>`;
     } else if (tab === 'quiz') {
@@ -66,9 +81,10 @@
     else if (b.dataset.tab) {go(index,b.dataset.tab);$('tab-'+tab).focus({preventScroll:true});}
     else if (b.id === 'previous-topic') {go(index-1);focusActivity();}
     else if (b.id === 'next-topic') {go(index+1);focusActivity();}
-    else if (b.id === 'retry-quiz') {attempts.delete(index);renderActivity();focusActivity();}
+    else if (b.id === 'retry-quiz') {attempts.delete(attemptKey());renderActivity();focusActivity();}
   });
   $('chapter-select').addEventListener('change', e => {go(Number(e.target.value));$('chapter-select').focus({preventScroll:true});});
+  $('odia-book').addEventListener('change', e => {bookIndex=Number(e.target.value);chapters=book().chapters;go(0);});
   document.addEventListener('change', e => {
     if (!e.target.matches('input[data-question]')) return;
     attempt().answers[Number(e.target.dataset.question)] = Number(e.target.value);

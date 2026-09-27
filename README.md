@@ -38,15 +38,17 @@ Every study entry has five Q&A and five multiple-choice questions. Questions tes
 
 ## Collection coverage
 
-### Odia pilot — Upanishad Vahini
+### Odia collection — Upanishad and Sutra Vahini
 
 [Read Upanishad Vahini in Odia](https://vahini-study-circle.saratsaisanama.chatgpt.site/odia.html#upanishad/chapter-01/summary).
 
 All 12 chapters include Odia summaries, 60 Q&A, and 60 multiple-choice questions with explanations. This is an independent translation of the existing PDF-grounded English study aids, not an official translation of the full book. No outside teaching material was added. Original English PDF links remain available.
 
-Use **ଓଡ଼ିଆ** on the English Upanishad page and **English** on the Odia page to switch while retaining the chapter and study section. Odia notes use a separate browser-local key (`vahini-note:or:upanishad/<chapter-id>`) and do not replace English notes. Quiz attempts last only for the current page visit. Other Vahinis remain in English.
+Sutra Vahini also has all 12 chapters translated, including two-paragraph summaries, 60 Q&A and 60 quiz questions with explanations. [Read Sutra Vahini in Odia](https://vahini-study-circle.saratsaisanama.chatgpt.site/odia.html#sutra/chapter-01/summary). The Odia collection contains 24 chapters; the remaining 13 Vahinis are not yet translated.
 
-The Odia entry point is `dist/odia.html`, with translations in `dist/odia-content.js`, interactions in `dist/odia-app.js`, and typography overrides in `dist/odia.css`. It shares the original content metadata and base stylesheet. Keep translated quiz options in the same order as the English options because answer indices are shared.
+Use the Odia book selector to move between completed translations. Use **ଓଡ଼ିଆ** on either corresponding English page and **English** on the Odia page to switch while retaining the chapter and study section. Odia notes use separate browser-local keys (`vahini-note:or:<book-id>/<chapter-id>`) and do not replace English notes. Quiz attempts are separate per book and chapter and last only for the current page visit.
+
+The Odia entry point is `dist/odia.html`, with Upanishad translations in `dist/odia-content.js`, Sutra translations in `dist/odia-sutra.js`, interactions in `dist/odia-app.js`, and typography overrides in `dist/odia.css`. It shares the original content metadata and base stylesheet. Keep translated quiz options in the same order as the English options because answer indices are shared.
 
 | Vahini | Chapters or sections | Q&A | Quiz questions | URL identifier |
 | --- | ---: | ---: | ---: | --- |

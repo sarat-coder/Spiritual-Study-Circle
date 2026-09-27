@@ -70,8 +70,8 @@
     const art=artwork(b.id);
     $('book-header').classList.toggle('with-art',!!art);
     const originalLinks=chapterMode&&b.pdfUrls?b.pdfUrls.map(p=>`<a href="${sourceLink(p.url)}" target="_blank" rel="noopener noreferrer">${escape(p.label)} PDF ↗</a>`).join(''):`<a href="${sourceLink(b.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read original book ↗</a>${chapterMode?'':(b.pdfUrls || (b.pdfUrl?[{label:'Book',url:b.pdfUrl}]:[])).map(p=>`<a href="${sourceLink(p.url)}" target="_blank" rel="noopener noreferrer">${escape(p.label)} PDF ↗</a>`).join('')}`;
-    const odiaLink=b.id==='upanishad'?`<a href="odia.html#upanishad/${t.id}/${activeTab}" lang="or">ଓଡ଼ିଆରେ ପଢ଼ନ୍ତୁ →</a>`:'';
-    document.querySelector('.language').innerHTML=b.id==='upanishad'?`English · <a href="odia.html#upanishad/${t.id}/${activeTab}" lang="or">ଓଡ଼ିଆ →</a>`:'EN <span>English</span>';
+    const odiaLink=['upanishad','sutra'].includes(b.id)?`<a href="odia.html#${b.id}/${t.id}/${activeTab}" lang="or">ଓଡ଼ିଆରେ ପଢ଼ନ୍ତୁ →</a>`:'';
+    document.querySelector('.language').innerHTML=['upanishad','sutra'].includes(b.id)?`English · <a href="odia.html#${b.id}/${t.id}/${activeTab}" lang="or">ଓଡ଼ିଆ →</a>`:'EN <span>English</span>';
     $('book-header').innerHTML=`<div class="book-copy"><p class="eyebrow">THE VAHINI SERIES · ENGLISH STUDY</p><h2>${escape(b.title)}</h2><p class="description">${escape(b.description)}</p><div class="book-meta"><span>${b.topics.length} ${chapterMode?unit+'s':'study topics'}</span><span class="meta-divider" aria-hidden="true"></span>${originalLinks}${odiaLink}</div></div>${art}`;
     $('topics-heading').textContent=`Study ${unit}s`;
     $('topic-position').textContent=t.part?`Part ${t.part} · Chapter ${t.chapterNumber} · ${topicIndex+1} of ${b.topics.length}`:`${unit[0].toUpperCase()+unit.slice(1)} ${topicIndex+1} of ${b.topics.length}`;
