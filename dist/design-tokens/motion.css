@@ -1,0 +1,20 @@
+:root{
+  --ease-serene:cubic-bezier(.22,.61,.36,1); /* @kind other */
+  --ease-in-out:cubic-bezier(.4,0,.2,1); /* @kind other */
+  --duration-instant:90ms; /* @kind other */
+  --duration-fast:160ms; /* @kind other */
+  --duration-base:240ms; /* @kind other */
+  --duration-slow:400ms; /* @kind other */
+  --duration-ambient:900ms; /* @kind other */
+  --lift-hover:-2px;
+  --press-scale:.985; /* @kind other */
+}
+@media (prefers-reduced-motion:reduce){:root{
+  --duration-instant:0ms; /* @kind other */
+  --duration-fast:0ms; /* @kind other */
+  --duration-base:0ms; /* @kind other */
+  --duration-slow:0ms; /* @kind other */
+  --duration-ambient:0ms; /* @kind other */
+  --lift-hover:0px;
+  --press-scale:1; /* @kind other */
+}}

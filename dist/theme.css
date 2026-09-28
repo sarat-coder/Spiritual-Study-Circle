@@ -1,0 +1,50 @@
+/* Delhi NCR Design System: supplied palette and component styling,
+   adapted to the existing Vahini study interface. */
+@import url('design-tokens/fonts.css');
+@import url('design-tokens/colors.css');
+@import url('design-tokens/typography.css');
+@import url('design-tokens/spacing.css');
+@import url('design-tokens/elevation.css');
+@import url('design-tokens/motion.css');
+
+:root{--ink:var(--text-body);--muted:var(--slate-600);--green:var(--blue-700);--line:var(--border-subtle);--paper:var(--surface-page);--orange:var(--pink-700);--light:var(--white);--tint:var(--surface-calm);--gold:var(--gold-300);font-family:var(--font-sans-body);background:var(--surface-page);color:var(--text-body)}
+h1,h2,h3,h4{font-family:var(--font-serif-display);color:var(--text-heading)}
+a{color:var(--text-link)}a:hover{color:var(--text-link-hover)}
+button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:3px solid var(--border-focus);outline-offset:4px}
+.masthead{border-top:0;border-bottom:2px solid var(--dharma-rule);background:var(--surface-card);padding-top:24px;padding-bottom:24px}
+.brand{color:var(--text-heading)}.brand strong{font-family:var(--font-serif-display);letter-spacing:2px}.brandmark{background:var(--surface-calm);color:var(--blue-700);border:1px solid var(--blue-100);border-radius:var(--radius-md)}
+.brand-sub{color:var(--pink-700)}.dedication{color:var(--slate-600)}.language{color:var(--slate-700)}.language a{color:var(--blue-600)}
+.page-intro{padding-top:44px;padding-bottom:36px}.eyebrow{color:var(--pink-700)}h1{font-size:clamp(30px,3.3vw,48px);line-height:1.22;letter-spacing:var(--tracking-display);max-width:950px}
+.page-intro p:last-child{color:var(--slate-600)}.collection-stat strong{font-family:var(--font-serif-display);color:var(--blue-700)}.collection-stat span{color:var(--slate-600)}
+.library{border-radius:var(--radius-lg);box-shadow:var(--shadow-sm);border-color:var(--border-subtle)}.library-heading h2{color:var(--text-heading)}.library-heading span{color:var(--slate-600)}
+.book-item{border-bottom-color:var(--slate-100);border-radius:var(--radius-md);color:var(--slate-700);margin-bottom:4px}
+.book-item:hover{background:var(--surface-calm)}.book-item.active{background:var(--pink-100);color:var(--pink-700);border-color:transparent;box-shadow:inset 3px 0 var(--pink-500)}
+.book-subtitle{color:var(--slate-600)}.book-item.active .book-subtitle{color:var(--pink-700)}.collection-source{color:var(--blue-600);background:var(--surface-calm)}
+.book-header{background:var(--surface-calm);color:var(--text-body);border:1px solid var(--blue-100);border-top:6px solid var(--dharma-rule);border-radius:var(--radius-lg);box-shadow:var(--shadow-sm);padding:28px 32px}
+.book-header h2{color:var(--blue-700)}.book-header .eyebrow{color:var(--pink-700)}.book-header .description{color:var(--slate-700);line-height:1.8}.book-meta{color:var(--blue-700)}.book-meta a{color:var(--blue-600);font-weight:600}.meta-divider{border-color:var(--blue-300)}
+.book-art>img{border-color:var(--gold-300);border-radius:var(--radius-md)}.book-art figcaption,.image-credit{color:var(--slate-600)}.book-art a{color:var(--blue-600);text-decoration-color:var(--blue-300)}
+.section-label h3{font-family:var(--font-sans-body);color:var(--slate-700)}.section-label span,.chapter-guide{color:var(--slate-600)}
+.chapter-select,#mobile-book{border-color:var(--slate-300);border-radius:var(--radius-md);background:var(--white);color:var(--blue-700);min-height:48px}
+.topic-button{border-radius:var(--radius-pill);border-color:var(--border-subtle)}.topic-button:hover{border-color:var(--blue-300)}.topic-button.active{background:var(--blue-100);border-color:var(--blue-300);color:var(--blue-700)}
+.tabs{background:var(--slate-100);padding:5px;gap:4px;border:1px solid var(--slate-200);border-radius:var(--radius-pill);width:fit-content;max-width:100%;overflow-x:auto}
+.tab{border:0;border-radius:var(--radius-pill);padding:10px 18px;min-height:44px;color:var(--slate-600);font-size:15px}
+.tab:hover{background:var(--blue-50)}.tab[aria-selected=true]{color:var(--slate-800);background:var(--white);box-shadow:var(--shadow-sm);font-weight:600}.tab .tab-count{background:var(--pink-100);color:var(--pink-700);border-radius:var(--radius-pill)}
+.activity-title{color:var(--blue-700);font-size:28px}.summary-text{font-family:var(--font-sans-body);font-size:18px;line-height:1.9;color:var(--slate-800);max-width:var(--measure-prose)}
+.source-card{background:var(--surface-truth);border:1px solid var(--yellow-200);border-top:6px solid var(--dharma-rule);border-radius:var(--radius-lg);box-shadow:var(--shadow-xs)}.source-card .eyebrow{color:var(--gold-600)}.source-card h4{color:var(--text-heading)}.source-card p{color:var(--slate-600)}.source-card a{color:var(--blue-600)}
+.primary-button,.secondary-button{border-radius:var(--radius-pill);min-height:44px;padding:12px 22px;font-weight:500;line-height:1.6;border:1px solid transparent}
+.primary-button{background:var(--action-primary);color:var(--action-primary-text)}.primary-button:hover{background:var(--action-primary-hover);box-shadow:var(--shadow-glow-warm)}
+.secondary-button{background:var(--action-secondary);color:var(--action-secondary-text)}.secondary-button:hover{background:var(--action-secondary-hover);box-shadow:var(--shadow-glow-calm)}
+.text-button{color:var(--blue-600)}.text-button:hover{color:var(--blue-700)}.study-note,.qa-intro,.quiz-intro,.notes-intro,.note-status{color:var(--slate-600)}
+details{border-radius:var(--radius-lg);box-shadow:var(--shadow-xs)}summary{color:var(--slate-800)}details[open] summary{background:var(--surface-calm);border-radius:var(--radius-lg) var(--radius-lg) 0 0}
+.option{border-radius:var(--radius-md);color:var(--slate-800)}.option:hover{background:var(--surface-calm)}.option input{accent-color:var(--blue-600)}.option:has(input:checked){border-color:var(--blue-500);background:var(--blue-50)}
+.option.correct{border-color:var(--signal-success);background:#edf5ef}.option.wrong{border-color:var(--signal-alert);background:#fff3ec}.feedback{color:#315b3e}.feedback.incorrect,.form-error{color:#87442d}.feedback a{color:var(--blue-600)}
+.qnumber,.question-type{color:var(--pink-700)}.quiz-result{background:var(--blue-100);color:var(--blue-700);border:1px solid var(--blue-300);border-top:6px solid var(--dharma-rule);border-radius:var(--radius-lg)}.quiz-result strong{font-family:var(--font-serif-display)}
+.quiz-page{border-radius:var(--radius-pill)}.quiz-page.active{background:var(--pink-100);color:var(--pink-700);border-color:var(--pink-200)}
+#quiz-progress{accent-color:var(--blue-500)}#quiz-progress::-webkit-progress-bar{background:var(--blue-100)}#quiz-progress::-webkit-progress-value{background:var(--blue-500)}.exercise-note{background:var(--surface-truth);border:1px solid var(--yellow-200);border-radius:var(--radius-md)}
+textarea{border-radius:var(--radius-lg);border-color:var(--slate-300);color:var(--text-body);box-shadow:var(--shadow-xs)}textarea::placeholder{color:var(--slate-500)}
+footer{background:var(--surface-inverse);border-top:2px solid var(--dharma-rule);color:var(--white);font-size:13px;line-height:1.9}footer a{color:var(--blue-100)}
+html[lang=or]{--font-sans-body:'Nirmala UI','Kalinga','Noto Sans Oriya',sans-serif;--font-serif-display:var(--font-sans-body)}
+html[lang=or] h1{line-height:1.55;letter-spacing:normal}html[lang=or] .tabs{gap:4px}html[lang=or] .summary-text{font-size:19px;line-height:2}
+@media(max-width:720px){.masthead{padding:18px 20px}.page-intro{padding:28px 20px}.book-header{padding:24px 22px}.tabs{width:100%;border-radius:var(--radius-lg)}.tab{padding:10px 14px;font-size:14px}.summary-text,html[lang=or] .summary-text{font-size:17px}.activity-title{font-size:24px}.source-card{padding:20px}.book-item{margin-bottom:4px}}
+@media(prefers-reduced-motion:no-preference){button,a,summary{transition:background-color var(--duration-fast) var(--ease-serene),box-shadow var(--duration-fast) var(--ease-serene)}}
+@media print{.book-header,.source-card{background:white;box-shadow:none;color:black}.book-header h2,.book-header .description,.book-header .eyebrow,.book-meta,.book-meta a{color:black}}

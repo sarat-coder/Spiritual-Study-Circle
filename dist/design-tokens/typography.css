@@ -1,0 +1,17 @@
+:root{
+  --font-serif-display:"Playfair Display",Georgia,"Times New Roman",serif;
+  --font-sans-body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:ui-monospace,"SF Mono",Menlo,monospace;
+
+  --text-display:clamp(40px,5vw,64px);
+  --text-h1:44px;--text-h2:32px;--text-h3:24px;--text-h4:20px;
+  --text-lead:19px;--text-body-size:17px;--text-small:15px;--text-caption:13px;
+  --text-eyebrow:12px;
+
+  --leading-tight:1.16;--leading-heading:1.25;--leading-body:1.65;--leading-loose:1.8;
+  --tracking-display:-0.02em;--tracking-body:0em;--tracking-eyebrow:0.16em;
+
+  --weight-light:300;--weight-regular:400;--weight-medium:500;--weight-semibold:600;--weight-bold:700;
+
+  --measure-prose:66ch;--measure-quote:48ch;
+}

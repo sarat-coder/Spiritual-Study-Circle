@@ -203,7 +203,11 @@ The public files for any separately authorised static hosting arrangement are th
 
 Use only the Vahini texts and user-supplied books. Bhagavatha, Ramakatha, Upanishad, Sutra, Sathya Sai, Sandeha Nivarini, Prema Vahini, Prasnothara Vahini, Prasanthi Vahini, Leela Kaivalya Vahini, Jnana Vahini, Gita Vahini, Dhyana Vahini, Dharma Vahini, and Vidya Vahini material must be grounded exclusively in their supplied PDFs; do not substitute familiar retellings or outside commentary. No outside commentary, general internet material or other collections from the downloads page should be added. The user separately authorized Sri Sathya Sai Media Centre as an image source. Present paraphrases and quiz explanations as study aids, never as verbatim words of Bhagawan Baba. Preserve source links and state the scope of coverage honestly.
 
-## Image sources
+## Visual theme
+
+Both language editions use the user-supplied Delhi NCR Design System. Its CSS tokens are stored in `dist/design-tokens/`; `dist/theme.css` adapts the pink, sky blue, pastel yellow, and gold palette to the existing study interface, with rounded cards, pill buttons, and visible keyboard focus. English uses Playfair Display and Inter through the supplied Google Fonts stylesheet, with local fallbacks. Odia retains script-appropriate system fonts. The theme does not change study content or personal-note storage.
+
+## Image credits
 
 - Geetha photograph, Baba beside a Sri Krishna idol: [Sri Sathya Sai Media Centre archive](https://archive.sssmediacentre.org/journals/vol_12/01AUG14/The-Mystical-Sport-of-Sai-Krishna.htm).
 - Baba portrait: [Sri Sathya Sai Media Centre](https://www.sssmediacentre.org/), stored as `dist/assets/bhagawan-baba.png` (original supplied asset: `assets/swami-hr.png`).
